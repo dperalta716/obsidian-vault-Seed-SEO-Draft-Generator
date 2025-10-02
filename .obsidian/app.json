@@ -10,5 +10,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "useTab": false,
-  "lineWrap": true
+  "lineWrap": true,
+  "promptDelete": false
 }
