@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generated-Drafts/015-vitamins for brain health/v5-claims-verified.md",
+                "file": "Generated-Drafts/018-Ashwagandha vs. CBD/Ashwagandha vs CBD-v1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v5-claims-verified"
+              "title": "Ashwagandha vs CBD-v1"
             }
           }
         ]
@@ -166,13 +166,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "a17d4e4d34b96c61",
   "lastOpenFiles": [
-    "Generated-Drafts/015-vitamins for brain health/v4-sources-verified.md",
+    "Generated-Drafts/017-l theanine vs ashwagandha/l theanine vs ashwagandha-v1.md",
+    "Generated-Drafts/018-Ashwagandha vs. CBD/Ashwagandha vs CBD-v1.md",
+    "Generated-Drafts/018-Ashwagandha vs. CBD",
+    "Generated-Drafts/017-l theanine vs ashwagandha",
     "Generated-Drafts/015-vitamins for brain health/v5-claims-verified.md",
+    "Generated-Drafts/015-vitamins for brain health/v4-sources-verified.md",
     "Generated-Drafts/016-joint health supplements/v5-claims-verified.md",
     "Generated-Drafts/015-vitamins for brain health/vitamins-and-minerals-for-brain-health-v3-tone-fixed.md",
     "Generated-Drafts/016-joint health supplements/joint health supplements-v4-sources-verified.md",
@@ -182,7 +187,6 @@
     "Generated-Drafts/016-joint health supplements/joint health supplements-v1.md",
     "Generated-Drafts/015-vitamins for brain health/vitamins for brain health-v1.md",
     "Generated-Drafts/016-joint health supplements",
-    "Generated-Drafts/Untitled.md",
     "OG Workflow/Gemini-System-Instructions-Modified.md",
     "Generated-Drafts/013-brain-supplements/v5-claims-verified.md",
     "Generated-Drafts/015-vitamins for brain health",
@@ -200,12 +204,9 @@
     "Generated-Drafts/013-brain-supplements",
     "Generated-Drafts/012-vitamins for brain health/v3-sources-verified.md",
     "Generated-Drafts/012-vitamins for brain health/vitamins for brain health-v1.md",
-    "Generated-Drafts/012-vitamins for brain health/v4-claims-verified.md",
     "Generated-Drafts/012-vitamins for brain health",
     "Claude Code Summaries",
     "Generated-Drafts/011-bone health supplements",
-    "Generated-Drafts/010-hair skin and nails vitamins",
-    "Generated-Drafts/009-Best-multivitamin-for-men/v6-claims-verified.md.tmp.55257.1758061462827",
-    "Generated-Drafts/009-Best-multivitamin-for-men/best-multivitamin-for-men-v3.md.tmp.55257.1758059679909"
+    "Generated-Drafts/010-hair skin and nails vitamins"
   ]
 }
