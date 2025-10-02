@@ -1,0 +1,335 @@
+# CLAUDE.md - Seed SEO Draft Generator
+
+This vault is a specialized environment for generating SEO-optimized articles for Seed Health's NPD (New Product Development) products. 
+
+## Primary Objective
+
+Generate high-quality, SEO-optimized articles (1300+ words) for Seed Health about provided keywords, focusing on NPD ingredients. Articles must be unique, deeply evidence-based (academic sources only), strategically cited to establish authority without excessive citation load, strictly adhere to Seed's specific scientific perspective and compliance guidelines, and match the Seed brand voice.
+
+## Vault Structure
+
+```
+/Reference/NPD-Messaging/       # Product messaging documents  
+/Reference/Claims/              # Clinical evidence and approved claims
+  /PM-02/                       # Sleep + Restore claims
+  /DM-02/                       # Daily Multivitamin claims
+  /AM-02/                       # Focus + Energy claims (if available)
+/Reference/Compliance/          # Compliance rules and forbidden terms
+  NO-NO-WORDS.md               # Words/phrases to avoid
+  What-We-Are-Not-Allowed-To-Say.md  # Compliance rules
+/Reference/Style/              # Tone guide and sample articles
+  Tone-Guide.md                # Brand voice and structure (existing)
+  Seed-Tone-of-Voice-and-Structure.md  # Official tone guide
+  8-Sample-Reference-Blog-Articles.md  # Example articles
+/Generated-Drafts/             # Output folder for completed articles
+/Templates/                    # Article template
+```
+
+## Document Hierarchy & Priority
+
+### Tier 1 - Evidence Authority (HIGHEST PRIORITY)
+- `PM-02-[Ingredient]-Claims.md` (Sleep + Restore product claims)
+- `DM-02-[Ingredient]-Claims.md` (Daily Multivitamin claims)  
+- `AM-02-[Ingredient]-Claims.md` (Focus + Energy claims)
+- These documents contain the ABSOLUTE AUTHORITY for approved health claims, primary academic sources, and dose information
+
+### Tier 2 - Strategy & Voice
+- `/Reference/NPD-Messaging/PM-02 Product Messaging Reference Documents.md` (Sleep positioning)
+- `/Reference/NPD-Messaging/DM-02 Product Messaging Reference Documents.md` (Multivitamin positioning)
+- `/Reference/NPD-Messaging/AM-02 Product Messaging Reference Documents.md` (Focus/Energy positioning)
+- These provide Seed's unique angles, compliance-approved language, and product differentiation
+
+### Supporting Documents
+- `/Reference/Compliance/What-We-Are-Not-Allowed-To-Say.md` (Compliance rules)
+- `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md` (Brand voice and article structure) 
+- `/Reference/Style/Tone-Guide.md` (Additional tone guidance)
+- `/Reference/Style/8-Sample-Reference-Blog-Articles.md` (Examples of tone, structure, citation style)
+- `/Reference/Compliance/NO-NO-WORDS.md` (Words and phrases to avoid)
+
+## Complete Workflow Instructions
+
+When the user provides a keyword, execute ALL of the following steps:
+
+### Step 1: Search & Initial Analysis
+
+1. **Web Search**: Use the WebSearch tool with EXACTLY the keyword provided - nothing more, nothing less
+   - If user provides: "ashwagandha for sleep"
+   - Execute: `WebSearch("ashwagandha for sleep")` 
+   - DO NOT add terms like dosage, benefits, research, 2024, guide, etc.
+   - DO NOT modify or expand the keyword in any way
+   - Search for the top 5-7 ranking articles using ONLY the exact keyword string given
+
+2. **Analyze Competition**: Understand common topics covered, angles taken, and standard advice given
+
+3. **Identify Standard Advice**: Note 2-3 pieces of "standard advice" or common assumptions found in top results 
+   - Example: "Take 5-10mg of melatonin for sleep"
+
+4. **Capture PAA Questions**: Use DataForSEO MCP to fetch real People Also Ask questions from Google
+   - Execute: Use the `mcp_dataforseo_serp_organic_live_advanced` tool
+   - Required parameters:
+     * `keyword`: [exact keyword provided by user]
+     * `search_engine`: "google"
+     * `location_name`: "United States"
+     * `language_code`: "en"
+     * `people_also_ask_click_depth`: 2 (to get expanded PAA questions)
+   - Extract the PAA questions from the response
+   - Store these 3-4 most relevant PAA questions for use in the FAQ section later
+   - These questions reveal what users actually want to know about this topic
+
+### Step 2: Determine User Intent & Core Questions
+
+1. Based on Step 1, determine the primary user search intent(s) behind the keyword
+2. Identify the core questions users are trying to answer when searching for this keyword
+3. What information are they *really* seeking?
+
+### Step 3: Identify Relevant Ingredients & Develop Seed's Unique Narrative
+
+#### Ingredient Discovery & Product Mapping
+
+1. **Analyze Keyword for Ingredients**: 
+   - Identify all specific ingredients mentioned (e.g., "melatonin for sleep" → melatonin)
+   - For broader topics (e.g., "vitamins for skin"), determine which specific vitamins/ingredients would be discussed
+
+2. **Product Messaging Scan**: 
+   - Review ALL three NPD messaging documents (PM-02, DM-02, AM-02)
+   - Identify which products contain the relevant ingredients
+   - **CRITICAL:** Note if ingredients appear in multiple products:
+     * PQQ appears in all three products
+     * CoQ10 appears in AM-02 and DM-02
+     * GABA appears in PM-02 and AM-02
+     * Check for other cross-product ingredients
+
+3. **Develop Seed's Unique Narrative vs. Standard Advice**:
+   - Compare the "standard advice" (from Step 1) against Seed's approach in the messaging documents
+   - Identify Seed's unique scientific perspective or formulation philosophy:
+     * **PM-02 angles**: Bioidentical melatonin dosing, dual-phase release, not overloading the system, calibrating circadian rhythms
+     * **DM-02 angles**: Bioavailable forms, comprehensive coverage, synergistic formulation
+     * **AM-02 angles**: Sustained energy without crash, nootropic benefits, microbiome support
+     * **Cross-product themes**: Microbiome connection, precision dosing, evidence-based formulation
+   
+4. **Create Expert Quote**:
+   - Draft a quote (1-3 sentences) from **"Dirk Gevers, Ph.D."** highlighting this unique perspective or contrasting with standard advice
+   - Focus on the *ingredient story*, not the *product story*
+   - Explain the science and Seed's "why" behind their approach
+
+5. **Infuse Tone Early**: 
+   - For each contrast identified, brainstorm ways to introduce Seed's perspective using a conversational or empathetic hook
+   - Example: "We've all heard X, and it makes sense on the surface, right? But what if there's another way to look at it, especially when we consider Y? That's the kind of question we explore at Seed..."
+
+### Step 4: Claims Document Deep Dive
+
+#### Evidence Collection Protocol
+
+1. **Retrieve ALL Relevant Claims Documents**:
+   - For each identified ingredient, pull claims from ALL products containing it
+   - Example: For PQQ article, retrieve:
+     * `/Reference/Claims/PM-02/PM-02-PQQ-Claims.md`
+     * `/Reference/Claims/AM-02-PQQ-Claims.md` (if exists)
+     * `/Reference/Claims/DM-02/DM-02-PQQ-Claims.md` (if exists)
+
+2. **Extract Key Information**:
+   - **Primary Studies**: Use the EXACT studies linked in claims documents as primary sources
+   - **Approved Claims**: Note all compliance-approved health claims
+   - **Dose Information**: Document the specific doses used in studies vs. product formulation
+   - **Context-Specific Benefits**: 
+     * Sleep context (PM-02): restorative sleep, circadian rhythm
+     * Energy context (AM-02): cognitive function, sustained energy
+     * General health (DM-02): cellular health, nutritional support
+
+3. **Multi-Product Integration Strategy**:
+   When an ingredient appears in multiple products:
+   - Include benefits relevant to ALL contexts
+   - Show how the same ingredient serves different purposes
+   - Example: "While CoQ10 is often associated with energy production, research shows it also plays a crucial role in cellular health and antioxidant protection"
+
+4. **Compliance Check #1**: 
+   - Ensure all claims align with approved language in claims documents
+   - Cross-reference with `/Reference/Compliance/What-We-Are-Not-Allowed-To-Say.md`
+   - Check against `/Reference/Compliance/NO-NO-WORDS.md`
+
+### Step 5: Develop Article Outline
+
+1. **Create H2/H3 Structure**:
+   - Structure MUST follow the Tone Guide recommendations
+   - Required sections: Overview, Intro, Body Sections, The Key Insight, FAQs
+   - Headers should balance SEO relevance with engaging, question-based style
+
+2. **Outline Design Principles**:
+   - Lead with the ingredient story, not product story
+   - Incorporate Seed's unique perspectives and contrast with standard advice
+   - Address multi-faceted benefits when ingredients appear in multiple products
+   - Design outline to answer core user questions (from Step 2)
+   - Incorporate unique narratives (from Step 3)
+
+3. **Integrate Tonal Prompts into Outline**:
+   For at least 2-3 key H2 or H3 sections (especially those explaining complex concepts or addressing sensitive reader concerns), explicitly add a tonal instruction within the outline:
+   - `[Use Analogy Here]`
+   - `[Pose Rhetorical Question to Reader]`
+   - `[Acknowledge Potential Reader Concern/Embarrassment]`
+   - `[Opportunity for Gentle Humor/Relatable Scenario]`
+   - `[Explain this like a knowledgeable friend would]`
+   - `[Transition with a conversational phrase]`
+   - `[Explain Simply]`
+
+### Step 6: Gather Evidence & Identify Key Claims
+
+**IMPORTANT: Limit total academic sources to 12-15 maximum across the entire article**
+
+#### Evidence Hierarchy
+
+1. **Primary Authority (MUST USE)**:
+   - Studies directly cited in our claims documents
+   - These take absolute priority for substantiating claims
+   - Use the exact DOI links provided in claims files
+
+2. **Secondary Research (AS NEEDED)**:
+   - Additional peer-reviewed academic literature
+   - Only add if our claims documents don't fully cover a necessary topic
+   - Must be from last 10 years, preferably meta-analyses or systematic reviews
+
+3. **Citation Strategy**:
+   
+   **Prioritize citing the following Key Claims:**
+   - Specific study results from our claims documents
+   - Quantitative data (percentages, dosages, effect sizes)
+   - Specific mechanisms of action
+   - Direct health claims linking ingredient to benefit
+   - Any Seed-specific positioning (bioidentical dosing, etc.)
+   - Safety/contraindication information
+   - Novel or potentially controversial information
+   
+   **Generally do NOT cite:**
+   - Basic definitions widely understood
+   - Common biological processes
+   - Broad transitional sentences
+   - Simple food/symptom descriptions
+   - Common health/lifestyle advice (unless linking to specific study)
+
+4. **Citation Guidelines**:
+   - Target approximately 1 citation per 75-100 words for key claims
+   - Limit total sources to 12-15 maximum
+   - For every source, obtain: DOI link, first author last name, publication year
+
+5. **Frame Claims with Tone in Mind**:
+   - **For scientific terms**: Plan to introduce with plain language explanation first, then the term
+     * Example: "Think of it like your body's natural sleep timer – that's essentially what we call your circadian rhythm. And research shows... ([Author Year](DOI_URL))."
+   - **For complex mechanisms**: Think about how a "knowledgeable friend" would explain this
+   - **Anticipate reader questions**: If a claim might seem counterintuitive, address that empathetically
+     * Example: "Now, this might sound a bit alarming, but don't worry... here's what the science actually means for you... ([Author Year](DOI_URL))."
+
+6. **Compliance Check #2**: 
+   - Double-check all claims against Compliance Rules and approved language
+
+## Article Generation Instructions
+
+### 1. SEO Metadata
+
+Generate the following metadata:
+- **Primary keyword**: The primary keyword as provided
+- **SEO Title**: Three potential SEO titles (50-60 characters) incorporating the keyword
+- **Slug**: URL slug (lowercase, hyphen-separated) incorporating the keyword, ending with `-guide`
+- **Meta Description** (160 characters max): Compelling description with primary keyword
+- **Article description** (300 characters max): Longer description for social sharing
+- **Written by**: [LEAVE BLANK]
+- **Expert Reviewer**: [LEAVE BLANK]
+
+### 2. SEO-Optimized Article (Minimum 1300 words)
+
+#### Tone/Voice Integration
+
+Before writing, and continuously throughout the writing process, actively embody the persona of a **'knowledgeable and empathetic friend'** as described in the Tone Guide:
+
+- **Refer back** to `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md` and `/Reference/Style/8-Sample-Reference-Blog-Articles.md` frequently
+- **Use techniques**: Direct address ("you," "your"), contractions, occasional rhetorical questions, gentle self-deprecation where appropriate
+- **Prioritize accessibility**: Explain scientific concepts using analogies, metaphors, and plain language before or alongside technical terms
+- **Inject personality**: Look for natural opportunities for light, appropriate humor or relatable scenarios
+- **Tonal Scaffolding**: For complex sections, first draft 2-3 sentences of pure conversational explanation without citations, then weave in the necessary key claims and citations
+
+#### Article Structure
+
+1. **### Overview** section (3-5 bullet points summarizing key takeaways)
+
+2. **Engaging Introduction**: 
+   - Immediately answer the primary user question in the first 1-2 paragraphs
+   - Provide a compelling reason to continue reading
+   - Emulate the style of Sample Articles introductions
+
+3. **Body Sections**: 
+   - Develop using the H2s/H3s from the internal Outline (Step 5)
+   - Include the Dirk Gevers, Ph.D. quote naturally where appropriate
+   - Frame content around the ingredient narrative, not product pitch
+   - When ingredients appear in multiple products, address all relevant benefits
+
+4. **## The Key Insight** section: 
+   - Summarize main points near the end (in paragraph form)
+
+5. **## Frequently Asked Questions** section: 
+   - Answer 3-4 relevant questions concisely
+   - Use the PAA questions captured in Step 1 from DataForSEO
+   - These should be the actual questions users are asking on Google
+
+#### Evidence Integration & Citations
+
+- Use evidence-backed key claims from Step 6 appropriately throughout
+- Format citations as `([Author Year](DOI_URL))` - NO COMMA between Author and Year
+- The entire `(Author Year)` text block must be hyperlinked to the DOI URL
+- Multiple citations: `([Author1 Year1](DOI_URL1), [Author2 Year2](DOI_URL2))`
+- Only use peer-reviewed academic sources - no blogs, news articles, or general health websites
+- Allow for conversational, explanatory prose around cited key claims
+
+#### Product Links
+
+All mentions of NPD products MUST include registered trademark symbols and be hyperlinked:
+- `[PM-02® Sleep + Restore]([PM-02 LINK])`
+- `[AM-02® Energy + Focus]([AM-02 LINK])`
+- `[DM-02® Daily Multivitamin]([DM-02 LINK])`
+
+#### SEO & Compliance
+
+- Naturally weave in the primary keyword, secondary keywords, and semantically related terms
+- Optimize key sentences for potential featured snippets
+- Strictly adhere to Compliance Rules
+- Never use "supplement" for probiotics
+- Double-check claims against approved language
+- Ensure the final article meets the 1300+ word requirement
+- Use short paragraphs, bullet points, and bolding for readability
+
+### 3. Numbered Citation List
+
+Create a numbered list titled "## Citations":
+- List all academic sources actually cited in the article in APA format
+- Order alphabetically by author last name
+- Ensure each entry includes the working doi.org link
+- Note: In-text citations use hyperlinked (Author Year) format, but this final list remains a standard numbered APA list
+
+### 4. Suggested Internal Links
+
+- Perform web search using `site:seed.com/cultured/` for relevant concepts
+- Identify 5-15 relevant existing articles
+- Prioritize URLs ending in `-guide` and established high-value pages
+- For each suggested link, provide:
+  * **Sentence**: Full sentence from the generated article where the link should be placed, with anchor text hyperlinked
+  * **Recommended URL**: Just the slug (the part after `/cultured/`)
+
+## File Saving
+
+Save completed articles to: `/Generated-Drafts/[keyword-slug]-article.md`
+
+## Usage Example
+
+User: "melatonin for sleep"
+Assistant: [Automatically executes complete 6-step workflow and generates full article with all required sections]
+
+## Critical Reminders
+
+- This is a specialized vault - only use for SEO article generation
+- ALWAYS check claims documents for Primary Authority sources first
+- MUST use 12-15 academic sources (not 5, not 20)
+- Maintain Seed's unique bioidentical/precision dosing perspective
+- Always contrast with "standard advice" from competing articles
+- Focus on ingredient story, not product pitch
+- Check ALL product lines for cross-product ingredients
+- Never use terms from NO-NO WORDS list
+- Target ~1 citation per 75-100 words for key claims only
+- Must have DataForSEO MCP configured to fetch real PAA questions
+- PAA questions from DataForSEO inform both content strategy and FAQ section

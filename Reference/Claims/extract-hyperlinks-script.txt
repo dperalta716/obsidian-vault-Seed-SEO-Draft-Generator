@@ -1,0 +1,203 @@
+/**
+ * Google Apps Script to extract all hyperlinks from DM-02 Claims Substantiation spreadsheet
+ * 
+ * Instructions:
+ * 1. Open your Google Sheet
+ * 2. Go to Extensions > Apps Script
+ * 3. Delete any existing code and paste this entire script
+ * 4. Click Save (💾)
+ * 5. Click Run (▶️) and select "extractAllHyperlinks" function
+ * 6. Grant permissions when prompted
+ * 7. Check your spreadsheet for a new sheet called "Extracted Links"
+ */
+
+function extractAllHyperlinks() {
+  const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  const sheets = spreadsheet.getSheets();
+  
+  // Create or clear the output sheet
+  let outputSheet = spreadsheet.getSheetByName("Extracted Links");
+  if (!outputSheet) {
+    outputSheet = spreadsheet.insertSheet("Extracted Links");
+  } else {
+    outputSheet.clear();
+  }
+  
+  // Set headers
+  outputSheet.getRange(1, 1, 1, 5).setValues([["Tab Name", "Row", "Study/Reference", "Claim Text", "Link URL"]]);
+  outputSheet.getRange(1, 1, 1, 5).setFontWeight("bold");
+  
+  let outputRow = 2;
+  const results = [];
+  
+  // Skip sheets we don't need
+  const skipSheets = ["Key BenefitClaims", "Copy of Key BenefitClaims", "Claims", "Extracted Links"];
+  
+  sheets.forEach(sheet => {
+    const sheetName = sheet.getName();
+    
+    // Skip unwanted sheets
+    if (skipSheets.includes(sheetName)) return;
+    
+    // Get the data range (columns A through H)
+    const range = sheet.getRange("A1:H50"); // Adjust if you have more rows
+    const values = range.getValues();
+    const formulas = range.getFormulas();
+    const richValues = range.getRichTextValues();
+    
+    // Look for hyperlinks in column B (index 1)
+    for (let row = 0; row < values.length; row++) {
+      const studyName = values[row][1]; // Column B - Study/Reference name
+      const claimText = values[row][0]; // Column A - Claim text
+      
+      if (!studyName || studyName === "Study" || studyName === "Reference") continue;
+      
+      let linkUrl = null;
+      
+      // Method 1: Check for HYPERLINK formula
+      if (formulas[row][1] && formulas[row][1].includes('HYPERLINK')) {
+        const match = formulas[row][1].match(/HYPERLINK\s*\(\s*"([^"]+)"/);
+        if (match) {
+          linkUrl = match[1];
+        }
+      }
+      
+      // Method 2: Check for rich text link
+      if (!linkUrl && richValues[row][1]) {
+        const richText = richValues[row][1];
+        const runs = richText.getRuns();
+        for (let run of runs) {
+          const url = run.getLinkUrl();
+          if (url) {
+            linkUrl = url;
+            break;
+          }
+        }
+      }
+      
+      // Method 3: Check if the cell itself has a URL
+      if (!linkUrl && values[row][1] && values[row][1].toString().startsWith('http')) {
+        linkUrl = values[row][1];
+      }
+      
+      // If we found a link, add it to results
+      if (linkUrl) {
+        results.push([
+          sheetName,
+          row + 1,
+          studyName,
+          claimText ? claimText.substring(0, 100) + "..." : "",
+          linkUrl
+        ]);
+      } else if (studyName && !studyName.toString().startsWith('See ')) {
+        // Record entries that should have links but don't
+        results.push([
+          sheetName,
+          row + 1,
+          studyName,
+          claimText ? claimText.substring(0, 100) + "..." : "",
+          "[NO LINK FOUND]"
+        ]);
+      }
+    }
+  });
+  
+  // Write all results to the output sheet
+  if (results.length > 0) {
+    outputSheet.getRange(2, 1, results.length, 5).setValues(results);
+    
+    // Format the output
+    outputSheet.autoResizeColumns(1, 5);
+    outputSheet.setFrozenRows(1);
+    
+    // Add alternating row colors
+    const range = outputSheet.getRange(2, 1, results.length, 5);
+    range.applyRowBanding(SpreadsheetApp.BandingTheme.LIGHT_GREY);
+    
+    // Create a summary at the top
+    outputSheet.insertRowBefore(1);
+    outputSheet.getRange(1, 1).setValue(`Link Extraction Summary - Found ${results.filter(r => r[4] !== "[NO LINK FOUND]").length} links across ${new Set(results.map(r => r[0])).size} sheets`);
+    outputSheet.getRange(1, 1).setFontWeight("bold").setBackground("#f0f0f0");
+    
+    SpreadsheetApp.getUi().alert(`✅ Success! Extracted ${results.length} entries. Check the "Extracted Links" sheet.`);
+  } else {
+    SpreadsheetApp.getUi().alert('No hyperlinks found in the spreadsheet.');
+  }
+}
+
+/**
+ * Alternative function that creates a structured output for easy copying
+ */
+function extractLinksForClaude() {
+  const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  const sheets = spreadsheet.getSheets();
+  
+  // Create or clear the output sheet
+  let outputSheet = spreadsheet.getSheetByName("Links for Claude");
+  if (!outputSheet) {
+    outputSheet = spreadsheet.insertSheet("Links for Claude");
+  } else {
+    outputSheet.clear();
+  }
+  
+  outputSheet.getRange(1, 1).setValue("Copy everything below this line:");
+  outputSheet.getRange(1, 1).setFontWeight("bold").setBackground("#ffff00");
+  
+  let outputRow = 3;
+  let outputText = "=== DM-02 HYPERLINKS ===\n\n";
+  
+  const skipSheets = ["Key BenefitClaims", "Copy of Key BenefitClaims", "Claims", "Extracted Links", "Links for Claude"];
+  
+  sheets.forEach(sheet => {
+    const sheetName = sheet.getName();
+    if (skipSheets.includes(sheetName)) return;
+    
+    const range = sheet.getRange("A1:H50");
+    const values = range.getValues();
+    const formulas = range.getFormulas();
+    const richValues = range.getRichTextValues();
+    
+    let sheetLinks = [];
+    
+    for (let row = 1; row < values.length; row++) { // Start from row 2 (index 1)
+      const studyName = values[row][1];
+      if (!studyName || studyName.toString().startsWith('See ')) continue;
+      
+      let linkUrl = null;
+      
+      // Check for links (same methods as above)
+      if (formulas[row][1] && formulas[row][1].includes('HYPERLINK')) {
+        const match = formulas[row][1].match(/HYPERLINK\s*\(\s*"([^"]+)"/);
+        if (match) linkUrl = match[1];
+      }
+      
+      if (!linkUrl && richValues[row][1]) {
+        const richText = richValues[row][1];
+        const runs = richText.getRuns();
+        for (let run of runs) {
+          const url = run.getLinkUrl();
+          if (url) {
+            linkUrl = url;
+            break;
+          }
+        }
+      }
+      
+      if (linkUrl) {
+        sheetLinks.push(`Study ${sheetLinks.length + 1}: ${studyName}\nLink: ${linkUrl}`);
+      }
+    }
+    
+    if (sheetLinks.length > 0) {
+      outputText += `[${sheetName}]\n`;
+      outputText += sheetLinks.join("\n\n") + "\n\n---\n\n";
+    }
+  });
+  
+  // Write the formatted text to the sheet
+  outputSheet.getRange(3, 1).setValue(outputText);
+  outputSheet.getRange(3, 1).setWrap(true);
+  outputSheet.setColumnWidth(1, 800);
+  
+  SpreadsheetApp.getUi().alert('✅ Formatted links ready! Check the "Links for Claude" sheet and copy the contents.');
+}

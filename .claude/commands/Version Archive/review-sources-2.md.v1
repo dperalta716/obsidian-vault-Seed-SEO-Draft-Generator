@@ -1,0 +1,192 @@
+# review-sources
+
+Verify and fix all citation links in generated SEO articles by checking DOI validity and correcting broken/incorrect links.
+
+## Usage
+
+- `/review-sources` - Reviews sources in the most recent draft in /Generated-Drafts/
+- `/review-sources filename.md` - Reviews sources in a specific file
+- `/review-sources melatonin` - Reviews sources in draft containing keyword in filename
+
+## What This Command Does
+
+This command automatically:
+1. Extracts ALL citations from your draft (no matter how many)
+2. Systematically checks each DOI link to verify it works and is correct
+3. Detects both non-existent DOIs and wrong-paper DOIs
+4. Searches for and finds the correct studies
+5. Updates EVERY instance throughout the article (both Citations section and inline references)
+6. Shows you exactly what was changed
+
+## Implementation
+
+When this command runs:
+
+1. **First, identify which file to review:**
+   - If no argument provided: Find the most recent versioned file across all subdirectories in `/Generated-Drafts/`
+   - If argument looks like a filename: Use that specific file (search in subdirectories)
+   - If argument is a keyword: Find the keyword folder in `/Generated-Drafts/[keyword]/` and use the latest version
+
+2. **Count and extract all citations:**
+   - Parse the "## Citations" section to count total citations
+   - Process ALL citations found (could be 5, 10, 20, or any number)
+   - Extract from each: Author name, Year, Title, Current DOI/URL
+   - Also find all inline citations in the format `([Author Year](URL))`
+
+3. **Systematically verify each citation IN ORDER:**
+
+   Go through citations sequentially (1, 2, 3, etc.) - don't skip around:
+   
+   a. **First check for DOI NOT FOUND errors:**
+      ```
+      WebFetch the DOI URL with prompt:
+      "Check if this page shows 'DOI NOT FOUND' or 'This DOI cannot be found in the DOI System'. 
+      If yes, return: ERROR: DOI not found
+      If no, extract: TITLE: [exact title], FIRST_AUTHOR: [first author last name]"
+      ```
+   
+   b. **Identify the type of error:**
+      - If page shows "DOI NOT FOUND" → Mark as NON-EXISTENT
+      - If DOI works but title/author don't match → Mark as WRONG PAPER
+      - If both title AND author match → Mark as VALID
+
+   c. **Important matching rules:**
+      - Check ONLY title and author (don't assume topic)
+      - For title: Match the part before any colon
+      - For author: Match last name (allow Smith vs Smith, J.)
+      - Work for ANY topic (not just ashwagandha/sleep)
+
+4. **Fix all incorrect citations:**
+
+   For each invalid citation:
+   
+   a. **Search for the correct study:**
+      ```
+      WebSearch for: "[Full citation title]" [Author last name] [Year] DOI
+      ```
+   
+   b. **Verify the correct study:**
+      - Use WebFetch on promising results
+      - Confirm exact title match (before colon)
+      - Verify author and year match
+      - Extract the correct DOI link
+   
+   c. **If no DOI found but correct study page found:**
+      - Use the journal/publisher URL as fallback
+      - Format: `([Author Year](https://journal-url.com/article))`
+
+5. **Create the verified copy and update ALL instances:**
+
+   a. **FIRST, create a copy to preserve the original:**
+      - Determine the next version number (if reviewing v2, save as v3)
+      - Copy the original file to `v3-sources-verified.md` in the same keyword subfolder
+      - ALL edits will be made to this COPY, not the original
+   
+   b. **For EACH incorrect DOI that needs fixing (in the COPY):**
+      - Update Citations section: Replace the old DOI with the new DOI in the numbered citation
+      - Keep all other formatting identical
+   
+   c. **Search and replace ALL inline references (in the COPY):**
+      - Search the ENTIRE article for `([Author Year](old-url))`
+      - Replace EVERY instance with `([Author Year](new-url))`
+      - Count how many replacements were made
+      - Maintain exact formatting (no comma between Author Year)
+
+6. **Generate detailed report:**
+
+   ```
+   🔍 Source Verification Complete: [filename]
+   
+   📚 Reviewed X citations (dynamically counted)
+   ✅ Valid: Y
+   ✗ Fixed: Z
+   
+   ## Changes Made:
+   
+   1. [Author Year]
+      ❌ Old: [old DOI] (DOI not found / wrong article)
+      ✅ New: [new DOI]
+      → Updated X inline references and citation list
+   
+   [Continue for all fixed citations...]
+   
+   💾 Original file preserved
+   📝 Updated file saved as: v[X]-sources-verified.md in [keyword] folder
+   ```
+
+## Critical Detection: DOI NOT FOUND Pages
+
+When a DOI is completely incorrect, it leads to a specific error page that shows:
+- Header: "DOI NOT FOUND"
+- Message: "This DOI cannot be found in the DOI System"
+- Note: The specific DOI number shown will be different for each broken link
+
+This is DIFFERENT from a DOI that works but leads to the wrong paper. Both types must be fixed.
+
+## Matching Logic Details
+
+### Title Matching
+- Extract title from citation and from fetched page
+- If title contains colon, only match the part BEFORE the colon
+- Ignore case differences
+- Ignore minor punctuation differences at the end
+- Works for ANY topic (not topic-specific)
+
+### Author Matching  
+- Allow these variations:
+  - "Smith" matches "Smith, J." or "Smith, John"
+  - "García-López" matches "Garcia-Lopez" (accent variations)
+  - First name initials vs full names
+- Must match last name exactly (case-insensitive)
+
+### Year Matching
+- Must match exactly
+- If page shows publication year and online year, use publication year
+
+## Search Strategy for Broken Links
+
+1. **Primary search**: `"[Full title in quotes]" [Author] [Year] DOI`
+2. **If no results**: `[Title first 10 words] [Author] [Year]`
+3. **Check these domains first** (most reliable):
+   - doi.org
+   - pubmed.ncbi.nlm.nih.gov
+   - sciencedirect.com
+   - nature.com
+   - springer.com
+   - wiley.com
+   - academic.oup.com
+   - journals.plos.org
+   - mdpi.com
+   - frontiersin.org
+   - cureus.com
+
+## Edge Cases Handled
+
+- **Variable citation counts**: Works with any number of citations (5, 16, 30+)
+- **DOI not found**: Specifically detects and handles non-existent DOIs
+- **Wrong paper DOIs**: Detects when DOI works but leads to different paper
+- **Retracted articles**: Flag but don't change (add warning to report)
+- **Preprints**: If citation is to preprint but published version exists, update to published
+- **No DOI exists**: Use direct journal URL as fallback
+- **Multiple DOIs**: Some articles have multiple valid DOIs; any correct one is acceptable
+- **Author name changes**: Match on last name if first/middle names have changed
+
+## File Saving
+
+- **Original file is NEVER modified** - remains untouched
+- Creates versioned copy: `v[X]-sources-verified.md` in same keyword subfolder
+- Automatically increments version number
+- All corrections are applied to the COPY only
+- Updates happen atomically (all or nothing)
+
+## Important Notes
+
+- Processes ALL citations systematically, regardless of count
+- Goes through citations IN ORDER (1, 2, 3...) not randomly
+- Works for ANY topic (not just specific ingredients)
+- Replaces ALL instances of incorrect DOIs throughout the article
+- Works on files in keyword subfolders within `/Generated-Drafts/`
+- Requires internet connection to verify links
+- Processing time depends on number of citations
+- Some journal sites may block automated checks; these are flagged for manual review
+- Always preserves the original file for safety
