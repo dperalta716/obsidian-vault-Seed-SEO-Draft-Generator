@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Reference/Claims VO2max ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f9596cd625ce628",
+  "active": "6eed56ece56ec564",
   "lastOpenFiles": [
     "Generated-Drafts/017-l theanine vs ashwagandha/v4-sources-verified.md",
     "Generated-Drafts/017-l theanine vs ashwagandha/v5-claims-verified.md.tmp.52132.1759439198012",
