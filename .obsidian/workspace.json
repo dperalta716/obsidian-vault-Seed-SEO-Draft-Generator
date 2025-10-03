@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generated-Drafts/019-american ginseng/American Ginseng -v1.md",
+                "file": "Generated-Drafts/019-american ginseng/American Ginseng -v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "American Ginseng -v1"
+              "title": "American Ginseng -v2"
             }
           }
         ]
@@ -170,11 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a17d4e4d34b96c61",
+  "active": "6eed56ece56ec564",
   "lastOpenFiles": [
-    "Generated-Drafts/020-cellular health supplements/v2-revision-instructions.md",
-    "Generated-Drafts/019-american ginseng/American Ginseng -v1.md",
+    "Generated-Drafts/020-cellular health supplements/v3-reviewed.md",
+    "Generated-Drafts/020-cellular health supplements/cellular health supplements-v2.md",
+    "Generated-Drafts/019-american ginseng/American Ginseng -v2.md",
     "Generated-Drafts/020-cellular health supplements/cellular health supplements-v1.md",
+    "Generated-Drafts/019-american ginseng/American Ginseng -v1.md",
+    "Generated-Drafts/020-cellular health supplements/v2-revision-instructions.md",
     "Generated-Drafts/018-Ashwagandha vs. CBD/v4-sources-verified.md",
     "Generated-Drafts/020-cellular health supplements",
     "Generated-Drafts/019-american ginseng",
@@ -201,10 +204,7 @@
     "Generated-Drafts/016-joint health supplements/joint health supplements-v3-reviewed.md",
     "Generated-Drafts/016-joint health supplements/joint health supplements-v2.md",
     "Generated-Drafts/016-joint health supplements/joint health supplements-v1.md",
-    "Generated-Drafts/015-vitamins for brain health/vitamins for brain health-v1.md",
     "Generated-Drafts/016-joint health supplements",
-    "OG Workflow/Gemini-System-Instructions-Modified.md",
-    "Generated-Drafts/013-brain-supplements/v5-claims-verified.md",
     "Generated-Drafts/015-vitamins for brain health",
     "Generated-Drafts/014-heart health supplements",
     "Generated-Drafts/013-brain-supplements"
