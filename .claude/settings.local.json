@@ -69,7 +69,8 @@
       "mcp__google-workspace__get_doc_content",
       "mcp__google-workspace__create_doc",
       "Bash(mcp list:*)",
-      "mcp__google-drive__getGoogleSheetContent"
+      "mcp__google-drive__getGoogleSheetContent",
+      "mcp__google-drive__getGoogleDocContent"
     ],
     "deny": [],
     "ask": []
