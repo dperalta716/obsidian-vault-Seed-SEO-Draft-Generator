@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "v4-sources-verified"
             }
-          },
-          {
-            "id": "c95a23d3ea2d637e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95a23d3ea2d637e",
+  "active": "a17d4e4d34b96c61",
   "lastOpenFiles": [
     "Generated-Drafts/019-american ginseng/American Ginseng-v5-claims-verified.md",
     "Generated-Drafts/019-american ginseng/American Ginseng-v4-sources-verified.md",
