@@ -1,0 +1,1 @@
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/.claude/skills/google-calendar/scripts/lib/auth.sh

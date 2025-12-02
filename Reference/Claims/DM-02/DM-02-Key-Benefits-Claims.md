@@ -90,13 +90,13 @@ Inner capsule dissolves ~3H. following consumption. This aligns with the PK of t
 Similar to "For your Microbiome," we want to avoid making any structure-function claims associated with the ingredients themselves without generating additional data. With this, "the foundation of whole body health" is likely the threshold that we want to approach and not exceed as we are not saying that the product will support whole body health, but rather, it was designed to deliver critical nutrients to the microbiome which serves as the foundation of whole body health. While this may be considered an implied claim, the circuitous approach attenuates risk to a degree that is considered to be tenable.
 
 ## Related Documents
-- [[DM-02-Vitamin-A-Claims]]
-- [[DM-02-Vitamin-C-Claims]]
-- [[DM-02-Vitamin-D-Claims]]
-- [[DM-02-Vitamin-B6-Claims]]
-- [[DM-02-Folate-Claims]]
-- [[DM-02-Vitamin-B12-Claims]]
-- [[DM-02-Zinc-Claims]]
-- [[DM-02-Copper-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Vitamin-A-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Vitamin-C-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Vitamin-D-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Vitamin-B6-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Folate-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Vitamin-B12-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Zinc-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/DM-02/DM-02-Copper-Claims]]
 
 #supplement #multivitamin #DM-02 #key-benefits #claims-substantiation #microbiome #healthy-aging #immune-support

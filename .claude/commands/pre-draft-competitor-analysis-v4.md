@@ -1,0 +1,667 @@
+# pre-draft-competitor-analysis-v4
+
+Generates comprehensive competitive analysis for SEO draft preparation by analyzing top-ranking articles and extracting People Also Ask questions. Uses shell script for improved token efficiency.
+
+## Usage
+
+```
+/pre-draft-competitor-analysis-v4 <keyword>
+```
+
+## Parameters
+
+- `keyword` (required): The target keyword to analyze (e.g., "american ginseng", "cellular health supplements")
+
+## Description
+
+This command creates a complete pre-draft research analysis document that serves as input for draft generators. It uses a single research coordinator agent to fetch SERP data via shell script, analyze top-ranking articles, and intelligently select the most relevant PAA questions.
+
+**v4 Improvements**:
+- **Fixed Citation URLs**: Extracts complete, working hyperlink URLs (not partial identifiers)
+- **Streamlined File Creation**: Only creates final analysis note (no intermediate files)
+- **Fixed Folder Structure**: Correctly uses relative paths without duplication
+
+## Workflow
+
+### Single Agent Workflow: Competitive Analysis Coordinator
+
+Launch ONE agent using the Task tool:
+
+**Purpose**: Complete competitive landscape analysis including article analysis and PAA question selection.
+
+**Instructions for Agent**:
+
+```
+You are the Competitive Analysis Coordinator for the keyword: "{keyword}"
+
+Your mission: Analyze the top 5 ranking articles for this keyword, extract People Also Ask questions, and determine the competitive baseline and user intent.
+
+---
+
+STEP 1: FETCH SERP DATA USING SHELL SCRIPT
+
+Use the bash command to run the DataForSEO shell script (located in Seed-SEO-Draft-Generator-v4 folder):
+
+```bash
+cd Seed-SEO-Draft-Generator-v4 && ./dataforseo-json.sh "{keyword}" "en" "United States"
+```
+
+This script:
+- Calls DataForSEO API with token-optimized filtering (.ai endpoint)
+- Returns filtered JSON with only essential SERP types (organic, people_also_ask, etc.)
+- Provides 60-80% token reduction vs full API response
+- Depth: 10 (returns top 10 organic results)
+- PAA Click Depth: 2 (expands PAA questions to return ~8 questions)
+
+The shell script returns JSON in this structure:
+```json
+{
+  "keyword": "...",
+  "location": "...",
+  "language": "...",
+  "results": [
+    {
+      "type": "organic" | "people_also_ask" | "related_searches" | ...,
+      "rank_absolute": 1,
+      "title": "...",
+      "url": "...",
+      "domain": "...",
+      "description": "...",
+      "items": [...],  // For PAA questions with nested items
+      "text": "...",   // For PAA question text
+      "source": "..."
+    }
+  ]
+}
+```
+
+This single call returns:
+1. Top 10 organic search results with URLs
+2. People Also Ask questions (extracted from results array)
+
+---
+
+STEP 2: EXTRACT DATA FROM SHELL SCRIPT RESPONSE
+
+Parse the JSON response from the shell script and extract:
+
+A. **Top 5 Organic URLs** (from the 10 returned):
+   - Filter items where `result.type === "organic"`
+   - Take the first 5 results
+   - Extract: `url`, `title`, `domain`, `rank_absolute`
+
+B. **8 PAA Questions**:
+   - Filter items where `result.type === "people_also_ask"`
+   - Each PAA item has nested structure with question details
+   - Extract the question text from `result.text` or `result.items[].title`
+   - Take up to 8 questions (or all available if fewer)
+   - Store these for later intelligent selection
+
+Example parsing code structure:
+```javascript
+const scriptOutput = JSON.parse(bashResult);
+const organicUrls = scriptOutput.results
+  .filter(r => r.type === "organic")
+  .slice(0, 5)
+  .map(r => ({ url: r.url, title: r.title, domain: r.domain }));
+
+const paaQuestions = scriptOutput.results
+  .filter(r => r.type === "people_also_ask")
+  .flatMap(r => r.items || [])
+  .map(item => item.title || item.text)
+  .slice(0, 8);
+```
+
+---
+
+STEP 3: SCRAPE AND ANALYZE ARTICLES
+
+For EACH of the 5 organic URLs, spawn a parallel sub-agent using the Task tool.
+
+Each sub-agent will:
+1. Use firecrawl-scraper skill to scrape the article
+2. Analyze the content
+3. Return structured findings
+
+---
+
+SUB-AGENT INSTRUCTIONS (spawn 5 in parallel):
+
+You are analyzing a single competitor article for the keyword: "{keyword}"
+
+Article URL: [INSERT URL]
+Article Title: [INSERT TITLE]
+
+STEP 1: SCRAPE ARTICLE CONTENT
+
+Use the firecrawl-scraper skill via bash script:
+```bash
+./.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh "[INSERT URL]" "markdown" "true" "2000"
+```
+
+STEP 2: ANALYZE SCRAPED CONTENT
+
+Extract structured information from the article:
+
+REQUIRED OUTPUTS:
+
+1. **Topics Covered** (list each topic with depth assessment):
+   - Topic Name
+   - Depth: Choose one based on coverage:
+     * "light" - Brief mention (1-2 sentences)
+     * "medium" - Paragraph-level coverage (3-6 sentences)
+     * "deep" - Section-level with substantial detail (H2/H3 heading, multiple paragraphs)
+
+2. **Claims & Sources** (identify using citation patterns):
+
+   First, determine the article's main domain from the URL you're analyzing.
+   Example: URL "https://www.healthline.com/nutrition/melatonin" → domain is "healthline.com"
+
+   A sentence contains a CLAIM if it has:
+   - An inline hyperlink to an EXTERNAL domain (different from the article's domain)
+   - A parenthetical citation like (Author 2023) or [1]
+   - A superscript reference number
+
+   For each claim found:
+   - **Claim**: Extract the full sentence containing the external link or citation
+   - **Source Type**:
+     * Primary: If external link goes to DOI, .edu, academic journal, peer-reviewed source
+     * Secondary: If external link goes to health website, news site, or general source
+   - **Source Details**: Extract author/year from citation OR domain name from external link
+   - **Source URL**: The COMPLETE, WORKING hyperlink URL
+     * Extract the FULL href value from the hyperlink in the article
+     * If it's a shortened reference like "PMC7019700", construct the full URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7019700/
+     * If it's a DOI like "10.1234/example", construct: https://doi.org/10.1234/example
+     * DO NOT return partial identifiers like "PMC7019700" or just "doi.org" - the drafter needs CLICKABLE URLs
+     * Verify the URL is complete with https:// protocol
+     * Examples of CORRECT formats:
+       - https://pmc.ncbi.nlm.nih.gov/articles/PMC7019700/
+       - https://doi.org/10.1234/example.2023.12345
+       - https://pubmed.ncbi.nlm.nih.gov/12345678/
+     * Examples of INCORRECT formats (DO NOT USE):
+       - PMC7019700 ❌
+       - doi.org ❌
+       - 10.1234/example ❌
+
+   IMPORTANT - Domain Matching:
+   - Internal links (same domain as article) = NOT a claim, ignore these
+   - External links (different domain) = Claim, extract it
+   - Example: Article is on healthline.com
+     * Link to healthline.com/other-article = internal, skip
+     * Link to doi.org/study = external, this is a claim!
+
+   DO NOT include as claims:
+   - Sentences with only internal links (same domain)
+   - Statements with no citations or external links
+   - General transition sentences
+
+3. **Notable Angles** (1-2 sentences):
+   - Any unique perspectives or approaches this article takes
+   - Anything that stands out as different from typical coverage
+
+4. **Article Metadata**:
+   - Estimated word count
+   - Overall tone (scientific/casual/practical)
+   - Citation density (heavily cited / moderately cited / lightly cited)
+
+FORMAT YOUR RESPONSE AS STRUCTURED JSON:
+
+{
+  "url": "...",
+  "title": "...",
+  "word_count": "~1500",
+  "topics": [
+    {"name": "Topic 1", "depth": "deep"},
+    {"name": "Topic 2", "depth": "medium"}
+  ],
+  "claims_and_sources": [
+    {
+      "claim": "Specific health claim text",
+      "source_type": "primary",
+      "source_details": "Author 2023",
+      "source_url": "https://doi.org/10.1234/example.2023.12345"
+    }
+  ],
+  "notable_angles": "Description of unique approach",
+  "metadata": {
+    "tone": "scientific",
+    "citation_density": "heavily cited"
+  }
+}
+
+---
+
+STEP 4: WAIT FOR ALL SUB-AGENTS TO COMPLETE
+
+Collect all 5 article analysis JSON responses.
+
+---
+
+STEP 5: CONSOLIDATE COMPETITIVE FINDINGS
+
+After all 5 sub-agents complete, analyze their JSON responses to determine:
+
+1. **Primary User Search Intent**: What are users really looking for when they search this keyword?
+
+2. **Core Questions Users Are Asking**: 3-4 fundamental questions this search query represents
+
+3. **Competitive Baseline Requirements**:
+   - Topics that MUST be covered (found in 3+ articles)
+   - Typical depth/angle for each topic
+   - Topic coverage patterns (structural patterns you notice)
+
+4. **Citation & Evidence Landscape**:
+   - Most commonly cited primary sources (academic studies)
+   - Common secondary sources
+   - Average citation density across competitors
+   - Citation patterns (how heavily do competitors rely on research?)
+
+5. **Synthesis**:
+   - What does a competitive article look like? (structure, flow, depth)
+   - What's the typical word count range?
+   - What gaps or opportunities exist for differentiation?
+
+---
+
+STEP 6: INTELLIGENT PAA QUESTION SELECTION
+
+Now that you understand the competitive landscape, select the **4 BEST PAA questions** from the 8 you extracted in Step 2.
+
+Selection criteria:
+- **Aligns with identified user intent** - Matches what users are really seeking
+- **Fills content gaps** - Addresses topics competitors miss or skim over
+- **Complements main topics** - Provides additional value without duplicating core content
+- **Audience relevance** - Most valuable questions for target readers
+- **Coverage diversity** - Represents different aspects of the topic
+
+For each of the 4 selected questions, note WHY you selected it (1 sentence rationale).
+
+---
+
+STEP 7: FINAL OUTPUT FORMAT
+
+CRITICAL: DO NOT create any intermediate files during your analysis process.
+ONLY return the final JSON object in your response.
+
+Your entire response should be a single JSON object with all findings:
+
+{
+  "keyword": "{keyword}",
+  "user_intent": {
+    "primary_intent": "...",
+    "core_questions": ["Q1", "Q2", "Q3"]
+  },
+  "competitive_baseline": {
+    "must_cover_topics": [
+      {"topic": "Topic name", "frequency": "5/5 articles", "typical_depth": "deep"},
+      ...
+    ],
+    "coverage_patterns": ["Pattern 1", "Pattern 2"]
+  },
+  "citation_landscape": {
+    "primary_sources": [
+      {"claim": "...", "source": "Author Year", "doi_url": "https://doi.org/10.1234/example", "used_by": ["#1", "#3"]}
+    ],
+    "secondary_sources": [
+      {"source": "Healthline", "topics": ["Topic A"], "used_by": ["#1", "#2"]}
+    ],
+    "patterns": {
+      "average_citations": "~12 per article",
+      "most_cited": "Study name",
+      "density": "Observation"
+    }
+  },
+  "paa_questions": {
+    "selected": [
+      {"question": "Question 1", "rationale": "Why this was selected"},
+      {"question": "Question 2", "rationale": "Why this was selected"},
+      {"question": "Question 3", "rationale": "Why this was selected"},
+      {"question": "Question 4", "rationale": "Why this was selected"}
+    ],
+    "not_selected": ["Question 5", "Question 6", "Question 7", "Question 8"]
+  },
+  "article_analyses": [
+    ... (all 5 article JSON objects from sub-agents)
+  ],
+  "synthesis": {
+    "competitive_profile": "2-3 sentences describing what competitive articles look like",
+    "word_count_range": "1500-2200 words",
+    "gaps_and_opportunities": ["Gap 1", "Opportunity 1"]
+  }
+}
+```
+
+---
+
+### Synthesize Analysis Note
+
+After the agent completes, the main command creates the final analysis document:
+
+#### STEP 1: DETERMINE NEXT FOLDER NUMBER
+
+```bash
+# IMPORTANT: Working directory is already Seed-SEO-Draft-Generator-v4
+# DO NOT prepend "Seed-SEO-Draft-Generator-v4/" to paths
+
+# Check if Generated-Drafts exists, create if needed
+if [ ! -d "Generated-Drafts" ]; then
+  mkdir -p "Generated-Drafts"
+  NEXT="001"
+else
+  # Find highest existing folder number
+  HIGHEST=$(ls -1 Generated-Drafts 2>/dev/null | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
+
+  # If no folders exist yet, start at 001
+  if [ -z "$HIGHEST" ]; then
+    NEXT="001"
+  else
+    # Increment and format with zero-padding
+    NEXT=$(printf "%03d" $((10#$HIGHEST + 1)))
+  fi
+fi
+
+# Create keyword slug (lowercase, hyphenated)
+SLUG=$(echo "{keyword}" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+# Create folder using relative path
+mkdir -p "Generated-Drafts/${NEXT}-${SLUG}"
+```
+
+#### STEP 2: CREATE ANALYSIS NOTE
+
+File path: `Generated-Drafts/[NNN]-[keyword-slug]/stage1_analysis-[keyword-slug].md`
+
+**Note Structure**:
+
+```markdown
+---
+date: {YYYY-MM-DD}
+keyword: "{keyword}"
+analyzed_articles: 5
+tags: [seed, competitor-analysis, pre-draft, seo]
+---
+
+# Stage 1 Pre-Draft Analysis: {Keyword}
+
+*Generated: {Date}*
+*Keyword: "{keyword}"*
+*Analyzed: 5 top-ranking articles*
+
+---
+
+## 1. User Search Intent
+
+**Primary Intent**: [From competitive analysis]
+
+**Core Questions Users Are Asking**:
+- [Question 1]
+- [Question 2]
+- [Question 3]
+
+---
+
+## 2. Competitive Baseline Requirements
+
+### Topics That MUST Be Covered:
+
+1. **[Topic Name]** - Found in [X/5] articles
+   - Typical depth/angle: [Description]
+
+2. **[Topic Name]** - Found in [X/5] articles
+   - Typical depth/angle: [Description]
+
+[Continue for all must-cover topics]
+
+### Topic Coverage Patterns:
+- [Pattern 1: e.g., "All articles lead with benefits before mechanism"]
+- [Pattern 2: e.g., "4/5 articles include dosing guidance"]
+
+---
+
+## 3. Citation & Evidence Landscape
+
+### Primary Research Sources (Academic):
+
+| Claim | Source | DOI/Link | Used By Articles |
+|-------|--------|----------|------------------|
+| [Specific claim] | [Author Year] | [Full working URL] | #1, #3, #5 |
+| [Specific claim] | [Author Year] | [Full working URL] | #2, #4 |
+
+### Secondary Sources (Non-Academic):
+
+- [Website name]: [Topics covered] - Used by: [Article numbers]
+- [Website name]: [Topics covered] - Used by: [Article numbers]
+
+### Citation Patterns:
+
+- Average citations per article: [N]
+- Most commonly cited study: [Study name/authors]
+- Citation density: [Observation about how heavily cited vs editorial]
+
+---
+
+## 4. People Also Ask Questions
+
+[Selected 4 most relevant from 8 fetched]
+
+1. [PAA Question 1]
+   - *Selected because*: [Rationale]
+
+2. [PAA Question 2]
+   - *Selected because*: [Rationale]
+
+3. [PAA Question 3]
+   - *Selected because*: [Rationale]
+
+4. [PAA Question 4]
+   - *Selected because*: [Rationale]
+
+*Note: Use these for FAQ section. Selected based on user intent and content gaps.*
+
+**Not Selected** (but available if needed):
+- [Question 5]
+- [Question 6]
+- [Question 7]
+- [Question 8]
+
+---
+
+## 5. Article-by-Article Analysis
+
+### Article 1: [Title]
+
+**URL**: [link]
+**Word Count**: ~[estimate]
+**Tone**: [scientific/casual/practical]
+**Citation Density**: [heavily/moderately/lightly cited]
+
+**Topics Covered**:
+- [Topic 1] (depth: [light/medium/deep])
+- [Topic 2] (depth: [light/medium/deep])
+- [...]
+
+**Claims & Sources**:
+
+**Primary Sources:**
+- **Claim**: "[Specific assertion]"
+  - Source: [Author Year]
+  - DOI: [Full working URL]
+
+**Secondary Sources:**
+- **Claim**: "[Another assertion]"
+  - Source: [Website/organization name]
+
+**Notable Angles**: [Unique perspectives or approaches]
+
+---
+
+[Repeat structure for Articles 2-5]
+
+---
+
+## 6. Synthesis for Drafting
+
+### Competitive Baseline Summary:
+
+[2-3 paragraphs describing what a competitive article looks like:
+- Standard structure/flow
+- Required topics and typical depth
+- Citation approach
+- Tone/accessibility level
+- Word count range: [X-Y] words]
+
+### Gaps & Opportunities for Seed:
+
+- **Gap 1**: [e.g., "No articles discuss bioidentical forms"]
+- **Gap 2**: [e.g., "Mechanism explanations are surface-level"]
+- **Opportunity**: [How Seed can differentiate while meeting baseline]
+
+### Recommended Approach:
+
+1. **Meet baseline** by covering: [Key topics list]
+2. **Layer Seed perspective** via: [Specific differentiators based on product messaging]
+3. **Target word count**: 1800-2000 words (baseline articles range: [X-Y])
+4. **Citation strategy**: [Based on competitive patterns - aim for ~12-15 academic sources]
+
+---
+
+## Notes for Drafter
+
+- [Any specific observations that would help draft generation]
+- [Watch-outs or cautions based on competitor analysis]
+- [Opportunities to exceed competitive baseline]
+```
+
+#### STEP 3: SAVE AND CONFIRM
+
+1. Write the complete analysis note to the file
+2. Confirm to user:
+   - File path created
+   - Folder number used
+   - Number of articles analyzed
+   - Number of PAA questions selected (4 of 8)
+   - Ready for draft generation
+
+## Example
+
+```
+/pre-draft-competitor-analysis-v4 american ginseng
+```
+
+**Output**:
+- Folder: `Generated-Drafts/021-american-ginseng/`
+- File: `stage1_analysis-american-ginseng.md`
+- Contains: Complete competitive analysis with 5 article breakdowns, 4 selected PAA questions with rationales, user intent, and synthesis
+
+## Implementation Notes
+
+### For Claude Executing This Command:
+
+1. **Single Agent Launch**: Launch one Task agent that orchestrates the entire workflow
+2. **Shell Script First**: Agent uses `cd Seed-SEO-Draft-Generator-v4 && ./dataforseo-json.sh` bash command for SERP data
+3. **Script Location**: The dataforseo-json.sh script is located in the Seed-SEO-Draft-Generator-v4 folder
+4. **Token Efficient**: Shell script provides 60-80% token reduction vs MCP endpoint
+5. **Parallel Scraping**: Agent spawns 5 sub-agents to scrape/analyze articles simultaneously
+6. **Intelligent Selection**: Agent uses competitive insights to select best 4 of 8 PAA questions
+7. **Folder Numbering**: Always check existing folders to get the correct next number
+8. **Error Handling**: If shell script or Firecrawl fails, report clearly and suggest retry
+9. **Token Management**: Sub-agents keep article analysis in separate contexts
+10. **File Creation Policy**: Agent returns JSON only - main command creates the single analysis file
+11. **Path Handling**: Use relative paths from Seed-SEO-Draft-Generator-v4 working directory
+12. **URL Completeness**: Verify all citation URLs are complete with https:// protocol
+
+### Agent Workflow:
+
+```
+Main Agent
+├─ Bash: ./dataforseo-json.sh (gets URLs + PAA)
+├─ Parse filtered JSON response
+├─ Extract top 5 URLs, 8 PAA questions
+├─ Spawn 5 parallel Firecrawl sub-agents
+├─ Wait for completion
+├─ Consolidate findings
+├─ Select 4 best PAA questions
+└─ Return complete JSON (no file creation)
+
+Main Command
+├─ Receive JSON from agent
+├─ Calculate next folder number
+├─ Create folder with correct path
+└─ Create single analysis note
+```
+
+### Shell Script Benefits:
+
+- **Token Reduction**: 60-80% smaller responses compared to full MCP endpoint
+- **Reliability**: Avoids 25k token limit errors on complex queries
+- **Speed**: Faster parsing due to pre-filtered data
+- **Consistency**: Same filtering approach as other SEO commands
+- **Direct Control**: Bash execution provides better error handling
+
+### Quality Checks:
+
+- Verify shell script executed successfully (check for JSON parse errors)
+- Confirm all 5 articles were analyzed successfully
+- Verify 4 PAA questions selected with clear rationales
+- Ensure primary sources are properly categorized
+- **Validate all citation URLs are complete working links (not partial identifiers)**
+- **Verify no intermediate files created (only final analysis note)**
+- **Check folder path uses relative paths without duplication**
+- Validate folder numbering incremented correctly
+- Check that analysis note has all required sections
+- Verify PAA selection is intelligent (not just first 4)
+
+## Success Criteria
+
+- ✅ Command accepts keyword input
+- ✅ Shell script successfully fetches filtered SERP data (URLs + PAA)
+- ✅ JSON parsing handles shell script output structure correctly
+- ✅ Top 5 articles scraped and analyzed in parallel
+- ✅ 8 PAA questions extracted, 4 intelligently selected
+- ✅ Claims properly categorized (primary vs secondary)
+- ✅ **All citation URLs are complete, working hyperlinks (e.g., https://pmc.ncbi.nlm.nih.gov/articles/PMC7019700/)**
+- ✅ User intent and competitive baseline clearly defined
+- ✅ **Only ONE file created (final analysis note in correct folder)**
+- ✅ **Folder structure uses correct relative paths without duplication**
+- ✅ Analysis note saved to correctly numbered folder
+- ✅ Output is immediately usable by draft generator
+- ✅ Token usage significantly reduced vs v2
+
+## Related Commands
+
+- `/analyze-seo-draft` - Post-draft competitive analysis
+- `/review-draft-1` - Initial draft review
+- `/review-sources-2` - Source verification
+
+## Changes from Previous Versions
+
+**v2 Improvements**:
+- Single agent instead of two parallel agents (simpler architecture)
+- DataForSEO used for both URLs and PAA questions (more efficient)
+- Firecrawl scrape used instead of search (better control)
+- Top 5 selected from 10 organic results (better accuracy)
+- PAA selection includes rationales (transparency)
+
+**v3 Improvements**:
+- **Shell Script Integration**: Replaced `mcp__dfs-mcp-ai__serp_organic_live_advanced` with `./dataforseo-json.sh` bash command
+- **Token Efficiency**: 60-80% reduction in SERP response size through pre-filtering
+- **Improved Reliability**: Eliminates 25k token limit errors on complex keywords
+- **Consistent Filtering**: Uses same DataForSEO .ai endpoint filtering as other SEO commands
+- **Better Error Handling**: Direct bash execution provides clearer error messages
+- **Faster Processing**: Pre-filtered JSON reduces parsing overhead
+
+**v4 Improvements**:
+- **Complete Citation URLs**: Sub-agents extract full hyperlink URLs (not partial identifiers like "PMC7019700")
+  * Explicit instructions to construct complete URLs from shortened references
+  * Drafter receives clickable URLs ready for citation
+- **Streamlined File Creation**: Agent returns JSON only, no intermediate files created
+  * Eliminates unnecessary .md and .json files in wrong locations
+  * Main command creates single final analysis note
+- **Fixed Folder Structure**: Corrected path handling to avoid duplication
+  * Uses relative paths from working directory
+  * Proper folder numbering system
+  * No more duplicate "Seed-SEO-Draft-Generator-v4/Seed-SEO-Draft-Generator-v4/" paths
+
+---
+
+*This command implements Phase 1 (Tasks 1.1, 1.2, 1.3, 1.4) of the Seed Generator V4 Update Plan*

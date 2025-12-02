@@ -1,38 +1,3 @@
-# PM-02™ Sleep \+ Restore Messaging Reference Document
-
-## Last updated: May 27, 2025 Owned by: [Angela Hatcher](mailto:angela.hatcher@seed.com)	                                                                                 Status: LiveCompliance Approved
-
-*Reviewed by: [Tess Marshall](mailto:tess@seed.com)[Tye Jensen](mailto:tye@seed.com)[Dirk Gevers](mailto:dirk@seed.com)[Nicholas Rivera](mailto:nicholas@seed.com)[Nicole Iannarone](mailto:nicole@seed.com)[Mizue Naito](mailto:mizue@seed.com)*
-
-Purpose   
-This document contains all scientifically accurate and compliant messaging on our new product: PM-02™ Sleep \+ Restore, with the product messaging hierarchy as the anchor of how to prioritize these different messages based on category, consumer, and audience insights. There is also a section for each benefit category of approved claims for use on upper, mid \+ lower funnel channels.
-
-This document does not contain all approved copy variations, rather is intended to provide a single and consistently updated resource for key product messaging. 
-
-Table of Contents
-
-* [Omni Channel Messaging Framework](#omnichannel-product-messaging-framework-💤-•-pm-02™-sleep-+-restore)  
-* [Product Messaging Overview](#evergreen-product-messaging-•-pm-02™-sleep-+-restore)  
-  * Description  
-  * Customer Needs  
-  * Product Features  
-  * Key Benefits  
-  * Protocol  
-  * Safety \+ Quality   
-  * Gut-Sleep Connection (Sci Comms WIP)  
-* Messaging Hierarchy  
-  * [Retail](#retail-messaging-hierarchy-•-pm-02™-sleep-+-restore)  
-  * [DTC & Amazon](#dtc-&-amazon-messaging-hierarchy-•-pm-02™-sleep-+-restore)  
-* [Expanded Claims Bank by Benefit Category](#expanded-claims-bank-by-benefit-category)  
-  * Fall asleep faster, stay asleep  
-  * Stress hormone reduction  
-  * Rest deeply, wake refreshed  
-* [Expanded Messaging, Product Features](#expanded-feature-messaging)  
-  * Bioidentical melatonin  
-  * ViaCap®  
-* Expanded Product Education with Citations (Scicomms WIP)
-
----
 
 ## Omnichannel Product Messaging Framework 💤 • PM-02™ Sleep \+ Restore  {#omnichannel-product-messaging-framework-💤-•-pm-02™-sleep-+-restore}
 
@@ -62,7 +27,7 @@ Suggested use: Guidance for all channel leads, copy teams on how PM-02™ should
 | Key Benefits | Built For Your Body’s Natural Rhythms  PM-02™ supports natural sleep patterns with a bioidentical dose of melatonin that mimics your body’s natural levels and clinically studied ashwagandha to balance cortisol levels at night. Fall Asleep Faster, With Less Disruption PM-02™ reduces sleep latency to help you fall asleep faster and stay asleep. With a dual-phase profile, the melatonin it releases in sync with your sleep cycle over 7 hours so you can wake up feeling refreshed.  2-in-1 Formula For You \+ Your Microbiome Engineered with Seed’s proprietary ViaCap® technology, the outer capsule delivers bioidentical melatonin \+ clinically studied ashwagandha to you and the inner capsule delivers prebiotics \+ postbiotics to the microbiome—the foundation of the gut-brain axis. Deeper, Restorative Sleep PM-02™ is formulated to reduce **cellular and physiological stress**, so you can rest deeply and actively restore overnight. More Benefits with Every Dose PM-02™ benefits progress over time, balancing melatonin and **cortisol levels** to calibrate **circadian rhythms**, while supporting your innate capabilities to restore deeply over night.  |
 | Protocol | Take 1 capsule 30-60 minutes before bed. Do not drive or operate heavy machinery when taking melatonin. |
 | Safety \+ Quality Assurance | Tested for: Dairy Gluten Soy Nuts Shellfish Sesame Glyphosate/AMPA 14 classes of allergens as defined by European Food and Safety Authority (EFSA) No known contraindications  |
-| Gut-Sleep Connection  | \[SECTION TO COME\] [Jennie O'Grady](mailto:jennie.ogrady@seed.com) |
+| Gut-Sleep Connection  | **The Sleep-Gut-Brain Axis Narrative** Emerging science reveals that the gut microbiome is inextricably linked to sleep—helping to calibrate circadian rhythms and support the production of key compounds and neurotransmitters associated with sleep, such as melatonin and GABA. Together, this gut-brain communication plays a vital role in how deeply you rest and how clearly you wake. **Key Talking Points:** • Your Gut Isn't Just For Digestion—It's Deeply Connected To Your Brain And Sleep Cycles: A balanced microbiome helps produce and regulate key compounds like serotonin, melatonin, and GABA—critical for relaxation and restful sleep. • Support Your Microbes, Support Your Sleep: The microbes in your gut help regulate the brain chemicals that control how easily you fall asleep and how deeply you rest. Nurturing your gut can mean fewer sleep disruptions and better overall rest. • Mood, Sleep, and Stress—It Starts in the Gut: Your gut and brain are in constant communication, through the gut-brain axis. A healthy gut supports balanced mood, lowered stress, and the release of natural sleep signals. • Your gut is connected to cellular repair: The gut microbiome plays a pivotal role in cellular repair and tissue regeneration through the production of metabolites, modulation of immune responses, maintenance of epithelial integrity, and systemic signaling pathways. |
 | Copy Compliance | ✅Use the ™ symbol across all copy when using the product name ✅Use the operative description “PM-02™ is *formulated to”* when making claims about this product. All claims in this document are ingredient level claims. ❌Anchor your channel’s storytelling on the product directly supporting the “gut-brain axis”. It is *formulated* to support the gut-brain axis Instead  ✅ say “PM-02™ is formulated to target the gut-brain axis ❌Position problem statement as anything that may be perceived as a or imply a \[chronic\] condition (e.g., insomnia, sleep apnea, restless leg syndrome, etc.)  |
 
 ## 
@@ -166,6 +131,8 @@ Scientific features of the products. The messaging below is scientifically accur
 
 | ViaCap® |  |
 | :---- | :---- |
-| Messaging | Engineered for Precision Delivery  PM-02™ is formulated with Seed’s proprietary ViaCap® capsule-in-capsule technology to ensure precision nutrient delivery with every dose. Outer Capsule: Restorative Sleep Support Clinically studied ingredients that support falling asleep fast and staying asleep. Bioidentical melatonin: Instant and extended release melatonin in a biologically identical dose to the body’s natural levels. Shoden® ashwagandha: A clinically studied adaptogen that lowers cortisol levels, enhances stress resilience and supports deep, restorative sleep. PQQ: Supports brain health and cognitive function during sleep by enhancing mitochondrial activity and reducing oxidative stress. Inner Capsule: Microbiome Support Specific prebiotics \+ GABA, a postbiotic for gut microbiome, the base of the gut-brain axis. Gut-Brain Postbiotic (GABA): A calming neurotransmitter made by microbes.  Microbiome \-modulating prebiotics: A blend of Japanese wasabi and quercetin to nourish beneficial gut microbes. Cellular Renewal Complex: A blend of cellular rejuvenating compounds from spermadine and pterostilbene.  |
-| Copy Compliance | ❌Imply that all our ingredients are “clinically studied” or “proven” While all ingredients in this formulation have been clinically studied, only Shoden® ashwagandha is included at a clinically validated dose. COMPLIANT EXAMPLE✅ *“PM-02™ features bioidentical melatonin and clinically studied ashwagandha”*  |
+| Messaging | Engineered for Precision Delivery  PM-02™ is formulated with Seed's proprietary ViaCap® capsule-in-capsule technology to ensure precision nutrient delivery with every dose. Outer Capsule: Restorative Sleep Support Clinically studied ingredients that support falling asleep fast and staying asleep. Bioidentical melatonin: Instant and extended release melatonin in a biologically identical dose to the body's natural levels. Shoden® ashwagandha: A clinically studied adaptogen that lowers cortisol levels, enhances stress resilience and supports deep, restorative sleep. PQQ: Supports brain health and cognitive function during sleep by enhancing mitochondrial activity and reducing oxidative stress. Inner Capsule: Microbiome Support Specific prebiotics \+ GABA, a postbiotic for gut microbiome, the base of the gut-brain axis. Gut-Brain Postbiotic (GABA): A calming neurotransmitter made by microbes.  Microbiome \-modulating prebiotics: A blend of Japanese wasabi and quercetin to nourish beneficial gut microbes. Cellular Renewal Complex: A blend of cellular rejuvenating compounds from spermadine and pterostilbene.  |
+| Copy Compliance | ❌Imply that all our ingredients are "clinically studied" or "proven" While all ingredients in this formulation have been clinically studied, only Shoden® ashwagandha is included at a clinically validated dose. COMPLIANT EXAMPLE✅ *"PM-02™ features bioidentical melatonin and clinically studied ashwagandha"*  |
+
+---
 

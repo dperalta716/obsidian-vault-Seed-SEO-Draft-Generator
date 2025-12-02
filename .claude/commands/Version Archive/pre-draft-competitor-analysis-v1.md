@@ -1,0 +1,483 @@
+# pre-draft-competitor-analysis
+
+Generates comprehensive competitive analysis for SEO draft preparation by analyzing top-ranking articles and extracting People Also Ask questions.
+
+## Usage
+
+```
+/pre-draft-competitor-analysis <keyword>
+```
+
+## Parameters
+
+- `keyword` (required): The target keyword to analyze (e.g., "american ginseng", "cellular health supplements")
+
+## Description
+
+This command creates a complete pre-draft research analysis document that serves as input for draft generators. It orchestrates multiple research agents in parallel to analyze the competitive landscape, user intent, and relevant questions.
+
+## Workflow
+
+### Phase 1: Parallel Research (Competitive Analysis + PAA Fetch)
+
+Launch TWO agents simultaneously using the Task tool:
+
+#### Agent 1: Competitive Analysis Coordinator
+
+**Purpose**: Analyze top 5 ranking articles to understand competitive baseline and user intent.
+
+**Instructions for Agent**:
+
+```
+You are the Competitive Analysis Coordinator for the keyword: "{keyword}"
+
+Your mission: Analyze the top 5 ranking articles for this keyword to understand the competitive baseline, user intent, and topic coverage patterns.
+
+STEP 1: SEARCH AND SCRAPE TOP 5 ARTICLES
+
+Use the Firecrawl MCP tool `mcp__firecrawl__firecrawl_search` with these parameters:
+- query: "{keyword}" (EXACT keyword, no modifications)
+- limit: 5
+- scrapeOptions:
+  - formats: ["markdown"]
+  - onlyMainContent: true
+  - waitFor: 2000
+
+This will return the top 5 search results with full scraped content.
+
+STEP 2: SPAWN ARTICLE ANALYSIS SUB-AGENTS
+
+For EACH of the 5 articles, spawn a parallel sub-agent using the Task tool with these instructions:
+
+---
+SUB-AGENT INSTRUCTIONS:
+
+You are analyzing a single competitor article for the keyword: "{keyword}"
+
+Article URL: [INSERT URL]
+Article Title: [INSERT TITLE]
+Article Content: [INSERT SCRAPED MARKDOWN CONTENT]
+
+Your task: Extract structured information from this article.
+
+REQUIRED OUTPUTS:
+
+1. **Topics Covered** (list each topic with depth assessment):
+   - Topic Name
+   - Depth: Choose one based on coverage:
+     * "light" - Brief mention (1-2 sentences)
+     * "medium" - Paragraph-level coverage (3-6 sentences)
+     * "deep" - Section-level with substantial detail (H2/H3 heading, multiple paragraphs)
+
+2. **Claims & Sources** (for each significant health claim made):
+   - Claim: [Exact claim or assertion from article]
+   - Source Type: Primary (academic study, peer-reviewed journal, DOI link) OR Secondary (health website, general source)
+   - Source Details: [Author/Year if academic, or website name if secondary]
+   - Source URL: [If provided in article]
+
+3. **Notable Angles** (1-2 sentences):
+   - Any unique perspectives or approaches this article takes
+   - Anything that stands out as different from typical coverage
+
+4. **Article Metadata**:
+   - Estimated word count
+   - Overall tone (scientific/casual/practical)
+   - Citation density (heavily cited / moderately cited / lightly cited)
+
+FORMAT YOUR RESPONSE AS STRUCTURED JSON:
+{
+  "url": "...",
+  "title": "...",
+  "word_count": "~1500",
+  "topics": [
+    {"name": "Topic 1", "depth": "deep"},
+    {"name": "Topic 2", "depth": "medium"}
+  ],
+  "claims_and_sources": [
+    {
+      "claim": "Specific health claim text",
+      "source_type": "primary",
+      "source_details": "Author 2023",
+      "source_url": "https://doi.org/..."
+    }
+  ],
+  "notable_angles": "Description of unique approach",
+  "metadata": {
+    "tone": "scientific",
+    "citation_density": "heavily cited"
+  }
+}
+---
+
+STEP 3: CONSOLIDATE SUB-AGENT REPORTS
+
+After all 5 sub-agents complete, analyze their JSON responses to determine:
+
+1. **Primary User Search Intent**: What are users really looking for when they search this keyword?
+
+2. **Core Questions Users Are Asking**: 3-4 fundamental questions this search query represents
+
+3. **Competitive Baseline Requirements**:
+   - Topics that MUST be covered (found in 3+ articles)
+   - Typical depth/angle for each topic
+   - Topic coverage patterns (structural patterns you notice)
+
+4. **Citation & Evidence Landscape**:
+   - Most commonly cited primary sources (academic studies)
+   - Common secondary sources
+   - Average citation density across competitors
+   - Citation patterns (how heavily do competitors rely on research?)
+
+5. **Synthesis**:
+   - What does a competitive article look like? (structure, flow, depth)
+   - What's the typical word count range?
+   - What gaps or opportunities exist for differentiation?
+
+FINAL OUTPUT FORMAT:
+
+Return a comprehensive JSON object with all consolidated findings:
+
+{
+  "keyword": "{keyword}",
+  "user_intent": {
+    "primary_intent": "...",
+    "core_questions": ["Q1", "Q2", "Q3"]
+  },
+  "competitive_baseline": {
+    "must_cover_topics": [
+      {"topic": "Topic name", "frequency": "5/5 articles", "typical_depth": "deep"},
+      ...
+    ],
+    "coverage_patterns": ["Pattern 1", "Pattern 2"]
+  },
+  "citation_landscape": {
+    "primary_sources": [
+      {"claim": "...", "source": "Author Year", "doi": "...", "used_by": ["#1", "#3"]}
+    ],
+    "secondary_sources": [
+      {"source": "Healthline", "topics": ["Topic A"], "used_by": ["#1", "#2"]}
+    ],
+    "patterns": {
+      "average_citations": "~12 per article",
+      "most_cited": "Study name",
+      "density": "Observation"
+    }
+  },
+  "article_analyses": [
+    ... (all 5 article JSON objects from sub-agents)
+  ],
+  "synthesis": {
+    "competitive_profile": "2-3 sentences describing what competitive articles look like",
+    "word_count_range": "1500-2200 words",
+    "gaps_and_opportunities": ["Gap 1", "Opportunity 1"]
+  }
+}
+```
+
+#### Agent 2: PAA Fetch Agent
+
+**Purpose**: Fetch People Also Ask questions from DataForSEO and extract top 8.
+
+**Instructions for Agent**:
+
+```
+You are the PAA Fetch Agent for the keyword: "{keyword}"
+
+Your mission: Fetch People Also Ask questions from Google search results.
+
+STEP 1: FETCH PAA QUESTIONS
+
+Use the DataForSEO MCP tool `mcp__dfs-mcp-ai__serp_organic_live_advanced` with these parameters:
+- keyword: "{keyword}"
+- language_code: "en"
+- location_name: "United States"
+- search_engine: "google"
+- people_also_ask_click_depth: 2
+- depth: 10
+
+STEP 2: EXTRACT TOP 8 PAA QUESTIONS
+
+From the DataForSEO response:
+1. Look for the "people_also_ask" section in the SERP results
+2. Extract the question text from each PAA item
+3. Select the top 8 most relevant questions
+4. Return them in order
+
+FINAL OUTPUT FORMAT:
+
+{
+  "keyword": "{keyword}",
+  "paa_questions": [
+    "Question 1 text",
+    "Question 2 text",
+    "Question 3 text",
+    "Question 4 text",
+    "Question 5 text",
+    "Question 6 text",
+    "Question 7 text",
+    "Question 8 text"
+  ]
+}
+
+If fewer than 8 questions are available, return all available questions.
+```
+
+### Phase 2: PAA Selection (Sequential - After Phase 1 Completes)
+
+After BOTH Phase 1 agents complete:
+
+1. **Receive Results**:
+   - Competitive Analysis JSON from Agent 1
+   - PAA Questions JSON from Agent 2
+
+2. **Intelligent PAA Selection**:
+
+   Using the competitive analysis findings (user intent, topic gaps, coverage patterns), select the **4 most relevant** PAA questions from the 8 fetched.
+
+   Selection criteria:
+   - Aligns with identified user intent
+   - Fills gaps in competitor content
+   - Matches topics that should be covered
+   - Provides value to target audience
+   - Complements (not duplicates) main content topics
+
+3. **Return Selected 4 Questions**
+
+### Phase 3: Synthesize Analysis Note
+
+After Phase 2 completes, the main command creates the final analysis document:
+
+#### STEP 1: DETERMINE NEXT FOLDER NUMBER
+
+```bash
+# Find highest existing folder number
+HIGHEST=$(ls -1 "Seed-SEO-Draft-Generator-v4/Generated-Drafts" | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
+
+# Increment and format with zero-padding
+NEXT=$(printf "%03d" $((10#$HIGHEST + 1)))
+
+# Create keyword slug (lowercase, hyphenated)
+SLUG=$(echo "{keyword}" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+# Create folder
+mkdir -p "Seed-SEO-Draft-Generator-v4/Generated-Drafts/${NEXT}-${SLUG}"
+```
+
+#### STEP 2: CREATE ANALYSIS NOTE
+
+File path: `Seed-SEO-Draft-Generator-v4/Generated-Drafts/[NNN]-[keyword-slug]/stage1_analysis-[keyword-slug].md`
+
+**Note Structure**:
+
+```markdown
+---
+date: {YYYY-MM-DD}
+keyword: "{keyword}"
+analyzed_articles: 5
+tags: [seed, competitor-analysis, pre-draft, seo]
+---
+
+# Stage 1 Pre-Draft Analysis: {Keyword}
+
+*Generated: {Date}*
+*Keyword: "{keyword}"*
+*Analyzed: 5 top-ranking articles*
+
+---
+
+## 1. User Search Intent
+
+**Primary Intent**: [From competitive analysis]
+
+**Core Questions Users Are Asking**:
+- [Question 1]
+- [Question 2]
+- [Question 3]
+
+---
+
+## 2. Competitive Baseline Requirements
+
+### Topics That MUST Be Covered:
+
+1. **[Topic Name]** - Found in [X/5] articles
+   - Typical depth/angle: [Description]
+
+2. **[Topic Name]** - Found in [X/5] articles
+   - Typical depth/angle: [Description]
+
+[Continue for all must-cover topics]
+
+### Topic Coverage Patterns:
+- [Pattern 1: e.g., "All articles lead with benefits before mechanism"]
+- [Pattern 2: e.g., "4/5 articles include dosing guidance"]
+
+---
+
+## 3. Citation & Evidence Landscape
+
+### Primary Research Sources (Academic):
+
+| Claim | Source | DOI/Link | Used By Articles |
+|-------|--------|----------|------------------|
+| [Specific claim] | [Author Year] | [DOI] | #1, #3, #5 |
+| [Specific claim] | [Author Year] | [DOI] | #2, #4 |
+
+### Secondary Sources (Non-Academic):
+
+- [Website name]: [Topics covered] - Used by: [Article numbers]
+- [Website name]: [Topics covered] - Used by: [Article numbers]
+
+### Citation Patterns:
+
+- Average citations per article: [N]
+- Most commonly cited study: [Study name/authors]
+- Citation density: [Observation about how heavily cited vs editorial]
+
+---
+
+## 4. People Also Ask Questions
+
+[Selected 4 most relevant from 8 fetched]
+
+1. [PAA Question 1]
+2. [PAA Question 2]
+3. [PAA Question 3]
+4. [PAA Question 4]
+
+*Note: Use these for FAQ section. Selected based on user intent and content gaps.*
+
+---
+
+## 5. Article-by-Article Analysis
+
+### Article 1: [Title]
+
+**URL**: [link]
+**Word Count**: ~[estimate]
+**Tone**: [scientific/casual/practical]
+**Citation Density**: [heavily/moderately/lightly cited]
+
+**Topics Covered**:
+- [Topic 1] (depth: [light/medium/deep])
+- [Topic 2] (depth: [light/medium/deep])
+- [...]
+
+**Claims & Sources**:
+
+**Primary Sources:**
+- **Claim**: "[Specific assertion]"
+  - Source: [Author Year]
+  - DOI: [link if available]
+
+**Secondary Sources:**
+- **Claim**: "[Another assertion]"
+  - Source: [Website/organization name]
+
+**Notable Angles**: [Unique perspectives or approaches]
+
+---
+
+[Repeat structure for Articles 2-5]
+
+---
+
+## 6. Synthesis for Drafting
+
+### Competitive Baseline Summary:
+
+[2-3 paragraphs describing what a competitive article looks like:
+- Standard structure/flow
+- Required topics and typical depth
+- Citation approach
+- Tone/accessibility level
+- Word count range: [X-Y] words]
+
+### Gaps & Opportunities for Seed:
+
+- **Gap 1**: [e.g., "No articles discuss bioidentical forms"]
+- **Gap 2**: [e.g., "Mechanism explanations are surface-level"]
+- **Opportunity**: [How Seed can differentiate while meeting baseline]
+
+### Recommended Approach:
+
+1. **Meet baseline** by covering: [Key topics list]
+2. **Layer Seed perspective** via: [Specific differentiators based on product messaging]
+3. **Target word count**: 1800-2000 words (baseline articles range: [X-Y])
+4. **Citation strategy**: [Based on competitive patterns - aim for ~12-15 academic sources]
+
+---
+
+## Notes for Drafter
+
+- [Any specific observations that would help draft generation]
+- [Watch-outs or cautions based on competitor analysis]
+- [Opportunities to exceed competitive baseline]
+```
+
+#### STEP 3: SAVE AND CONFIRM
+
+1. Write the complete analysis note to the file
+2. Confirm to user:
+   - File path created
+   - Folder number used
+   - Number of articles analyzed
+   - Number of PAA questions selected
+   - Ready for draft generation
+
+## Example
+
+```
+/pre-draft-competitor-analysis american ginseng
+```
+
+**Output**:
+- Folder: `Seed-SEO-Draft-Generator-v4/Generated-Drafts/021-american-ginseng/`
+- File: `stage1_analysis-american-ginseng.md`
+- Contains: Complete competitive analysis with 5 article breakdowns, 4 PAA questions, user intent, and synthesis
+
+## Implementation Notes
+
+### For Claude Executing This Command:
+
+1. **Phase 1 Parallelization**: Launch both Task agents simultaneously in a single message block
+2. **Wait for Completion**: Both agents must finish before proceeding to Phase 2
+3. **PAA Selection Logic**: Use the competitive analysis to inform which 4 of 8 questions are most valuable
+4. **Folder Numbering**: Always check existing folders to get the correct next number
+5. **Error Handling**: If Firecrawl or DataForSEO fails, report clearly and suggest retry
+6. **Token Management**: Sub-agents keep article analysis in separate contexts
+
+### Agent Communication:
+
+- Competitive Coordinator returns comprehensive JSON
+- PAA Fetch returns simple question list
+- Main command receives both and performs final synthesis
+- Sub-agents report back to coordinator in structured format
+
+### Quality Checks:
+
+- Verify all 5 articles were analyzed
+- Confirm PAA questions are relevant and diverse
+- Ensure primary sources are properly categorized
+- Validate folder numbering incremented correctly
+- Check that analysis note has all required sections
+
+## Success Criteria
+
+- ✅ Command accepts keyword input
+- ✅ Top 5 articles scraped and analyzed in parallel
+- ✅ 8 PAA questions fetched, 4 intelligently selected
+- ✅ Claims properly categorized (primary vs secondary)
+- ✅ User intent and competitive baseline clearly defined
+- ✅ Analysis note saved to correctly numbered folder
+- ✅ Output is immediately usable by draft generator
+
+## Related Commands
+
+- `/analyze-seo-draft` - Post-draft competitive analysis
+- `/review-draft-1` - Initial draft review
+- `/review-sources-2` - Source verification
+
+---
+
+*This command implements Phase 1 (Tasks 1.1, 1.2, 1.3, 1.4) of the Seed Generator V4 Update Plan*

@@ -69,10 +69,38 @@
       "mcp__google-workspace__get_doc_content",
       "mcp__google-workspace__create_doc",
       "Bash(mcp list:*)",
-      "mcp__google-drive__getGoogleSheetContent"
+      "mcp__google-drive__getGoogleSheetContent",
+      "mcp__google-drive__getGoogleDocContent",
+      "mcp__dfs-mcp-ai__serp_organic_live_advanced",
+      "Bash(if [ -f \"./dataforseo-filtered.sh\" ])",
+      "Bash(then ./dataforseo-filtered.sh \"best vitamins and minerals for energy\" \"en\" \"United States\")",
+      "Bash(else echo \"Script not found at expected location\")",
+      "Bash(fi)",
+      "Bash(chmod:*)",
+      "Bash(./dataforseo-json.sh \"best vitamins and minerals for energy\" \"en\" \"United States\")",
+      "Bash(mkdir:*)",
+      "mcp__google-workspace__get_drive_file_content",
+      "WebFetch(domain:api.dataforseo.com)",
+      "WebFetch(domain:api.firecrawl.dev)",
+      "WebFetch(domain:docs.googleapis.com)",
+      "WebFetch(domain:oauth2.googleapis.com)",
+      "WebFetch(domain:api.anthropic.com)",
+      "WebFetch(domain:statsig.anthropic.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "WebFetch(domain:www.googleapis.com)",
+      "WebFetch(domain:sheets.googleapis.com)",
+      "Bash(/Users/david/Documents/Obsidian\\ Vaults/claude-code-demo/.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh:*)",
+      "WebFetch(domain:generativelanguage.googleapis.com)",
+      "Bash(/Users/david/Documents/Obsidian\\ Vaults/claude-code-demo/.claude/skills/google-sheets/scripts/read-values.sh:*)",
+      "Bash(source:*)",
+      "Bash(refresh_google_token \"david@david-peralta.com\")"
     ],
     "deny": [],
     "ask": []
   },
-  "outputStyle": "SEO Content Generator v2"
+  "outputStyle": "SEO Content Generator v2",
+  "sandbox": {
+    "autoAllowBashIfSandboxed": true,
+    "enabled": true
+  }
 }

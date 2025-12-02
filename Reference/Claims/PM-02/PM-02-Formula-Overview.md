@@ -74,12 +74,12 @@
 - **Vitamin B3 (Niacin)**: 5mg (31.25% DV)
 
 ## Related Documents
-- [[PM-02-Shoden-Claims]]
-- [[PM-02-Melatonin-Claims]]
-- [[PM-02-PQQ-Claims]]
-- [[PM-02-GABA-Claims]]
-- [[PM-02-Thiamine-Claims]]
-- [[PM-02-Riboflavin-Claims]]
-- [[PM-02-Niacin-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-Shoden-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-Melatonin-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-PQQ-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-GABA-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-Thiamine-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-Riboflavin-Claims]]
+- [[Seed-SEO-Draft-Generator-v4/Reference/Claims/PM-02/PM-02-Niacin-Claims]]
 
 #supplement #formulation #pm-formula #product-specification #overview

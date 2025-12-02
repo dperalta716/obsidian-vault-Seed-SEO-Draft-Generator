@@ -1,0 +1,453 @@
+# Gemini File Search Integration - Task Checklist
+
+**Last Updated**: 2025-11-13
+**Status**: Not Started
+**Current Phase**: Pre-Phase 1
+
+---
+
+## Quick Reference
+
+**Total Phases**: 3
+**Estimated Duration**: 10-11 days
+**Total Tasks**: 34
+**Completed**: 0/34
+
+---
+
+## PHASE 1: POC - Gemini File Search Skill (Days 1-3)
+
+### Section 1: Environment Setup (Day 1, 2 hours)
+
+- [ ] **Task 1.1**: Store API Key [P0] [CRITICAL]
+  - [ ] Create file: `~/.claude/skills/gemini-api-key`
+  - [ ] Add paid tier key: `AIzaSyDSii2SLQEV4wxRxzfErwp4OSB1T4Y9PXo`
+  - [ ] Set permissions: `chmod 600`
+  - [ ] Validate key with test API call
+  - **Status**: Not Started
+  - **Effort**: S
+
+- [ ] **Task 1.2**: Create Skill Directory Structure [P0] [CRITICAL]
+  - [ ] Create: `/.claude/skills/gemini-file-search/`
+  - [ ] Create: `/.claude/skills/gemini-file-search/scripts/`
+  - [ ] Create: `/.claude/skills/gemini-file-search/scripts/lib/`
+  - [ ] Create: `/.claude/skills/gemini-file-search/references/`
+  - [ ] Verify all directories exist
+  - **Status**: Not Started
+  - **Effort**: S
+
+### Section 2: Core Script Development (Days 1-2, 8 hours)
+
+- [ ] **Task 2.1**: Authentication Helper [P0] [CRITICAL]
+  - [ ] Create: `scripts/lib/gemini-auth.sh`
+  - [ ] Implement `get_gemini_api_key()` function
+  - [ ] Export `GEMINI_API_KEY` variable
+  - [ ] Add error handling for missing key
+  - [ ] Make executable: `chmod +x`
+  - [ ] Test: `source gemini-auth.sh && echo $GEMINI_API_KEY`
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: 1.1
+
+- [ ] **Task 2.2**: Create Store Script [P0] [CRITICAL]
+  - [ ] Create: `scripts/create-store.sh`
+  - [ ] Implement POST request to create store
+  - [ ] Parse response for store name
+  - [ ] Add error handling
+  - [ ] Make executable
+  - [ ] Test: `./create-store.sh "test" | jq -r '.name'`
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: 2.1
+
+- [ ] **Task 2.3**: Upload File Script [P0] [CRITICAL]
+  - [ ] Create: `scripts/upload-file.sh`
+  - [ ] Implement Step 1: Initiate resumable upload
+  - [ ] Extract upload URL from headers
+  - [ ] Implement Step 2: Upload file bytes
+  - [ ] Add file validation
+  - [ ] Accept optional metadata JSON
+  - [ ] Add error handling
+  - [ ] Make executable
+  - [ ] Test with sample file
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 2.1
+
+- [ ] **Task 2.4**: Bulk Index Script [P0] [CRITICAL]
+  - [ ] Create: `scripts/bulk-index.sh`
+  - [ ] Implement `find` to locate files
+  - [ ] Extract metadata from file paths
+  - [ ] Build metadata JSON arrays
+  - [ ] Add progress tracking
+  - [ ] Add rate limiting (2-second delays)
+  - [ ] Report success/failure counts
+  - [ ] Make executable
+  - [ ] Test with small directory
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 2.3
+
+- [ ] **Task 2.5**: Query Store Script [P0] [CRITICAL]
+  - [ ] Create: `scripts/query-store.sh`
+  - [ ] Build request JSON with file_search tool
+  - [ ] Handle metadata filter parameter
+  - [ ] Parse response correctly
+  - [ ] Return grounding metadata
+  - [ ] Add error handling
+  - [ ] Make executable
+  - [ ] Test with sample query
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 2.1
+
+- [ ] **Task 2.6**: Utility Scripts [P1]
+  - [ ] Create: `scripts/list-stores.sh`
+  - [ ] Create: `scripts/get-store.sh`
+  - [ ] Create: `scripts/delete-store.sh`
+  - [ ] Add confirmation prompt for delete
+  - [ ] Make all executable
+  - [ ] Test each script
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: 2.1
+
+### Section 3: Documentation & POC Testing (Day 2-3, 4 hours)
+
+- [ ] **Task 3.1**: Skill Documentation [P0] [CRITICAL]
+  - [ ] Create: `SKILL.md` with frontmatter
+  - [ ] Document all 9 scripts with usage
+  - [ ] Include privacy/data protection info
+  - [ ] Include pricing information
+  - [ ] Include supported formats
+  - [ ] Include authentication setup
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 2.1-2.6
+
+- [ ] **Task 3.2**: API Reference [P1]
+  - [ ] Create: `references/api-reference.md`
+  - [ ] Document all endpoints
+  - [ ] Include authentication details
+  - [ ] Include data storage info
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: None
+
+- [ ] **Task 3.3**: POC Testing [P0] [CRITICAL]
+  - [ ] Test 1: Create POC store
+  - [ ] Test 2: Upload single file with metadata
+  - [ ] Test 3: Bulk index DM-02 Claims (5-10 files)
+  - [ ] Test 4: Query for B vitamin claims
+  - [ ] Test 5: Query with metadata filter
+  - [ ] Test 6: Verify store document count
+  - [ ] Measure: Token reduction percentage
+  - [ ] Verify: All relevant content retrieved
+  - [ ] Verify: Citations in groundingMetadata
+  - [ ] Document: Test results and metrics
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 2.1-2.6, 3.1
+
+**Phase 1 Gate**:
+- [ ] All POC tests passed
+- [ ] Token reduction ≥50% confirmed
+- [ ] No critical bugs
+- [ ] Documentation complete
+- [ ] Decision: Proceed to Phase 2
+
+---
+
+## PHASE 2: Partial Command Implementation (Days 4-7)
+
+### Section 4: Production Indexing (Day 4, 3 hours)
+
+- [ ] **Task 4.1**: Create Production Store [P0] [CRITICAL]
+  - [ ] Run: `./create-store.sh "seed-reference-materials-production"`
+  - [ ] Extract store name from response
+  - [ ] Save to: `/.claude/skills/gemini-file-search/PRODUCTION_STORE_NAME`
+  - [ ] Verify store with `get-store.sh`
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: Phase 1 complete
+
+- [ ] **Task 4.2**: Bulk Index All Materials [P0] [CRITICAL]
+  - [ ] Index: `Reference/Claims/` (~45 files)
+  - [ ] Index: `Reference/NPD-Messaging/` (~3 files)
+  - [ ] Index: `Reference/SciComms Education Files/` (~3 files)
+  - [ ] Index: `Reference/Compliance/` (~2 files)
+  - [ ] Index: `Reference/Style/` (~5 files)
+  - [ ] Verify: ~60 files total
+  - [ ] Verify: No failed uploads
+  - [ ] Verify: `activeDocumentsCount: ~60`
+  - [ ] Record: Total tokens indexed
+  - [ ] Calculate: Indexing cost
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: 4.1
+
+- [ ] **Task 4.3**: Validation Queries [P0] [CRITICAL]
+  - [ ] Query: DM-02 gut bacteria/vitamins claims
+  - [ ] Query: PM-02 melatonin dosing claims
+  - [ ] Query: AM-02 cellular energy claims
+  - [ ] Query: DM-02 NPD positioning
+  - [ ] Query: Relevant SciComms talking points
+  - [ ] Verify: Each returns correct content
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 4.2
+
+### Section 5: Partial Command Development (Days 5-6, 10 hours)
+
+- [ ] **Task 5.1**: Create Command File [P0] [CRITICAL]
+  - [ ] Create: `.claude/commands/review-draft-seed-perspective-gemini-file-search.md`
+  - [ ] Implement: Step 1 (file identification)
+  - [ ] Implement: Step 2 (product auto-detection)
+  - [ ] Implement: Step 3 (File Search retrieval)
+  - [ ] Implement: Step 4 (Grade 5 Claims checks)
+  - [ ] Implement: Step 5 (Report with retrieval stats)
+  - [ ] Implement: Step 6 (Apply fixes for Claims)
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: 4.3
+
+- [ ] **Task 5.2**: File Search Query Logic [P0] [CRITICAL]
+  - [ ] Read production store name from file
+  - [ ] Extract: keyword, ingredients, H2 headings, product
+  - [ ] Build intelligent Claims query
+  - [ ] Execute query via skill script
+  - [ ] Parse response correctly
+  - [ ] Extract claims text
+  - [ ] Extract grounding metadata (sources used)
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: 5.1
+
+- [ ] **Task 5.3**: Claims Grading Implementation [P0] [CRITICAL]
+  - [ ] Implement: Check 1 (PRIMARY authority >50%)
+  - [ ] Implement: Check 2 (Specific DOI links)
+  - [ ] Implement: Check 3 (Substantive support)
+  - [ ] Implement: Check 4 (Dose information)
+  - [ ] Implement: Check 5 (Ingredient attribution)
+  - [ ] Verify: Same results as original command
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 5.2
+
+- [ ] **Task 5.4**: Report Generation [P0] [CRITICAL]
+  - [ ] Show: Retrieval statistics
+  - [ ] Show: Source files used (from groundingMetadata)
+  - [ ] Show: Check results (X/5 passed)
+  - [ ] Show: Detailed findings per check
+  - [ ] Show: Phase 2 status note
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 5.3
+
+### Section 6: Phase 2 Testing (Day 7, 4 hours)
+
+- [ ] **Task 6.1**: Cross-Product Testing [P0] [CRITICAL]
+  - [ ] Test: DM-02 article (multivitamin)
+  - [ ] Test: PM-02 article (sleep/melatonin)
+  - [ ] Test: AM-02 article (energy/focus)
+  - [ ] Test: Cross-product ingredient (PQQ/CoQ10/GABA)
+  - [ ] For each: Measure token usage
+  - [ ] For each: Verify retrieval relevance
+  - [ ] For each: Compare grading vs original
+  - [ ] For each: Confirm no false negatives
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 5.4
+
+- [ ] **Task 6.2**: Performance Benchmarking [P0] [CRITICAL]
+  - [ ] Run: 5+ test reviews
+  - [ ] Measure: Average token usage (File Search)
+  - [ ] Measure: Average token usage (Original)
+  - [ ] Calculate: Token reduction percentage
+  - [ ] Measure: Execution time (both commands)
+  - [ ] Calculate: Speed improvement factor
+  - [ ] Calculate: Cost per review (both)
+  - [ ] Verify: ≥60% token reduction
+  - [ ] Verify: ≥2x speed improvement
+  - [ ] Verify: 100% grading accuracy
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 6.1
+
+**Phase 2 Gate**:
+- [ ] All 60 files indexed successfully
+- [ ] Claims checks work identically
+- [ ] Performance benchmarks met
+- [ ] No content missed
+- [ ] Decision: Proceed to Phase 3
+
+---
+
+## PHASE 3: Full Feature Parity (Days 8-10)
+
+### Section 7: Complete Implementation (Days 8-9, 12 hours)
+
+- [ ] **Task 7.1**: NPD Messaging Integration [P0] [CRITICAL]
+  - [ ] Implement: Query 2 (NPD Messaging retrieval)
+  - [ ] Include: Product context in query
+  - [ ] Retrieve: Positioning, differentiators, narratives
+  - [ ] Retrieve: Dirk Gevers quote suggestions
+  - [ ] Implement: Checks 6-10 (product-specific)
+  - [ ] Implement: DM-02 checks (soil depletion, etc.)
+  - [ ] Implement: PM-02 checks (precision dosing, etc.)
+  - [ ] Implement: AM-02 checks (sustained energy, etc.)
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: Phase 2 complete
+
+- [ ] **Task 7.2**: SciComms Integration [P0] [CRITICAL]
+  - [ ] Implement: Query 3 (SciComms retrieval)
+  - [ ] Filter: Relevance to article topic
+  - [ ] Retrieve: Talking points, narratives, sources
+  - [ ] Implement: Check 11 (Relevant talking points)
+  - [ ] Implement: Check 12 (Product narratives)
+  - [ ] Implement: Check 13 (Additional sources)
+  - [ ] Implement: Check 14 (Educational angle)
+  - [ ] Implement: Check 15 (Dirk quote alignment)
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: 7.1
+
+- [ ] **Task 7.3**: Complete Grading System [P0] [CRITICAL]
+  - [ ] Verify: All 15 checks functional
+  - [ ] Implement: Letter grade (A-F) calculation
+  - [ ] Generate: Report with all 3 sections (A, B, C)
+  - [ ] Assign: Priority levels correctly
+  - [ ] Generate: Fix recommendations for all checks
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 7.2
+
+- [ ] **Task 7.4**: Advanced Features [P1]
+  - [ ] Feature 1: Show retrieval sources
+  - [ ] Feature 2: Cache store name with fallback
+  - [ ] Feature 3: Error handling for missing store
+  - [ ] Feature 4: Token usage comparison display
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 7.3
+
+### Section 8: Final Testing & Documentation (Day 10, 6 hours)
+
+- [ ] **Task 8.1**: Comprehensive Testing [P0] [CRITICAL]
+  - [ ] Test Matrix: 3 products × 3 lengths × 2 topic types
+  - [ ] For each: Verify all 15 checks match original
+  - [ ] For each: Verify no content missed
+  - [ ] For each: Verify token usage in range
+  - [ ] For each: Verify faster execution
+  - [ ] For each: Verify 100% grading accuracy
+  - [ ] Document: Test results for all cases
+  - **Status**: Not Started
+  - **Effort**: L
+  - **Dependencies**: 7.4
+
+- [ ] **Task 8.2**: Performance Analysis [P0] [CRITICAL]
+  - [ ] Run: 10+ reviews across all products
+  - [ ] Calculate: Average token usage
+  - [ ] Calculate: Token reduction percentage
+  - [ ] Calculate: Average execution time
+  - [ ] Calculate: Speed improvement factor
+  - [ ] Calculate: Cost per review
+  - [ ] Calculate: Monthly cost savings
+  - [ ] Generate: Performance comparison report
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 8.1
+
+- [ ] **Task 8.3**: Documentation Updates [P0] [CRITICAL]
+  - [ ] Complete: Command documentation
+  - [ ] Update: Main CLAUDE.md with skill reference
+  - [ ] Create: Troubleshooting guide
+  - [ ] Document: Re-indexing process
+  - [ ] Document: Store management procedures
+  - **Status**: Not Started
+  - **Effort**: M
+  - **Dependencies**: 8.2
+
+- [ ] **Task 8.4**: Knowledge Transfer [P1]
+  - [ ] Create: "How to Use" guide
+  - [ ] Document: When to use File Search vs original
+  - [ ] Document: Maintenance procedures
+  - [ ] Document: Cost monitoring
+  - **Status**: Not Started
+  - **Effort**: S
+  - **Dependencies**: 8.3
+
+**Phase 3 Gate**:
+- [ ] All 15 checks functional and accurate
+- [ ] Comprehensive testing passed
+- [ ] Documentation complete
+- [ ] Ready for production rollout
+
+---
+
+## Production Rollout
+
+- [ ] **Soft Launch** (Week 1)
+  - [ ] Use on 25% of reviews
+  - [ ] Monitor metrics closely
+  - [ ] Gather user feedback
+
+- [ ] **Monitoring** (Week 1-2)
+  - [ ] Track: Usage metrics
+  - [ ] Track: Performance metrics
+  - [ ] Track: Cost metrics
+  - [ ] Track: Quality metrics
+  - [ ] Address: Any issues found
+
+- [ ] **Full Rollout** (Week 3)
+  - [ ] Use on 100% of reviews
+  - [ ] Update workflows
+  - [ ] Communicate changes
+  - [ ] Continue monitoring
+
+- [ ] **Optimization** (Ongoing)
+  - [ ] Refine queries based on usage
+  - [ ] Improve performance
+  - [ ] Update documentation
+  - [ ] Quarterly re-indexing
+
+---
+
+## Progress Tracking
+
+### By Phase
+- **Phase 1**: 0/11 tasks (0%)
+- **Phase 2**: 0/11 tasks (0%)
+- **Phase 3**: 0/9 tasks (0%)
+- **Rollout**: 0/3 tasks (0%)
+
+### By Priority
+- **P0 (Critical)**: 0/24 tasks (0%)
+- **P1 (High)**: 0/7 tasks (0%)
+
+### By Effort
+- **S (Small)**: 0/8 tasks (0%)
+- **M (Medium)**: 0/14 tasks (0%)
+- **L (Large)**: 0/9 tasks (0%)
+
+---
+
+## Notes & Blockers
+
+### Current Blockers
+*None*
+
+### Notes
+- Paid tier API key confirmed: AIzaSyDSii2SLQEV4wxRxzfErwp4OSB1T4Y9PXo
+- Data privacy: Full protection, NOT used for training
+- Target metrics: 60-80% token reduction, 2-5x speed improvement
+- Original command remains as fallback
+
+### Next Session
+**Start with**: Task 1.1 - Store API Key
+
+---
+
+**Last Updated**: 2025-11-13
+**Next Review**: After each phase completion

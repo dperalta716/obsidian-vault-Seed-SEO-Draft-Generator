@@ -102,6 +102,19 @@ CRITICAL CITATION REQUIREMENT:
 - [ ] Food sources mentioned for key nutrients
 - [ ] Citations properly formatted with DOI links
 
+### Step 6: Save Drafting Instructions
+
+After generating the detailed drafter instructions, automatically save them to a markdown file:
+
+- **File location**: Same folder as the original draft file
+- **File name**: `Drafting Instructions.md`
+- **Format**: Complete markdown file with all sections from Step 5 (trimming strategy, additions, citation management, structure, checklist, implementation order, notes)
+- **Confirmation**: Notify user where the file was saved
+
+**Example**: If analyzing `/Draft Optimizations/001-Signs Probiotics/article.md`, save instructions to `/Draft Optimizations/001-Signs Probiotics/Drafting Instructions.md`
+
+**Important**: Always create this file automatically - do not ask the user if they want it created.
+
 ## Example
 
 ```
@@ -116,6 +129,7 @@ The command provides:
 3. Detailed comparative analysis
 4. Interactive recommendation selection
 5. Formatted drafter instructions ready for implementation
+6. Drafting Instructions.md file automatically saved in draft folder
 
 ## Notes
 

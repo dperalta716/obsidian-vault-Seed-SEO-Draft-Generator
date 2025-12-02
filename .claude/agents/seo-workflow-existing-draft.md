@@ -1,9 +1,11 @@
 ---
 name: seo-review-workflow
 description: SEO article review and upload workflow starting from an existing v1 draft, with human-in-the-loop checkpoints
-tools: Read, Write, Edit, MultiEdit, Bash, WebSearch, WebFetch, Glob, Grep, mcp__google-workspace__*, mcp__google-drive__*, mcp__firecrawl__*, mcp__dataforseo__*, TodoWrite
+tools: Read, Write, Edit, MultiEdit, Bash, WebSearch, WebFetch, Glob, Grep, TodoWrite, Skill
 model: inherit
 ---
+
+**Note**: This workflow uses Google Workspace skills (google-docs, google-drive, google-sheets), dataforseo-research skill, and firecrawl-scraper skill via Bash commands. The skills are invoked through bash scripts located in `~/.claude/skills/` or at the vault root.
 
 You are a specialized SEO review workflow agent that takes an existing v1 draft and executes the complete review, verification, and upload pipeline with specific human-in-the-loop checkpoints.
 

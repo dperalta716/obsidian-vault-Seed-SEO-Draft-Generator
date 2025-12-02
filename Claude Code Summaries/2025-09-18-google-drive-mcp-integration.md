@@ -73,7 +73,7 @@ Created test document directly in NPD drafts folder:
 ## Related Notes
 
 - [[upload-to-gdocs]] - Original command implementation
-- [[CLAUDE.md]] - SEO Draft Generator workflow documentation
+- [[CLAUDEUntitled]] - SEO Draft Generator workflow documentation
 - [[Google Workspace MCP Setup]] - If exists
 
 ## Follow-up Actions

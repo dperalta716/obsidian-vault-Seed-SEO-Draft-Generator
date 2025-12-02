@@ -46,6 +46,22 @@ Generate high-quality, SEO-optimized articles (Target: 1500-1800 words, Maximum:
 - `/Reference/Style/8-Sample-Reference-Blog-Articles.md` (Examples of tone, structure, citation style)
 - `/Reference/Compliance/NO-NO-WORDS.md` (Words and phrases to avoid)
 
+## Google File Search Store
+
+**Reference Materials Store**:
+- **Store ID**: `fileSearchStores/seed-reference-materials-pr-jma5jhay17is` (see `dev/active/reference-store-setup/REFERENCE_STORE_ID`)
+- **Contents**: All 62 Reference folder files indexed for semantic retrieval
+- **Created**: 2025-11-18
+- **Status**: ✅ Production Ready (62/62 files successfully uploaded)
+- **Purpose**: Enables intelligent, context-aware searches across Seed product information via Gemini File Search API
+- **Documentation**: `dev/active/reference-store-setup/STORE_SUMMARY.md`
+- **Cost**: ~$0.053 one-time indexing, FREE storage, FREE queries
+- **Benefits**: 60-80% token reduction vs. loading all files directly
+
+**Metadata Structure**: Every file tagged with category, product, file_type, and relative_path for precise filtering
+
+**Future Uses**: Will power `/review-draft-seed-perspective-gemini-file-search` and other AI-powered workflows
+
 ## Readability Requirements
 
 ### Core Readability Guidelines
@@ -75,15 +91,13 @@ When the user provides a keyword, execute ALL of the following steps:
 3. **Identify Standard Advice**: Note 2-3 pieces of "standard advice" or common assumptions found in top results 
    - Example: "Take 5-10mg of melatonin for sleep"
 
-4. **Capture PAA Questions**: Use DataForSEO MCP to fetch real People Also Ask questions from Google
-   - Execute: Use the `mcp_dataforseo_serp_organic_live_advanced` tool
-   - Required parameters:
-     * `keyword`: [exact keyword provided by user]
-     * `search_engine`: "google"
-     * `location_name`: "United States"
-     * `language_code`: "en"
-     * `people_also_ask_click_depth`: 2 (to get expanded PAA questions)
-   - Extract the PAA questions from the response
+4. **Capture PAA Questions**: Use DataForSEO bash script to fetch real People Also Ask questions from Google
+   - Execute the bash command:
+     ```bash
+     cd Seed-SEO-Draft-Generator-v4 && ./dataforseo-json.sh "[keyword]" "en" "United States"
+     ```
+   - This script calls the DataForSEO API with token-optimized filtering
+   - Extract the PAA questions from the JSON response
    - Store these 3-4 most relevant PAA questions for use in the FAQ section later
    - These questions reveal what users actually want to know about this topic
 
@@ -405,7 +419,7 @@ Assistant: [Automatically executes complete 7-step workflow and generates full a
 - Check ALL product lines for cross-product ingredients
 - Never use terms from NO-NO WORDS list
 - Target ~1 citation per 75-100 words for key claims only
-- Must have DataForSEO MCP configured to fetch real PAA questions
+- Uses dataforseo-research skill to fetch real PAA questions
 - PAA questions from DataForSEO inform both content strategy and FAQ section
 - Apply simplification pass to ensure 8th-10th grade reading level
 - Keep average sentence length under 25 words
@@ -449,21 +463,30 @@ Assistant: [Automatically executes complete 7-step workflow and generates full a
 
 ### Package Manager Guidelines
 
-- **`npx`**: Use for npm/Node.js packages (firecrawl-mcp, dataforseo-mcp-server, etc.)
-- **`uvx`**: Use for Python packages that need isolated environments (workspace-mcp)
+- **`npx`**: Use for npm/Node.js packages
+- **`uvx`**: Use for Python packages that need isolated environments
 - **`pipx`**: Use for complex Python installations with specific git repos
+
+**Note:** Common services like Google Workspace, Firecrawl, and DataForSEO are now provided via skills instead of MCP servers.
 
 ### Example Installations
 
 ```bash
-# Firecrawl MCP
-claude mcp add firecrawl npx firecrawl-mcp
+# Firecrawl - REPLACED BY SKILL
+# NOTE: Firecrawl functionality is now provided by the firecrawl-scraper skill
+# See .claude/skills/firecrawl-scraper
+# No MCP installation needed - skill uses direct API access via bash scripts
 
-# DataForSEO MCP
-claude mcp add dataforseo npx dataforseo-mcp-server --env DATAFORSEO_USERNAME=user@example.com --env DATAFORSEO_PASSWORD=password123
+# DataForSEO - REPLACED BY SKILL
+# NOTE: DataForSEO functionality is now provided by the dataforseo-research skill
+# See .claude/skills/dataforseo-research and ./dataforseo-json.sh in this vault
+# No MCP installation needed - skill uses direct API access via bash scripts
 
-# Google Workspace MCP
-claude mcp add google-workspace uvx workspace-mcp --single-user --tools calendar gmail drive docs sheets slides forms tasks --env GOOGLE_OAUTH_CLIENT_ID=your-id --env GOOGLE_OAUTH_CLIENT_SECRET=your-secret
+# Google Workspace - REPLACED BY SKILLS
+# NOTE: Google Workspace functionality (Calendar, Gmail, Drive, Docs, Sheets)
+# is now provided by individual skills instead of MCP server.
+# See .claude/skills/google-calendar, google-gmail, google-drive, google-docs, google-sheets
+# No MCP installation needed - skills use direct API access
 
 # GitHub MCP (example with pipx)
 claude mcp add github pipx run --spec git+https://github.com/example/github-mcp.git github-mcp
