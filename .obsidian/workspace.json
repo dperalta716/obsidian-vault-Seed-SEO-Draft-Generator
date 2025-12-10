@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b02137ed64b9e0ad",
+        "id": "2ac4158e26eb46ce",
         "type": "tabs",
         "children": [
           {
-            "id": "a17d4e4d34b96c61",
+            "id": "aad6efb2316cbdf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generated-Drafts/020-cellular health supplements/v4-sources-verified.md",
+                "file": "Phase 1 Draft Revisions/001-probiotics-for-gastritis/Drafting Instructions V2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "v4-sources-verified"
+              "title": "Drafting Instructions V2"
+            }
+          },
+          {
+            "id": "804139ceba300b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
+            }
+          },
+          {
+            "id": "ad95fc7997fcbe43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/Drafting Instructions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drafting Instructions"
+            }
+          },
+          {
+            "id": "0a557fe88f6276d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,46 +209,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a17d4e4d34b96c61",
+  "active": "0a557fe88f6276d6",
   "lastOpenFiles": [
-    "Generated-Drafts/019-american ginseng/American Ginseng-v5-claims-verified.md",
-    "Generated-Drafts/019-american ginseng/American Ginseng-v4-sources-verified.md",
-    "Generated-Drafts/019-american ginseng/American Ginseng -v2.md",
+    "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/Drafting Instructions.md",
+    "conflict-files-obsidian-git.md",
+    "CLAUDE.md",
+    "Phase 1 Draft Revisions/001-probiotics-for-gastritis/Drafting Instructions V2.md",
+    "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/best-probiotics-for-ibs-currently-published.md",
     "Generated-Drafts/020-cellular health supplements/v4-sources-verified.md",
-    "Generated-Drafts/019-american ginseng/American Ginseng-v3-reviewed.md",
-    "Generated-Drafts/020-cellular health supplements/v3-reviewed.md",
-    "Generated-Drafts/020-cellular health supplements/cellular health supplements-v2.md",
-    "Generated-Drafts/020-cellular health supplements/cellular health supplements-v1.md",
-    "Generated-Drafts/019-american ginseng/American Ginseng -v1.md",
-    "Generated-Drafts/020-cellular health supplements/v2-revision-instructions.md",
-    "Generated-Drafts/018-Ashwagandha vs. CBD/v4-sources-verified.md",
-    "Generated-Drafts/020-cellular health supplements",
-    "Generated-Drafts/019-american ginseng",
-    "Reference/Claims/PM-02/PM-02-Shoden-Claims.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/v4-sources-verified.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/v5-claims-verified.md.tmp.52132.1759439198012",
-    "Generated-Drafts/017-l theanine vs ashwagandha/v5-claims-verified.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/v3-reviewed.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/v4-sources-verified.md.tmp.52132.1759438287513",
-    "Generated-Drafts/018-Ashwagandha vs. CBD/Ashwagandha vs CBD-v2.md",
-    "Generated-Drafts/018-Ashwagandha vs. CBD/v3-reviewed.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/l theanine vs ashwagandha-v2.md",
-    "Generated-Drafts/018-Ashwagandha vs. CBD/Ashwagandha vs CBD-v1.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/Untitled.md",
-    "Generated-Drafts/017-l theanine vs ashwagandha/l theanine vs ashwagandha-v1.md",
-    "Generated-Drafts/018-Ashwagandha vs. CBD",
-    "Generated-Drafts/017-l theanine vs ashwagandha",
-    "Generated-Drafts/015-vitamins for brain health/v5-claims-verified.md",
-    "Generated-Drafts/015-vitamins for brain health/v4-sources-verified.md",
-    "Generated-Drafts/016-joint health supplements/v5-claims-verified.md",
-    "Generated-Drafts/015-vitamins for brain health/vitamins-and-minerals-for-brain-health-v3-tone-fixed.md",
-    "Generated-Drafts/016-joint health supplements/joint health supplements-v4-sources-verified.md",
-    "Generated-Drafts/016-joint health supplements",
-    "Generated-Drafts/015-vitamins for brain health",
-    "Generated-Drafts/014-heart health supplements",
-    "Generated-Drafts/013-brain-supplements"
+    "Generated-Drafts/036-vitamins-for-energy-for-men/Vitamins for energy for men - v1.md",
+    "Generated-Drafts/036-vitamins-for-energy-for-men/v2-reviewed.md",
+    "CONTENT-CREATION-WORKFLOW.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-constipation/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/002-best-probiotic-for-bloating/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/Drafting Instructions V2.md",
+    "Phase 1 Draft Revsions/012-best-probiotic-for-sibo/Drafting Instructions V2.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-antibiotics/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-antibiotics/Drafting Instructions V2.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-antibiotics/best-probiotic-for-antibiotics-currently-published.md",
+    "Phase 1 Draft Revisions/002-best-probiotic-for-bloating/Drafting Instructions V2.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-constipation/Drafting Instructions V2.md",
+    "Phase 1 Draft Revsions/012-best-probiotics-for-diarrhea/Drafting Instructions V2.md",
+    "Phase 1 Draft Revsions/012-best-probiotic-for-sibo/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/001-probiotics-for-gastritis/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/001-probiotics-for-gastritis/probiotics-for-gastritis-currently-published.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-constipation/best-probiotic-for-constipation-currently-published.md",
+    "Phase 1 Draft Revsions/012-best-probiotics-for-diarrhea/Drafting Instructions.md",
+    "Phase 1 Draft Revisions/002-best-probiotic-for-bloating/best-probiotic-for-bloating-currently-published.md",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-constipation",
+    "Phase 1 Draft Revsions/012-best-probiotics-for-diarrhea/best-probiotics-for-diarrhea-currently-published.md",
+    "Phase 1 Draft Revsions/012-best-probiotics-for-diarrhea",
+    "Phase 1 Draft Revisions/002-best-probiotic-for-bloating",
+    "Phase 1 Draft Revisions/001-best-probiotics-for-ibs",
+    "Phase 1 Draft Revisions/001-best-probiotic-for-antibiotics",
+    "Phase 1 Draft Revisions/001-probiotics-for-gastritis",
+    "Phase 1 Draft Revisions",
+    "Phase 1 Draft Revsions/012-best-probiotic-for-sibo",
+    "CONTENT-CREATION-WORKFLOW.md.tmp.29777.1764638754908",
+    "Generated-Drafts/020-cellular health supplements"
   ]
 }

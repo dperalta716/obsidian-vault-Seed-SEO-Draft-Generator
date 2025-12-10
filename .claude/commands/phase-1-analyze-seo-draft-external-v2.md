@@ -1,11 +1,11 @@
-# phase-1-analyze-seo-draft-step-1
+# phase-1-analyze-seo-draft-external-v2
 
-Performs competitive analysis of a published Seed blog article against top-ranking competitors and generates revision instructions for Phase 1 content improvements.
+Performs competitive analysis of a published Seed blog article against top-ranking competitors and generates revision instructions for an **external human drafter** (Phase 1 content improvements). **v2 adds strategic analysis context at the top of the drafting instructions.**
 
 ## Usage
 
 ```
-/phase-1-analyze-seo-draft-step-1 <url_or_path> <primary_keyword>
+/phase-1-analyze-seo-draft-external-v2 <url_or_path> <primary_keyword>
 ```
 
 ## Parameters
@@ -27,6 +27,7 @@ This command automates a comprehensive SEO competitive analysis workflow for Pha
 8. **Outputs a structured comparison** highlighting strengths, gaps, and SEO-safe Seed-aligned recommendations
 9. **Asks for your feedback** on which improvements to implement
 10. **Generates detailed instructions** for the content drafter with bolding and citation requirements
+11. **NEW in v2**: Includes strategic analysis context (SciCare POV, competitive landscape, strengths/gaps) at the TOP of the drafting instructions
 
 ## Workflow
 
@@ -127,11 +128,11 @@ This command automates a comprehensive SEO competitive analysis workflow for Pha
 
 **Analysis Questions to Answer**:
 
-- ✅ Does this competitor topic align with Seed's scientific stance?
-- ✅ Would this recommendation contradict Seed's compliance guidelines?
-- ✅ Does Seed frame this topic differently than standard industry messaging?
-- ✅ Has DS-01/PDS-08 been studied for this specific use case?
-- ✅ Are there any restrictions on what Seed can/cannot claim?
+- Does this competitor topic align with Seed's scientific stance?
+- Would this recommendation contradict Seed's compliance guidelines?
+- Does Seed frame this topic differently than standard industry messaging?
+- Has DS-01/PDS-08 been studied for this specific use case?
+- Are there any restrictions on what Seed can/cannot claim?
 
 **Required Output for Step 3**:
 
@@ -149,17 +150,7 @@ Create a brief summary (3-5 bullet points) documenting:
 4. **Topics to Avoid**: List any topics Seed cannot address due to lack of clinical data
    - Example: "SIBO: DS-01 not studied in this population; avoid detailed discussion"
 
-**Example Output**:
-
-> **Seed Perspective Summary:**
->
-> 1. **Fermented Foods**: Competitors casually list yogurt/kefir as "probiotic foods." Per SciCare POV (lines 1993-2036), Seed distinguishes these as "Live Dietary Microbes" that are NOT technically probiotics. If recommending, must clarify scientific distinction and link to Seed's article.
->
-> 2. **SIBO**: Competitors discuss SIBO connection to probiotics. Per SciCare POV (lines 2094-2178), DS-01 has NOT been studied in SIBO populations; Seed cannot comment on efficacy. Avoid detailed SIBO discussion or reframe as "persistent symptoms may signal other conditions - consult physician."
->
-> 3. **Transient Nature**: Seed emphasizes probiotics are transient visitors, not colonizers (lines 343, 553-556). This is a key differentiator to weave into recommendations.
-
-**Important**: This step is MANDATORY. Do not proceed to Step 3 without completing SciCare POV review. Missing this step leads to recommendations that contradict Seed's scientific positions.
+**Important**: This step is MANDATORY. Do not proceed to Step 3 without completing SciCare POV review.
 
 ### Step 3: Comparative Analysis Output
 
@@ -192,46 +183,32 @@ Generate a structured report with these sections:
 **For Each Recommendation, Verify**:
 
 1. **Existing Headers (H2/H3)**:
-   - ✅ Does NOT remove or replace headers that contain the primary keyword
-   - ✅ Does NOT suggest removing keywords from existing headers
-   - ✅ NEW headers don't need forced keyword insertion (natural language is fine)
-   - ❌ BAD: "Change 'How Probiotics Support Gut Health' to 'Understanding the Science'"
-   - ✅ GOOD: "Add new H3 'Timing Your Probiotic Dose' under existing 'How to Take Probiotics' section"
+   - Does NOT remove or replace headers that contain the primary keyword
+   - Does NOT suggest removing keywords from existing headers
+   - NEW headers don't need forced keyword insertion (natural language is fine)
 
 2. **Keyword Presence**:
-   - ✅ Recommendation maintains or improves overall keyword presence in article
-   - ✅ Does NOT dilute keyword density by adding large blocks of off-topic content
-   - ✅ New content includes semantic keywords naturally (not forced)
+   - Recommendation maintains or improves overall keyword presence in article
+   - Does NOT dilute keyword density by adding large blocks of off-topic content
+   - New content includes semantic keywords naturally (not forced)
 
 3. **Meta Elements**:
-   - ✅ Does NOT suggest changing title tags, meta descriptions, or URL slugs
-   - ❌ NEVER recommend: "Update SEO title to..." or "Change URL to..."
+   - Does NOT suggest changing title tags, meta descriptions, or URL slugs
+   - NEVER recommend: "Update SEO title to..." or "Change URL to..."
 
 4. **Internal Links**:
-   - ✅ Does NOT remove existing internal links
-   - ✅ Can suggest adding NEW internal links to relevant Seed content
+   - Does NOT remove existing internal links
+   - Can suggest adding NEW internal links to relevant Seed content
 
 5. **Readability & User Intent**:
-   - ✅ Does NOT add keyword stuffing or unnatural phrasing
-   - ✅ Maintains alignment with primary keyword's search intent
-   - ✅ Additions serve user needs, not just SEO manipulation
+   - Does NOT add keyword stuffing or unnatural phrasing
+   - Maintains alignment with primary keyword's search intent
+   - Additions serve user needs, not just SEO manipulation
 
 **If a Recommendation Fails SEO Check**:
-- **Revise it** to preserve SEO elements (e.g., "Add content AFTER existing H2 instead of replacing it")
+- **Revise it** to preserve SEO elements
 - **Remove it** if it can't be salvaged without SEO harm
 - **Document** any removed recommendations and why
-
-**Final Validation**:
-- Review the complete list of 8-12 recommendations
-- Ensure at least 50% maintain or enhance SEO elements
-- Flag any high-risk recommendations for user awareness
-
-**Example Output**:
-
-> **SEO Review Summary:**
-> - ✅ 10/12 recommendations are SEO-safe
-> - ⚠️ Revised Recommendation #4: Changed from "replace H2" to "add new subsection under existing H2" to preserve keyword in header
-> - ❌ Removed original Recommendation #7: Would have removed internal link to high-value Seed article
 
 ### Step 4: Interactive Feedback
 
@@ -241,7 +218,71 @@ Wait for user to specify which recommendations to proceed with.
 
 ### Step 5: Generate Drafter Instructions for Phase 1 Revisions
 
-Based on selected improvements, create detailed implementation instructions including:
+Based on selected improvements, create detailed implementation instructions.
+
+#### Document Structure Requirements (NEW in v2)
+
+**CRITICAL**: The Drafting Instructions document MUST include strategic analysis context at the TOP, followed by the drafter instructions. Use this exact structure:
+
+```markdown
+# Strategic Analysis Context
+
+## Seed SciCare POV Summary
+
+### Key Seed Perspectives Found
+- [List 2-3 topics where Seed has unique scientific positions relevant to this article]
+
+### Conflicts Identified
+- [Note any competitor recommendations that contradict Seed's stance]
+
+### Topics to Handle Carefully
+- [List topics requiring special framing or that Seed cannot address]
+
+---
+
+## Competitive Landscape Analysis
+
+### Competitors Analyzed
+- **[Competitor 1 Name/Source]**: [Brief description of their angle/approach]
+- **[Competitor 2 Name/Source]**: [Brief description]
+- **[Competitor 3 Name/Source]**: [Brief description]
+- **[Competitor 4 Name/Source]**: [Brief description]
+
+---
+
+## Where Your Article Excels
+- [Bullet point 1 - specific strength]
+- [Bullet point 2 - specific strength]
+- [Bullet point 3 - specific strength]
+- [Continue as needed]
+
+---
+
+## Where Competitors Have Advantages
+- [Bullet point 1 - specific gap/advantage]
+- [Bullet point 2 - specific gap/advantage]
+- [Bullet point 3 - specific gap/advantage]
+- [Continue as needed]
+
+---
+
+## Content Gaps Identified
+- [Specific missing element 1]
+- [Specific missing element 2]
+- [Specific missing element 3]
+- [Continue as needed]
+
+---
+---
+
+# Drafting Instructions
+
+[The actual drafting instructions for the human drafter follow below]
+
+---
+
+[INSTRUCTIONS START HERE]
+```
 
 #### Reference Files Header
 ```
@@ -331,23 +372,34 @@ After generating the detailed drafter instructions, automatically save them to a
 
 - **File location**: Same folder as the scraped article
 - **File name**: `Drafting Instructions.md`
-- **Format**: Complete markdown file with all sections from Step 5
+- **Format**: Complete markdown file with strategic context at TOP, then drafter instructions
 - **Confirmation**: Notify user where the file was saved
 
 **Example**: If analyzing article saved to `/Phase 1 Draft Revisions/004-probiotics-gut-health/`, save instructions to `/Phase 1 Draft Revisions/004-probiotics-gut-health/Drafting Instructions.md`
 
 **Important**: Always create this file automatically - do not ask the user if they want it created.
 
+### Final Quality Checklist
+
+Before saving, verify:
+- [ ] **Strategic context sections included at TOP** (SciCare POV, Competitive Landscape, Excels, Advantages, Gaps)
+- [ ] Drafter instructions are clear and actionable
+- [ ] ALL existing citations preserved in guidance
+- [ ] Content guidance aligns with Seed's SciCare POV
+- [ ] No forbidden terms from no-no words list suggested
+- [ ] Maintains SEO best practices guidance
+- [ ] Tone guidance matches Seed's knowledgeable friend voice
+
 ## Example
 
 ```
-/phase-1-analyze-seo-draft-step-1 /cultured/probiotics-for-gut-health "probiotics for gut health"
+/phase-1-analyze-seo-draft-external-v2 /cultured/probiotics-for-gut-health "probiotics for gut health"
 ```
 
 or
 
 ```
-/phase-1-analyze-seo-draft-step-1 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
+/phase-1-analyze-seo-draft-external-v2 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
 ```
 
 ## Output Format
@@ -360,8 +412,19 @@ The command provides:
 5. Detailed comparative analysis through Seed's scientific lens
 6. **SEO Review Summary** showing recommendations validated against SEO safety checklist
 7. Interactive recommendation selection
-8. Formatted drafter instructions ready for implementation
+8. Formatted drafter instructions with:
+   - **Strategic analysis context at TOP** (NEW in v2)
+   - Clear implementation guidance for human drafter
 9. Drafting Instructions.md file automatically saved in article folder
+
+## Key Differences from Other Commands
+
+| Aspect | external-v1 | external-v2 (this command) | claude-v1 | claude-v2 |
+|--------|-------------|----------------------------|-----------|-----------|
+| Output | Instructions for human drafter | Instructions + strategic context | Revised article | Revised article + strategic context |
+| Final file | `Drafting Instructions.md` | `Drafting Instructions.md` | `v2-revised-[keyword].md` | `v2-revised-[keyword].md` |
+| Who drafts | Human drafter (Sydni) | Human drafter (Sydni) | Claude directly | Claude directly |
+| Strategic context | No | **Yes** | No | Yes |
 
 ## Notes
 
@@ -370,13 +433,9 @@ The command provides:
 - Always uses exact keyword provided by user (not extracted from article)
 - Sequential folder numbering keeps revisions organized
 - **Preserves all existing citations** - no removal even if count >15
-- **Bolding system** clearly marks new vs. existing content
+- **Bolding system** clearly marks new vs. existing content in guidance
 - **MANDATORY SciCare POV consultation** (Step 2.5) - prevents recommendations that contradict Seed's scientific positions
 - **MANDATORY SEO safety evaluation** (Step 3) - prevents recommendations that harm existing SEO elements
-- SEO checklist validates headers, keyword presence, meta elements, internal links, and readability
-- Prevents common SEO mistakes: removing keywords from headers, breaking internal links, keyword stuffing
-- SciCare POV contains Seed's evidence-based positions, compliance restrictions, and scientific distinctions
-- Common topics requiring SciCare POV check: fermented foods, SIBO, die-off reactions, colonization, dosing, CFU vs AFU
+- **NEW in v2**: Final document includes strategic analysis context (SciCare POV summary, competitive landscape, strengths, gaps) at the TOP for drafter context
 - Maintains Seed's unique scientific perspective and brand voice
 - Focuses on SEO best practices throughout revision process
-- Emphasizes evidence-based content additions with proper citations

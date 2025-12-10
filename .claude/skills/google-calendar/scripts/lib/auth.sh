@@ -21,6 +21,31 @@ get_google_token() {
   local USER_EMAIL="${1:-david@david-peralta.com}"
   local CREDS_FILE=$(get_credential_file "$USER_EMAIL")
 
+  # Check if token is expired or will expire within 5 minutes
+  local EXPIRY=$(jq -r '.expiry // empty' "$CREDS_FILE")
+  local NEEDS_REFRESH=false
+
+  if [[ -n "$EXPIRY" ]]; then
+    # Convert expiry to epoch seconds (handle both ISO formats)
+    local EXPIRY_EPOCH=$(date -j -f "%Y-%m-%dT%H:%M:%S" "${EXPIRY%%.*}" "+%s" 2>/dev/null || echo "0")
+    local NOW_EPOCH=$(date "+%s")
+    local BUFFER=300  # 5 minutes buffer
+
+    if [[ $EXPIRY_EPOCH -lt $((NOW_EPOCH + BUFFER)) ]]; then
+      NEEDS_REFRESH=true
+    fi
+  fi
+
+  # Refresh if needed
+  if [[ "$NEEDS_REFRESH" == "true" ]]; then
+    # Call refresh and capture the new token
+    local NEW_TOKEN=$(refresh_google_token "$USER_EMAIL" 2>/dev/null)
+    if [[ -n "$NEW_TOKEN" && "$NEW_TOKEN" != "null" ]]; then
+      echo "$NEW_TOKEN"
+      return 0
+    fi
+  fi
+
   # Extract access token
   local ACCESS_TOKEN=$(jq -r '.token // empty' "$CREDS_FILE")
 
@@ -88,10 +113,15 @@ refresh_google_token() {
     exit 1
   fi
 
-  # Update credential file with new token
+  # Calculate new expiry (tokens typically last 1 hour)
+  local EXPIRES_IN=$(echo "$RESPONSE" | jq -r '.expires_in // 3600')
+  local NEW_EXPIRY=$(date -u -v+"${EXPIRES_IN}S" "+%Y-%m-%dT%H:%M:%S" 2>/dev/null || date -u -d "+${EXPIRES_IN} seconds" "+%Y-%m-%dT%H:%M:%S" 2>/dev/null || echo "")
+
+  # Update credential file with new token and expiry
   local UPDATED_CREDS=$(jq \
     --arg token "$NEW_TOKEN" \
-    '.token = $token' \
+    --arg expiry "$NEW_EXPIRY" \
+    '.token = $token | .expiry = $expiry' \
     "$CREDS_FILE")
 
   echo "$UPDATED_CREDS" > "$CREDS_FILE"

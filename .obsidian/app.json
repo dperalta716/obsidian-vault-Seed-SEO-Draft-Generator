@@ -1,7 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": false,
   "showIndentGuide": false,
   "tabSize": 2,

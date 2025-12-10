@@ -7,219 +7,248 @@ description: This skill should be used when conducting keyword research, SERP an
 
 ## Overview
 
-This skill provides token-efficient access to Google SERP data via DataForSEO API for SEO keyword research and competitive analysis. The skill uses a filtered approach that reduces token consumption by 60-80% while preserving essential SERP insights.
+This skill provides token-efficient access to Google SERP and keyword data via DataForSEO API for SEO keyword research and competitive analysis. Multiple scripts are available for different research needs.
 
-## Quick Start
+## Available Scripts
 
-Run the DataForSEO script from the vault root:
+| Script | Purpose | Returns Volume? |
+|--------|---------|-----------------|
+| `dataforseo-filtered.sh` | SERP analysis (organic results, PAA, related searches) | No |
+| `dataforseo-suggestions.sh` | Keyword suggestions containing seed keyword | Yes |
+| `dataforseo-search-volume.sh` | Search volume for a list of keywords | Yes |
+| `dataforseo-related.sh` | Semantically related keywords | Yes |
+| `dataforseo-autocomplete.sh` | Raw Google Autocomplete suggestions (edge cases) | No |
 
+All scripts use the `.ai` endpoint for token-optimized responses.
+
+## Quick Start by Use Case
+
+### SERP Analysis (What's ranking?)
 ```bash
-cd /Users/david/Documents/Obsidian\ Vaults/claude-code-demo
+./.claude/skills/dataforseo-research/scripts/dataforseo-filtered.sh "keyword" "en" "United States"
+```
+
+### Competitor "vs" Keywords (e.g., "Ritual vs")
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "Ritual vs" "en" "United States" 15
+```
+
+### Keyword Expansion with Volume
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "sleep supplement" "en" "United States" 20
+```
+
+### Related Keywords with Volume
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-related.sh "multivitamin" "en" "United States" 20 2
+```
+
+### Search Volume for Specific Keywords
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-search-volume.sh "keyword1,keyword2,keyword3" "en" "United States"
+```
+
+---
+
+## Script Details
+
+### 1. dataforseo-filtered.sh (SERP Analysis)
+
+**Purpose:** Get top 10 organic results with PAA, related searches, and other SERP features.
+
+**Usage:**
+```bash
 ./dataforseo-filtered.sh "keyword" "language_code" "location"
 ```
 
 **Example:**
 ```bash
-./dataforseo-filtered.sh "best probiotics for gut health" "en" "United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-filtered.sh "best probiotics for gut health" "en" "United States"
 ```
 
-**What you get:**
+**Returns:**
 - Top 10 organic results with title, URL, domain, description
 - People Also Ask questions
 - Related searches
-- Featured snippets (if present)
-- Forums/discussions, top stories, AI overviews (when relevant)
+- Featured snippets, forums, AI overviews (when present)
 
-## Core SEO Research Tasks
+**Best for:** Understanding search intent, content brief creation, competitor analysis
 
-### 1. Keyword Research & Intent Analysis
+---
 
-**When to use:** Discovering keywords and understanding what users want when they search.
+### 2. dataforseo-suggestions.sh (Keyword Suggestions)
 
-**Process:**
-1. Start with a seed keyword
-2. Analyze organic results for content patterns
-3. Extract PAA questions to understand user intent
-4. Review related searches for topic expansion
+**Purpose:** Get keywords that CONTAIN your seed keyword, with volume data.
 
-**Example request:** "Research the keyword 'ultra processed foods' to understand search intent"
-
-**Command:**
+**Usage:**
 ```bash
-./dataforseo-filtered.sh "ultra processed foods" "en" "United States"
+./dataforseo-suggestions.sh "keyword" "language_code" "location" [limit]
 ```
 
-**What to analyze:**
-- **Organic results:** What type of content ranks? (listicles, guides, scientific)
-- **Featured snippet:** What answer format works? (definition, list, table)
-- **People Also Ask:** What questions do users have?
-- **Related searches:** What related topics matter?
-- **Forums present:** Are users seeking personal advice/experiences?
-
-### 2. Keyword Clustering
-
-**When to use:** Determining if multiple keywords should target one page or separate pages.
-
-**Process:**
-1. Run SERP analysis for each keyword in the potential cluster
-2. Compare the top 10 organic results across keywords
-3. Calculate overlap: 7+ same URLs = same cluster (one page), <3 URLs = different clusters (separate pages)
-
-**Example request:** "Should 'best probiotics' and 'top probiotic supplements' be the same page?"
-
-**Commands:**
+**Example:**
 ```bash
-./dataforseo-filtered.sh "best probiotics" "en" "United States"
-./dataforseo-filtered.sh "top probiotic supplements" "en" "United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "sleep supplement" "en" "United States" 20
+```
+
+**Returns:**
+- Keywords containing your seed keyword
+- Search volume, CPC, competition for each
+- Sorted by volume (highest first)
+
+**Best for:** Keyword expansion, finding long-tail variations, competitor "vs" research
+
+---
+
+### 3. dataforseo-search-volume.sh (Bulk Volume Lookup)
+
+**Purpose:** Get search volume for a specific list of keywords you already have.
+
+**Usage:**
+```bash
+./dataforseo-search-volume.sh "keyword1,keyword2,keyword3" "language_code" "location"
+```
+
+**Example:**
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-search-volume.sh "ritual vs athletic greens,ritual vs seed,ritual vs care of" "en" "United States"
+```
+
+**Returns:**
+- Search volume for each keyword
+- CPC and competition data
+
+**Best for:** Enriching keyword lists from other sources, validating keyword ideas
+
+**Note:** Can accept up to 700 keywords in a single request
+
+---
+
+### 4. dataforseo-related.sh (Related Keywords)
+
+**Purpose:** Get semantically related keywords from Google's "searches related to" feature.
+
+**Usage:**
+```bash
+./dataforseo-related.sh "keyword" "language_code" "location" [limit] [depth]
+```
+
+**Parameters:**
+- `limit` - Max results (default: 20, max: 1000)
+- `depth` - Search depth 0-4 (default: 1)
+  - 0 = direct related searches only
+  - 1 = one level deep
+  - 2 = two levels deep
+  - 3-4 = very broad exploration
+
+**Example:**
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-related.sh "energy supplements" "en" "United States" 20 2
+```
+
+**Returns:**
+- Semantically related keywords
+- Search volume, CPC, competition for each
+- Sorted by volume (highest first)
+
+**Best for:** Topic expansion, finding related content opportunities, building topic clusters
+
+---
+
+### 5. dataforseo-autocomplete.sh (Raw Autocomplete)
+
+**Purpose:** Get raw Google Autocomplete suggestions (no volume). Edge case use only.
+
+**Usage:**
+```bash
+./dataforseo-autocomplete.sh "keyword" "language_code" "location" [limit]
+```
+
+**Example:**
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-autocomplete.sh "how to" "en" "United States" 10
+```
+
+**Returns:**
+- Raw autocomplete suggestions (no volume data)
+
+**Best for:** Exploring what users type when you don't need volume data
+
+**Note:** For most use cases, use `dataforseo-suggestions.sh` instead (includes volume)
+
+---
+
+## Common Workflows
+
+### Competitor Comparison Keyword Research
+
+Find all "[Competitor] vs" keywords with volume:
+
+```bash
+# For multiple competitors
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "Athletic Greens vs" "en" "United States" 15
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "Ritual vs" "en" "United States" 15
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "Olly vs" "en" "United States" 15
+```
+
+### Keyword Clustering Analysis
+
+Compare SERPs to determine if keywords should target same or different pages:
+
+```bash
+./.claude/skills/dataforseo-research/scripts/dataforseo-filtered.sh "best probiotics" "en" "United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-filtered.sh "top probiotic supplements" "en" "United States"
 ```
 
 **Decision criteria:**
-- **High overlap (7+ URLs):** Target with single content piece
-- **Medium overlap (4-6 URLs):** Consider separate pages with internal linking
-- **Low overlap (<3 URLs):** Definitely separate pages, different intent
+- 7+ same URLs = same page
+- 4-6 same URLs = consider separate with linking
+- <3 same URLs = definitely separate pages
 
-### 3. Content Brief Creation
+### Content Brief Creation
 
-**When to use:** Building comprehensive content briefs based on ranking content.
-
-**Process:**
-1. Get SERP data for target keyword
-2. Analyze top 3 competitors' title/description patterns
-3. Extract PAA questions for H2/H3 section ideas
-4. Note SERP features to target (snippets, forums, etc.)
-5. Compile into structured brief
-
-**Example request:** "Create a content brief for 'signs probiotics are working'"
-
-**Command:**
+1. Get SERP data for intent analysis:
 ```bash
-./dataforseo-filtered.sh "signs probiotics are working" "en" "United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-filtered.sh "signs probiotics are working" "en" "United States"
 ```
 
-**Brief components from SERP:**
-- **Title pattern:** Extract from top 3 organic results
-- **Content angle:** Infer from description patterns
-- **Sections:** Use PAA questions as H2/H3 ideas
-- **Format targets:** List format if featured snippet shows list
-- **Topical coverage:** Map related searches to content sections
-
-### 4. Competitor Analysis
-
-**When to use:** Understanding who ranks and why for target keywords.
-
-**Process:**
-1. Run SERP for target keyword
-2. Identify domains in top 10
-3. Analyze their title/description strategies
-4. Check if they own featured snippets or appear in discussions
-5. Note competitive advantages
-
-**Example request:** "Who are the main competitors for 'meal delivery services'?"
-
-**Command:**
+2. Get related keywords for topic coverage:
 ```bash
-./dataforseo-filtered.sh "meal delivery services" "en" "United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-related.sh "signs probiotics are working" "en" "United States" 20 1
 ```
 
-**Competitor insights:**
-- **Domain authority:** Which established sites rank?
-- **Content strategies:** Listicle vs comparison vs review?
-- **SERP feature ownership:** Who has the snippet/discussions?
-- **Title patterns:** What terminology do they use?
-
-### 5. Regional SEO Research
-
-**When to use:** Researching local or region-specific search behavior.
-
-**Process:**
-1. Run same keyword with different location parameters
-2. Compare SERP differences across regions
-3. Identify location-specific content needs
-
-**Example request:** "Compare 'meal delivery' SERPs in California vs Texas"
-
-**Commands:**
+3. Get keyword suggestions for long-tail opportunities:
 ```bash
-./dataforseo-filtered.sh "meal delivery" "en" "California,United States"
-./dataforseo-filtered.sh "meal delivery" "en" "Texas,United States"
+./.claude/skills/dataforseo-research/scripts/dataforseo-suggestions.sh "probiotics working" "en" "United States" 20
 ```
 
-**Regional insights:**
-- Different local players ranking?
-- Different PAA questions by region?
-- Different SERP features present?
-- Location-specific content opportunities?
+---
 
 ## Parameter Reference
 
 ### Language Codes
-Common two-letter ISO codes:
 - `en` - English
 - `es` - Spanish
 - `fr` - French
 - `de` - German
 
 ### Location Formats
-**National:** `"United States"`
-**State/Region:** `"California,United States"`
-**City:** `"San Francisco,California,United States"`
+- **National:** `"United States"`
+- **State/Region:** `"California,United States"`
+- **City:** `"San Francisco,California,United States"`
 
-**When to use each:**
-- National: General keyword research
-- Regional: State-specific businesses
-- City: Local SEO research
-
-## Integration with Vault Workflows
-
-### Saving Research
-Save outputs for later analysis:
-```bash
-./dataforseo-filtered.sh "keyword" "en" "United States" > "research/keyword-$(date +%Y-%m-%d).txt"
-```
-
-### Workflow with Slash Commands
-- `/seo-keyword-serp-align` - Keyword clustering analysis
-- `/seo-keyword-serp-align-cluster` - Clustering + cannibalization
-- Custom content brief commands
+---
 
 ## Technical Details
 
-**Script location:** `/Users/david/Documents/Obsidian Vaults/claude-code-demo/dataforseo-filtered.sh`
+**Script location:** `/Users/david/Documents/Obsidian Vaults/claude-code-demo/.claude/skills/dataforseo-research/scripts/`
 
-**API endpoint:** DataForSEO SERP API (`.ai` endpoint for token optimization)
+**API endpoints used (all use .ai token optimization):**
+- SERP: `https://api.dataforseo.com/v3/serp/google/organic/live/advanced.ai`
+- Keyword Suggestions: `https://api.dataforseo.com/v3/dataforseo_labs/google/keyword_suggestions/live.ai`
+- Historical Search Volume: `https://api.dataforseo.com/v3/dataforseo_labs/google/historical_search_volume/live.ai`
+- Related Keywords: `https://api.dataforseo.com/v3/dataforseo_labs/google/related_keywords/live.ai`
+- Autocomplete: `https://api.dataforseo.com/v3/serp/google/autocomplete/live/advanced.ai`
 
-**Results depth:** Top 10 organic results
+**Rate limits:** Up to 2000 API calls per minute
 
-**SERP types returned:** organic, people_also_ask, related_searches, featured_snippet, top_stories, ai_overview, discussions_and_forums
-
-**SERP types filtered out:** 39+ types including products, images, videos, knowledge graphs, carousels (reduces tokens by 60-80%)
-
-## Common Patterns & Best Practices
-
-### Analyze PAA for Content Structure
-People Also Ask questions reveal:
-- User knowledge level (beginner vs advanced)
-- Common concerns and objections
-- Natural section hierarchy for content
-
-### Target SERP Features Strategically
-- **Featured snippet present:** Format content to compete (lists, tables, concise answers in first 100 words)
-- **Forums appearing:** Add FAQ or community-focused sections
-- **News present:** Topic may be trending, consider newsjacking angle
-- **No special features:** Focus on comprehensive, authoritative content
-
-### Save Research for Comparison
-Track SERP changes over time:
-```bash
-# Save with timestamp
-./dataforseo-filtered.sh "keyword" "en" "United States" > "research/keyword-$(date +%Y-%m-%d).txt"
-```
-
-Monitor for:
-- SERP volatility (ranking changes)
-- Competitor movement
-- New SERP features
-- Emerging topics in PAA
-
-### Batch Research for Efficiency
-When researching multiple related keywords, run them sequentially and compare outputs to identify clustering opportunities or content gaps.
+**API Documentation:** [DataForSEO API v3 Docs](https://docs.dataforseo.com/v3/)

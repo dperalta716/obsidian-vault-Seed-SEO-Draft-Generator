@@ -1,11 +1,11 @@
-# phase-1-analyze-seo-draft-step-1-v2
+# phase-1-analyze-seo-draft-claude-v2
 
-Performs competitive analysis of a published Seed blog article against top-ranking competitors, then **directly drafts the revisions** based on your selected recommendations.
+Performs competitive analysis of a published Seed blog article against top-ranking competitors, then **Claude directly drafts the revisions** based on your selected recommendations. **v2 adds strategic analysis context at the top of the final document.**
 
 ## Usage
 
 ```
-/phase-1-analyze-seo-draft-step-1-v2 <url_or_path> <primary_keyword>
+/phase-1-analyze-seo-draft-claude-v2 <url_or_path> <primary_keyword>
 ```
 
 ## Parameters
@@ -27,6 +27,7 @@ This command automates a comprehensive SEO competitive analysis workflow for Pha
 8. **Outputs a structured comparison** highlighting strengths, gaps, and SEO-safe Seed-aligned recommendations
 9. **Asks for your feedback** on which improvements to implement
 10. **Directly drafts the revised article** with your selected improvements (bolding new content)
+11. **NEW in v3**: Includes strategic analysis context (SciCare POV, competitive landscape, strengths/gaps) at the TOP of the final document
 
 ## Reference Files
 
@@ -244,6 +245,70 @@ Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
 └── seed strains.md (strain details)
 ```
 
+#### Document Structure Requirements (NEW in v3)
+
+**CRITICAL**: The final v2-revised document MUST include strategic analysis context at the TOP, followed by the revised article. Use this exact structure:
+
+```markdown
+# Strategic Analysis Context
+
+## Seed SciCare POV Summary
+
+### Key Seed Perspectives Found
+- [List 2-3 topics where Seed has unique scientific positions relevant to this article]
+
+### Conflicts Identified
+- [Note any competitor recommendations that contradict Seed's stance]
+
+### Topics to Handle Carefully
+- [List topics requiring special framing or that Seed cannot address]
+
+---
+
+## Competitive Landscape Analysis
+
+### Competitors Analyzed
+- **[Competitor 1 Name/Source]**: [Brief description of their angle/approach]
+- **[Competitor 2 Name/Source]**: [Brief description]
+- **[Competitor 3 Name/Source]**: [Brief description]
+- **[Competitor 4 Name/Source]**: [Brief description]
+
+---
+
+## Where Your Article Excels
+- [Bullet point 1 - specific strength]
+- [Bullet point 2 - specific strength]
+- [Bullet point 3 - specific strength]
+- [Continue as needed]
+
+---
+
+## Where Competitors Have Advantages
+- [Bullet point 1 - specific gap/advantage]
+- [Bullet point 2 - specific gap/advantage]
+- [Bullet point 3 - specific gap/advantage]
+- [Continue as needed]
+
+---
+
+## Content Gaps Identified
+- [Specific missing element 1]
+- [Specific missing element 2]
+- [Specific missing element 3]
+- [Continue as needed]
+
+---
+---
+
+# Revised Article
+
+[The actual revised article content with bolded new additions follows below]
+
+---
+
+[ARTICLE CONTENT STARTS HERE]
+```
+
 #### Drafting Requirements
 
 1. **BOLD all new additions or revisions** - Any text you add or modify must be bolded using `**text**`
@@ -299,6 +364,7 @@ After completing the revision:
 ### Final Quality Checklist
 
 Before saving, verify:
+- [ ] **Strategic context sections included at TOP** (SciCare POV, Competitive Landscape, Excels, Advantages, Gaps)
 - [ ] All new content is properly **bolded**
 - [ ] ALL existing citations preserved
 - [ ] New citations match existing format exactly
@@ -312,13 +378,13 @@ Before saving, verify:
 ## Example
 
 ```
-/phase-1-analyze-seo-draft-step-1-v2 /cultured/probiotics-for-gut-health "probiotics for gut health"
+/phase-1-analyze-seo-draft-claude-v2 /cultured/probiotics-for-gut-health "probiotics for gut health"
 ```
 
 or
 
 ```
-/phase-1-analyze-seo-draft-step-1-v2 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
+/phase-1-analyze-seo-draft-claude-v2 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
 ```
 
 ## Output Format
@@ -331,17 +397,19 @@ The command provides:
 5. Detailed comparative analysis through Seed's scientific lens
 6. **SEO Review Summary** showing recommendations validated against SEO safety checklist
 7. Interactive recommendation selection
-8. **Directly drafted revised article** with bolded new content
+8. **Directly drafted revised article** with:
+   - **Strategic analysis context at TOP** (NEW in v3)
+   - Bolded new content throughout
 9. `v2-revised-[keyword].md` file automatically saved in article folder
 
-## Key Differences from v1
+## Key Differences from Other Commands
 
-| Aspect | v1 | v2 (this command) |
-|--------|-----|-------------------|
-| Output | Drafting instructions for separate drafter | Directly drafted revised article |
-| Final file | `Drafting Instructions.md` | `v2-revised-[keyword].md` |
-| Who drafts | Human drafter or separate AI | This command directly |
-| Workflow | Analysis → Instructions → Manual drafting | Analysis → Selection → Automatic drafting |
+| Aspect | external-v1 | external-v2 | claude-v1 | claude-v2 (this command) |
+|--------|-------------|-------------|-----------|--------------------------|
+| Output | Instructions for human drafter | Instructions + strategic context | Revised article | Revised article + strategic context |
+| Final file | `Drafting Instructions.md` | `Drafting Instructions.md` | `v2-revised-[keyword].md` | `v2-revised-[keyword].md` |
+| Who drafts | Human drafter (Sydni) | Human drafter (Sydni) | Claude directly | Claude directly |
+| Strategic context | ❌ | ✅ | ❌ | ✅ |
 
 ## Notes
 
@@ -355,3 +423,4 @@ The command provides:
 - **MANDATORY SEO safety evaluation** (Step 3) - prevents recommendations that harm existing SEO elements
 - Reference files located at `Phase 1 Draft Revsions/Phase 1 Reference Files/`
 - Directly drafts revisions instead of generating instructions
+- **NEW in v3**: Final document includes strategic analysis context (SciCare POV summary, competitive landscape, strengths, gaps) at the TOP for reviewer context
