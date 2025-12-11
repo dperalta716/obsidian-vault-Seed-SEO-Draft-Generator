@@ -4,7 +4,8 @@
 
 **Keyword:** life extension vs pure encapsulations multivitamin vs Seed DM-02
 
-**Competitor product pages**: 
+**Competitor product pages**: https://www.lifeextension.com/vitamins-supplements/item02315/two-per-day-tablets
+https://www.pureencapsulationspro.com/o-n-e-multivitamin.html
 
 ---
 
