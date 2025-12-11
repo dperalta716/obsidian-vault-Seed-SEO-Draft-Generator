@@ -216,11 +216,11 @@ You MUST use this EXACT structure. Do NOT substitute with ingredient-focused sec
 ## What Makes a Multivitamin Actually Work?
 [This section MUST cover these key concepts that set up the evaluation criteria:]
 
-1. **Bioavailability** - How easily your body can absorb and use a nutrient. Many standard multivitamins use "inactive" forms because they're cheaper; your body has to convert these to "active" forms, which isn't efficient for everyone.
+**Bioavailability** - How easily your body can absorb and use a nutrient. Many standard multivitamins use "inactive" forms because they're cheaper; your body has to convert these to "active" forms, which isn't efficient for everyone.
 
-2. **Delivery** - Where nutrients end up matters. Not just about dissolving in your stomach.
+**Delivery** - Where nutrients end up matters. Not just about dissolving in your stomach.
 
-3. **The Microbiome Paradigm Shift** (CRITICAL - this is Seed's differentiator): New science suggests nutrition isn't just about feeding your human cells—it's about feeding your microbiome too. Your gut bacteria actually produce certain B vitamins and vitamin K themselves, but they need the right "fuel" to do so. Cite Magnúsdóttir et al. here. A truly effective multivitamin considers this ecosystem.
+**The Microbiome Paradigm Shift** (CRITICAL - this is Seed's differentiator): New science suggests nutrition isn't just about feeding your human cells—it's about feeding your microbiome too. Your gut bacteria actually produce certain B vitamins and vitamin K themselves, but they need the right "fuel" to do so. Cite Magnúsdóttir et al. here. A truly effective multivitamin considers this ecosystem.
 
 [Frame this section conversationally - set up the criteria that will make DM-02™'s advantages clear when you get to the comparison]
 
@@ -228,6 +228,7 @@ You MUST use this EXACT structure. Do NOT substitute with ingredient-focused sec
 ### The 2-in-1 Difference: Nutrients for You and Your Microbiome
 ### Key DM-02™ Benefits: What the Science Shows
 ### Bioavailable Forms: Nutrients Your Body Can Actually Use
+[MUST include: methylated B vitamins, chelated minerals, AND the key insight that bioavailable micronutrients also shape gut microbiome composition - cite Scarpellini 2021]
 ### The Cellular Energy Complex: CoQ10, PQQ, and Spermidine
 ### The Delivery System: ViaCap® Technology
 ### Microbiome Support: The Gut-Nutrition Connection
