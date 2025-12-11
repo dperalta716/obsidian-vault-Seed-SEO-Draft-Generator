@@ -2,7 +2,7 @@
 **Created:** 2025-12-11
 **Article Type:** PRODUCT COMPARISON (NOT an ingredient article)
 
-**Keyword:** 
+**Keyword:** metagenics vs pure encapsulations multivitamin vs Seed DM-02
 
 **BEGIN SYSTEM INSTRUCTIONS - COMPETITOR COMPARISON ARTICLES**
 
