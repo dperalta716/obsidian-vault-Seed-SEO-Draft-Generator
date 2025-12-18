@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions-v2.md",
+                "file": "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-11 Gemini-Competitor-Comparison-System-Instructions-v2"
+              "title": "2025-12-11 Gemini-Competitor-Comparison-System-Instructions"
             }
           }
         ],
@@ -201,8 +201,12 @@
   },
   "active": "ad95fc7997fcbe43",
   "lastOpenFiles": [
-    "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions.md",
+    "Gemini Drafting Instructions/AM-02-Competitor-Comparison-System-Instructions.md",
+    "Gemini Drafting Instructions/PM-02-Competitor-Comparison-System-Instructions.md",
+    "Gemini Drafting Instructions/PM-02-Competitor-Comparison-System-Instructions.md.tmp.39220.1766083377233",
     "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions-v2.md",
+    "Gemini Drafting Instructions/DM-02-Competitor-Comparison-System-Instructions.md",
+    "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions.md",
     "conflict-files-obsidian-git.md",
     "Phase 1 Draft Revisions/001-can-probiotics-cause-diarrhea/Drafting Instructions.md",
     "Phase 1 Draft Revisions/001-can-probiotics-cause-diarrhea/can-probiotics-cause-diarrhea-currently-published.md",
@@ -226,16 +230,12 @@
     "Drafts - NPD vs Competitor",
     "Untitled",
     "Generated-Drafts/Untitled",
-    "Gemini Drafting Instructions/2025-12-11-Seed-vs-Competitor-Multivitamin-Instructions.md.tmp.21973.1765479290181",
     "Gemini Drafting Instructions/2025-12-11-Seed-vs-Competitor-Multivitamin-Instructions.md",
     "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/Drafting Instructions.md",
     "CLAUDE.md",
     "Phase 1 Draft Revisions/001-probiotics-for-gastritis/Drafting Instructions V2.md",
     "Phase 1 Draft Revisions/001-best-probiotics-for-ibs/best-probiotics-for-ibs-currently-published.md",
     "Generated-Drafts/020-cellular health supplements/v4-sources-verified.md",
-    "Generated-Drafts/036-vitamins-for-energy-for-men/Vitamins for energy for men - v1.md",
-    "Generated-Drafts/036-vitamins-for-energy-for-men/v2-reviewed.md",
-    "CONTENT-CREATION-WORKFLOW.md",
-    "Phase 1 Draft Revisions/001-best-probiotic-for-constipation/Drafting Instructions.md"
+    "Generated-Drafts/036-vitamins-for-energy-for-men/Vitamins for energy for men - v1.md"
   ]
 }
