@@ -93,14 +93,15 @@
       "WebFetch(domain:generativelanguage.googleapis.com)",
       "Bash(/Users/david/Documents/Obsidian\\ Vaults/claude-code-demo/.claude/skills/google-sheets/scripts/read-values.sh:*)",
       "Bash(source:*)",
-      "Bash(refresh_google_token \"david@david-peralta.com\")"
+      "Bash(refresh_google_token \"david@david-peralta.com\")",
+      "WebFetch(domain:eutils.ncbi.nlm.nih.gov)"
     ],
     "deny": [],
     "ask": []
   },
   "outputStyle": "SEO Content Generator v2",
   "sandbox": {
-    "autoAllowBashIfSandboxed": true,
-    "enabled": true
+    "enabled": true,
+    "autoAllowBashIfSandboxed": true
   }
 }

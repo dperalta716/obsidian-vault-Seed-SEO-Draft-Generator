@@ -41,7 +41,7 @@ Think of your skin barrier like a brick wall protecting a house. The "bricks" ar
 *   **When the mortar is strong:** It seals the cracks, keeping moisture locked inside your house and keeping irritants (like wind and pollution) out.
 *   **When the mortar crumbles:** Windows break and drafts get in. Moisture escapes rapidly into the atmosphere.
 
-Scientists call this escaping moisture **Transepidermal Water Loss (TEWL)**. To fix dry skin, you don't just need to pour water into the house; you need to repair the mortar so the water stops leaking out. Research confirms that specific dietary supplements can improve this barrier function and skin hydration status ([Januszewski 2023](https://doi.org/10.3390/medicina60010068)).
+When water escapes through your skin faster than it should, scientists call it **Transepidermal Water Loss (TEWL)**. To fix dry skin, you don't just need to pour water into the house; you need to repair the mortar so the water stops leaking out. Research confirms that specific dietary supplements can improve this barrier function and skin hydration status ([Januszewski 2023](https://doi.org/10.3390/medicina60010068)).
 
 Let's look at the nutrients that act as the repair crew for that mortar.
 
@@ -59,9 +59,9 @@ So what does your skin actually need?
 
 You likely know Vitamin D for its role in bone health or immunity, but it's also a master regulator of skin physiology. Vitamin D helps control the production of key proteins that make up the "cornified envelope"—the protective outer shell of your skin cells ([Umar 2018](https://doi.org/10.1159/000485132)).
 
-Here's where it gets fascinating: Vitamin D actually stimulates the skin's ability to produce its own ceramides—that essential "mortar" we talked about earlier ([Oda 2009](https://pubmed.ncbi.nlm.nih.gov/19052561/)). What's more, Vitamin D influences your gut microbiome composition and supports intestinal barrier integrity, creating a connection between your gut health and your skin health ([Tangestani 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC9311823/)).
+Here's where it gets interesting: Vitamin D actually stimulates the skin's ability to produce its own ceramides—that essential "mortar" we talked about earlier ([Oda 2009](https://pubmed.ncbi.nlm.nih.gov/19052561/)). What's more, Vitamin D influences your gut microbiome composition and supports intestinal barrier integrity, creating a connection between your gut health and your skin health ([Tangestani 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC9311823/)).
 
-When Vitamin D levels are low, the skin barrier becomes compromised, leading to increased moisture loss. Given that over 70% of the population has inadequate Vitamin D intake, correcting this deficiency is often "Step One" for restoring hydrated skin.
+When Vitamin D levels are low, the skin barrier becomes compromised, leading to increased moisture loss. Given that over 70% of the population has inadequate Vitamin D intake, correcting this deficiency is often "Step One" for restoring hydrated skin. This is why [DM-02® Daily Multivitamin](https://seed.com/daily-multivitamin) is formulated to deliver 100% of the Daily Value of Vitamin D3, along with other skin-supporting nutrients like Vitamin E, Vitamin C, Biotin, and Zinc.
 
 ### 2. Vitamin E: The Lipid Protector
 
@@ -131,9 +131,9 @@ Instead of chasing the latest trendy ingredient, we focus on **foundational, sys
 > "We often think of dry skin as a surface-level problem needing a surface-level fix, like more lotion. But the skin is actually our largest organ, and its barrier function relies heavily on systemic nutrition and a balanced gut microbiome. That's why we formulated DM-02 with bioavailable nutrient forms—like methylfolate instead of synthetic folic acid—and engineered it to deliver key compounds directly to where your microbiome can access them. When you optimize your internal ecosystem, it translates to resilience on the outside."
 > — **Dirk Gevers, Ph.D.**
 
-This philosophy is why we developed [DM-02® Daily Multivitamin](https://seed.com/daily-multivitamin). It's not just a multivitamin; it's a 2-in-1 formulation designed for both you and your microbiome.
+This philosophy is why we developed [DM-02® Daily Multivitamin](https://seed.com/daily-multivitamin). It's not just a multivitamin; it's a 2-in-1 formulation designed for both you and your microbiome—and it's specifically formulated to help maintain healthy hair, skin, and nails.
 
-*   **For Your Skin:** DM-02 is formulated to deliver 100% of the Daily Value of 20 essential vitamins and minerals—including Vitamin D3, Vitamin E, Vitamin C, Biotin, Zinc, and Copper—in bioavailable forms. Unlike standard multivitamins that use synthetic forms like folic acid (which many people struggle to convert), we use methylfolate—the active form your body can use directly. We also use chelated minerals like manganese bisglycinate for better absorption. These bioavailable forms help maintain healthy skin, hair, and nails ([Health Canada MVM Monograph](https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=multi_vitmin_suppl&lang=eng)).
+*   **For Your Skin:** DM-02 is formulated to deliver 100% of the Daily Value of 20 essential vitamins and minerals—including the key skin-barrier nutrients Vitamin D3, Vitamin E, Vitamin C, Biotin, Zinc, and Copper—in bioavailable forms. The biotin in DM-02 contributes to the maintenance of normal skin and mucous membranes, while zinc contributes to the maintenance of normal skin. Unlike standard multivitamins that use synthetic forms like folic acid (which many people struggle to convert), we use methylfolate—the active form your body can use directly. We also use chelated minerals like manganese bisglycinate for better absorption. These bioavailable forms help maintain healthy skin, hair, and nails ([Health Canada MVM Monograph](https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=multi_vitmin_suppl&lang=eng)).
 
 *   **For Your Microbiome:** Engineered with Seed's proprietary ViaCap® capsule-in-capsule technology, the inner capsule is designed to deliver key vitamins and prebiotics to the gut microbiome—where your microbes can access the nutritional benefits. A supported microbiome aids in nutrient absorption and regulates the immune signals that affect skin health.
 
