@@ -371,6 +371,15 @@ Options:
 
 Parse user's response and apply appropriate fixes:
 
+**⚠️ CRITICAL: File Handling Protocol**
+
+**BEFORE making ANY edits, you MUST:**
+1. **First, create the new version file** (e.g., `v2-seed-perspective-reviewed.md`) by using the Write tool to copy the ENTIRE original content to the new file
+2. **Make ALL edits to the new file ONLY** using the Edit tool on the new file path
+3. **NEVER modify the original v1 file** - it must remain untouched
+
+This ensures the original is always preserved and avoids needing to restore it later.
+
 **For 'all' or 'critical' or specific categories:**
 
 **Claims Document Integration:**
@@ -400,7 +409,7 @@ Parse user's response and apply appropriate fixes:
 
 2. **Save in same keyword subfolder as original**
 
-3. **Show summary:**
+3. **Show summary with COPY-PASTE READY next command:**
    ```
    ✅ Seed Perspective Review complete!
 
@@ -413,23 +422,35 @@ Parse user's response and apply appropriate fixes:
    - Messaging: Added soil depletion narrative and ViaCap® section
    - SciComms: Incorporated relevant nutrient deficiency statistics
 
-   📝 NEXT STEP: Run /review-draft-1 v2-seed-perspective-reviewed.md
-                 to check quality, tone, compliance, and SEO.
+   ═══════════════════════════════════════════════════
+   📝 NEXT STEP (copy and paste this command):
+   ═══════════════════════════════════════════════════
+
+   /review-draft-1-v2 [FULL_PATH_TO_V2_FILE]
+
+   Example:
+   /review-draft-1-v2 Seed-SEO-Draft-Generator-v4/Generated-Drafts/049-kava-vs-ashwagandha/v2-seed-perspective-reviewed.md
    ```
 
-4. **Preserve original file (never overwrite)**
+   **IMPORTANT:** The next step command MUST include:
+   - The correct review command (`/review-draft-1-v2`)
+   - The FULL relative path from the vault root to the v2 file that was just created
+   - This allows the user to simply copy and paste the command without searching for the file
+
+4. **Original file is NEVER modified** (edits only made to new v2 file per STEP 6 protocol)
 
 ## Important Notes
 
 - **This command checks SEED PERSPECTIVE ONLY** - not quality, tone, or compliance
-- **Run this FIRST** before `/review-draft-1`
+- **Run this FIRST** before `/review-draft-1-v2`
 - **Check #3 preserves casual tone** - verifies substance of claims, not exact wording
 - **Smart relevance detection** - only flags missing content that's relevant to the topic
 - **Product detection is automatic** but may need manual verification
 - **Grading is strict** - Grade A/B means Seed perspective is solid, proceed to quality review
 - **Grade C or lower** - fix Seed issues before bothering with quality checks
-- **Preserves original files always**
+- **NEVER modify the original file** - always create v2 copy FIRST, then edit only the copy
 - **Version numbering includes "seed-perspective-reviewed"** to distinguish from quality reviews
+- **Completion output includes copy-paste ready next command** with full file path
 
 ## Workflow Integration
 
