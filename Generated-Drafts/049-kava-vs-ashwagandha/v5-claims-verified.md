@@ -56,14 +56,14 @@ This is where the difference becomes crystal clear. Kava and ashwagandha target 
 ### Kava: The "Off" Switch (GABA)
 Kava works primarily by influencing **GABA** (gamma-aminobutyric acid), your brain's main inhibitory neurotransmitter. Think of GABA as your nervous system's brake pedal. When GABA activity increases, your brain slows down, and you feel calm.
 
-Research suggests that kavalactones enhance the binding of GABA to its receptors, which is why the effects are felt so quickly ([Chua 2016](https://doi.org/10.1371/journal.pone.0157700)). It's a direct, chemical "chill out" signal. This makes kava effective for acute moments of tension, but the effect is temporary—once the kavalactones wear off, the "brake pedal" is released.
+Research suggests that kavalactones positively modulate GABA receptors, which is why the effects are felt so quickly ([Chua 2016](https://doi.org/10.1371/journal.pone.0157700)). It's a direct, chemical "chill out" signal. This makes kava effective for acute moments of tension, but the effect is temporary—once the kavalactones wear off, the "brake pedal" is released.
 
 ### Ashwagandha: The Thermostat (HPA Axis)
 Ashwagandha takes a more foundational approach. It primarily interacts with the **HPA axis** (Hypothalamic-Pituitary-Adrenal axis)—the command center for your stress response.
 
 When you're stressed, your HPA axis triggers the release of **cortisol**. While cortisol is helpful in short bursts (like running from a tiger), chronic elevation (like worrying about emails) disrupts sleep, mood, and immune function.
 
-Ashwagandha helps regulate this axis. Clinical studies on 120mg of Shoden® ashwagandha—the specific extract used in [PM-02™ Sleep + Restore](https://seed.com/sleep-restore)—have shown significant reductions in serum cortisol levels and improvements in sleep quality ([Langade 2021](https://doi.org/10.1016/j.jep.2020.113276)).
+Ashwagandha helps regulate this axis. Clinical studies on ashwagandha—including the specific Shoden® extract used in [PM-02™ Sleep + Restore](https://seed.com/sleep-restore)—have shown significant improvements in sleep quality ([Langade 2021](https://doi.org/10.1016/j.jep.2020.113276)) and reductions in serum cortisol levels ([Chandrasekhar 2012](https://doi.org/10.4103/0253-7176.106022)).
 
 Think of ashwagandha like a thermostat for your stress hormones. It doesn't just numb the heat; it helps reset the temperature to a comfortable baseline.
 
