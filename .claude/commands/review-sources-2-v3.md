@@ -273,3 +273,27 @@ Scripts location:
   - 70%+ faster for biomedical citations
   - Structured verification (no HTML parsing)
   - Better accuracy with exact metadata matching
+
+## Completion Output Format
+
+When the command completes successfully and saves a new version, ALWAYS end with this exact format:
+
+```
+✅ Source Verification Complete!
+
+Saved as: [FILENAME]
+Location: [FULL_FOLDER_PATH]
+
+Summary:
+- Verified: X citations
+- Fixed: Y citations
+- Manual review: Z citations
+
+═══════════════════════════════════════════════════
+📝 NEXT STEP (copy and paste this command):
+═══════════════════════════════════════════════════
+
+/review-claims-3-v3 [FULL_PATH_TO_FILE_JUST_CREATED]
+```
+
+**CRITICAL:** The file path in the NEXT STEP must be the ACTUAL file that was just saved. Use the exact path including the version number that was created (e.g., `v4-sources-verified.md`).

@@ -488,3 +488,25 @@ Apply fixes as defined in existing review-draft-1 command:
 | **Grading** | Pass/fail by category | Letter grade for PRIMARY alignment |
 | **Report Structure** | Single-tier flat list | Two-tier: PRIMARY then SECONDARY |
 | **Relevance** | N/A | Analyzes what's relevant vs. bloat |
+
+## Completion Output Format
+
+When the command completes successfully and saves a new version, ALWAYS end with this exact format:
+
+```
+✅ Review complete!
+
+Saved as: [FILENAME]
+Location: [FULL_FOLDER_PATH]
+
+Changes applied:
+- [Summary of changes]
+
+═══════════════════════════════════════════════════
+📝 NEXT STEP (copy and paste this command):
+═══════════════════════════════════════════════════
+
+/review-sources-2-v3 [FULL_PATH_TO_FILE_JUST_CREATED]
+```
+
+**CRITICAL:** The file path in the NEXT STEP must be the ACTUAL file that was just saved. Use the exact path including the version number that was created (e.g., `v3-reviewed.md`).

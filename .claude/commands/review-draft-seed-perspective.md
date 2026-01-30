@@ -465,3 +465,27 @@ Draft Generation → /review-draft-seed-perspective → Grade A/B? → /review-d
 - Avoids wasting time polishing tone/SEO if core perspective is wrong
 - Keeps each command focused and non-bloated
 - Two-step process ensures both Seed alignment AND quality
+
+## Completion Output Format
+
+When the command completes successfully and saves a new version, ALWAYS end with this exact format:
+
+```
+✅ Seed Perspective Review complete!
+
+Grade: [GRADE] ([description])
+
+Saved as: [FILENAME]
+Location: [FULL_FOLDER_PATH]
+
+Changes applied:
+- [Summary of changes]
+
+═══════════════════════════════════════════════════
+📝 NEXT STEP (copy and paste this command):
+═══════════════════════════════════════════════════
+
+/review-draft-1-v2 [FULL_PATH_TO_FILE_JUST_CREATED]
+```
+
+**CRITICAL:** The file path in the NEXT STEP must be the ACTUAL file that was just saved. Use the exact path including the version number that was created (e.g., `v2-seed-perspective-reviewed.md`).

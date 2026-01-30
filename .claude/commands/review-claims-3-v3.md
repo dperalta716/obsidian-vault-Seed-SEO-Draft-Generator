@@ -388,3 +388,28 @@ Scripts location:
   - Structured metadata for accurate matching
   - Faster verification for biomedical sources
   - Better replacement source discovery via PubMed search
+
+## Completion Output Format
+
+When the command completes successfully and saves a new version, ALWAYS end with this exact format:
+
+```
+✅ Claims Verification Complete!
+
+Saved as: [FILENAME]
+Location: [FULL_FOLDER_PATH]
+
+Summary:
+- Claims analyzed: X
+- Supported: Y
+- Modified: Z
+- Manual review: W
+
+═══════════════════════════════════════════════════
+📝 NEXT STEP (copy and paste this command):
+═══════════════════════════════════════════════════
+
+/upload-to-gdocs-v3 [FULL_PATH_TO_FILE_JUST_CREATED]
+```
+
+**CRITICAL:** The file path in the NEXT STEP must be the ACTUAL file that was just saved. Use the exact path including the version number that was created (e.g., `v5-claims-verified.md`).
