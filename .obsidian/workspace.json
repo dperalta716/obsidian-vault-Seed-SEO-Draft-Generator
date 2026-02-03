@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions.md",
+                "file": "Phase 1 Reference Files/Ds-01 PDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-11 Gemini-Competitor-Comparison-System-Instructions"
+              "title": "Ds-01 PDP"
             }
           }
         ],
@@ -201,6 +201,18 @@
   },
   "active": "ad95fc7997fcbe43",
   "lastOpenFiles": [
+    "Gemini Drafting Instructions/2025-12-11 Gemini-Competitor-Comparison-System-Instructions.md",
+    "Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md",
+    "Phase 1 Reference Files/VS-01 Science Reference File.md",
+    "Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md",
+    "Phase 1 Reference Files/Seed Tone of Voice and Structure.md",
+    "Phase 1 Reference Files/PDS-08 Science Reference File.md",
+    "Phase 1 Reference Files/Ds-01 Science Reference File.md",
+    "Phase 1 Reference Files/Ds-01 PDP.md",
+    "Phase 1 Reference Files/Drafting Prompt Instructions.md",
+    "Phase 1 Reference Files/8 Sample Reference Blog Articles.md",
+    "Phase 1 Reference Files",
+    "untitled folder",
     "Generated-Drafts/052-oxidative-stress-supplements/v5-claims-verified.md",
     "Generated-Drafts/052-oxidative-stress-supplements/v4-sources-verified.md",
     "Generated-Drafts/052-oxidative-stress-supplements/v3-reviewed.md",
@@ -219,23 +231,11 @@
     "Generated-Drafts/051-kava-vs-ashwagandha/v3-reviewed.md",
     "Generated-Drafts/051-kava-vs-ashwagandha/stage1_analysis-kava-vs-ashwagandha.md",
     "Generated-Drafts/051-kava-vs-ashwagandha/v2-seed-perspective-reviewed.md",
-    "Generated-Drafts/051-kava-vs-ashwagandha/kava vs ashwagandha - gemini v1.md",
     "Generated-Drafts/051-kava-vs-ashwagandha",
-    "Generated-Drafts/051-supplements-for-nails/v5-claims-verified.md",
-    "Generated-Drafts/051-supplements-for-nails/v4-sources-verified.md",
-    "Generated-Drafts/051-supplements-for-nails/v3-reviewed.md",
-    "Generated-Drafts/051-supplements-for-nails/v2-seed-perspective-reviewed.md",
-    "Generated-Drafts/051-supplements-for-nails/stage1_analysis-supplements-for-nails.md",
-    "Generated-Drafts/051-supplements-for-nails/Supplements for nails v1.md",
     "Generated-Drafts/051-supplements-for-nails",
-    "Generated-Drafts/050-oxidative-stress-supplements/stage1_analysis-oxidative-stress-supplements.md",
     "Generated-Drafts/050-oxidative-stress-supplements",
-    "Generated-Drafts/001-oxidative-stress-supplements/stage1_analysis-oxidative-stress-supplements.md",
     "Generated-Drafts/001-oxidative-stress-supplements",
-    "Generated-Drafts/049-cellular-health-supplements/v4-claims-verified.md",
     "Generated-Drafts/049-supplements-for-nails",
-    "Generated-Drafts/049-cellular-health-supplements",
-    "Generated-Drafts/049-kava-vs-ashwagandha",
-    "Generated-Drafts/048-does-ashwagandha-make-you-sleepy"
+    "Generated-Drafts/049-cellular-health-supplements"
   ]
 }
