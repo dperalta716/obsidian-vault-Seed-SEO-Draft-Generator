@@ -16,7 +16,7 @@
 
 > If you're intrigued by *Akkermansia muciniphila*, it's worth understanding both its promise and its practical challenges. Akkermansia is a strict anaerobe—meaning it requires a completely oxygen-free environment to culture—which presents significant formulation challenges. Additionally, while research shows promising associations between Akkermansia abundance and metabolic health markers, some controversies exist regarding its effects on conditions like inflammatory bowel disease (IBD). One study observed that the same *A. muciniphila* strain that alleviated colitis in some mice actually aggravated gut inflammation in mice infected with certain pathogens. ([He 2024](https://doi.org/10.3390/foods14010023))
 >
-> Interestingly, your gut's native Akkermansia population may be supported through other means. Research suggests that traditional *Lactobacillus* and *Bifidobacterium* strains—like those in DS-01®—may indirectly foster Akkermansia growth. These strains increase short-chain fatty acid (SCFA) production, which promotes mucin growth in the gut lining. Since *A. muciniphila* thrives on mucin, this creates a more hospitable environment for native Akkermansia to flourish.
+> Interestingly, preliminary research suggests your gut's native Akkermansia population may be supported through other means. One human study found that healthy volunteers who took *Lactobacillus rhamnosus* and *Bifidobacterium longum* BB536—a strain also found in DS-01®—showed increased *A. muciniphila* abundance after the supplementation period. ([Toscano 2017](https://doi.org/10.3748/wjg.v23.i15.2696)) The proposed mechanism: these strains increase short-chain fatty acid (SCFA) production, which promotes mucin growth in the gut lining. Since *A. muciniphila* thrives on mucin, this may create a more hospitable environment for native Akkermansia. That said, more research is needed before drawing firm conclusions about using traditional probiotics to reliably increase Akkermansia levels.
 
 **Suggested placement:** In the section comparing strain compositions, after discussing Pendulum's novel anaerobic strains including Akkermansia.
 
@@ -30,8 +30,23 @@
 
 ---
 
+## Citations
+
+**Inline format:**
+- ([Toscano 2017](https://doi.org/10.3748/wjg.v23.i15.2696))
+- ([He 2024](https://doi.org/10.3390/foods14010023))
+
+**APA format for citation list:**
+
+He, K., An, F., Zhang, H., Yan, D., Li, T., Wu, J., & Wu, R. (2024). Akkermansia muciniphila: A potential target for the prevention of diabetes. *Foods*, 14(1), 23. https://doi.org/10.3390/foods14010023
+
+Toscano, M., De Grandi, R., Stronati, L., De Vecchi, E., & Drago, L. (2017). Effect of Lactobacillus rhamnosus HN001 and Bifidobacterium longum BB536 on the healthy gut microbiota composition at phyla and species level: A preliminary study. *World Journal of Gastroenterology*, 23(15), 2696–2704. https://doi.org/10.3748/wjg.v23.i15.2696
+
+---
+
 ## Notes
 
 - The article already does a good job positioning Pendulum as "specialized" for specific conditions (blood sugar, gut lining) vs. DS-01® for "broad, daily support."
 - These addendums provide additional scientific context without claiming superiority—they explain Seed's reasoning while acknowledging Akkermansia's potential.
 - Per Seed's SciCare POV: "typical probiotics on the market today rarely contain this species despite its natural abundance, due to several logistical challenges in culturing it."
+- Language is tempered to align with Seed's SciCare guidance that they "wouldn't advise using our product...as a reliable way to increase natural abundance levels of this microbe."
