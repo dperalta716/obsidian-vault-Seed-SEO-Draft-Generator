@@ -1,1 +1,1 @@
-/Users/david/Documents/Obsidian Vaults/claude-code-demo/.claude/skills/google-calendar/scripts/lib/auth.sh
+/root/obsidian-vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/google-docs/scripts/lib/auth.sh
