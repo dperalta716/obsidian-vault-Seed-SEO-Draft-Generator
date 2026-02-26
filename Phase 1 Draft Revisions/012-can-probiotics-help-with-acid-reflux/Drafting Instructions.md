@@ -1,4 +1,4 @@
-# Strategic Analysis Context
+	# Strategic Analysis Context
 
 ## Seed SciCare POV Summary
 
