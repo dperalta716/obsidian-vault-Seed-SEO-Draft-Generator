@@ -382,6 +382,16 @@ After generating the detailed drafter instructions, automatically save them to a
 
 **Important**: Always create this file automatically - do not ask the user if they want it created.
 
+### Step 7: Create Google Doc
+
+After saving the Drafting Instructions to Obsidian, create a Google Doc with the same content using the **google-docs skill** located at `~/.claude/skills/google-docs/` (see the skill's `SKILL.md` for full API reference).
+
+1. **Create the Google Doc** titled with the primary keyword
+2. **Populate it** with the full Drafting Instructions content (strategic context + drafting instructions)
+3. **Report the Google Doc link** to the user
+
+**Important**: This step is MANDATORY. Do not skip Google Doc creation.
+
 ### Final Quality Checklist
 
 Before saving, verify:
@@ -399,13 +409,13 @@ Before saving, verify:
 ## Example
 
 ```
-/phase-1-analyze-seo-draft-external-v2 /cultured/probiotics-for-gut-health "probiotics for gut health"
+/phase-1-analyze-seo-draft-external-v3 /cultured/probiotics-for-gut-health "probiotics for gut health"
 ```
 
 or
 
 ```
-/phase-1-analyze-seo-draft-external-v2 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
+/phase-1-analyze-seo-draft-external-v3 https://www.seed.com/cultured/signs-probiotics-are-working "signs probiotics are working"
 ```
 
 ## Output Format
@@ -422,13 +432,14 @@ The command provides:
    - **Strategic analysis context at TOP** (NEW in v2)
    - Clear implementation guidance for human drafter
 9. Drafting Instructions.md file automatically saved in article folder
+10. **NEW in v3**: Google Doc automatically created with the Drafting Instructions content and link reported to user
 
 ## Key Differences from Other Commands
 
 | Aspect | external-v1 | external-v2 | external-v3 (this command) | claude-v1 | claude-v2 |
 |--------|-------------|-------------|----------------------------|-----------|-----------|
 | Output | Instructions for human drafter | Instructions + strategic context | Instructions + strategic context | Revised article | Revised article + strategic context |
-| Final file | `Drafting Instructions.md` | `Drafting Instructions.md` | `Drafting Instructions.md` | `v2-revised-[keyword].md` | `v2-revised-[keyword].md` |
+| Final file | `Drafting Instructions.md` | `Drafting Instructions.md` | `Drafting Instructions.md` + **Google Doc** | `v2-revised-[keyword].md` | `v2-revised-[keyword].md` |
 | Who drafts | Human drafter (Sydni) | Human drafter (Sydni) | Human drafter (Sydni) | Claude directly | Claude directly |
 | Strategic context | No | Yes | **Yes** | No | Yes |
 | Auto-proceed | N/A | No (pauses for approval) | **Yes (no pause)** | N/A | N/A |
@@ -447,5 +458,6 @@ The command provides:
 - **v2**: Final document includes strategic analysis context (SciCare POV summary, competitive landscape, strengths, gaps) at the TOP for drafter context
 - **NEW in v3**: No interactive pause — auto-proceeds with all recommendations
 - **NEW in v3**: Comprehensive citation requirements — peer-reviewed only, no placeholders, explicit in-text format `([Author Year](DOI_URL))`, source hierarchy (existing article citations first, then new PubMed/PMC research)
+- **NEW in v3**: Automatically creates Google Doc using google-docs skill and reports link to user
 - Maintains Seed's unique scientific perspective and brand voice
 - Focuses on SEO best practices throughout revision process
