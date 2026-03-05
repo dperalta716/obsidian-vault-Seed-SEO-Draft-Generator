@@ -282,10 +282,10 @@ CRITICAL FORMATTING INSTRUCTIONS:
 
 > ### **How to Read a Gut Health Label**
 >
-> **Not all products are created equal — and the label tells you a lot. First, look for full strain designations (like _Lactobacillus rhamnosus_ GG), not just genus and species. Second, check whether the dose listed matches what was used in clinical trials for the benefit you're after. Third, look for a guaranteed count at expiration, not just at time of manufacture — because viability drops over time ([Kolaček 2017](https://doi.org/10.1097/MPG.0000000000001482)). Finally, consider the delivery system: does the product use technology designed to protect live microbes through stomach acid? A product that checks all these boxes is more likely to actually work the way you're hoping.**
+> **Not all products are created equal — and the label tells you a lot. First, look for full strain designations (like _Lactobacillus rhamnosus_ GG), not just genus and species. Second, check whether the dose listed matches what was used in clinical trials for the benefit you're after. Third, look for a guaranteed count at expiration, not just at time of manufacture — because viability drops over time ([Kolaček 2017](https://doi.org/10.1097/MPG.0000000000001603)). Finally, consider the delivery system: does the product use technology designed to protect live microbes through stomach acid? A product that checks all these boxes is more likely to actually work the way you're hoping.**
 
 **Citation to use**:
-- Kolaček, S., Hojsak, I., Berni Canani, R., et al. (2017). Commercial probiotic products: A call for improved quality control. A position paper by the ESPGHAN Working Group for Probiotics and Prebiotics. *Journal of Pediatric Gastroenterology and Nutrition*, 65(1), 117–124. https://doi.org/10.1097/MPG.0000000000001482
+- Kolaček, S., Hojsak, I., Berni Canani, R., et al. (2017). Commercial probiotic products: A call for improved quality control. A position paper by the ESPGHAN Working Group for Probiotics and Prebiotics. *Journal of Pediatric Gastroenterology and Nutrition*, 65(1), 117–124. https://doi.org/10.1097/MPG.0000000000001603
 
 **Tone**: Practical, empowering. "Here's what to look for" energy.
 
@@ -402,7 +402,7 @@ Match the existing format exactly. **BOLD** new sources and add "(New Source)" t
 
 **24.** **McFarland, L. V., Evans, C. T., & Goldstein, E. J. C. (2018). Strain-specificity and disease-specificity of probiotic efficacy: A systematic review and meta-analysis. _Frontiers in Medicine, 5_, 124. [https://doi.org/10.3389/fmed.2018.00124](https://doi.org/10.3389/fmed.2018.00124) (New Source)**
 
-**25.** **Kolaček, S., Hojsak, I., Berni Canani, R., Guarino, A., Indrio, F., Orel, R., … & Weizman, Z. (2017). Commercial probiotic products: A call for improved quality control. A position paper by the ESPGHAN Working Group for Probiotics and Prebiotics. _Journal of Pediatric Gastroenterology and Nutrition, 65_(1), 117–124. [https://doi.org/10.1097/MPG.0000000000001482](https://doi.org/10.1097/MPG.0000000000001482) (New Source)**
+**25.** **Kolaček, S., Hojsak, I., Berni Canani, R., Guarino, A., Indrio, F., Orel, R., … & Weizman, Z. (2017). Commercial probiotic products: A call for improved quality control. A position paper by the ESPGHAN Working Group for Probiotics and Prebiotics. _Journal of Pediatric Gastroenterology and Nutrition, 65_(1), 117–124. [https://doi.org/10.1097/MPG.0000000000001603](https://doi.org/10.1097/MPG.0000000000001603) (New Source)**
 
 **26.** **Dahl, W. J., & Stewart, M. L. (2015). Position of the Academy of Nutrition and Dietetics: Health implications of dietary fiber. _Journal of the Academy of Nutrition and Dietetics, 115_(11), 1861–1870. [https://doi.org/10.1016/j.jand.2015.09.003](https://doi.org/10.1016/j.jand.2015.09.003) (New Source)**
 
