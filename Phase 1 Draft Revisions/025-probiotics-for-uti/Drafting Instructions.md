@@ -162,7 +162,8 @@ Add a new paragraph addressing how estrogen decline during menopause reduces vag
 - This makes postmenopausal women especially vulnerable to recurrent UTIs
 - Maintaining vaginal Lactobacillus levels is an area of growing research interest
 
-**Citation to use**: ([Price 2022](https://doi.org/10.1016/j.xcrm.2022.100753)) — Study in *Cell Reports Medicine* showing postmenopausal estrogen decline is associated with lower Lactobacillus levels and increased UTI risk.
+**Citation to use**:
+- Price, T. K., Wolff, B., Halverson, T., Limeira, R., Brubaker, L., Dong, Q., Mueller, E. R., & Wolfe, A. J. (2022). Recurrent urinary tract infection and estrogen shape the taxonomic ecology and function of the postmenopausal urogenital microbiome. _Cell Reports Medicine_, 3(10), 100753. [https://doi.org/10.1016/j.xcrm.2022.100753](https://doi.org/10.1016/j.xcrm.2022.100753)
 
 **Tone reminder**: Frame as empathetic and normalizing. Something like: "And if you're past menopause, this connection becomes even more relevant..." Avoid clinical or alarmist tone.
 
@@ -185,7 +186,8 @@ Add context about growing antibiotic resistance in UTI-causing bacteria, particu
 - Repeated antibiotic courses for recurrent UTIs can worsen resistance patterns
 - This is why researchers are exploring probiotic prevention as a complementary strategy
 
-**Citation to use**: ([Ku 2023](https://doi.org/10.1093/ofid/ofad287)) — Study in *Open Forum Infectious Diseases* documenting persistent multidrug resistance (12-13%) in outpatient E. coli UTI isolates, with high resistance to ampicillin, trimethoprim-sulfamethoxazole, and ciprofloxacin.
+**Citation to use**:
+- Ku, J. H., Huynh, V. K., Chen, D. J., Tompkins, L. S., Pinsky, B. A., Banerjee, R., & Bhatt, A. S. (2023). Multidrug Resistance of Escherichia coli From Outpatient Uncomplicated Urinary Tract Infections in a Large United States Integrated Healthcare Organization. _Open Forum Infectious Diseases_, 10(7), ofad287. [https://doi.org/10.1093/ofid/ofad287](https://doi.org/10.1093/ofid/ofad287)
 
 **Tone reminder**: This should feel informative, not alarming. Frame as: "Here's one more reason researchers are excited about prevention strategies..." NOT "Antibiotics are failing."
 
@@ -211,7 +213,8 @@ When mentioning L. rhamnosus and L. reuteri, add the specific strain designation
 
 Describe the Beerepoot 2012 trial: 252 postmenopausal women, L. rhamnosus GR-1 and L. reuteri RC-14 vs. trimethoprim-sulfamethoxazole for 12 months. Key finding: probiotics reduced UTIs similarly to antibiotics. Critical differentiator: probiotics did NOT increase antibiotic resistance, while the antibiotic group showed resistance increases from ~20% to 80-95% in E. coli isolates.
 
-**Citation to use**: ([Beerepoot 2012](https://doi.org/10.1001/archinternmed.2012.777)) — Published in *Archives of Internal Medicine*.
+**Citation to use**:
+- Beerepoot, M. A., ter Riet, G., Nys, S., van der Wal, W. M., de Borgie, C. A., de Reijke, T. M., Prins, J. M., Koeijers, J., Verbon, A., Stobberingh, E., & Geerlings, S. E. (2012). Lactobacilli vs antibiotics to prevent urinary tract infections: a randomized, double-blind, noninferiority trial in postmenopausal women. _Archives of Internal Medicine_, 172(9), 704–712. [https://doi.org/10.1001/archinternmed.2012.777](https://doi.org/10.1001/archinternmed.2012.777)
 
 **Tone reminder**: Present this as an encouraging finding, but acknowledge it's one study and more research is needed. "One landmark trial..." or "In a notable study..."
 
@@ -227,7 +230,8 @@ Describe the Beerepoot 2012 trial: 252 postmenopausal women, L. rhamnosus GR-1 a
 
 Expand to mention that vaginal Lactobacillus species use multiple defense mechanisms: producing lactic acid AND hydrogen peroxide, competing with uropathogens for attachment sites on vaginal and bladder cells, and producing antimicrobial compounds. This makes the "security squad" analogy even stronger — they don't just have one trick.
 
-**Citation to use**: ([Atassi 2010](https://doi.org/10.1111/j.1574-6968.2009.01887.x)) — Study showing hydrogen peroxide and lactic acid from Lactobacillus work together to kill uropathogens.
+**Citation to use**:
+- Atassi, F., & Servin, A. L. (2010). Individual and co-operative roles of lactic acid and hydrogen peroxide in the killing activity of enteric strain Lactobacillus johnsonii NCC933 and vaginal strain Lactobacillus gasseri KS120.1 against enteric, uropathogenic and vaginosis-associated pathogens. _FEMS Microbiology Letters_, 304(1), 29–38. [https://doi.org/10.1111/j.1574-6968.2009.01887.x](https://doi.org/10.1111/j.1574-6968.2009.01887.x)
 
 **Tone reminder**: Keep the analogy going — these are the multiple tools in your microbial security squad's toolkit. Don't make it overly technical.
 
@@ -243,7 +247,8 @@ Expand to mention that vaginal Lactobacillus species use multiple defense mechan
 
 Briefly explain that uropathogenic E. coli (UPEC) — the bacteria behind most UTIs — typically live harmlessly near the vagina and rectum. When vaginal defenses weaken, these bacteria can travel up the urethra and attach to bladder cells using tiny hook-like structures, triggering the infection.
 
-**Citation to use**: ([Abdelhalim 2023](https://doi.org/10.3390/ijms241310537)) — Comprehensive review in *International Journal of Molecular Sciences* covering UPEC pathogenesis mechanisms.
+**Citation to use**:
+- Abdelhalim, K. A., Gavrilin, D. I., & Mudzhiri, N. M. (2023). Urinary Tract Infections Caused by Uropathogenic Escherichia coli: Mechanisms of Infection and Treatment Options. _International Journal of Molecular Sciences_, 24(13), 10537. [https://doi.org/10.3390/ijms241310537](https://doi.org/10.3390/ijms241310537)
 
 **Tone reminder**: Keep it simple and visual. "Tiny hook-like structures" is more reader-friendly than "type 1 fimbriae with FimH adhesins."
 
@@ -268,8 +273,8 @@ Add a brief paragraph acknowledging that probiotics are one piece of a broader U
 - **Avoid douching**: This can disrupt the protective vaginal microbiome
 
 **Citations to use**:
-- ([Williams 2023](https://doi.org/10.1002/14651858.CD001321.pub6)) — Cochrane review showing cranberry products reduced UTI risk (RR 0.70)
-- ([Kyriakides 2022](https://doi.org/10.3390/pathogens11121471)) — Systematic review showing D-mannose significantly reduced UTI incidence (RR 0.34)
+- Williams, G., Hahn, D., Stephens, J. H., Craig, J. C., & Hodson, E. M. (2023). Cranberries for preventing urinary tract infections. _Cochrane Database of Systematic Reviews_, 4(4), CD001321. [https://doi.org/10.1002/14651858.CD001321.pub6](https://doi.org/10.1002/14651858.CD001321.pub6) — Cochrane review showing cranberry products reduced UTI risk (RR 0.70)
+- Kyriakides, R., Jones, P., & Somani, B. K. (2022). The Clinical Trial Outcomes of Cranberry, D-Mannose and NSAIDs in the Prevention or Management of Uncomplicated Urinary Tract Infections in Women: A Systematic Review. _Pathogens_, 11(12), 1471. [https://doi.org/10.3390/pathogens11121471](https://doi.org/10.3390/pathogens11121471) — Systematic review showing D-mannose significantly reduced UTI incidence (RR 0.34)
 
 **Tone reminder**: Frame as "other things you can do alongside probiotics" — this isn't medical advice, it's practical lifestyle information. "While probiotics can be one part of your prevention toolkit, there are other everyday habits that may also help..."
 
@@ -321,7 +326,7 @@ Per Seed's compliance guidelines, "separating probiotic intake from medications 
 
 Answer should acknowledge that postmenopausal women face higher UTI risk due to hormonal changes affecting the vaginal microbiome. Note that some research has specifically studied probiotic strains in postmenopausal populations (reference the Beerepoot 2012 study). Emphasize that while the research is encouraging, individual results vary and it's especially important for postmenopausal women to discuss probiotic options with their healthcare provider.
 
-**Citation to use**: Reuse ([Beerepoot 2012](https://doi.org/10.1001/archinternmed.2012.777)) already introduced earlier.
+**Citation to use**: Reuse Beerepoot et al. (2012) already introduced in Recommendation 3 — [https://doi.org/10.1001/archinternmed.2012.777](https://doi.org/10.1001/archinternmed.2012.777)
 
 **Compliance note**: Do NOT claim that any Seed product is studied in or recommended for postmenopausal populations. Keep the discussion general to the literature.
 
@@ -354,7 +359,8 @@ This ensures the overview reflects the expanded content below it.
 
 Reference a network meta-analysis that compared non-antibiotic prevention strategies. This helps position probiotics within the broader prevention landscape and adds a high-quality evidence source.
 
-**Citation to use**: ([Han 2024](https://doi.org/10.1007/s15010-024-02357-z)) — Network meta-analysis of 50 RCTs showing probiotics (RR 0.69), D-mannose (RR 0.34), and cranberry (RR 0.72) all significantly reduced UTI incidence vs. placebo.
+**Citation to use**:
+- Han, Y., Fu, F., Li, J., Li, J., & Wang, Y. (2024). Nonantibiotic prophylaxis for urinary tract infections: a network meta-analysis of randomized controlled trials. _Infection_, 52(4), 1425–1434. [https://doi.org/10.1007/s15010-024-02357-z](https://doi.org/10.1007/s15010-024-02357-z) — Network meta-analysis of 50 RCTs showing probiotics (RR 0.69), D-mannose (RR 0.34), and cranberry (RR 0.72) all significantly reduced UTI incidence vs. placebo.
 
 ---
 

@@ -171,7 +171,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
 
 2. **H. pylori interaction**: Add a brief mention that certain L. reuteri strains have been studied alongside standard H. pylori therapy. Research suggests L. reuteri may help reduce some of the gastrointestinal side effects commonly associated with antibiotic-based H. pylori treatment. Keep this measured - do NOT frame as L. reuteri "treating" H. pylori.
 
-   **Citation to use (NEW)**: ([Francavilla 2014](https://doi.org/10.1097/MCG.0000000000000007)) - RCT with 100 H. pylori-positive patients showing L. reuteri combination suppressed H. pylori growth and reduced antibiotic-associated side effects.
+   **Citation to use (NEW)**:
+   - Francavilla, R., Polimeno, L., Demichina, A., Maurogiovanni, G., Principi, B., Scaccianoce, G., Ierardi, E., Russo, F., Riezzo, G., Di Leo, A., Cavallo, L., Francavilla, A., & Versalovic, J. (2014). Lactobacillus reuteri strain combination in Helicobacter pylori infection: a randomized, double-blind, placebo-controlled study. _Journal of Clinical Gastroenterology_, 48(5), 407–413. [https://doi.org/10.1097/MCG.0000000000000007](https://doi.org/10.1097/MCG.0000000000000007)
 
 3. **Functional constipation**: The article already cites Ojetti 2014 (citation 8) about constipation. Briefly reference this finding to round out the digestive picture.
 
@@ -191,7 +192,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
 
 1. **Tryptophan metabolism pathway**: Explain in plain language that certain L. reuteri strains can convert an amino acid from food (tryptophan) into compounds that activate a receptor (the aryl hydrocarbon receptor, or AhR) on immune cells. This process stimulates production of IL-22, a molecule that helps maintain the gut lining and resist harmful microbes. Explain it simply first, then introduce the science: "Think of tryptophan as the raw material, and L. reuteri as the craftsman turning it into something your immune system can use."
 
-   **Citation to use (NEW)**: ([Zelante 2013](https://doi.org/10.1016/j.immuni.2013.08.003)) - Demonstrated that lactobacilli metabolize dietary tryptophan to produce indole-3-aldehyde, which activates AhR and promotes IL-22 production for mucosal immunity.
+   **Citation to use (NEW)**:
+   - Zelante, T., Iannitti, R. G., Cunha, C., De Luca, A., Giovannini, G., Pieraccini, G., Zecchi, R., D'Angelo, C., Massi-Benedetti, C., Fallarino, F., Carvalho, A., Puccetti, P., & Romani, L. (2013). Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22. _Immunity_, 39(2), 372–385. [https://doi.org/10.1016/j.immuni.2013.08.003](https://doi.org/10.1016/j.immuni.2013.08.003)
 
 2. **Histamine as anti-inflammatory signal**: This is a counterintuitive and engaging angle. Most people associate histamine with allergies, but L. reuteri actually produces histamine that may help suppress inflammation. Explain that L. reuteri converts dietary histidine into histamine, which then suppresses TNF (a pro-inflammatory signal) via a specific receptor pathway.
 
@@ -217,7 +219,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
 
 1. One of the more unexpected areas of L. reuteri research involves bone health. A randomized, placebo-controlled trial found that older women (ages 75-80) with low bone mineral density who took L. reuteri ATCC PTA 6475 daily for 12 months lost less bone compared to the placebo group. Specifically, total volumetric bone mineral density decreased by 0.83% in the L. reuteri group vs. 1.85% in placebo.
 
-   **Citation to use (NEW)**: ([Nilsson 2018](https://doi.org/10.1111/joim.12805)) - RCT with 90 older women showing L. reuteri 6475 reduced loss of total volumetric BMD.
+   **Citation to use (NEW)**:
+   - Nilsson, A. G., Sundh, D., Bäckhed, F., & Lorentzon, M. (2018). Lactobacillus reuteri reduces bone loss in older women with low bone mineral density: a randomized, placebo-controlled, double-blind, clinical trial. _Journal of Internal Medicine_, 284(3), 307–317. [https://doi.org/10.1111/joim.12805](https://doi.org/10.1111/joim.12805)
 
 2. Add a caveat that this is one study in a specific population, and more research is needed across different age groups and demographics. Frame cautiously: "While this is just one study in a specific group, it opens up a fascinating line of research into the gut-bone connection."
 
@@ -237,7 +240,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
 
 In a different lane entirely, one well-studied strain - L. reuteri NCIMB 30242 - has shown promise for heart health. A randomized controlled trial found this specific strain reduced LDL ("bad") cholesterol by about 11.6% over 9 weeks. The mechanism appears to involve the way this strain interacts with bile acids in the gut.
 
-**Citation to use (NEW)**: ([Jones 2012](https://doi.org/10.1038/ejcn.2012.126)) - 9-week RCT with 127 subjects showing L. reuteri NCIMB 30242 reduced LDL-C by 11.64% and total cholesterol by 9.14%.
+**Citation to use (NEW)**:
+- Jones, M. L., Martoni, C. J., Parent, M., & Prakash, S. (2012). Cholesterol lowering and inhibition of sterol absorption by Lactobacillus reuteri NCIMB 30242: a randomized controlled trial. _European Journal of Clinical Nutrition_, 66(11), 1234–1241. [https://doi.org/10.1038/ejcn.2012.126](https://doi.org/10.1038/ejcn.2012.126)
 
 **Important framing**: Emphasize this is strain-specific (NCIMB 30242), reinforcing the article's core message about strain specificity. "This is exactly why 'which strain' matters so much."
 
@@ -255,7 +259,8 @@ In a different lane entirely, one well-studied strain - L. reuteri NCIMB 30242 -
 
 1. Here's an interesting twist: while L. reuteri has co-evolved with humans for millennia, research suggests it's becoming less common in people living in westernized societies. Scientists hypothesize that changes in diet (less fiber, more processed foods), increased antibiotic use, and modern sanitation practices may have contributed to lower levels of this microbe in many people's guts.
 
-   **Citation to use (NEW)**: ([Walter 2011](https://doi.org/10.1073/pnas.1000099107)) - Evolutionary genomic analysis showing L. reuteri exhibits host-specific adaptation, with distinct lineages for different hosts. Suggests disruption of ancient host-microbe partnerships through modern lifestyle.
+   **Citation to use (NEW)**:
+   - Walter, J., Britton, R. A., & Roos, S. (2011). Host-microbial symbiosis in the vertebrate gastrointestinal tract and the Lactobacillus reuteri paradigm. _Proceedings of the National Academy of Sciences_, 108(Suppl 1), 4645–4652. [https://doi.org/10.1073/pnas.1000099107](https://doi.org/10.1073/pnas.1000099107)
 
 2. Add a Seed-aligned caveat: "This doesn't mean you're 'missing' something you need to replace. But it does add context to why researchers find L. reuteri so worth studying - it's a microbe that's been part of our story for a very long time."
 
@@ -293,7 +298,8 @@ In a different lane entirely, one well-studied strain - L. reuteri NCIMB 30242 -
 
 Beyond reuterin, some L. reuteri strains have been studied for their effects on the gut lining itself. Research in cell and animal models suggests certain strains may help support the proteins that keep your intestinal barrier intact - think of these "tight junction" proteins as the mortar between the bricks of your gut wall.
 
-**Citation to use (NEW)**: ([Liu 2012](https://doi.org/10.1152/ajpgi.00266.2011)) - L. reuteri DSM17938 upregulated tight junction protein expression in intestinal epithelial cells and prevented infection-induced intestinal permeability increases.
+**Citation to use (NEW)**:
+- Liu, Y., Fatheree, N. Y., Mangalat, N., & Rhoads, J. M. (2012). Lactobacillus reuteri strains reduce incidence and severity of experimental necrotizing enterocolitis via modulation of TLR4 and NF-κB signaling in the intestine. _American Journal of Physiology-Gastrointestinal and Liver Physiology_, 302(6), G608–G617. [https://doi.org/10.1152/ajpgi.00266.2011](https://doi.org/10.1152/ajpgi.00266.2011)
 
 **Compliance note**: Frame as "research suggests" in models, not proven in humans.
 
@@ -362,14 +368,14 @@ No new citation needed.
 
 Format these to match existing citation style. **BOLD** all new entries and add "(New Source)" tag:
 
-**19. Francavilla R, Polimeno L, Demichina A, et al. J Clin Gastroenterol. 2014;48(5):407-413. (New Source)**
+**19. Francavilla, R., Polimeno, L., Demichina, A., Maurogiovanni, G., Principi, B., Scaccianoce, G., Ierardi, E., Russo, F., Riezzo, G., Di Leo, A., Cavallo, L., Francavilla, A., & Versalovic, J. (2014). Lactobacillus reuteri strain combination in Helicobacter pylori infection: a randomized, double-blind, placebo-controlled study. _Journal of Clinical Gastroenterology_, 48(5), 407–413. [https://doi.org/10.1097/MCG.0000000000000007](https://doi.org/10.1097/MCG.0000000000000007) (New Source)**
 
-**20. Nilsson AG, Sundh D, Backhed F, Lorentzon M. J Intern Med. 2018;284(3):307-317. (New Source)**
+**20. Nilsson, A. G., Sundh, D., Bäckhed, F., & Lorentzon, M. (2018). Lactobacillus reuteri reduces bone loss in older women with low bone mineral density: a randomized, placebo-controlled, double-blind, clinical trial. _Journal of Internal Medicine_, 284(3), 307–317. [https://doi.org/10.1111/joim.12805](https://doi.org/10.1111/joim.12805) (New Source)**
 
-**21. Jones ML, Martoni CJ, Parent M, Prakash S. Eur J Clin Nutr. 2012;66(11):1234-1241. (New Source)**
+**21. Jones, M. L., Martoni, C. J., Parent, M., & Prakash, S. (2012). Cholesterol lowering and inhibition of sterol absorption by Lactobacillus reuteri NCIMB 30242: a randomized controlled trial. _European Journal of Clinical Nutrition_, 66(11), 1234–1241. [https://doi.org/10.1038/ejcn.2012.126](https://doi.org/10.1038/ejcn.2012.126) (New Source)**
 
-**22. Zelante T, Iannitti RG, Cunha C, et al. Immunity. 2013;39(2):372-385. (New Source)**
+**22. Zelante, T., Iannitti, R. G., Cunha, C., De Luca, A., Giovannini, G., Pieraccini, G., Zecchi, R., D'Angelo, C., Massi-Benedetti, C., Fallarino, F., Carvalho, A., Puccetti, P., & Romani, L. (2013). Tryptophan catabolites from microbiota engage aryl hydrocarbon receptor and balance mucosal reactivity via interleukin-22. _Immunity_, 39(2), 372–385. [https://doi.org/10.1016/j.immuni.2013.08.003](https://doi.org/10.1016/j.immuni.2013.08.003) (New Source)**
 
-**23. Walter J, Britton RA, Roos S. Proc Natl Acad Sci U S A. 2011;108(Suppl 1):4645-4652. (New Source)**
+**23. Walter, J., Britton, R. A., & Roos, S. (2011). Host-microbial symbiosis in the vertebrate gastrointestinal tract and the Lactobacillus reuteri paradigm. _Proceedings of the National Academy of Sciences_, 108(Suppl 1), 4645–4652. [https://doi.org/10.1073/pnas.1000099107](https://doi.org/10.1073/pnas.1000099107) (New Source)**
 
-**24. Liu Y, Fatheree NY, Mangalat N, Rhoads JM. Am J Physiol Gastrointest Liver Physiol. 2012;302(6):G608-G617. (New Source)**
+**24. Liu, Y., Fatheree, N. Y., Mangalat, N., & Rhoads, J. M. (2012). Lactobacillus reuteri strains reduce incidence and severity of experimental necrotizing enterocolitis via modulation of TLR4 and NF-κB signaling in the intestine. _American Journal of Physiology-Gastrointestinal and Liver Physiology_, 302(6), G608–G617. [https://doi.org/10.1152/ajpgi.00266.2011](https://doi.org/10.1152/ajpgi.00266.2011) (New Source)**
