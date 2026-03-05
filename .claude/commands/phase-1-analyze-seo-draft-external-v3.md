@@ -344,6 +344,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
    - **BOLD** any new sources added
    - Label new sources with "(New Source)" tag at the end
    - Ensure new citations are formatted identically to existing ones (except for bolding and tag)
+   - Every citation (existing and new) MUST include: Author(s), Year, **Full Paper Title**, _Journal Name_, Volume(Issue), Pages, and **DOI link**
+   - Do NOT use abbreviated journal-only format (e.g., "Author et al. J Clin Gastroenterol. 2014;48:407-413") — always include the full paper title and a clickable DOI URL
    - Verify DOI links are working
 
 4. **Preserve ALL existing citations** - Do not remove any citations, even if total exceeds 15
@@ -353,7 +355,9 @@ CRITICAL FORMATTING INSTRUCTIONS:
 #### For Each Improvement:
 - **Clear placement instructions** (which section, before/after what content)
 - **Specific content requirements** (what to write, how much detail)
-- **Citation needs** (what claims must be cited)
+- **Citation format in recommendations** (CRITICAL): Each "Citation to use" line MUST include the FULL citation details:
+  `- Author(s). (Year). Full Paper Title. _Journal Name_, Volume(Issue), Pages. DOI_URL`
+  Do NOT use abbreviated format like `([Author Year](DOI)) — brief description`. The drafter needs the complete reference to verify and insert correctly.
 - **Bolding reminder** (bold all new content)
 - **Tone reminders** (maintain conversational, knowledgeable friend voice)
 
