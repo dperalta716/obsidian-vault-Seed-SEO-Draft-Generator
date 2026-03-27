@@ -33,34 +33,45 @@ Identify which file to review (same logic as review-draft-1):
 **Scan the article to determine which product it covers:**
 
 1. **Look for explicit product mentions:**
+   - DS-01® or "Daily Synbiotic" → DS-01
    - PM-02® or "Sleep + Restore" → PM-02
    - DM-02® or "Daily Multivitamin" → DM-02
    - AM-02® or "Energy + Focus" → AM-02
 
-2. **Check for product-specific ingredients:**
+2. **Check for product-specific ingredients/topics:**
+   - Probiotics, microbiome, gut health, strains, synbiotic → DS-01
    - Melatonin → PM-02
    - Multivitamin, comprehensive vitamins/minerals → DM-02
    - Energy, mitochondrial function, nootropics → AM-02
 
 3. **Analyze keyword patterns:**
+   - "probiotic", "gut health", "microbiome", "bloating", "digestion", "IBS" → DS-01
    - "sleep", "circadian", "melatonin" → PM-02
    - "multivitamin", "nutrient gaps", "daily vitamin" → DM-02
    - "energy", "focus", "cognitive", "mitochondria" → AM-02
 
 4. **If multiple products detected:** Choose primary focus based on keyword and main content
-5. **If unclear:** Default to checking all three products and note this in output
+5. **If unclear:** Default to checking all three NPD products and note this in output
 
 **Load appropriate reference files based on detected product:**
+
+**For DS-01:**
+- `Phase 1 Reference Files/Ds-01 Science Reference File.md`
+- `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
+- `Phase 1 Reference Files/Ds-01 PDP.md`
+- `Phase 1 Draft Revsions/Phase 1 Reference Files/seed strains.md`
+
+**For NPD products (PM-02/DM-02/AM-02):**
 - `/Reference/Claims/[PRODUCT]/[PRODUCT]-General-Claims.md`
 - `/Reference/Claims/[PRODUCT]/[PRODUCT]-*-Claims.md` (all ingredient-specific files)
 - `/Reference/NPD-Messaging/[PRODUCT] Product Messaging Reference Documents.md`
 - `/Reference/SciComms Education Files/[PRODUCT] SciComms [Topic] Education.md`
 
 Also load universal files:
-- `/Reference/Compliance/NO-NO-WORDS.md`
+- `/Reference/Compliance/NO-NO-WORDS.md` (or `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md` for DS-01)
 - `/Reference/Compliance/What-We-Are-Not-Allowed-To-Say.md`
-- `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md`
-- `/Reference/Style/8-Sample-Reference-Blog-Articles.md`
+- `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md` (or `Phase 1 Reference Files/Seed Tone of Voice and Structure.md` for DS-01)
+- `/Reference/Style/8-Sample-Reference-Blog-Articles.md` (or `Phase 1 Reference Files/8 Sample Reference Blog Articles.md` for DS-01)
 
 ### STEP 3: Relevance Analysis (KEY INNOVATION)
 
@@ -131,7 +142,35 @@ Run 15 checks across 3 categories, using product-specific criteria:
 - **How to check:** Scan for product name mentions and verify they use proper attribution format
 - **Priority:** HIGH (compliance issue)
 
-### B. NPD Messaging Alignment (5 checks - PRODUCT-SPECIFIC)
+### B. Product Messaging Alignment (5 checks - PRODUCT-SPECIFIC)
+
+**For DS-01 Articles:**
+
+**Check 6: Emphasizes strain specificity ("not all probiotics are equal")**
+- ✅ Pass: Explains that probiotic benefits are strain-specific, not generic to all probiotics
+- ❌ Fail: Treats all probiotics as interchangeable or doesn't emphasize strain-level evidence
+- **Why it matters:** This is DS-01's core scientific differentiator
+- **Priority:** CRITICAL for DS-01
+
+**Check 7: Discusses gut-[topic] axis connection relevant to the article**
+- ✅ Pass: Connects gut health to the article's primary topic (gut-brain, gut-skin, gut-immune, etc.)
+- ❌ Fail: Discusses topic in isolation without connecting to gut/microbiome
+- **Priority:** CRITICAL for DS-01
+
+**Check 8: Addresses ViaCap® delivery technology and survivability**
+- ✅ Pass: Mentions ViaCap® capsule-in-capsule and why delivery matters
+- ❌ Fail: Doesn't mention delivery technology or survivability challenge
+- **Priority:** HIGH
+
+**Check 9: References clinical trial evidence (Harvard/Health Canada studies)**
+- ✅ Pass: Mentions DS-01's clinical trials and specific outcomes
+- ❌ Fail: Only uses strain-level studies without finished-product clinical validation
+- **Priority:** HIGH
+
+**Check 10: Positions probiotics as complementary to lifestyle (not a magic pill)**
+- ✅ Pass: Frames DS-01 alongside diet, exercise, sleep as part of holistic approach
+- ❌ Fail: Positions DS-01 as standalone solution or replacement for healthy lifestyle
+- **Priority:** MEDIUM
 
 **For DM-02 Articles:**
 
