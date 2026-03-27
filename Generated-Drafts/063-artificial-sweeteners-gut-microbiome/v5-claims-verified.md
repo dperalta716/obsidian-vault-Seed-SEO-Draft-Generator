@@ -1,7 +1,7 @@
 ---
 date: 2026-03-27
 keyword: "artificial sweeteners gut microbiome"
-version: v3-reviewed
+version: v5-claims-verified
 status: draft
 tags: [seo/draft, seed/ds-01, content/article]
 ---
@@ -49,7 +49,7 @@ But mice aren't people (obviously). So the same team ran a follow-up human trial
 
 Here's where it gets personal. Not everyone responded the same way. The researchers identified "responders" and "non-responders" -- and which category you fell into seemed to depend on the bacteria already living in your gut before the study even started.
 
-A separate 2023 study from Cedars-Sinai looked at something most researchers hadn't: the *small bowel* microbiome, not just stool samples ([Mathur 2023](https://doi.org/10.1016/j.isci.2023.108530)). They found that people consuming non-aspartame sweeteners had lower bacterial richness in their small intestine compared to controls. Aspartame users showed a different pattern -- their small bowel bacteria were enriched in a pathway linked to a toxin called cylindrospermopsin.
+A separate 2023 study from Cedars-Sinai looked at something most researchers hadn't: the *small bowel* microbiome, not just stool samples ([Hosseini 2023](https://doi.org/10.1016/j.isci.2023.108530)). They found that people consuming non-aspartame sweeteners had lower bacterial richness in their small intestine compared to controls. Aspartame users showed a different pattern -- their small bowel bacteria were enriched in a pathway linked to a toxin called cylindrospermopsin.
 
 So the picture isn't simple. Different sweeteners do different things, in different parts of your gut, in different people.
 
@@ -113,7 +113,7 @@ Based on current research, saccharin and sucralose have the strongest evidence f
 
 ### Can artificial sweeteners cause gut inflammation?
 
-Some research suggests they can, though the mechanism is indirect. Certain sweeteners have been associated with dysbiosis -- a shift in gut bacteria composition that favors less beneficial species. This can compromise gut barrier integrity, potentially allowing inflammatory compounds to enter the bloodstream ([Hetta 2025](https://doi.org/10.3390/diseases13040115)). A Cedars-Sinai study also found altered inflammatory markers in people consuming non-sugar sweeteners ([Mathur 2023](https://doi.org/10.1016/j.isci.2023.108530)). That said, the degree of inflammation likely depends on the specific sweetener, the dose, and your individual microbiome composition. Supporting your gut barrier with strains clinically studied for barrier integrity -- like those in [DS-01(R) Daily Synbiotic](https://seed.com/daily-synbiotic) -- is one evidence-based approach to maintaining resilience.
+Some research suggests they can, though the mechanism is indirect. Certain sweeteners have been associated with dysbiosis -- a shift in gut bacteria composition that favors less beneficial species. This can compromise gut barrier integrity, potentially allowing inflammatory compounds to enter the bloodstream ([Hetta 2025](https://doi.org/10.3390/diseases13040115)). A Cedars-Sinai study also found altered inflammatory markers in people consuming non-sugar sweeteners ([Hosseini 2023](https://doi.org/10.1016/j.isci.2023.108530)). That said, the degree of inflammation likely depends on the specific sweetener, the dose, and your individual microbiome composition. Supporting your gut barrier with strains clinically studied for barrier integrity -- like those in [DS-01(R) Daily Synbiotic](https://seed.com/daily-synbiotic) -- is one evidence-based approach to maintaining resilience.
 
 ### Do artificial sweeteners cause weight gain through gut changes?
 
@@ -139,7 +139,7 @@ The evidence here is mixed. Some short-term studies have linked sweetener-induce
 
 9. Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., & Knight, R. (2012). Diversity, stability and resilience of the human gut microbiota. *Nature, 489*(7415), 220-230. [https://doi.org/10.1038/nature11550](https://doi.org/10.1038/nature11550)
 
-10. Mathur, R., Hosseini, A., Barlow, G. M., Leite, G., Rashid, M., Parodi, G., ... & Pimentel, M. (2023). Artificial sweeteners significantly alter the small bowel microbiome. *iScience, 27*(1), 108530. [https://doi.org/10.1016/j.isci.2023.108530](https://doi.org/10.1016/j.isci.2023.108530)
+10. Hosseini, A., Barlow, G. M., Leite, G., Rashid, M., Parodi, G., ... & Mathur, R. (2023). Consuming artificial sweeteners may alter the structure and function of duodenal microbial communities. *iScience, 27*(1), 108530. [https://doi.org/10.1016/j.isci.2023.108530](https://doi.org/10.1016/j.isci.2023.108530)
 
 11. Mendez-Garcia, L. A., Bueno-Hernandez, N., Cid-Soto, M. A., De Leon, K. L., Mendoza-Martinez, V. M., Espinosa-Flores, A. J., ... & Escobedo, G. (2022). Ten-week sucralose consumption induces gut dysbiosis and altered glucose and insulin levels in healthy young adults. *Microorganisms, 10*(2), 434. [https://doi.org/10.3390/microorganisms10020434](https://doi.org/10.3390/microorganisms10020434)
 

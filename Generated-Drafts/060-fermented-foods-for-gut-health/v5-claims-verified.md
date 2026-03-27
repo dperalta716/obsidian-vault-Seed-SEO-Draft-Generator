@@ -3,7 +3,7 @@ date: 2026-03-27
 keyword: "fermented foods for gut health"
 tags:
   - type/seo-draft
-  - status/v4-sources-verified
+  - status/v5-claims-verified
   - product/DS-01
 ---
 

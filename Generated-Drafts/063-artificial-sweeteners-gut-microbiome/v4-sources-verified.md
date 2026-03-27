@@ -1,7 +1,7 @@
 ---
 date: 2026-03-27
 keyword: "artificial sweeteners gut microbiome"
-version: v3-reviewed
+version: v4-sources-verified
 status: draft
 tags: [seo/draft, seed/ds-01, content/article]
 ---

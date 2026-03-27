@@ -1,7 +1,7 @@
 ---
 date: 2026-03-27
 keyword: "probiotic rich foods"
-version: v3-reviewed
+version: v4-sources-verified
 status: draft
 tags: [seed, seo-draft, ds-01, phase-1]
 ---
