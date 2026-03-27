@@ -1,7 +1,7 @@
 ---
 date: 2026-03-27
 keyword: "are pickles good for gut health"
-version: v4-sources-verified
+version: v5-claims-verified
 status: draft
 word_count_target: "1800-2200"
 tags: [seo/draft, seed/ds-01, content/phase1]
