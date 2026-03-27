@@ -317,14 +317,13 @@ Run all checks from existing review-draft-1 command:
 - No unapproved health claims
 - No absolute statements in medical context
 
-**📝 Structure & Length (8 checks)**
+**📝 Structure & Length (7 checks)**
 - Word count ≥1300
-- Has ### Overview section (3-5 bullets)
+- Has ### Overview section (minimum 3 bullets — do NOT trim if more are present)
 - Has ## The Key Insight section
-- Has ## Frequently Asked Questions (3-4 questions)
+- Has ## Frequently Asked Questions (minimum 3 questions — do NOT remove a 4th FAQ if present)
 - Contains Dirk Gevers, Ph.D. quote
 - Has ## Citations section
-- Has internal link suggestions (5-15)
 - Proper H2/H3 hierarchy
 
 **💬 Tone & Voice (20 checks)**
@@ -468,14 +467,25 @@ Parse user's response and apply appropriate fixes:
    - Add citations from SciComms docs where appropriate
    - Adjust Dirk Gevers quote if needed to better align with Seed's perspective
 
+**⚠️ CONTENT PRESERVATION GUARDRAIL — CRITICAL**
+
+When applying ANY fixes, you MUST follow these rules:
+- **NEVER remove Overview bullets** — only flag if fewer than 3; never trim existing bullets
+- **NEVER remove FAQ questions** — only flag if fewer than 3; never delete a 4th FAQ
+- **NEVER remove subsections, paragraphs, or sentences** for "conciseness" or "brevity"
+- **NEVER remove or shorten subheadings** unless they contain compliance violations
+- **NEVER reduce word count** as a goal — content was deliberately written and should be preserved
+- **Fixes should ADD or MODIFY, not DELETE** — the only exception is removing compliance violations (NO-NO words, forbidden claims)
+- **Citation reduction is allowed** — trimming citation count to 12-15 is fine, but do not remove the prose/claims those citations supported
+
 **For secondary category fixes:**
 
 Apply fixes as defined in existing review-draft-1 command:
 - **Tone fixes:** Add contractions, break up paragraphs, add plain language intros, add analogies
 - **Compliance fixes:** Replace NO-NO words, soften medical claims, fix attribution
-- **Citation fixes:** Fix formatting, add/remove as needed
+- **Citation fixes:** Fix formatting, reduce count to 12-15 if over, consolidate duplicate sources
 - **Product reference fixes:** Add ® symbols, fix links, adjust focus to ingredients
-- **Structure fixes:** Add missing sections with appropriate content
+- **Structure fixes:** Add missing sections — never remove existing sections or content
 - **SEO fixes:** Adjust titles/descriptions, add keyword where missing
 
 ### STEP 8: Save Reviewed Version
