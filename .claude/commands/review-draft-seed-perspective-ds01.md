@@ -56,12 +56,18 @@ Identify which file to review:
 
 **If the article appears to be NPD content (PM-02/DM-02/AM-02), warn the user** and suggest using `/review-draft-seed-perspective` instead.
 
-**Load ALL DS-01 reference files:**
+**Load DS-01 reference files:**
 
-**Tier 1 - Evidence Authority & SciCare Perspective:**
-- `Phase 1 Reference Files/Ds-01 Science Reference File.md`
-- `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
-- `Phase 1 Reference Files/Ds-01 PDP.md`
+**Tier 1 - Evidence Authority:**
+- `Phase 1 Reference Files/Ds-01 Science Reference File.md` (full file)
+- `Phase 1 Reference Files/Ds-01 PDP.md` (full file)
+
+**Tier 1 - SciCare POV (SELECTIVE LOADING - DO NOT load the full 52K-word file):**
+- `Phase 1 Reference Files/SciCare-POV-Section-Index.md` ← **Read this FIRST**
+- Then load ONLY the 2-4 sections relevant to the article's keyword (see Section Index for line ranges)
+- Use the Read tool with `offset` and `limit` parameters to load specific sections from:
+  `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
+- Example: For a "probiotics for bloating" article, load sections 3 (offset:68, limit:172), 8 (offset:584, limit:80), and 20 (offset:937, limit:28)
 
 **Supporting Documents:**
 - `Phase 1 Draft Revsions/Phase 1 Reference Files/seed strains.md`
@@ -70,9 +76,9 @@ Identify which file to review:
 - `Phase 1 Reference Files/8 Sample Reference Blog Articles.md`
 - `Reference/Compliance/NO-NO-WORDS.md`
 
-### STEP 3: Relevance Analysis (KEY INNOVATION)
+### STEP 3: Relevance Analysis via Section Index (KEY INNOVATION)
 
-**Before grading, analyze which SciCare POV content is actually relevant to THIS article:**
+**Instead of loading the full 52K-word SciCare POV, selectively load only relevant sections:**
 
 1. **Read the article's:**
    - Primary keyword
@@ -80,18 +86,31 @@ Identify which file to review:
    - Main topics covered
    - Specific health areas discussed (digestive, skin, cardiovascular, immune, etc.)
 
-2. **Identify relevant SciCare POV sections:**
-   - Read through the SciCare POV file
-   - Determine which macros, talking points, and DS-01 benefit areas apply to THIS specific article
-   - Flag sections that are relevant vs. those that would be bloat
+2. **Consult the Section Index:**
+   - Read `Phase 1 Reference Files/SciCare-POV-Section-Index.md`
+   - Match the article's keyword against the "Keywords" column and "Common Article-to-Section Mappings" table
+   - Identify 2-4 sections to load (typically 1-2 highly relevant + 1-2 supporting)
 
-3. **Create a relevance map:**
+3. **Load selected sections:**
+   - Use the Read tool with `offset` and `limit` from the Section Index
+   - Source file: `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
+   - Example for "probiotics for bloating":
+     ```
+     Section 3 (benefits/regularity): offset=68, limit=172
+     Section 8 (side effects/gas): offset=584, limit=80
+     Section 20 (IBS): offset=937, limit=28
+     ```
+
+4. **Create a relevance map:**
    ```
-   Relevant SciCare POV Sections:
-   - "DS Benefits - Digestive" → Highly relevant (for gut health articles)
-   - "GALT / Gut Barrier Integrity / SCFAs" → Relevant
-   - "DS Benefits - Dermatological" → Not relevant for digestive article
-   - "DS Benefits - Cardiovascular" → Not relevant for digestive article
+   Loaded SciCare POV Sections:
+   - Section 3: "Should I take probiotics / regularity" → Highly relevant
+   - Section 8: "Do probiotics make you poop / gas" → Highly relevant
+   - Section 20: "IBS" → Relevant (supporting context)
+
+   Skipped (not loaded):
+   - Section 22: Skin → Not relevant for digestive article
+   - Section 25: Gut-brain axis → Not relevant
    ```
 
 **Relevance Criteria:**
@@ -99,7 +118,7 @@ Identify which file to review:
 - **Relevant:** Provides supporting context or Seed's unique angle
 - **Not relevant:** Too detailed, off-topic, or would bloat the article
 
-**IMPORTANT:** Only check for "Highly relevant" and "Relevant" content in subsequent grading. Do NOT flag missing content that's "Not relevant."
+**IMPORTANT:** Only check for content from sections you loaded. Do NOT flag missing content from sections that aren't relevant to the article's topic.
 
 ### STEP 4: Grade Against 15 Seed Perspective Checks
 

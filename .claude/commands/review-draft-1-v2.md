@@ -305,10 +305,10 @@ Run all checks from existing review-draft-1 command:
 - **NEW:** Check that Claims docs are prioritized over competitive sources
 
 **🏷️ Product References (5 checks)**
-- ® symbol present on all NPD product mentions
-- Correct format and URLs
-- Focus on ingredient story (not product pitch)
-- Proper product attribution for claims
+- ® symbol present on all product mentions (DS-01® or NPD products)
+- Correct format and URLs (DS-01: https://seed.com/daily-synbiotic; NPD: respective product URLs)
+- Focus on ingredient/strain story (not product pitch)
+- Proper product attribution for claims (strains/ingredients, not the product itself)
 
 **⚖️ Compliance (10 checks)**
 - NO-NO-WORDS scan
@@ -352,7 +352,7 @@ Present findings in this format:
 🔍 Draft Review v2: [filename]
 📅 Generated: [date from file]
 📝 Word Count: [X words]
-🎯 Product Detected: [DM-02/PM-02/AM-02]
+🎯 Product Detected: [DS-01/DM-02/PM-02/AM-02]
 🔍 Relevant SciComms Sections Identified: [list sections marked relevant in Step 3]
 
 ═══════════════════════════════════════════════════
@@ -456,7 +456,8 @@ Parse user's response and apply appropriate fixes:
    - Ensure Claims docs are primary authority (>50% of citations)
    - Add missing health claims with proper attribution language
 
-2. **NPD Messaging Alignment:**
+2. **Product Messaging Alignment:**
+   - **For DS-01:** Add strain specificity emphasis, enhance gut-[topic] axis connection, add ViaCap® delivery section, reference clinical trial evidence, ensure complementary-to-lifestyle positioning
    - **For DM-02:** Add soil depletion section, enhance microbiome-nutrition bidirectional discussion, add ViaCap® section, strengthen bioavailability examples, add critique of mega-dose multivitamins
    - **For PM-02:** Add precision dosing explanation, enhance sleep-gut-brain axis, add dual-phase release section, add high-dose melatonin critique, emphasize "not overloading" philosophy
    - **For AM-02:** Emphasize sustained vs. stimulant energy, enhance gut-mitochondria axis, strengthen cellular energy focus, add nootropic benefits, add stimulant product critique

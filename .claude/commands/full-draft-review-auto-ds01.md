@@ -56,13 +56,13 @@ Identify the starting file using standard logic:
 Execute the full `/review-draft-seed-perspective-ds01` command logic:
 
 1. **Load DS-01 Reference Files:**
-   - `Phase 1 Reference Files/Ds-01 Science Reference File.md`
-   - `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
-   - `Phase 1 Reference Files/Ds-01 PDP.md`
+   - `Phase 1 Reference Files/Ds-01 Science Reference File.md` (full file)
+   - `Phase 1 Reference Files/Ds-01 PDP.md` (full file)
    - `Phase 1 Draft Revsions/Phase 1 Reference Files/seed strains.md`
    - Plus shared compliance/tone files
+   - **SciCare POV: SELECTIVE LOADING** — Read the Section Index first (`Phase 1 Reference Files/SciCare-POV-Section-Index.md`), then load only 2-4 relevant sections from the full 52K-word SciCare POV file using offset/limit. Do NOT load the entire file.
 
-2. **Relevance Analysis** - Identify which SciCare POV content is relevant
+2. **Relevance Analysis** - Match article keyword to Section Index, load matching sections only
 3. **Grade Against 15 DS-01 Checks:**
    - Claims Usage (5): DS-01 Science Ref as primary authority, DOI links, substantive claims, strain names, attribution
    - SciCare POV (5): Strain specificity, gut-[topic] axis, ViaCap®, clinical trials, complementary positioning
