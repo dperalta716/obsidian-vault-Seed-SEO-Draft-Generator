@@ -11,7 +11,7 @@ stage: 2
 - **SEO Title Options:**
   1. "Is Kombucha Good for Gut Health? What Science Says" (51 chars)
   2. "Kombucha and Gut Health: Benefits, Limits & More" (49 chars)
-  3. "Is Kombucha Good for Your Gut? A Science-Backed Look" (53 chars)
+  3. **"Is Kombucha Good for Your Gut? A Science-Backed Look" (53 chars)**
 - **Slug:** is-kombucha-good-for-gut-health-guide
 - **Meta Description:** Is kombucha good for gut health? We break down the science on kombucha's probiotics, what the research actually shows, and how it fits into a gut health plan.
 - **Article Description:** Kombucha offers real gut health benefits, but the science is more nuanced than most articles let on. We cover what the clinical research says about kombucha's probiotics, who should be careful, and why a complete gut health approach goes beyond any single food or drink.
