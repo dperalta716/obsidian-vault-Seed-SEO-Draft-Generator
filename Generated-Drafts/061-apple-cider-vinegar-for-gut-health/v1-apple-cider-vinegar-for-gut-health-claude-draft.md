@@ -14,14 +14,13 @@ tags: [seed, seo-draft, v1, gut-health]
 - **Slug:** apple-cider-vinegar-for-gut-health-guide
 - **Meta Description:** Does apple cider vinegar actually support gut health? We break down the science on ACV, acetic acid, and what your microbiome really needs. (140 chars)
 - **Article Description:** Apple cider vinegar is everywhere in gut health conversations, but does the science back up the hype? We dig into what ACV can and can't do for your microbiome, how acetic acid works in your body, and why strain-specific probiotics offer a different level of evidence for digestive support. (289 chars)
-- **H1:** Apple Cider Vinegar for Gut Health: What Science Actually Says
+- **H1:** Apple Cider Vinegar for Gut Health: Separating the Hype From the Evidence
 - **Written by:** [LEAVE BLANK]
-- **Expert Review:** [LEAVE BLANK]
 - **Reviewed By:** [LEAVE BLANK]
 
 ---
 
-# Apple Cider Vinegar for Gut Health: What Science Actually Says
+# Apple Cider Vinegar for Gut Health: Separating the Hype From the Evidence
 
 ### Overview
 

@@ -19,14 +19,13 @@ status: draft
 - **Slug:** what-naturally-kills-bad-bacteria-in-the-gut-guide
 - **Meta Description:** What naturally kills bad bacteria in the gut? Learn how foods, probiotics, and lifestyle shifts restore balance -- backed by science, not hype. (144 chars)
 - **Article Description:** Wondering what naturally kills bad bacteria in the gut? The answer isn't about destroying microbes -- it's about building an environment where harmful ones can't dominate. This evidence-based guide covers how antimicrobial foods, probiotics, short-chain fatty acids, and daily habits help restore gut balance. (300 chars)
-- **H1:** What Naturally Kills Bad Bacteria in the Gut? (It's Not What You Think)
+- **H1:** What Naturally Kills Bad Bacteria in the Gut? Why Balance Beats Elimination
 - **Written by:** [LEAVE BLANK]
-- **Expert Review:** [LEAVE BLANK]
 - **Reviewed By:** [LEAVE BLANK]
 
 ---
 
-# What Naturally Kills Bad Bacteria in the Gut? (It's Not What You Think)
+# What Naturally Kills Bad Bacteria in the Gut? Why Balance Beats Elimination
 
 ### Overview
 

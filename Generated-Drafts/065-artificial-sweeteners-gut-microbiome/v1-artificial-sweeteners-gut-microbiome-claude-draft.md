@@ -18,14 +18,13 @@ tags:
 - **Slug:** artificial-sweeteners-gut-microbiome-guide
 - **Meta Description:** Do artificial sweeteners harm your gut microbiome? Here's what the research says about sweeteners, gut bacteria, and what you can do about it.
 - **Article Description:** Artificial sweeteners like sucralose and saccharin may alter your gut microbiome in ways researchers are still uncovering. We break down the evidence, explain which sweeteners have the strongest effects, and share what you can do to support your gut health.
-- **H1:** Artificial Sweeteners and Your Gut Microbiome: What the Research Actually Says
+- **H1:** Artificial Sweeteners and Your Gut Microbiome: How Zero-Calorie Isn't Zero-Impact
 - **Written by:** [LEAVE BLANK]
-- **Expert Review:** [LEAVE BLANK]
 - **Reviewed By:** [LEAVE BLANK]
 
 ---
 
-# Artificial Sweeteners and Your Gut Microbiome: What the Research Actually Says
+# Artificial Sweeteners and Your Gut Microbiome: How Zero-Calorie Isn't Zero-Impact
 
 ### Overview
 

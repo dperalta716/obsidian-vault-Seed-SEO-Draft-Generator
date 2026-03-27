@@ -1,4 +1,4 @@
-# Fiber Rich Foods for Gut Health: Your Complete Guide
+# Fiber Rich Foods for Gut Health: Why Variety Matters More Than Grams
 
 ---
 
@@ -12,9 +12,8 @@
 - **Slug:** fiber-rich-foods-for-gut-health-guide
 - **Meta Description:** Discover the best fiber rich foods for gut health, how different fibers feed your microbiome, and why diversity matters more than grams alone. (144 chars)
 - **Article Description:** Not all fiber helps your gut the same way. Learn which fiber rich foods actually feed beneficial bacteria, produce protective compounds, and support your gut barrier, plus how to add more without the bloating. (210 chars)
-- **H1:** Fiber Rich Foods for Gut Health: Why What You Eat Matters More Than How Much
+- **H1:** Fiber Rich Foods for Gut Health: Why Variety Matters More Than Grams
 - **Written by:** [LEAVE BLANK]
-- **Expert Review:** [LEAVE BLANK]
 - **Reviewed By:** [LEAVE BLANK]
 
 ---
