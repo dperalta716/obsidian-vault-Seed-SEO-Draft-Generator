@@ -41,7 +41,7 @@ Here's what the research says about the best foods for gut health, why they work
 
 ## Why Dietary Diversity Matters More Than Any Single Food
 
-If there's one principle that runs through the gut health research, it's this: variety wins. A study published in the *American Gut Project* found that people who ate more than 30 different plant foods per week had significantly more diverse gut microbiomes than those who ate fewer than 10 ([McDonald 2018](https://doi.org/10.1128/mSystems.00031-18)). And microbial diversity is consistently linked to better health outcomes.
+If there's one principle that runs through the gut health research, it's this: variety wins. A study published in the *American Gut Project* found that people who ate more than 30 different plant foods per week had significantly more diverse gut microbiomes than those who ate fewer than 10 ([McDonald 2018](https://doi.org/10.1128/mSystems.00031-18)). And microbial diversity is consistently linked to better health outcomes ([Lozupone 2012](https://doi.org/10.1038/nature11550)).
 
 Why does that matter? Different gut bacteria specialize in breaking down different compounds. Some thrive on the beta-glucan in oats. Others prefer the resistant starch in cooked-then-cooled potatoes. Still others depend on the polyphenols in berries and dark chocolate. When you eat the same five foods on repeat (no judgment, we've all been there), you're only feeding a fraction of your microbial community.
 
@@ -49,7 +49,7 @@ Why does that matter? Different gut bacteria specialize in breaking down differe
 
 Think of your gut microbiome like a garden with hundreds of different plant species. Each species needs slightly different nutrients to grow. If you only water one corner, the rest of the garden starts to thin out.
 
-The practical takeaway? Rotate your vegetables, grains, and legumes throughout the week. Swap brown rice for quinoa. Try a new leafy green. Add herbs and spices generously, as they contain concentrated polyphenols that your gut bacteria can use. Even small changes in variety can shift your microbiome composition within days ([David 2014](https://doi.org/10.1038/nature12820)).
+The practical takeaway? Rotate your vegetables, grains, and legumes throughout the week. Swap brown rice for quinoa. Try a new leafy green. Add herbs and spices generously, as they contain concentrated polyphenols that your gut bacteria can use ([Thompson 2021](https://doi.org/10.3390/nu13041295)). Even small changes in variety can shift your microbiome composition within days ([David 2014](https://doi.org/10.1038/nature12820)).
 
 ## The Best Foods for Gut Health (and How They Work)
 
@@ -85,11 +85,11 @@ This doesn't mean you should skip the kimchi. It means that fermented foods and 
 
 Polyphenols are plant compounds found in berries, dark chocolate, green tea, olive oil, red wine, and pomegranate. You might know them for their antioxidant properties, but they also play a direct role in your gut microbiome.
 
-Here's how it works: most polyphenols aren't well absorbed in your small intestine. Instead, they travel to your colon where gut bacteria break them down into smaller, bioactive compounds. In the process, those polyphenols selectively encourage the growth of beneficial bacteria while suppressing less desirable species.
+Here's how it works: most polyphenols aren't well absorbed in your small intestine. Instead, they travel to your colon where gut bacteria break them down into smaller, bioactive compounds. In the process, those polyphenols selectively encourage the growth of beneficial bacteria while suppressing less desirable species ([Wang 2022](https://doi.org/10.3390/antiox11061212)).
 
-Olive oil is a strong example. Research shows that regular olive oil consumption alters both the oral and gut microbiome in ways associated with reduced inflammation and better cardiovascular markers. And pomegranate polyphenols are particularly interesting: gut bacteria convert them into urolithins, a class of compounds that has been studied for their role in supporting gut barrier integrity and cellular health ([Espin 2013](https://doi.org/10.1155/2013/270418)).
+Olive oil is a strong example. Research shows that regular olive oil consumption alters both the oral and gut microbiome in ways associated with reduced inflammation and better cardiovascular markers ([Correia 2025](https://doi.org/10.3390/biom15030338)). And pomegranate polyphenols are particularly interesting: gut bacteria convert them into urolithins, a class of compounds that has been studied for their role in supporting gut barrier integrity and cellular health ([Espin 2013](https://doi.org/10.1155/2013/270418)).
 
-This is one area where Seed's approach intersects directly with the research. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) includes a prebiotic outer capsule made from Indian pomegranate, providing concentrated polyphenolic precursors (called Microbiota-Accessible Polyphenolic Precursors, or MAPP). Unlike fermenting prebiotics such as inulin or FOS, MAPP is a non-fermenting prebiotic, meaning it doesn't feed microbes directly but is instead biotransformed by specific gut bacteria into beneficial metabolites like urolithins. In a clinical trial, strains in DS-01 were shown to increase Urolithin A production, a molecule linked to cellular health and healthy aging.
+This is one area where Seed's approach intersects directly with the research. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) includes a prebiotic outer capsule made from Indian pomegranate, providing concentrated polyphenolic precursors (called Microbiota-Accessible Polyphenolic Precursors, or MAPP). Unlike fermenting prebiotics such as inulin or FOS, MAPP is a non-fermenting prebiotic, meaning it doesn't feed microbes directly but is instead biotransformed by specific gut bacteria into beneficial metabolites like urolithins. In a clinical trial, strains in DS-01® were shown to increase Urolithin A production, a molecule linked to cellular health and healthy aging.
 
 ### Cruciferous Vegetables and Leafy Greens
 
@@ -105,11 +105,11 @@ Food is the foundation of gut health. Full stop. No amount of supplementation re
 
 This is where the concept of a synbiotic, a combination of probiotics and prebiotics working together, becomes relevant. While fermented foods provide variable amounts of variable organisms, a clinically studied synbiotic like [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) delivers 24 specific probiotic strains at validated doses, housed in ViaCap® capsule-in-capsule technology designed to protect those strains through digestion and deliver them to the colon where they do their work. This matters because most probiotics are vulnerable to stomach acid, moisture, and oxygen, and many never reach the lower intestine alive.
 
-An important principle in microbiome science: probiotic benefits are strain-specific. That means a benefit shown for one strain, at a specific dose, can't simply be assumed for a different strain, even within the same species. The strains in DS-01 have been studied in over 20 preclinical and clinical studies for benefits spanning digestive health, gut barrier integrity, cardiovascular health, and immune function ([Del Piano 2010](https://doi.org/10.1097/MCG.0b013e3181ed0f43), [Costabile 2017](https://doi.org/10.1371/journal.pone.0187964)).
+An important principle in microbiome science: probiotic benefits are strain-specific. That means a benefit shown for one strain, at a specific dose, can't simply be assumed for a different strain, even within the same species. The strains in DS-01® have been studied in over 20 preclinical and clinical studies for benefits spanning digestive health, gut barrier integrity, cardiovascular health, and immune function ([Del Piano 2010](https://doi.org/10.1097/MCG.0b013e3181ed0f43), [Costabile 2017](https://doi.org/10.1371/journal.pone.0187964)).
 
 For digestive health specifically, research on strains like *Lactiplantibacillus plantarum* LP01, *Bifidobacterium breve* BR03, and *Bifidobacterium lactis* BS01 found that participants receiving these strains reported improvements in bowel movement frequency, stool consistency, and ease of evacuation ([Del Piano 2010](https://doi.org/10.1097/MCG.0b013e3181ed0f43)). And a study on *Bifidobacterium longum* BB536 showed improvements in overall intestinal environment and defecation regularity ([Ogata 1997](https://www.jstage.jst.go.jp/article/bifidus1996/16/2/16_2_53/_article)).
 
-In a double-blind, randomized, placebo-controlled clinical trial at Harvard Medical School, DS-01 promoted growth of beneficial *Bifidobacterium* (up to 4.6x) and *Lactobacilli* (up to 4.2x) compared to placebo, while also improving abdominal discomfort and several markers of occasional constipation ([Napier 2024](https://doi.org/10.1053/j.gastro.2024.03.027)). A separate clinical trial under Health Canada showed that DS-01 improved gut microbiome composition during temporary GI perturbations and enriched beneficial bacteria compared to placebo.
+In a double-blind, randomized, placebo-controlled clinical trial at Harvard Medical School, DS-01® promoted growth of beneficial *Bifidobacterium* (up to 4.6x) and *Lactobacilli* (up to 4.2x) compared to placebo, while also improving abdominal discomfort and several markers of occasional constipation ([Napier 2024](https://doi.org/10.1053/j.gastro.2024.03.027)). A separate clinical trial under Health Canada showed that DS-01® improved gut microbiome composition during temporary GI perturbations and enriched beneficial bacteria compared to placebo.
 
 The point isn't that you need a probiotic instead of good food. It's that when you pair a diverse diet rich in the best foods for gut health with targeted, strain-specific microbial support, you're covering more ground than either approach would on its own.
 
@@ -153,18 +153,26 @@ A "7 day gut reset" typically involves eliminating processed foods, added sugars
 
 7. Espin, J. C., Larrosa, M., Garcia-Conesa, M. T., & Tomas-Barberan, F. (2013). Biological significance of urolithins, the gut microbial ellagic acid-derived metabolites. *Evidence-Based Complementary and Alternative Medicine*, 2013, 270418. [https://doi.org/10.1155/2013/270418](https://doi.org/10.1155/2013/270418)
 
-8. From, S. Z., Csaki, L. S., Gerner-Smidt, C., et al. (2016). Sulfoquinovose is a select nutrient of prominent bacteria and a source of hydrogen sulfide in the gut. *Nature Chemical Biology*, 12, 141-143. [https://doi.org/10.1038/nchembio.1998](https://doi.org/10.1038/nchembio.1998)
+8. Correia, A., Azevedo, M., Peres, H., et al. (2025). Olive oil effect on gut and saliva microbiome. *Biomolecules*, 15(3), 338. [https://doi.org/10.3390/biom15030338](https://doi.org/10.3390/biom15030338)
 
-9. Le Roy, C. I., Kurilshikov, A., Leeming, E. R., et al. (2022). Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome. *BMC Microbiology*, 22, 39. [https://doi.org/10.1186/s12866-021-02364-2](https://doi.org/10.1186/s12866-021-02364-2)
+9. From, S. Z., Csaki, L. S., Gerner-Smidt, C., et al. (2016). Sulfoquinovose is a select nutrient of prominent bacteria and a source of hydrogen sulfide in the gut. *Nature Chemical Biology*, 12, 141-143. [https://doi.org/10.1038/nchembio.1998](https://doi.org/10.1038/nchembio.1998)
 
-10. McDonald, D., Hyde, E., Debelius, J. W., et al. (2018). American Gut: An open platform for citizen science microbiome research. *mSystems*, 3(3), e00031-18. [https://doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18)
+10. Le Roy, C. I., Kurilshikov, A., Leeming, E. R., et al. (2022). Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome. *BMC Microbiology*, 22, 39. [https://doi.org/10.1186/s12866-021-02364-2](https://doi.org/10.1186/s12866-021-02364-2)
 
-11. Napier, R. J., et al. (2024). Impact of a 24-strain probiotic on microbiome composition and digestive symptoms in adults with occasional digestive challenges. *Gastroenterology*, 166(5), S-1165. [https://doi.org/10.1053/j.gastro.2024.03.027](https://doi.org/10.1053/j.gastro.2024.03.027)
+11. McDonald, D., Hyde, E., Debelius, J. W., et al. (2018). American Gut: An open platform for citizen science microbiome research. *mSystems*, 3(3), e00031-18. [https://doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18)
 
-12. Ogata, T., Nakamura, T., Anjitsu, K., et al. (1997). Effect of *Bifidobacterium longum* BB536 administration on the intestinal environment, defecation frequency and fecal characteristics of human volunteers. *Bioscience and Microflora*, 16(2), 53-58. [https://www.jstage.jst.go.jp/article/bifidus1996/16/2/16_2_53/_article](https://www.jstage.jst.go.jp/article/bifidus1996/16/2/16_2_53/_article)
+12. Napier, R. J., et al. (2024). Impact of a 24-strain probiotic on microbiome composition and digestive symptoms in adults with occasional digestive challenges. *Gastroenterology*, 166(5), S-1165. [https://doi.org/10.1053/j.gastro.2024.03.027](https://doi.org/10.1053/j.gastro.2024.03.027)
 
-13. Riviere, A., Selak, M., Lantin, D., Leroy, F., & De Vuyst, L. (2016). Bifidobacteria and butyrate-producing colon bacteria: Importance and strategies for their stimulation in the human gut. *Frontiers in Microbiology*, 7, 285. [https://doi.org/10.3389/fmicb.2016.00285](https://doi.org/10.3389/fmicb.2016.00285)
+13. Ogata, T., Nakamura, T., Anjitsu, K., et al. (1997). Effect of *Bifidobacterium longum* BB536 administration on the intestinal environment, defecation frequency and fecal characteristics of human volunteers. *Bioscience and Microflora*, 16(2), 53-58. [https://www.jstage.jst.go.jp/article/bifidus1996/16/2/16_2_53/_article](https://www.jstage.jst.go.jp/article/bifidus1996/16/2/16_2_53/_article)
 
-14. Vinelli, V., Biscotti, P., Martini, D., et al. (2022). Effects of dietary fibers on short-chain fatty acids and gut microbiota composition in healthy adults: A systematic review. *Nutrients*, 14(13), 2559. [https://doi.org/10.3390/nu14132559](https://doi.org/10.3390/nu14132559)
+14. Riviere, A., Selak, M., Lantin, D., Leroy, F., & De Vuyst, L. (2016). Bifidobacteria and butyrate-producing colon bacteria: Importance and strategies for their stimulation in the human gut. *Frontiers in Microbiology*, 7, 285. [https://doi.org/10.3389/fmicb.2016.00285](https://doi.org/10.3389/fmicb.2016.00285)
 
-15. Wastyk, H. C., Fragiadakis, G. K., Perelman, D., et al. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137-4153.e14. [https://doi.org/10.1016/j.cell.2021.06.019](https://doi.org/10.1016/j.cell.2021.06.019)
+15. Vinelli, V., Biscotti, P., Martini, D., et al. (2022). Effects of dietary fibers on short-chain fatty acids and gut microbiota composition in healthy adults: A systematic review. *Nutrients*, 14(13), 2559. [https://doi.org/10.3390/nu14132559](https://doi.org/10.3390/nu14132559)
+
+16. Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., et al. (2012). Diversity, stability and resilience of the human gut microbiota. *Nature*, 489(7415), 220-230. [https://doi.org/10.1038/nature11550](https://doi.org/10.1038/nature11550)
+
+17. Thompson, H. J., Brick, M. A., McGinley, J. N., & Thompson, L. U. (2021). Botanical diversity as a dietary phytochemical source. *Nutrients*, 13(4), 1295. [https://doi.org/10.3390/nu13041295](https://doi.org/10.3390/nu13041295)
+
+18. Wang, X., Qi, Y., & Zheng, H. (2022). Dietary polyphenol, gut microbiota, and health benefits. *Antioxidants*, 11(6), 1212. [https://doi.org/10.3390/antiox11061212](https://doi.org/10.3390/antiox11061212)
+
+19. Wastyk, H. C., Fragiadakis, G. K., Perelman, D., et al. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137-4153.e14. [https://doi.org/10.1016/j.cell.2021.06.019](https://doi.org/10.1016/j.cell.2021.06.019)
