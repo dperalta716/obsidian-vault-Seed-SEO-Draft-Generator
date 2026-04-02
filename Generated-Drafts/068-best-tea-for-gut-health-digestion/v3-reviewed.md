@@ -1,7 +1,7 @@
 ---
 date: 2026-04-02
 keyword: "best tea for gut health & digestion"
-version: v2-seed-perspective-reviewed
+version: v3-reviewed
 status: draft
 tags: [seed, seo-draft, ds-01, phase-1]
 ---

@@ -95,7 +95,9 @@
       "Bash(source:*)",
       "Bash(refresh_google_token \"david@david-peralta.com\")",
       "WebFetch(domain:eutils.ncbi.nlm.nih.gov)",
-      "Bash(/root/obsidian-vaults/claude-code-demo/.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh:*)"
+      "Bash(/root/obsidian-vaults/claude-code-demo/.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh:*)",
+      "WebFetch(domain:idp.nature.com)",
+      "WebFetch(domain:api.crossref.org)"
     ],
     "deny": [],
     "ask": []
