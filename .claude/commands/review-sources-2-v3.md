@@ -17,22 +17,25 @@ Enhanced source verification with **PubMed-first** approach and triple-fallback 
 5. Updates ALL instances throughout the article
 6. Reports which method verified each citation
 
-## Key Enhancement in v3: PubMed-First Verification
+## Key Enhancement in v3.1: 6-Layer Verification Pipeline
 
-**Triple-Fallback Hierarchy:**
+**Full Fallback Hierarchy:**
 
 | Priority | Method | Best For | Speed |
 |----------|--------|----------|-------|
 | 1st | **PubMed API** | Biomedical literature (~70% of health citations) | Fastest |
-| 2nd | **WebFetch** | Non-PubMed sources, other publishers | Fast |
-| 3rd | **Firecrawl** | Sites blocking WebFetch, JS-heavy pages | Slower |
+| 2nd | **CrossRef API** | ALL disciplines — catches "DOI exists but not in PubMed" | Fast |
+| 3rd | **Semantic Scholar** | Metadata + abstracts + citation counts | Fast |
+| 4th | **WebFetch** | Non-DOI sources, other publishers | Medium |
+| 5th | **Firecrawl** | Sites blocking WebFetch, JS-heavy pages | Slower |
+| 6th | **Sci-Hub** | Last resort for paywalled content | Variable |
 
-**Why PubMed First:**
-- Structured JSON response (no HTML parsing needed)
-- Returns exact metadata: title, authors, year, DOI
-- Instant verification status
-- Covers 36M+ biomedical articles
-- Free, no rate limit issues
+**Why This Order:**
+- PubMed: Structured JSON, exact metadata, 36M+ biomedical articles
+- CrossRef: Covers ALL registered DOIs regardless of discipline, returns citation counts
+- Semantic Scholar: Returns abstracts + TLDR inline, citation-graph awareness
+- WebFetch/Firecrawl: Handles non-DOI URLs and publisher pages
+- Sci-Hub: Last resort when all legal methods fail
 
 ## Implementation
 
@@ -87,9 +90,31 @@ If URL contains `doi.org/` or matches DOI pattern (`10.xxxx/...`):
 - If match → VALID
 - If mismatch → WRONG PAPER (DOI leads to different article)
 
+#### 3a-ii. CrossRef Fallback
+
+If PubMed returns "DOI exists but not indexed in PubMed":
+
+```bash
+# Verify DOI via CrossRef (covers ALL disciplines)
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/crossref-verify-doi.sh "[DOI]"
+```
+
+CrossRef returns full metadata (title, authors, year, journal, citation count) for any registered DOI regardless of discipline. Handle the same way as PubMed verified response.
+
+#### 3a-iii. Semantic Scholar Fallback
+
+If CrossRef also fails or returns incomplete metadata:
+
+```bash
+# Fetch paper details via Semantic Scholar
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/semantic-scholar-fetch.sh "[DOI]"
+```
+
+Returns title, authors, year, abstract, TLDR, and citation count. The TLDR field provides a quick one-sentence summary useful for relevance checks.
+
 #### 3b. WebFetch Fallback
 
-If PubMed returns "not indexed" or for non-DOI URLs:
+If PubMed, CrossRef, and Semantic Scholar all fail, or for non-DOI URLs:
 
 ```
 WebFetch the URL with prompt:
@@ -108,7 +133,18 @@ If WebFetch fails (blocked, timeout, error):
 
 Process scraped content to extract title/author/year.
 
-#### 3d. Determine Citation Status
+#### 3d. Sci-Hub Last Resort
+
+If WebFetch and Firecrawl both fail:
+
+```bash
+# Last resort — try Sci-Hub for the paper
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/scihub-fetch.sh "[DOI]"
+```
+
+If found, note the PDF URL in the report. If the page contains extractable metadata, use it for verification. Otherwise, provide the PDF URL for manual review.
+
+#### 3e. Determine Citation Status
 
 | Condition | Status | Action |
 |-----------|--------|--------|
@@ -132,6 +168,17 @@ If found in PubMed:
 - Get the correct DOI from results
 - Verify with `pubmed-verify-doi.sh`
 - Use the `citation_with_link` format from response
+
+#### 4a-ii. Semantic Scholar Search
+
+If not found in PubMed, or for non-biomedical topics:
+
+```bash
+# Search Semantic Scholar (returns citation counts for authority ranking)
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/semantic-scholar-search.sh "[Title keywords] [Author]" 10
+```
+
+Prefer results with higher `citation_count` for more authoritative sources. Verify the candidate with `crossref-verify-doi.sh` or `pubmed-verify-doi.sh`.
 
 #### 4b. WebSearch Fallback
 
@@ -179,9 +226,12 @@ Use triple-fallback to verify the new source before using it.
 
 ## Verification Methods Used:
 🧬 PubMed API: A citations (verified via NCBI)
-🌐 WebFetch: B citations
-🔥 Firecrawl: C citations
-❓ Unverifiable: D citations
+📚 CrossRef API: B citations (all disciplines)
+🔬 Semantic Scholar: C citations (with citation counts)
+🌐 WebFetch: D citations
+🔥 Firecrawl: E citations
+🏴‍☠️ Sci-Hub: F citations (last resort)
+❓ Unverifiable: G citations
 
 ## Changes Made:
 
@@ -230,14 +280,25 @@ Use triple-fallback to verify the new source before using it.
 | Multiple valid DOIs | Accept any correct one |
 | Book chapters | May not be in PubMed, use WebFetch |
 
-## PubMed Skill Reference
+## Skill References
 
-Scripts location:
+### PubMed Research (biomedical)
 ```
 .claude/skills/pubmed-research/scripts/
 ├── pubmed-verify-doi.sh   # Verify DOI, get metadata
 ├── pubmed-search.sh       # Search by keywords
 └── pubmed-fetch.sh        # Get full article details
+```
+
+### Academic Paper Research (all disciplines)
+```
+.claude/skills/academic-paper-research/scripts/
+├── config.sh                  # Shared config (email for APIs)
+├── crossref-verify-doi.sh     # Verify DOI via CrossRef (all disciplines)
+├── semantic-scholar-search.sh # Search with citation-graph awareness
+├── semantic-scholar-fetch.sh  # Fetch abstract + metadata by DOI/PMID
+├── unpaywall-find-pdf.sh      # Find legal open-access PDFs
+└── scihub-fetch.sh            # Last-resort paper retrieval
 ```
 
 **Verify DOI:**
@@ -273,6 +334,12 @@ Scripts location:
   - 70%+ faster for biomedical citations
   - Structured verification (no HTML parsing)
   - Better accuracy with exact metadata matching
+- **v3.1**: 6-layer verification pipeline
+  - Added CrossRef (catches all non-PubMed DOIs)
+  - Added Semantic Scholar (citation counts + abstracts)
+  - Added Sci-Hub as last resort before MANUAL REVIEW
+  - Added Semantic Scholar search for finding replacement sources
+  - Dramatically reduces MANUAL REVIEW cases
 
 ## Completion Output Format
 

@@ -17,22 +17,25 @@ Enhanced claims verification with **PubMed-first** approach for fetching abstrac
 5. Recommends specific fixes while preserving Seed's tone
 6. Allows selective application of changes
 
-## Key Enhancement in v3: PubMed-First Abstract Retrieval
+## Key Enhancement in v3.1: 6-Layer Abstract Retrieval Pipeline
 
-**Triple-Fallback Hierarchy:**
+**Full Fallback Hierarchy:**
 
 | Priority | Method | Best For | Returns |
 |----------|--------|----------|---------|
 | 1st | **PubMed API** | Biomedical literature | Structured abstract + metadata |
-| 2nd | **WebFetch** | Non-PubMed sources | Parsed HTML content |
-| 3rd | **Firecrawl** | Blocked/JS-heavy sites | Scraped markdown |
+| 2nd | **Semantic Scholar** | All disciplines | Abstract + TLDR + citation counts |
+| 3rd | **Unpaywall** | Legal full-text access | Open-access PDF URL |
+| 4th | **WebFetch** | Non-DOI sources | Parsed HTML content |
+| 5th | **Firecrawl** | Blocked/JS-heavy sites | Scraped markdown |
+| 6th | **Sci-Hub** | Last resort (paywalled) | PDF URL for manual review |
 
-**Why PubMed First:**
-- Returns full abstract as structured text
-- No HTML parsing needed
-- Includes exact title for verification
-- Covers ~70% of health/nutrition citations
-- Faster than web scraping
+**Why This Order:**
+- PubMed: Structured abstract, exact metadata, 36M+ biomedical articles
+- Semantic Scholar: Returns abstract + TLDR (one-sentence machine summary) — very efficient for quick relevance checks
+- Unpaywall: Legal full-text PDF when abstract is insufficient for claims verification
+- WebFetch/Firecrawl: Handles non-DOI URLs
+- Sci-Hub: Last resort when all legal methods fail
 
 ## Implementation
 
@@ -90,9 +93,31 @@ If verified, fetch full abstract:
 }
 ```
 
+#### 3a-ii. Semantic Scholar Fallback
+
+If PubMed returns "not indexed" or for non-biomedical sources:
+
+```bash
+# Fetch abstract + TLDR via Semantic Scholar
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/semantic-scholar-fetch.sh "[DOI]"
+```
+
+Returns full abstract and TLDR (machine-generated one-sentence summary). The TLDR is especially useful for quick relevance checks before doing deep claims verification against the abstract.
+
+#### 3a-iii. Unpaywall for Full-Text Access
+
+When the abstract alone is insufficient to verify a specific quantitative claim:
+
+```bash
+# Find legal open-access PDF
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/unpaywall-find-pdf.sh "[DOI]"
+```
+
+If `is_open_access` is true, use the `best_pdf_url` to access full text via WebFetch or Firecrawl. This enables verification of specific data points, figures, or methods not mentioned in the abstract.
+
 #### 3b. WebFetch Fallback
 
-If PubMed returns "not indexed" or for non-DOI URLs:
+If PubMed, Semantic Scholar, and Unpaywall all fail, or for non-DOI URLs:
 
 ```
 WebFetch the URL with prompt:
@@ -114,12 +139,26 @@ If WebFetch fails:
 
 Extract abstract/content from scraped markdown.
 
-#### 3d. Track Fetch Method
+#### 3d. Sci-Hub Last Resort
+
+If all above methods fail:
+
+```bash
+# Last resort — try Sci-Hub
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/scihub-fetch.sh "[DOI]"
+```
+
+If found, the PDF URL can be fetched via WebFetch/Firecrawl for text extraction, or noted in the report for manual review.
+
+#### 3e. Track Fetch Method
 
 Log which method succeeded for each source:
 - 🧬 PubMed API
+- 🔬 Semantic Scholar
+- 📄 Unpaywall (legal PDF)
 - 🌐 WebFetch
 - 🔥 Firecrawl
+- 🏴‍☠️ Sci-Hub (last resort)
 - 🔒 Inaccessible (all methods failed)
 
 ### Step 4: Verify Claims Against Source Content
@@ -206,6 +245,17 @@ When a claim needs a new source:
 
 Review results for studies that support the claim.
 
+#### 7a-ii. Search Semantic Scholar
+
+If not found in PubMed, or for broader topic coverage:
+
+```bash
+# Search with citation counts for authority ranking
+/Users/david/Documents/Obsidian Vaults/claude-code-demo/Seed-SEO-Draft-Generator-v4/.claude/skills/academic-paper-research/scripts/semantic-scholar-search.sh "[claim topic] clinical study" 10
+```
+
+Prefer results with higher `citation_count` — these are more authoritative replacement sources.
+
 #### 7b. Fetch and Verify Candidate
 
 ```bash
@@ -235,9 +285,12 @@ WebSearch for: [claim topic] clinical study research DOI
 
 ## Fetch Method Statistics:
 🧬 PubMed API: A sources (structured abstract)
-🌐 WebFetch: B sources
-🔥 Firecrawl: C sources
-🔒 Failed all methods: D sources
+🔬 Semantic Scholar: B sources (abstract + TLDR)
+📄 Unpaywall: C sources (legal PDF)
+🌐 WebFetch: D sources
+🔥 Firecrawl: E sources
+🏴‍☠️ Sci-Hub: F sources (last resort)
+🔒 Failed all methods: G sources
 
 ══════════════════════════════════════════
 ## Recommended Changes:
@@ -320,22 +373,36 @@ Based on user input:
 
 ## Fetch Method Summary:
 🧬 PubMed: A sources
-🌐 WebFetch: B sources
-🔥 Firecrawl: C sources
-🔒 Manual needed: D sources
+🔬 Semantic Scholar: B sources
+📄 Unpaywall: C sources
+🌐 WebFetch: D sources
+🔥 Firecrawl: E sources
+🏴‍☠️ Sci-Hub: F sources
+🔒 Manual needed: G sources
 
 💾 Original: [filename]
 📄 Verified: v[X]-claims-verified.md
 ```
 
-## PubMed Skill Reference
+## Skill References
 
-Scripts location:
+### PubMed Research (biomedical)
 ```
 .claude/skills/pubmed-research/scripts/
 ├── pubmed-verify-doi.sh   # Verify DOI exists, get PMID
 ├── pubmed-fetch.sh        # Get full abstract + metadata
 └── pubmed-search.sh       # Find replacement sources
+```
+
+### Academic Paper Research (all disciplines)
+```
+.claude/skills/academic-paper-research/scripts/
+├── config.sh                  # Shared config (email for APIs)
+├── crossref-verify-doi.sh     # Verify DOI via CrossRef (all disciplines)
+├── semantic-scholar-search.sh # Search with citation-graph awareness
+├── semantic-scholar-fetch.sh  # Fetch abstract + TLDR by DOI/PMID
+├── unpaywall-find-pdf.sh      # Find legal open-access PDFs
+└── scihub-fetch.sh            # Last-resort paper retrieval
 ```
 
 **Workflow for each citation:**
@@ -367,8 +434,9 @@ Scripts location:
 
 | Case | Handling |
 |------|----------|
-| Paywall - abstract only | Verify against abstract, note limitation |
-| PubMed not indexed | Fall back to WebFetch |
+| Paywall - abstract only | Verify against abstract; if insufficient, try Unpaywall for legal PDF, then Sci-Hub as last resort |
+| PubMed not indexed | Fall back to Semantic Scholar → CrossRef → WebFetch |
+| Non-biomedical source | Skip PubMed, use CrossRef + Semantic Scholar |
 | Multiple citations for one claim | Any one source supporting = supported |
 | Claims doc approved language | Auto-supported (from Seed's Claims files) |
 | Animal studies | Flag if claim implies human results |
@@ -388,6 +456,12 @@ Scripts location:
   - Structured metadata for accurate matching
   - Faster verification for biomedical sources
   - Better replacement source discovery via PubMed search
+- **v3.1**: 6-layer abstract retrieval pipeline
+  - Added Semantic Scholar (abstract + TLDR for quick relevance checks)
+  - Added Unpaywall (legal full-text PDF access)
+  - Added Sci-Hub as last resort before MANUAL REVIEW
+  - Added Semantic Scholar search for finding replacement sources with citation counts
+  - Updated edge cases for non-biomedical sources
 
 ## Completion Output Format
 
