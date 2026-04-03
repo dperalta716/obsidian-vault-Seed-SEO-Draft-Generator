@@ -44,7 +44,7 @@ Not all teas work the same way. Some soothe symptoms directly. Others interact w
 
 If you've ever reached for ginger ale when your stomach felt off, you were onto something. Ginger has been used for digestive discomfort for centuries, and modern research backs it up.
 
-A 2023 review found that ginger may help reduce stomach acid production, which could ease symptoms of acid reflux and heartburn ([Herdiana 2023](https://doi.org/10.3390/nu15163583)). Another study found it eased upper abdominal cramping, bloating, and general indigestion ([Aregawi et al. 2023](https://doi.org/10.7759/cureus.46061)).
+Research shows ginger may ease upper abdominal pain, postprandial fullness, and general indigestion symptoms ([Aregawi et al. 2023](https://doi.org/10.7759/cureus.46061)). A separate review of dietary approaches to digestive discomfort also identified ginger among functional foods that may help manage heartburn-related symptoms ([Herdiana 2023](https://doi.org/10.3390/nu15163583)).
 
 A systematic review also found that ginger compounds may support gut microbiota diversity through their interaction with beneficial bacteria ([Lai et al. 2022](https://doi.org/10.1142/S0192415X22500410)). That's a two-for-one deal your gut might appreciate.
 
@@ -54,7 +54,7 @@ A systematic review also found that ginger compounds may support gut microbiota 
 
 Peppermint is probably the most well-studied herbal tea when it comes to digestive relief. Its active compound, menthol, helps relax the muscles in your digestive tract — which is why it's often recommended for bloating and gas.
 
-A 2022 meta-analysis found peppermint oil was more effective than a placebo for reducing symptoms of irritable bowel syndrome (IBS) ([Ingrosso et al. 2022](https://pubmed.ncbi.nlm.nih.gov/35942669/)). A separate 2023 review confirmed it can relax intestinal muscles and relieve abdominal pain ([Scarpellini et al. 2023](https://doi.org/10.2174/1381612829666230328163449)).
+A 2022 meta-analysis found peppermint oil was more effective than a placebo for reducing symptoms of irritable bowel syndrome (IBS) ([Ingrosso et al. 2022](https://doi.org/10.1111/apt.17179)). A separate 2023 review confirmed it can relax intestinal muscles and relieve abdominal pain ([Scarpellini et al. 2023](https://doi.org/10.2174/1381612829666230328163449)).
 
 One honest caveat: most of this research uses peppermint oil capsules, not brewed tea. A cup of peppermint tea contains less concentrated menthol, so the effects may be milder. Still, many people find it genuinely soothing — and there's very little downside to trying it.
 
@@ -66,7 +66,7 @@ Green tea gets attention for its antioxidants, but its gut health story is more 
 
 A systematic review of human trials found that green tea consumption increased populations of *Bifidobacterium*, a group of beneficial bacteria that plays a key role in digestive health ([Bond & Derbyshire 2019](https://doi.org/10.3390/nu11102364)). One study showed that drinking about 4-5 cups daily for 10 days shifted the balance toward more beneficial microbes.
 
-The same review highlighted something that sets green tea apart: polyphenols and gut bacteria have a "bidirectional" relationship. Your gut microbes break down tea polyphenols into more active compounds, and those compounds, in turn, help beneficial bacteria thrive. It's a feedback loop where both sides come out ahead.
+Research suggests something that sets green tea apart: polyphenols and gut bacteria appear to have a two-way relationship. Your gut microbes break down tea polyphenols into more active compounds, and those compounds, in turn, help beneficial bacteria thrive. It's a feedback loop where both sides come out ahead.
 
 **Best for:** Long-term microbiome support, antioxidant benefits, and general digestive wellness.
 
@@ -74,7 +74,7 @@ The same review highlighted something that sets green tea apart: polyphenols and
 
 If your digestive issues tend to flare up when you're stressed or anxious, chamomile might be worth a try. It's been used traditionally as a calming herb, and research suggests it may also address some digestive symptoms directly.
 
-A 2024 study found that chamomile extract reduced nausea and vomiting frequency when given before surgery ([Sarkhosh et al. 2024](https://doi.org/10.5812/aapm-153566)). A separate 2023 study showed that chamomile tea helped reduce gas after abdominal surgery ([Salimi Zadak et al. 2023](https://doi.org/10.1016/j.jaim.2023.100735)).
+A 2024 study found that chamomile extract reduced nausea severity following surgery, though effects varied across time points ([Sarkhosh et al. 2024](https://doi.org/10.5812/aapm-153566)). A 2023 study showed that chamomile tea helped reduce gas after laparoscopic surgery ([Salimi Zadak et al. 2023](https://doi.org/10.1016/j.jaim.2023.100735)).
 
 Again, many of these studies used concentrated extracts rather than a standard cup of tea. But chamomile's calming properties may help indirectly — stress is a known disruptor of gut function, and anything that helps you relax can have downstream benefits for your digestion.
 
@@ -100,7 +100,7 @@ Like green tea, black tea polyphenols — including theaflavins and thearubigins
 
 Here's where the science gets genuinely interesting — and where most "best tea for gut health" articles stop short.
 
-When you drink tea, you're consuming polyphenols. These are plant compounds that your body can only partially absorb in the small intestine. The rest — roughly 80% — travels to your colon, where your gut bacteria get to work on them ([Bond & Derbyshire 2019](https://doi.org/10.3390/nu11102364)).
+When you drink tea, you're consuming polyphenols. These are plant compounds that your body can only partially absorb in the small intestine. Most of the remainder travels to your colon, where your gut bacteria get to work on them ([Bond & Derbyshire 2019](https://doi.org/10.3390/nu11102364)).
 
 Your gut microbes break these polyphenols down into smaller, more bioactive compounds. Some of these metabolites have stronger antioxidant properties than the original polyphenols. And the process goes both ways: while your bacteria are transforming polyphenols, those same polyphenols are selectively encouraging the growth of beneficial species like *Bifidobacterium* and *Lactobacillus*.
 
@@ -142,7 +142,7 @@ Your gut will thank you for all of it.
 
 ### What tea is good for digestion and bloating?
 
-Peppermint tea is one of the most well-researched options for bloating and gas. Its active compound, menthol, helps relax the smooth muscles in your digestive tract, which can ease that uncomfortable "too full" feeling. A 2022 meta-analysis found peppermint oil more effective than a placebo for IBS symptoms, including bloating ([Ingrosso et al. 2022](https://pubmed.ncbi.nlm.nih.gov/35942669/)). Ginger tea is another strong choice, especially if your bloating comes with nausea or indigestion. Both are caffeine-free, so you can drink them at any time of day. Fennel tea is a third option, particularly if slow digestion is contributing to your bloating.
+Peppermint tea is one of the most well-researched options for bloating and gas. Its active compound, menthol, helps relax the smooth muscles in your digestive tract, which can ease that uncomfortable "too full" feeling. A 2022 meta-analysis found peppermint oil more effective than a placebo for IBS symptoms, including bloating ([Ingrosso et al. 2022](https://doi.org/10.1111/apt.17179)). Ginger tea is another strong choice, especially if your bloating comes with nausea or indigestion. Both are caffeine-free, so you can drink them at any time of day. Fennel tea is a third option, particularly if slow digestion is contributing to your bloating.
 
 ### Is green tea good for your gut microbiome?
 
