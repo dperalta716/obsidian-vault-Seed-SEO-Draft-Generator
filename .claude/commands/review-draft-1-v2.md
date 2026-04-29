@@ -1,6 +1,6 @@
 # review-draft-1-v2
 
-Review generated SEO articles against Seed's scientific perspective (Claims docs, NPD Messaging, SciComms) FIRST, then quality/compliance checks.
+Review generated SEO articles against Seed's scientific perspective (2026 Messaging Reference docs, Claims Library, POV) FIRST, then quality/compliance checks.
 
 ## Usage
 
@@ -56,10 +56,11 @@ Identify which file to review (same logic as review-draft-1):
 **Load appropriate reference files based on detected product:**
 
 **For DS-01:**
-- `Phase 1 Reference Files/Ds-01 Science Reference File.md`
-- `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md`
-- `Phase 1 Reference Files/Ds-01 PDP.md`
-- `Phase 1 Draft Revsions/Phase 1 Reference Files/seed strains.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/POV_ 27APR2026.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Claims Library.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Product Positioning.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Timeline of Benefits + Mechanisms.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document - disclaimer cheat sheet.md`
 
 **For NPD products (PM-02/DM-02/AM-02):**
 - `/Reference/Claims/[PRODUCT]/[PRODUCT]-General-Claims.md`
@@ -68,10 +69,10 @@ Identify which file to review (same logic as review-draft-1):
 - `/Reference/SciComms Education Files/[PRODUCT] SciComms [Topic] Education.md`
 
 Also load universal files:
-- `/Reference/Compliance/NO-NO-WORDS.md` (or `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md` for DS-01)
-- `/Reference/Compliance/What-We-Are-Not-Allowed-To-Say.md`
-- `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md` (or `Phase 1 Reference Files/Seed Tone of Voice and Structure.md` for DS-01)
-- `/Reference/Style/8-Sample-Reference-Blog-Articles.md` (or `Phase 1 Reference Files/8 Sample Reference Blog Articles.md` for DS-01)
+- `Reference/Compliance/NO-NO-WORDS.md`
+- `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/Tone of Voice 2026.md`
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/COPYStyleGuide_27APRIL2026.md`
 
 ### STEP 3: Relevance Analysis (KEY INNOVATION)
 
@@ -146,10 +147,10 @@ Run 15 checks across 3 categories, using product-specific criteria:
 
 **For DS-01 Articles:**
 
-**Check 6: Emphasizes strain specificity ("not all probiotics are equal")**
-- ✅ Pass: Explains that probiotic benefits are strain-specific, not generic to all probiotics
-- ❌ Fail: Treats all probiotics as interchangeable or doesn't emphasize strain-level evidence
-- **Why it matters:** This is DS-01's core scientific differentiator
+**Check 6: Uses Claims Library language for DS-01 product claims**
+- ✅ Pass: DS-01 product claims use approved language from Claims Library with required disclaimers
+- ❌ Fail: DS-01 claims use unapproved language or are missing disclaimers
+- **Why it matters:** All DS-01 product claims must match Claims Library exactly
 - **Priority:** CRITICAL for DS-01
 
 **Check 7: Discusses gut-[topic] axis connection relevant to the article**
@@ -456,7 +457,7 @@ Parse user's response and apply appropriate fixes:
    - Add missing health claims with proper attribution language
 
 2. **Product Messaging Alignment:**
-   - **For DS-01:** Add strain specificity emphasis, enhance gut-[topic] axis connection, add ViaCap® delivery section, reference clinical trial evidence, ensure complementary-to-lifestyle positioning
+   - **For DS-01:** Ensure Claims Library language compliance, enhance gut-[topic] axis connection, add ViaCap® delivery section, reference Allegretti 2026 clinical trial evidence, ensure complementary-to-lifestyle positioning
    - **For DM-02:** Add soil depletion section, enhance microbiome-nutrition bidirectional discussion, add ViaCap® section, strengthen bioavailability examples, add critique of mega-dose multivitamins
    - **For PM-02:** Add precision dosing explanation, enhance sleep-gut-brain axis, add dual-phase release section, add high-dose melatonin critique, emphasize "not overloading" philosophy
    - **For AM-02:** Emphasize sustained vs. stimulant energy, enhance gut-mitochondria axis, strengthen cellular energy focus, add nootropic benefits, add stimulant product critique
