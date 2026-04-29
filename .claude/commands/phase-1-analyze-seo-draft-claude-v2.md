@@ -21,29 +21,30 @@ This command automates a comprehensive SEO competitive analysis workflow for Pha
 2. **Creates organized folder** with sequential numbering in Phase 1 Draft Revisions
 3. **Analyzes citation count** (no target enforcement - preserves all existing citations)
 4. **Searches and fetches** the top 3-4 competing articles for that keyword
-5. **Consults Seed's SciCare POV** to identify unique scientific perspectives and compliance restrictions (MANDATORY)
+5. **Consults Seed's Seed 2026 Reference Files** to identify unique scientific perspectives and compliance restrictions (MANDATORY)
 6. **Performs in-depth analysis** comparing the published article to competitors through Seed's scientific lens
 7. **Validates recommendations through SEO safety checklist** to prevent harm to existing SEO elements (MANDATORY)
 8. **Outputs a structured comparison** highlighting strengths, gaps, and SEO-safe Seed-aligned recommendations
 9. **Asks for your feedback** on which improvements to implement
 10. **Directly drafts the revised article** with your selected improvements (bolding new content)
-11. **NEW in v3**: Includes strategic analysis context (SciCare POV, competitive landscape, strengths/gaps) at the TOP of the final document
+11. **NEW in v3**: Includes strategic analysis context (Seed 2026 Reference Files, competitive landscape, strengths/gaps) at the TOP of the final document
 
 ## Reference Files
 
-All reference files are located at:
+Primary reference files are located at:
 ```
-Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
+Seed-SEO-Draft-Generator-v4/Reference/2026-03 DS-01 Updated Messaging Reference Files/
 ```
 
 **Available Files**:
-- `SciCare POV - Complete.md` - Primary reference for Seed's scientific positions
-- `Seed Tone of Voice and Article Structure.md` - Brand voice guidelines
-- `What we are and are not allowed to say when writing for Seed.md` - Compliance rules
-- `no-no words.md` - Forbidden terms and phrases
-- `Ds-01 PDP.md` - DS-01 product page content
-- `Ds-01 Science Reference File.md` - DS-01 scientific background
-- `seed strains.md` - Strain information
+- `POV_ 27APR2026.md` - General science perspective (probiotic definitions, mechanisms, disease discussion guidance)
+- `New MRD/DS-01® Messaging + Positioning Reference Document • Claims Library.md` - Approved claims + disclaimers
+- `New MRD/DS-01® Messaging + Positioning Reference Document • Product Positioning.md` - Consumer journey + messaging pillars
+- `New MRD/DS-01® Messaging + Positioning Reference Document • Timeline of Benefits + Mechanisms.md` - Phased benefits
+- `Tone of Voice 2026.md` - Brand voice ("The Inspiring Scientist")
+- `COPYStyleGuide_27APRIL2026.md` - Technical writing standards
+- `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md` - Compliance rules
+- `Reference/Compliance/NO-NO-WORDS.md` - Forbidden terms
 
 ## Workflow
 
@@ -86,73 +87,31 @@ Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
   - Tone and target audience
   - Specific supplements or ingredients discussed
 
-### Step 2.5: Consult Seed's SciCare POV (MANDATORY)
+### Step 2.5: Consult Seed's 2026 Reference Files (MANDATORY)
 
 **CRITICAL**: Before making ANY recommendations, you MUST consult Seed's reference files to understand their unique scientific perspectives.
 
-**Primary Reference File**:
-```
-Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/SciCare POV - Complete.md
-```
+**Required Files to Review**:
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/POV_ 27APR2026.md` (Primary — general science perspective)
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Claims Library.md` (Approved claims + disclaimers)
+- `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md` (Phrase-level compliance)
+- `Reference/2026-03 DS-01 Updated Messaging Reference Files/Tone of Voice 2026.md` (Brand voice)
 
-**Additional Reference Files**:
-```
-Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md
-Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/Seed Tone of Voice and Article Structure.md
-```
-
-**How to Use SciCare POV**:
+**How to Use the Reference Files**:
 
 1. **Identify Competitor Topics**: From Step 2, list topics competitors cover that might have Seed-specific perspectives
 
-2. **Search SciCare POV**: Use Grep tool to search for those topics in the SciCare POV document
-   - Example: `Grep pattern="fermented food|probiotic food"` searching in SciCare POV - Complete.md
+2. **Check the POV Document**: Review for Seed's positions on:
+   - Probiotic definition (viability + dosage + evidence required)
+   - Transient nature (probiotics don't colonize — they interact and exit)
+   - Fermented foods vs probiotics (fermented foods don't necessarily meet probiotic criteria)
+   - Gut-brain axis (serotonin story is oversimplified)
+   - AFU vs CFU (AFU counts viable but non-culturable cells — more precise than CFU)
+   - Disease discussion (separate general research from product context, avoid implied claims)
 
-3. **Extract Seed's Position**: For each topic found:
-   - Read the relevant section (usually 5-20 lines of context)
-   - Note Seed's scientific stance
-   - Identify any restrictions (e.g., "not studied in this population")
-   - Document compliance-safe framing
+3. **Check the Claims Library**: Verify what DS-01 can claim with approved language and required disclaimers
 
 4. **Flag Conflicts**: Compare competitor recommendations against Seed's positions
-
-**Common Topics to Check** (search these patterns in SciCare POV):
-
-- **Fermented foods/probiotic foods**: Search `fermented food|yogurt|kefir|kimchi`
-  - Key issue: Seed distinguishes "Live Dietary Microbes (LDM)" vs. probiotics scientifically
-  - Fermented foods ≠ probiotics (varying amounts, no defined dose, no demonstrated specific benefits)
-
-- **Die-off reactions**: Search `die-off|herxheimer`
-  - Key issue: Seed's stance is this is scientifically unsubstantiated for probiotics
-
-- **Colonization**: Search `colonization|transient`
-  - Key issue: Seed emphasizes probiotics are transient, don't colonize long-term
-
-- **SIBO**: Search `SIBO|small intestinal bacterial overgrowth`
-  - Key issue: Check if DS-01 studied in this population; cannot comment if not
-
-- **Side effects/acclimation**: Search `side effect|acclimation|adjustment`
-  - Key issue: Seed frames as "temporary acclimation period" confined to GI system
-
-- **Prebiotics**: Search `prebiotic`
-  - Key issue: Seed's specific framing of food sources ("small amounts") vs. supplements ("precise doses")
-
-- **Dosing/CFUs**: Search `dose|CFU`
-  - Key issue: Check Seed's recommendations and studied dosages
-
-- **CFU vs AFU**: Search `AFU|CFU|colony forming`
-  - Key issue: Seed's position is "AFU is a more precise measurement than CFU" (not "more accurate")
-
-- **Specific conditions**: Search condition name (e.g., `IBS|IBD|constipation|diarrhea`)
-  - Key issue: Verify what DS-01 has/hasn't been studied for
-
-**Analysis Questions to Answer**:
-
-- Does this competitor topic align with Seed's scientific stance?
-- Would this recommendation contradict Seed's compliance guidelines?
-- Does Seed frame this topic differently than standard industry messaging?
-- Has DS-01/PDS-08 been studied for this specific use case?
-- Are there any restrictions on what Seed can/cannot claim?
 
 **Required Output for Step 3**:
 
@@ -161,7 +120,7 @@ Create a brief summary (3-5 bullet points) documenting:
 1. **Key Seed Perspectives Found**: List 2-3 topics where Seed has unique scientific positions
 2. **Conflicts Identified**: Note any competitor recommendations that contradict Seed's stance
 3. **Reframing Needed**: Flag topics that need Seed-aligned framing
-4. **Topics to Avoid**: List any topics Seed cannot address due to lack of clinical data
+4. **Topics to Avoid**: List any topics Seed cannot address due to lack of clinical data or POV guidance
 
 ### Step 3: Comparative Analysis Output
 
@@ -235,14 +194,19 @@ Based on user's selected improvements, **directly draft the revised article**.
 
 Read and apply guidance from:
 ```
-Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
-├── SciCare POV - Complete.md (Seed's scientific positions)
-├── Seed Tone of Voice and Article Structure.md (brand voice)
-├── What we are and are not allowed to say when writing for Seed.md (compliance)
-├── no-no words.md (forbidden terms)
-├── Ds-01 PDP.md (product info)
-├── Ds-01 Science Reference File.md (scientific background)
-└── seed strains.md (strain details)
+Seed-SEO-Draft-Generator-v4/Reference/2026-03 DS-01 Updated Messaging Reference Files/
+├── POV_ 27APR2026.md (general science perspective)
+├── Tone of Voice 2026.md (brand voice)
+├── COPYStyleGuide_27APRIL2026.md (technical writing standards)
+├── New MRD/
+│   ├── Claims Library.md (approved claims + disclaimers)
+│   ├── Product Positioning.md (consumer journey + messaging pillars)
+│   ├── Timeline of Benefits + Mechanisms.md (phased benefits)
+│   └── Disclaimer Cheatsheet.md (mandatory disclaimers)
+
+Also:
+├── Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md
+└── Reference/Compliance/NO-NO-WORDS.md
 ```
 
 #### Document Structure Requirements (NEW in v3)
@@ -252,7 +216,7 @@ Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
 ```markdown
 # Strategic Analysis Context
 
-## Seed SciCare POV Summary
+## Seed POV & Claims Summary
 
 ### Key Seed Perspectives Found
 - [List 2-3 topics where Seed has unique scientific positions relevant to this article]
@@ -339,7 +303,7 @@ Seed-SEO-Draft-Generator-v4/Phase 1 Draft Revsions/Phase 1 Reference Files/
 #### Content Guidelines
 
 1. **Maintain Seed's Tone**: Write as a knowledgeable, empathetic friend explaining complex science in accessible terms
-2. **Apply SciCare POV**: Ensure all new content aligns with Seed's unique scientific perspectives identified in Step 2.5
+2. **Apply Seed 2026 Reference Files**: Ensure all new content aligns with Seed's unique scientific perspectives identified in Step 2.5
 3. **Compliance Check**: Cross-reference new content against "What we are and are not allowed to say" and "no-no words"
 4. **SEO Best Practices**: Maintain keyword optimization, readability, and user intent alignment
 5. **Readability**: Keep paragraphs to 2-3 sentences, use 7th-8th grade reading level
@@ -364,12 +328,12 @@ After completing the revision:
 ### Final Quality Checklist
 
 Before saving, verify:
-- [ ] **Strategic context sections included at TOP** (SciCare POV, Competitive Landscape, Excels, Advantages, Gaps)
+- [ ] **Strategic context sections included at TOP** (Seed 2026 Reference Files, Competitive Landscape, Excels, Advantages, Gaps)
 - [ ] All new content is properly **bolded**
 - [ ] ALL existing citations preserved
 - [ ] New citations match existing format exactly
 - [ ] New citations labeled with "(New Source)"
-- [ ] Content aligns with Seed's SciCare POV
+- [ ] Content aligns with Seed's Seed 2026 Reference Files
 - [ ] No forbidden terms from no-no words list
 - [ ] Maintains SEO best practices (keywords, readability, intent)
 - [ ] New health claims have supporting citations
@@ -393,7 +357,7 @@ The command provides:
 1. Scraped article saved to numbered folder in Phase 1 Draft Revisions
 2. Initial citation count (no target enforcement)
 3. Competitive landscape summary
-4. **Seed Perspective Summary** (from SciCare POV consultation) documenting unique positions and conflicts
+4. **Seed Perspective Summary** (from Seed 2026 Reference Files consultation) documenting unique positions and conflicts
 5. Detailed comparative analysis through Seed's scientific lens
 6. **SEO Review Summary** showing recommendations validated against SEO safety checklist
 7. Interactive recommendation selection
@@ -419,8 +383,8 @@ The command provides:
 - Sequential folder numbering keeps revisions organized
 - **Preserves all existing citations** - no removal even if count >15
 - **Bolding system** clearly marks new vs. existing content
-- **MANDATORY SciCare POV consultation** (Step 2.5) - prevents recommendations that contradict Seed's scientific positions
+- **MANDATORY Seed 2026 Reference Files consultation** (Step 2.5) - prevents recommendations that contradict Seed's scientific positions
 - **MANDATORY SEO safety evaluation** (Step 3) - prevents recommendations that harm existing SEO elements
 - Reference files located at `Phase 1 Draft Revsions/Phase 1 Reference Files/`
 - Directly drafts revisions instead of generating instructions
-- **NEW in v3**: Final document includes strategic analysis context (SciCare POV summary, competitive landscape, strengths, gaps) at the TOP for reviewer context
+- **NEW in v3**: Final document includes strategic analysis context (Seed 2026 Reference Files summary, competitive landscape, strengths, gaps) at the TOP for reviewer context

@@ -55,18 +55,19 @@ Identify the starting file using standard logic:
 
 Execute the full `/review-draft-seed-perspective-ds01` command logic:
 
-1. **Load DS-01 Reference Files:**
-   - `Phase 1 Reference Files/Ds-01 Science Reference File.md` (full file)
-   - `Phase 1 Reference Files/Ds-01 PDP.md` (full file)
-   - `Phase 1 Draft Revsions/Phase 1 Reference Files/seed strains.md`
-   - Plus shared compliance/tone files
-   - **SciCare POV: SELECTIVE LOADING** — Read the Section Index first (`Phase 1 Reference Files/SciCare-POV-Section-Index.md`), then load only 2-4 relevant sections from the full 52K-word SciCare POV file using offset/limit. Do NOT load the entire file.
+1. **Load DS-01 Reference Files (2026 Messaging):**
+   - `Reference/2026-03 DS-01 Updated Messaging Reference Files/POV_ 27APR2026.md`
+   - `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Claims Library.md`
+   - `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Product Positioning.md`
+   - `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document • Timeline of Benefits + Mechanisms.md`
+   - `Reference/2026-03 DS-01 Updated Messaging Reference Files/New MRD/DS-01® Messaging + Positioning Reference Document - disclaimer cheat sheet.md`
+   - Plus shared compliance/tone files (NO-NO-WORDS, What we are and are not allowed to say, Tone of Voice 2026, COPYStyleGuide)
 
-2. **Relevance Analysis** - Match article keyword to Section Index, load matching sections only
+2. **Relevance Analysis** - Map article keyword to messaging pillars and Timeline of Benefits phases
 3. **Grade Against 15 DS-01 Checks:**
-   - Claims Usage (5): DS-01 Science Ref as primary authority, DOI links, substantive claims, strain names, attribution
-   - SciCare POV (5): Strain specificity, gut-[topic] axis, ViaCap®, clinical trials, complementary positioning
-   - DS-01 Differentiators (5): SciCare talking points, benefit narratives, clinical data, educational angle, Dirk quote
+   - Claims Library Compliance (5): Claims Library language, disclaimers, substantive claims, no individual strain names, attribution
+   - POV & Messaging Alignment (5): POV positions, gut-[topic] axis, ViaCap®, clinical trials (Allegretti 2026), complementary positioning
+   - DS-01 Differentiators (5): Messaging pillar talking points, Timeline of Benefits phasing, clinical data, educational angle, Dirk quote
 4. **Generate Report** - Show the full analysis
 
 **AUTO-APPLY:** Instead of asking "Would you like me to fix these issues?", automatically:
@@ -88,7 +89,7 @@ Execute the full `/review-draft-seed-perspective-ds01` command logic:
 Using v2-seed-perspective-reviewed.md as input, execute `/review-draft-1-v2` logic **in DS-01 mode**:
 
 1. **Product Detection** - Should detect DS-01 (if not, force DS-01 mode)
-2. **Relevance Analysis** - Check SciCare POV relevance
+2. **Relevance Analysis** - Map to messaging pillars and Timeline phases
 3. **PRIMARY Grading** - 15 Seed perspective checks (DS-01 version)
 4. **SECONDARY Checks** - Citations, Product Refs, Compliance, Structure, Tone, SEO
 5. **Generate Report** - Show full analysis
@@ -270,7 +271,7 @@ To resume manually, run:
 |-------------------------------------|-------------------------------|
 | DS-01® Daily Synbiotic articles | PM-02® Sleep + Restore articles |
 | Probiotic/microbiome/gut health topics | DM-02® Daily Multivitamin articles |
-| References DS-01 Science Ref + SciCare POV | AM-02® Energy + Focus articles |
+| References 2026 DS-01 Messaging Reference docs | AM-02® Energy + Focus articles |
 | Uploads to DS-01 Drive folder | References NPD Claims + Messaging docs |
 | Tracks in Phase 3 Tracking | Uploads to NPD Drive folder |
 | | Tracks in Phase 2 Tracking |

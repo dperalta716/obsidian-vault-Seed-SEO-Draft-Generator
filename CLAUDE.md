@@ -9,42 +9,58 @@ Generate high-quality, SEO-optimized articles (Target: 1500-1800 words, Maximum:
 ## Vault Structure
 
 ```
-/Reference/NPD-Messaging/       # Product messaging documents  
-/Reference/Claims/              # Clinical evidence and approved claims
+/Reference/2026-03 DS-01 Updated Messaging Reference Files/  # DS-01 2026 messaging (PRIMARY)
+  POV_ 27APR2026.md                    # General science perspective
+  Tone of Voice 2026.md                # Brand voice ("The Inspiring Scientist")
+  COPYStyleGuide_27APRIL2026.md        # Technical writing standards
+  /New MRD/                            # DS-01 Messaging Reference Documents
+    Claims Library.md                  # Approved claims + disclaimers (ABSOLUTE AUTHORITY)
+    Product Positioning.md             # Consumer journey + messaging pillars
+    Timeline of Benefits + Mechanisms.md  # Phased benefits (Restore/Rebalance/Optimize)
+    Product Topline Messaging.md       # Headlines + product descriptions
+    Disclaimer Cheatsheet.md           # Mandatory disclaimer symbols
+/Reference/NPD-Messaging/       # NPD product messaging (PM-02, DM-02, AM-02)
+/Reference/Claims/              # NPD clinical evidence and approved claims
   /PM-02/                       # Sleep + Restore claims
   /DM-02/                       # Daily Multivitamin claims
-  /AM-02/                       # Focus + Energy claims (if available)
+  /AM-02/                       # Focus + Energy claims
 /Reference/Compliance/          # Compliance rules and forbidden terms
   NO-NO-WORDS.md               # Words/phrases to avoid
   What-We-Are-Not-Allowed-To-Say.md  # Compliance rules
-/Reference/Style/              # Tone guide and sample articles
-  Tone-Guide.md                # Brand voice and structure (existing)
-  Seed-Tone-of-Voice-and-Structure.md  # Official tone guide
-  8-Sample-Reference-Blog-Articles.md  # Example articles
+/Reference/Templates/           # Request templates
+  SciCare-Topic-POV-Request-Template.md  # Template for requesting topic-specific POVs
 /Generated-Drafts/             # Output folder for completed articles
 /Templates/                    # Article template
 ```
 
 ## Document Hierarchy & Priority
 
-### Tier 1 - Evidence Authority (HIGHEST PRIORITY)
+### DS-01 Tier 1 - Science & Claims Authority (HIGHEST PRIORITY)
+- `Reference/2026-03.../POV_ 27APR2026.md` (General science perspective)
+- `Reference/2026-03.../New MRD/Claims Library.md` (Approved claims + disclaimers — ABSOLUTE AUTHORITY for DS-01 product claims)
+- These documents are the sole authority for DS-01 content. No individual strain names — use formulation-level language only.
+
+### DS-01 Tier 2 - Messaging Strategy
+- `Reference/2026-03.../New MRD/Product Positioning.md` (Consumer journey framework)
+- `Reference/2026-03.../New MRD/Timeline of Benefits + Mechanisms.md` (Phased benefits)
+- `Reference/2026-03.../New MRD/Product Topline Messaging.md` (Product descriptions)
+
+### DS-01 Tier 3 - Voice, Style & Compliance
+- `Reference/2026-03.../Tone of Voice 2026.md` (Brand voice)
+- `Reference/2026-03.../COPYStyleGuide_27APRIL2026.md` (Writing standards)
+- `Reference/2026-03.../New MRD/Disclaimer Cheatsheet.md` (Disclaimer symbols)
+- `Reference/Compliance/NO-NO-WORDS.md` (Forbidden terms)
+- `Phase 1 Reference Files/What we are and are not allowed to say when writing for Seed.md` (Phrase-level compliance)
+
+### NPD Tier 1 - Evidence Authority (PM-02, DM-02, AM-02)
 - `PM-02-[Ingredient]-Claims.md` (Sleep + Restore product claims)
 - `DM-02-[Ingredient]-Claims.md` (Daily Multivitamin claims)  
 - `AM-02-[Ingredient]-Claims.md` (Focus + Energy claims)
-- These documents contain the ABSOLUTE AUTHORITY for approved health claims, primary academic sources, and dose information
 
-### Tier 2 - Strategy & Voice
-- `/Reference/NPD-Messaging/PM-02 Product Messaging Reference Documents.md` (Sleep positioning)
-- `/Reference/NPD-Messaging/DM-02 Product Messaging Reference Documents.md` (Multivitamin positioning)
-- `/Reference/NPD-Messaging/AM-02 Product Messaging Reference Documents.md` (Focus/Energy positioning)
-- These provide Seed's unique angles, compliance-approved language, and product differentiation
-
-### Supporting Documents
-- `/Reference/Compliance/What-We-Are-Not-Allowed-To-Say.md` (Compliance rules)
-- `/Reference/Style/Seed-Tone-of-Voice-and-Structure.md` (Brand voice and article structure) 
-- `/Reference/Style/Tone-Guide.md` (Additional tone guidance)
-- `/Reference/Style/8-Sample-Reference-Blog-Articles.md` (Examples of tone, structure, citation style)
-- `/Reference/Compliance/NO-NO-WORDS.md` (Words and phrases to avoid)
+### NPD Tier 2 - Strategy & Voice
+- `/Reference/NPD-Messaging/PM-02 Product Messaging Reference Documents.md`
+- `/Reference/NPD-Messaging/DM-02 Product Messaging Reference Documents.md`
+- `/Reference/NPD-Messaging/AM-02 Product Messaging Reference Documents.md`
 
 ## Google File Search Store
 
