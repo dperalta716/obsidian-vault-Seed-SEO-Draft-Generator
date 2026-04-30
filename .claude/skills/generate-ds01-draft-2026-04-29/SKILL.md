@@ -146,7 +146,7 @@ After Phase 1 completes, read the stage1_analysis document and ALL reference fil
 - Tier 1 (USE FIRST): Claims and citations from the Claims Library (Allegretti et al. 2026 n=350 is the landmark study — citation ¹ is always reserved for this trial)
 - Tier 2 (USE NEXT): Citations from the POV document and Timeline of Benefits
 - Tier 3 (SUPPLEMENT): Pre-vetted academic sources from stage1_analysis Section 3
-- Target ~1 citation per 75-100 words. Max 20-23 total sources.
+- Target ~1 citation per 75-100 words. Max 12-15 total sources.
 - Cite: study results, quantitative data, mechanisms, health claims, safety info
 - Do NOT cite: basic definitions, common biological processes, transitions, general advice
 - ONLY peer-reviewed academic sources with working doi.org links

@@ -384,15 +384,6 @@ Create a numbered list titled "## Citations":
 - Ensure each entry includes the working doi.org link
 - Note: In-text citations use hyperlinked (Author Year) format, but this final list remains a standard numbered APA list
 
-### 4. Suggested Internal Links
-
-- Perform web search using `site:seed.com/cultured/` for relevant concepts
-- Identify 5-15 relevant existing articles
-- Prioritize URLs ending in `-guide` and established high-value pages
-- For each suggested link, provide:
-  * **Sentence**: Full sentence from the generated article where the link should be placed, with anchor text hyperlinked
-  * **Recommended URL**: Just the slug (the part after `/cultured/`)
-
 ## File Saving & Organization
 
 ### Automatic Folder Numbering System
