@@ -1,8 +1,8 @@
 ---
 date: 2026-04-30
 keyword: "is coffee good for gut health"
-version: v2
-status: seed-perspective-reviewed
+version: v4
+status: sources-verified
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
@@ -144,11 +144,11 @@ There's no single "best" drink, but coffee ranks among the most studied for micr
 
 ## Citations
 
-1. Allegretti, J. R., et al. (2026). Randomized, placebo-controlled trial of DS-01® Daily Synbiotic on digestive symptoms in healthy adults. *[Journal]*. https://pubmed.ncbi.nlm.nih.gov/41599868/
+1. Allegretti, J. R., et al. (2026). A randomized, placebo-controlled trial evaluating multi-species synbiotic supplementation for bloating, gas, and abdominal discomfort. *Nutrients*, 18(2), 255. https://doi.org/10.3390/nu18020255
 
 2. Asnicar, F., Berry, S. E., Valdes, A. M., Nguyen, L. H., Picciotto, G., Drew, D. A., ... & Segata, N. (2021). Microbiome connections with host metabolism and habitual diet from 1,098 deeply phenotyped individuals. *Nature Medicine*, 27(2), 321-332. https://doi.org/10.1038/s41591-020-01183-8
 
-3. Boscaini, S., et al. (2026). Caffeine-independent effects of coffee on gut microbiome composition and cognitive function: A double-blinded randomized controlled trial. *Nature Communications*. https://doi.org/10.1038/s41467-026-71264-8
+3. Boscaini, S., et al. (2026). Habitual coffee intake shapes the gut microbiome and modifies host physiology and cognition. *Nature Communications*. https://doi.org/10.1038/s41467-026-71264-8
 
 4. Dalile, B., Van Oudenhove, L., Vervliet, B., & Verbeke, K. (2019). The role of short-chain fatty acids in microbiota-gut-brain communication. *Nature Reviews Gastroenterology & Hepatology*, 16(8), 461-478. https://doi.org/10.1038/s41575-019-0157-3
 
@@ -158,15 +158,15 @@ There's no single "best" drink, but coffee ranks among the most studied for micr
 
 7. Jaquet, M., Rochat, I., Moulin, J., Cavin, C., & Bibiloni, R. (2009). Impact of coffee consumption on the gut microbiota: A human volunteer study. *International Journal of Food Microbiology*, 130(2), 117-121. https://doi.org/10.1016/j.ijfoodmicro.2009.01.011
 
-8. Manghi, P., Podlesny, D., Manara, S., et al. (2024). Large-scale genome-wide association study of the gut microbiome across 25 cohorts. *Nature Microbiology*, 9, 2523-2538. https://doi.org/10.1038/s41564-024-01858-9
+8. Manghi, P., Podlesny, D., Manara, S., et al. (2024). Coffee consumption is associated with intestinal *Lawsonibacter asaccharolyticus* abundance and prevalence across multiple cohorts. *Nature Microbiology*, 9, 3120-3134. https://doi.org/10.1038/s41564-024-01858-9
 
 9. Nehlig, A. (2022). Effects of coffee on the gastro-intestinal tract: A narrative review and literature update. *Nutrients*, 14(2), 399. https://doi.org/10.3390/nu14020399
 
 10. Nishitsuji, K., Watanabe, S., Xiao, J., et al. (2018). Effect of coffee or coffee components on gut microbiome and short-chain fatty acids in a mouse model of metabolic syndrome. *Scientific Reports*, 8, 16173. https://doi.org/10.1038/s41598-018-34571-9
 
-11. Perez-Burillo, S., Pastoriza, S., Fernandez-Arteaga, A., Luzon, G., Jimenez-Hernandez, N., Rufian-Henares, J. A., & Rufian-Henares, J. A. (2019). Spent coffee grounds extract, rich in mannooligosaccharides, promotes a healthier gut microbial community. *Journal of Agricultural and Food Chemistry*, 67(9), 2500-2509. https://doi.org/10.1021/acs.jafc.8b06604
+11. Perez-Burillo, S., Pastoriza, S., Fernandez-Arteaga, A., Luzon, G., Jimenez-Hernandez, N., D'Auria, G., Francino, M. P., & Rufian-Henares, J. A. (2019). Spent coffee grounds extract, rich in mannooligosaccharides, promotes a healthier gut microbial community in a dose-dependent manner. *Journal of Agricultural and Food Chemistry*, 67(9), 2500-2509. https://doi.org/10.1021/acs.jafc.8b06604
 
-12. Simon, D. N., Freedman, N. D., Engel, L. S., et al. (2022). Association of coffee drinking with mortality by genetic variation in caffeine metabolism. *European Journal of Preventive Cardiology*, 29(5), 744-750. https://doi.org/10.1093/eurjpc/zwac008
+12. Simon, J., Gunter, M. J., et al. (2022). Light to moderate coffee consumption is associated with lower risk of death: A UK Biobank study. *European Journal of Preventive Cardiology*, 29(6), 982-991. https://doi.org/10.1093/eurjpc/zwac008
 
 13. van Dam, R. M., Hu, F. B., & Willett, W. C. (2020). Coffee, caffeine, and health. *New England Journal of Medicine*, 383(4), 369-378. https://doi.org/10.1056/NEJMra1816604
 
