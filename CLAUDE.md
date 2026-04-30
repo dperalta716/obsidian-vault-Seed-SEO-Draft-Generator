@@ -17,7 +17,7 @@ Generate high-quality, SEO-optimized articles (Target: 1500-1800 words, Maximum:
     Claims Library.md                  # Approved claims + disclaimers (ABSOLUTE AUTHORITY)
     Product Positioning.md             # Consumer journey + messaging pillars
     Timeline of Benefits + Mechanisms.md  # Phased benefits (Restore/Rebalance/Optimize)
-    Product Topline Messaging.md       # Headlines + product descriptions
+    Product Topline messaging.md       # Headlines + product descriptions
     Disclaimer Cheatsheet.md           # Mandatory disclaimer symbols
 /Reference/NPD-Messaging/       # NPD product messaging (PM-02, DM-02, AM-02)
 /Reference/Claims/              # NPD clinical evidence and approved claims
@@ -43,7 +43,7 @@ Generate high-quality, SEO-optimized articles (Target: 1500-1800 words, Maximum:
 ### DS-01 Tier 2 - Messaging Strategy
 - `Reference/2026-03.../New MRD/Product Positioning.md` (Consumer journey framework)
 - `Reference/2026-03.../New MRD/Timeline of Benefits + Mechanisms.md` (Phased benefits)
-- `Reference/2026-03.../New MRD/Product Topline Messaging.md` (Product descriptions)
+- `Reference/2026-03.../New MRD/Product Topline messaging.md` (Product descriptions)
 
 ### DS-01 Tier 3 - Voice, Style & Compliance
 - `Reference/2026-03.../Tone of Voice 2026.md` (Brand voice)
