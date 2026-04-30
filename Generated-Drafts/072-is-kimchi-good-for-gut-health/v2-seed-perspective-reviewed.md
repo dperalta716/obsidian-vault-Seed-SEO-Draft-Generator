@@ -1,7 +1,7 @@
 ---
 date: 2026-04-30
 keyword: "is kimchi good for gut health"
-version: v1
+version: v2-seed-perspective-reviewed
 status: draft
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
@@ -86,7 +86,7 @@ None of this means you should stop eating kimchi. It's a nutritious food with re
 
 But if you're dealing with bloating, gas, or irregular bowel movements and you're relying on kimchi as your primary strategy, you might be asking it to do something it wasn't designed to do.
 
-Targeted gut health outcomes—like reducing bloating or supporting regularity—require clinical evidence linking specific strains at specific doses to those specific results. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) was clinically validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ—a 6-week randomized, placebo-controlled trial with 350 participants across 40 U.S. states ([Allegretti et al. 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)). In that trial, DS-01® was clinically shown to reduce bloating, alleviate gas, and improve regularity.°
+Targeted gut health outcomes—like reducing bloating or supporting regularity—require clinical evidence linking specific strains at specific doses to those specific results. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) was clinically validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ—a 6-week randomized, placebo-controlled trial with 350 healthy men and women across 40 U.S. states and territories ([Allegretti et al. 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)). In that trial, DS-01® was clinically shown to reduce bloating, alleviate gas, and improve regularity.° Participants experienced reduced impact from bloating on daily activities in as little as one week,**° with improvements in regularity within two weeks.††°
 
 The formulation targets root causes of digestive distress—it increases beneficial bacteria in the gut microbiome° and supports gut barrier integrity°—rather than simply introducing organisms that may or may not survive digestion or provide a specific benefit.
 
@@ -94,7 +94,7 @@ The formulation targets root causes of digestive distress—it increases benefic
 
 "A diverse diet rich in fermented foods supports a healthy microbial environment," explains **Dirk Gevers, Ph.D.** "But for specific digestive outcomes—predictable regularity, reduced bloating—you need strains that have been studied for exactly those effects, delivered at doses the research supports."
 
-The most evidence-based approach treats kimchi and clinically validated probiotics as complementary. Kimchi feeds your existing microbiota with fiber and delivers nutritional benefits. A formulation like [DS-01®](https://seed.com/daily-synbiotic) introduces 24 scientifically studied probiotic strains not commonly found in foods, yogurts, and beverages—each selected for specific functional outcomes.°
+The most evidence-based approach treats kimchi and clinically validated probiotics as complementary. Kimchi feeds your existing microbiota with fiber and delivers nutritional benefits. A formulation like [DS-01®](https://seed.com/daily-synbiotic) introduces 24 scientifically studied probiotic strains not found in most foods, beverages, and yogurts—each selected for specific functional outcomes.°
 
 ## The Key Insight
 
@@ -151,5 +151,9 @@ In the first few days, you might notice increased gas or mild bloating—this is
 °These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
 
 µas of February 2026
+
+**for individuals with mild to moderately bothersome bloating
+
+††Data derived from ingredient-level clinical research
 
 *Based on a study conducted in SHIME®

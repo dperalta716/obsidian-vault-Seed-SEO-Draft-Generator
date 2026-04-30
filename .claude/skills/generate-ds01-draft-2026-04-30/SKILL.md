@@ -244,7 +244,10 @@ The voice balances three pillars (dial up or down based on the topic):
 
 **Section-level:**
 - Each H2 section: 300-500 words max
-- Introductions answer the primary question in the first 1-2 paragraphs
+- **Introduction structure (this order matters):**
+  1. Open with 1-2 sentences of relatable hook — a scenario the reader identifies with, an observation about common experience, or a curiosity-sparking statement. Examples: "You've probably seen kimchi on every 'best foods for gut health' list out there." / "If you've ever wondered whether your coffee habit is secretly helping (or hurting) your gut, you're not alone."
+  2. Then deliver the direct short answer to the keyword question: "The short answer? Yes..." / "Here's what the research says..."
+  3. Then expand with nuance — what's more complex, what most articles miss, and why it's worth reading on.
 - Body sections address baseline topics with Seed's unique angle layered on
 - The Key Insight closes with a warm, grounding line (not a strategy summary)
 
