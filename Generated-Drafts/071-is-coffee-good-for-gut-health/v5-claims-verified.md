@@ -1,8 +1,8 @@
 ---
 date: 2026-04-30
 keyword: "is coffee good for gut health"
-version: v4
-status: sources-verified
+version: v5
+status: claims-verified
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
