@@ -108,9 +108,7 @@ If the bacteria in your food don't make it past stomach acid, are they doing wha
 
 "Restoring the gut after alcohol isn't just about adding more bacteria—it's about which strains you introduce, at what dose, and whether they actually reach the colon intact," explains **Dirk Gevers, Ph.D.**
 
-There is evidence that targeted probiotics can support recovery. One study found that specific probiotic strains helped restore bowel flora and improve liver enzyme levels in people with alcohol-induced liver injury ([Kirpich 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2630703/)).
-
-The takeaway: a well-designed probiotic delivers studied strains at specific doses to the part of your gut where they can actually work.
+This is where strain specificity and delivery matter most. A well-designed probiotic delivers studied strains at specific doses to the part of your gut where they can actually work—rather than hoping whatever's in your yogurt survives the trip.
 
 ## Supporting Gut Restoration With Precision
 
@@ -152,9 +150,9 @@ This disruption can lead to digestive symptoms, increased inflammation, and a we
 
 ### Can probiotics help repair gut damage from alcohol?
 
-Research suggests they can play a supportive role. One study found that specific probiotic strains helped restore bowel flora and improve liver markers in people with alcohol-related liver injury ([Kirpich 2008](https://pmc.ncbi.nlm.nih.gov/articles/PMC2630703/)).
+Research suggests they can play a supportive role—but it depends on the probiotic. Effects are strain-specific, meaning what works in one formulation may not apply to another ([Hill 2014](https://doi.org/10.1038/nrgastro.2014.66)).
 
-Not all probiotics are the same, though. Look for clinical evidence of benefit, strain specificity, and a delivery system that ensures the bacteria survive digestion. A probiotic designed to reach the colon—where your microbiome does its most work—is better positioned to make a meaningful difference.
+Look for clinical evidence of benefit in healthy adults, strain specificity, and a delivery system that ensures the bacteria survive digestion. A probiotic designed to reach the colon—where your microbiome does its most work—is better positioned to make a meaningful difference.
 
 ### What are the first signs of alcohol-related gut damage?
 
@@ -186,11 +184,9 @@ If digestive issues persist after reducing alcohol intake, it's worth speaking w
 
 10. Hill, C., et al. (2014). Expert consensus document. The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic. *Nature Reviews Gastroenterology & Hepatology*, 11(8), 506–514. https://doi.org/10.1038/nrgastro.2014.66
 
-11. Kirpich, I. A., et al. (2008). Probiotics restore bowel flora and improve liver enzymes in human alcohol-induced liver injury: A pilot study. *Alcohol*, 42(8), 675–682. https://pmc.ncbi.nlm.nih.gov/articles/PMC2630703/
+11. Kuo, W. T., et al. (2024). Direct effects of alcohol on gut-epithelial barrier: Unraveling the disruption of physical and chemical barrier of the gut-epithelial barrier that compromises the host-microbiota interface upon alcohol exposure. *Journal of Gastroenterology and Hepatology*. https://doi.org/10.1111/jgh.16539
 
-12. Kuo, W. T., et al. (2024). Direct effects of alcohol on gut-epithelial barrier: Unraveling the disruption of physical and chemical barrier of the gut-epithelial barrier that compromises the host-microbiota interface upon alcohol exposure. *Journal of Gastroenterology and Hepatology*. https://doi.org/10.1111/jgh.16539
-
-13. Leclercq, S., et al. (2014). Intestinal permeability, gut-bacterial dysbiosis, and behavioral markers of alcohol-dependence severity. *Proceedings of the National Academy of Sciences*, 111(42), E4485–E4493. https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/
+12. Leclercq, S., et al. (2014). Intestinal permeability, gut-bacterial dysbiosis, and behavioral markers of alcohol-dependence severity. *Proceedings of the National Academy of Sciences*, 111(42), E4485–E4493. https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/
 
 ---
 
