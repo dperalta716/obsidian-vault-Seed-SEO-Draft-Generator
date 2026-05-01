@@ -71,17 +71,17 @@ When this command is invoked with a file path:
    - Parameters:
      * First argument: "david@david-peralta.com"
      * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: `Phase 3 Tracking!B{row}:F{row}` where {row} is the next empty row number
-     * Fourth argument: JSON array: `[[keyword, "", "", doc_link, "Ready for Review"]]`
-     * Note: Columns C (MSV) and D (KD) are left empty as placeholders
+     * Third argument: `Phase 3 Tracking!B{row}:G{row}` where {row} is the next empty row number
+     * Fourth argument: JSON array: `[[keyword, "", "", doc_link, "", "unavailable"]]`
+     * Note: Columns C (MSV), D (KD), and F (Sydni's edits) are left empty; G (Status) = "unavailable"
 
-8. **Add date-stamped note** to the Notes/Comments column:
+8. **Add date-stamped note** to the Notes/Comments column (column L):
    - Get today's date and format as M/D (e.g., "10/23" for October 23rd)
    - Execute bash script: `~/.claude/skills/google-sheets/scripts/write-values.sh`
    - Parameters:
      * First argument: "david@david-peralta.com"
      * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: `Phase 3 Tracking!K{row}` where {row} is the same row number from step 7
+     * Third argument: `Phase 3 Tracking!L{row}` where {row} is the same row number from step 7
      * Fourth argument: JSON array: `[["{M/D}: ready for review"]]` (e.g., "3/27: ready for review")
 
 9. **Provide feedback** to the user:
