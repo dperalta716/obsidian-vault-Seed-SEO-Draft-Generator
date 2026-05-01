@@ -1,8 +1,8 @@
 ---
 date: 2026-05-01
 keyword: "berberine for gut health"
-version: v1
-status: draft
+version: v3
+status: quality-reviewed
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
@@ -60,7 +60,7 @@ What makes this interesting from a microbiome perspective is that berberine appe
 
 Your gut lining acts as a selective barrier—letting nutrients through while keeping harmful substances out. When that barrier gets compromised, it can lead to inflammation and a range of downstream issues.
 
-Research suggests berberine may help protect this barrier. Animal and cell-culture studies show it can support tight junction proteins—the molecular "seals" between intestinal cells—and reduce markers of intestinal inflammation ([Jing 2021](https://doi.org/10.1016/j.phrs.2020.105358)). One study found that berberine's protective effect on the gut barrier actually depends on having an intact gut microbiota, suggesting the compound works *through* your existing bacteria rather than independently of them ([Xu 2021](https://doi.org/10.1016/j.jpha.2021.07.003)).
+Research suggests berberine may help protect this barrier. Animal and cell-culture studies show it can support tight junction proteins—the molecular "seals" between intestinal cells—and reduce markers of intestinal inflammation ([Jing 2021](https://doi.org/10.1016/j.phrs.2020.105358)). One study found that berberine's protective effect on the gut barrier actually depends on having an intact gut microbiota. In other words, the compound appears to work *through* your existing bacteria rather than independently of them ([Xu 2021](https://doi.org/10.1016/j.jpha.2021.07.003)).
 
 While most of this evidence comes from preclinical models, it paints a consistent picture: berberine's gut benefits are deeply tied to its interactions with the microbiome.
 
@@ -88,7 +88,9 @@ This raises an interesting question: what happens when you combine berberine's m
 
 That's exactly what researchers explored in the PREMOTE study—a randomized, double-blind clinical trial with 409 participants. The results showed that berberine combined with probiotics produced better metabolic and gut microbiome outcomes than either intervention alone ([Zhang 2020](https://doi.org/10.1038/s41467-020-18414-8)). The combination didn't just add benefits—it appeared to create genuine synergy.
 
-This is where a clinically validated approach like [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) fits naturally. Where berberine modifies your existing microbiome from the outside in, DS-01® works by directly increasing beneficial bacteria in the gut microbiome° and supporting gut barrier integrity°. It's clinically shown to improve regularity, reduce bloating, and alleviate gas°—validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
+This is where a clinically validated approach like [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) fits naturally. Where berberine modifies your existing microbiome from the outside in, [DS-01®](https://seed.com/daily-synbiotic) works by directly increasing beneficial bacteria in the gut microbiome° and supporting gut barrier integrity°.
+
+It's clinically shown to improve regularity, reduce bloating, and alleviate gas°—validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ. In that trial, 72% of [DS-01®](https://seed.com/daily-synbiotic) participants reported never or rarely feeling bloated° ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
 
 Think of it this way: berberine can help create better conditions in your gut by modifying existing populations and reducing inflammation. A precision probiotic introduces the right residents to take advantage of those conditions. Together, they address more of the picture than either one alone.
 
