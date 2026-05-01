@@ -1,8 +1,8 @@
 ---
 date: 2026-05-01
 keyword: "Best vitamins and minerals for gut health"
-version: v1
-status: draft
+version: v2
+status: seed-perspective-reviewed
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
@@ -26,11 +26,9 @@ tags: [seed, seo-draft, ds-01, 2026-messaging]
 
 ### Overview
 
-- Your gut relies on specific vitamins and minerals to maintain its protective barrier and support a diverse microbiome
 - Vitamin D, zinc, and magnesium are among the most well-studied nutrients for gut barrier integrity and microbial balance
-- Many gut bacteria actually produce vitamins themselves—but they need the right environment to do so
+- Your gut bacteria actually produce vitamins themselves—but they need the right nutritional environment to do so
 - Micronutrients and probiotics work synergistically: nutrients strengthen the gut lining where beneficial bacteria do their best work
-- Addressing nutrient gaps alongside microbiome support offers a more complete approach to digestive health
 
 You take your vitamins, eat your greens, and maybe even throw in a probiotic for good measure. But have you ever wondered whether those nutrients are actually reaching your gut—and what they're doing once they get there?
 
@@ -129,10 +127,6 @@ They can, but it depends on what's driving the issue. If your digestive challeng
 ### How do vitamins and minerals support the gut microbiome?
 
 Micronutrients influence your microbiome in several ways. Vitamin D shapes which bacteria thrive by regulating immune tolerance in the gut. Zinc maintains the physical barrier that keeps bacteria in their proper place. B vitamins serve as both currency for bacterial metabolism and a signal that influences microbial community structure ([Degnan 2014](https://doi.org/10.1016/j.cmet.2014.10.002)). Perhaps most interesting: a diverse, well-nourished microbiome can produce vitamins itself—including B12, folate, and K2—creating a positive feedback loop ([LeBlanc 2013](https://doi.org/10.1016/j.copbio.2012.08.005)).
-
-### What is the best supplement to heal your gut?
-
-There isn't a single "best" supplement because gut health depends on multiple systems working together. That said, research supports starting with the nutrients most directly involved in gut barrier function—zinc, vitamin D, and magnesium—while also supporting the microbiome itself with clinically validated probiotics. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) combines 24 probiotic strains with a prebiotic, clinically shown to improve regularity, reduce bloating, and alleviate gas°. The combination of targeted nutrition and precision probiotics addresses gut health from both angles.
 
 ---
 
