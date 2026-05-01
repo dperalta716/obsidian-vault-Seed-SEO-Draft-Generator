@@ -1,36 +1,10 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-101/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-101/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-101/#)
-- [Send Email](https://seed.com/cultured/probiotics-101/#)
-- [Download PDF](https://seed.com/cultured/probiotics-101/#)
-
 # Probiotics 101
 
 Last updated: August 20, 2025
 
 Written by [Seed Health](https://seed.com/cultured/author/seed-staff)
 
-10 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-101/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-101/# "share")
-
-Last updated: August 20, 2025
-
 Curious about probiotics? This article explains what probiotics are, how probiotics work, what specific strains of probiotics have been studied for, and how you can choose the right probiotic.
-
-10 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-101/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-101/# "share")
-
-![Seed ds-01 capsule on top of magnified glass](https://seed.com/wp-content/uploads/2021/08/PROBIOTICS101-scaled-1-2048x1328.jpeg)
 
 Contents
 
@@ -203,54 +177,3 @@ A few helpful articles and resources about probiotics:
 10. Del Piano, M., Carmagnola, S., Anderloni, A., Andorno, S., Ballarè, M., Balzarini, M., Montino, F., Orsello, M., Pagliarulo, M., Sartori, M., Tari, R., Sforza, F., & Capurso, L. (2010). The use of probiotics in healthy volunteers with evacuation disorders and hard stools: a double-blind, randomized, placebo-controlled study. _Journal of clinical gastroenterology_, _44 Suppl 1_, S30–S34. [https://doi.org/10.1097/MCG.0b013e3181ee31c3](https://doi.org/10.1097/MCG.0b013e3181ee31c3)
 11. Podolsky, S. H. (2012). Metchnikoff and the microbiome. _The Lancet_, _380_(9856), 1810–1811. https://doi.org/10.1016/s0140-6736(12)62018-2
 12. Marco, M. L., Sanders, M. E., Gänzle, M., Arrieta, M. C., Cotter, P. D., de Vuyst, L., Hill, C., Holzapfel, W., Lebeer, S., Merenstein, D., Reid, G., Wolfe, B. E., & Hutkins, R. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. _Nature Reviews Gastroenterology & Hepatology_, _18_(3), 196–208. https://doi.org/10.1038/s41575-020-00390-5
-
-Filed Under
-
-[Definitions](https://seed.com/cultured/tag/definitions/ "Definitions")
-
-[![Fermented Foods for Gut Health: How to Get Real Benefits From Every Bite](https://seed.com/wp-content/uploads/2026/04/SEO_TypesofProbiotics_Cultured_0225-1.jpg)\\
-**Next Article** **Fermented Foods for Gut Health: How to Get Real Benefits From Every Bite**\\
-\\
-by Sydni Rubio • April 30, 2026\\
-\\
-10 minutes](https://seed.com/cultured/fermented-foods-for-gut-health-guide/)
-
-## Related Articles
-
-[![Whole Body Benefits](https://seed.com/wp-content/uploads/2021/08/WholeBodyBenefits-1-768x648.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Five Whole-Body Benefits of Probiotics** \\
-\\
-by Seed Health • August 20, 2021\\
-\\
-Did you know 61% of Americans suffer from digestive discomfort? For many, probiotics offer a potential solution to this chronic problem. Specific strains of probiotics have been shown to support ease of bloating and promote healthy regularity. But the benefits of probiotics go far beyond the gut.\\
-\\
-7 minutes](https://seed.com/cultured/five-whole-body-benefits-of-probiotics/) [![Glass jars filled with various homemade pickled vegetables on a wooden countertop.](https://seed.com/wp-content/uploads/2023/10/fermentedfoods-768x362.jpg)\\
-\\
-Digestion \| Probiotics 101\\
-\\
-**If I Eat Fermented Foods, Do I Need a Probiotic?** \\
-\\
-by Seed Health • October 12, 2023\\
-\\
-There’s a difference between fermented foods and probiotics (even if labels tell you otherwise). Here’s why both are great additions to your routine.\\
-\\
-4 minutes](https://seed.com/cultured/fermented-foods-vs-probiotics/) [![Still life painting with food, fruits, a turkey, and a silver pitcher on a tablecloth.](https://seed.com/wp-content/uploads/2023/11/seed_cultured_enzymes_hero_111523_1-1-768x362.jpg)\\
-\\
-Digestion\\
-\\
-**Will a Digestive Enzyme Help Me Feel Better After a Big Meal?** \\
-\\
-by Seed Health • November 15, 2023\\
-\\
-If you find yourself bloated, gassy, or otherwise uncomfortable after eating, this one’s for you.\\
-\\
-5 minutes](https://seed.com/cultured/digestive-enzyme/)
-
-![Hand dropping a coin into a small green piggy bank against a blue background.](https://seed.com/wp-content/uploads/2023/12/tiny-seed.jpg)
-
-Your ultimate all-in-one probiotic.
-
-[Start DS-01® today](https://seed.com/daily-synbiotic "Start DS-01® today")

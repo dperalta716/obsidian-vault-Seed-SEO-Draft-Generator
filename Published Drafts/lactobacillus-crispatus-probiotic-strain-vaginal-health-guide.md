@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#)
-- [Send Email](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#)
-- [Download PDF](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#)
-
 # Lactobacillus crispatus: Your Vagina's Microscopic Bodyguard
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-9 minutes
-
-[11 Citations](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/# "share")
-
-Last updated: September 8, 2025
-
 Meet the bacteria that's been protecting vaginas since forever: Lactobacillus crispatus. From maintaining perfect pH to blocking Group B Strep during pregnancy, discover why strain specifics matter and how to find probiotics that actually work.
-
-9 minutes
-
-[11 Citations](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lactobacillus-crispatus-probiotic-strain-vaginal-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch7_LactobacillusCrispatus_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -199,66 +173,3 @@ View Citations
 11. Starc, M., Lučovnik, M., Eržen Vrlič, P., Jeverica, S. (2022). Protective Effect of _Lactobacillus crispatus_ against Vaginal Colonization with Group B Streptococci in the Third Trimester of Pregnancy. _Pathogens, 11_(9), 980. [https://doi.org/10.3390/pathogens11090980](https://doi.org/10.3390/pathogens11090980)
 
 ‌
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![How Long Do Prebiotics Take to Work? A Guide to Your Gut’s Timeline](https://seed.com/wp-content/uploads/2025/08/SEO_HowLongDoesItTakeForProbioticsToWork_Cultured_0225.jpg)\\
-**Next Article** **How Long Do Prebiotics Take to Work? A Guide to Your Gut’s Timeline**\\
-\\
-by Gianina Deines • August 14, 2025\\
-\\
-9 minutes](https://seed.com/cultured/how-long-do-prebiotics-take-to-work-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Coastal mountain landscape with cloudy skies](https://seed.com/wp-content/uploads/2024/04/DSC09374_4497SEED_B_ADOBERGB-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**Can We Combat Rising CO₂ Levels With Microbes?** \\
-\\
-by Seed Health • April 19, 2024\\
-\\
-In partnership with the Two Frontiers Project (2FP), we’re supporting a range of research initiatives in 2024 focused on the discovery and application of microbes to capture CO₂ and transform it into sustainable solutions and resources.\\
-\\
-3 minutes](https://seed.com/cultured/seedlabs-carbon/) [![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Regulate Your Poop: A Comprehensive Guide** \\
-\\
-by Sydni Rubio • March 12, 2025\\
-\\
-Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these beneficial microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.\\
-\\
-8 minutes](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/)

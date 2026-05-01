@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/supplements-for-dry-skin-guide/#)
-- [Share on Twitter](https://seed.com/cultured/supplements-for-dry-skin-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/supplements-for-dry-skin-guide/#)
-- [Send Email](https://seed.com/cultured/supplements-for-dry-skin-guide/#)
-- [Download PDF](https://seed.com/cultured/supplements-for-dry-skin-guide/#)
-
 # Supplements for Dry Skin: How to Hydrate From the Inside Out
 
 Published: February 11, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Meghan Novoshielski , MS RDN](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[25 Citations](https://seed.com/cultured/supplements-for-dry-skin-guide/#view-citations)
-
-[Share](https://seed.com/cultured/supplements-for-dry-skin-guide/# "share")
-
-Published: February 11, 2026
-
 Dry skin is often a sign of internal needs. Discover the science-backed vitamins, minerals, and nutrients that support skin hydration, barrier function, and the gut-skin connection.
-
-10 minutes
-
-[25 Citations](https://seed.com/cultured/supplements-for-dry-skin-guide/#view-citations)
-
-[Share](https://seed.com/cultured/supplements-for-dry-skin-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/02/SEO_Batch5_DM-02_supplementsfordryskin_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -261,62 +235,3 @@ View Citations
 23. Choi FD, Sung CT, Juhasz ML, Mesinkovska NA. J Drugs Dermatol. 2019;18(1):9-16.
 24. Gao YR, Wang RP, Zhang L, Fan Y, Luan J, Liu Z, Yuan C. Skin Res Technol. 2023;29(11):e13531.
 25. Wong CY, Chu DH. Int J Womens Dermatol. 2021;7(5):647-52.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Meghan Novoshielski](https://seed.com/cultured/expert-reviewer/)
-
-[![Natrol vs. OLLY vs. Seed’s PM-02™: A Sleep Supplement Breakdown](https://seed.com/wp-content/uploads/2026/02/SEO_Batch2_PM-02pqqsupplement_1125-scaled.jpg)\\
-**Next Article** **Natrol vs. OLLY vs. Seed’s PM-02™: A Sleep Supplement Breakdown**\\
-\\
-by Sydni Rubio • February 6, 2026\\
-\\
-10 minutes](https://seed.com/cultured/natrol-vs-olly-vs-seeds-pm-02-sleep-supplement-guide/)
-
-## Related Articles
-
-[![Best Joint Health Supplements: A Science-Based Guide](https://seed.com/wp-content/uploads/2025/11/SEO_Batch1_jointhealthsupplements_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Joint Health Supplements: A Science-Based Guide** \\
-\\
-by Sydni Rubio • November 6, 2025\\
-\\
-Overview That first twinge of stiffness when you stand up after working at your desk, or the way your knee suddenly has opinions about the weather… Sound familiar? 😅 If you’re here, you’re probably wondering if there’s anything that actually works—or if joint supplements are just expensive hope in a bottle. Your skepticism makes sense....\\
-\\
-9 minutes](https://seed.com/cultured/joint-health-supplements-guide/) [![Green watercolor paint blotches with varying shades and textures on paper background](https://seed.com/wp-content/uploads/2024/12/TheMostMind-BlowingMicrobiomeDiscoveriesof2024_Cultured_122724-768x362.jpeg)\\
-\\
-Human microbiome\\
-\\
-**6 Microbiome Studies Our Team Couldn’t Stop Talking About This Year** \\
-\\
-by Emma Loewe • December 19, 2024\\
-\\
-Perspective shift incoming: Of the 18,532 scientific papers published on the microbiome this year, these are six that our team really wants you to know about.\\
-\\
-5 minutes](https://seed.com/cultured/microbiome-discoveries-2024/) [![Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?](https://seed.com/wp-content/uploads/2025/11/SEO_Batch4_AM-02_supplementsforstress_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?** \\
-\\
-by Sydni Rubio • November 14, 2025\\
-\\
-Overview Picture this: It’s 2 a.m., you’re wide awake (again), and your browser history is basically a shrine to sleep supplements. 😩 Two names keep appearing like they’re running for office: Ashwagandha vs. magnesium for sleep. Both promise better nights. Both apparently ease stress. Both have studies backing them up. But which one do you...\\
-\\
-9 minutes](https://seed.com/cultured/ashwagandha-vs-magnesium-for-sleep-stress-guide/)

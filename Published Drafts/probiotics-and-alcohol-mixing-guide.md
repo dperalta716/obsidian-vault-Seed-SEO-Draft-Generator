@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#)
-
 # Probiotics and Alcohol: What You Need to Know About Mixing Both
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Dirk Gevers, PhD](https://seed.com/cultured/expert-reviewer/dirk-gevers)
 
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/# "share")
-
-Last updated: October 16, 2025
-
 Can you take probiotics and still drink alcohol? This science-backed guide explores how drinking impacts your microbiome and what happens when probiotics and alcohol are mixed together. Discover practical strategies for protecting your gut health without giving up your favorite adult beverages.
-
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-alcohol-mixing-guide/# "share")
-
-![Probiotics and Alcohol: A Complete Guide to Mixing Both](https://seed.com/wp-content/uploads/2025/02/SEO_Batch3_ProbioticsandAlcohol_Cultured_0225.jpg)
 
 ### Overview
 
@@ -168,66 +142,3 @@ View Citations
 17. Arnaud, M. J. (2003). Mild dehydration: A risk factor of constipation? _European Journal of Clinical Nutrition, 57_(S2): S88–S95. [https://doi.org/10.1038/sj.ejcn.1601907](https://doi.org/10.1038/sj.ejcn.1601907)
 18. Hobson, R. M., & Maughan, R. J. (2010). Hydration status and the diuretic action of a small dose of alcohol. _Alcohol and Alcoholism, 45_(4): 366–373. [https://doi.org/10.1093/alcalc/agq029](https://doi.org/10.1093/alcalc/agq029)
 19. Lozupone, C. A., Stombaugh, J. I., Gordon, J. I., Jansson, J. K., & Knight, R. (2012). Diversity, stability and resilience of the human gut microbiota.Nature, 489 (7415): 220–230. [https://doi.org/10.1038/nature11550](https://doi.org/10.1038/nature11550)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Dirk Gevers](https://seed.com/wp-content/uploads/2025/03/Dirk.png)
-
-### Reviewed By
-
-## [Dirk Gevers](https://seed.com/cultured/expert-reviewer/dirk-gevers)
-
-Dirk Gevers is a distinguished leader in microbiome research and healthcare innovation with a career spanning roles in academia, industry, and global collaboration. His expertise lies in addressing microbial imbalances in diseases such as Crohn’s disease, type 1 diabetes, and colorectal cancer, as well as advancing knowledge across the skin, oral, vaginal, and gut microbiomes. With a strong background in translational science, Dirk has been instrumental in advancing microbiome-based innovations to improve consumer and patient outcomes.
-
-[![What Probiotics Should You Take? A Beginner’s Guide](https://seed.com/wp-content/uploads/2025/02/SEO_WhatProbioticsShouldITake_Cultured_0225-scaled.jpg)\\
-**Next Article** **What Probiotics Should You Take? A Beginner’s Guide**\\
-\\
-by Chandana Balasubramanian • February 20, 2025\\
-\\
-7 minutes](https://seed.com/cultured/what-probiotics-should-you-take-guide/)
-
-## Related Articles
-
-[![Close-up of bubbles suspended in a green liquid background](https://seed.com/wp-content/uploads/2025/02/SEO_ShouldITakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Should You Take Probiotics? Are They Right For You?** \\
-\\
-by Chandana Balasubramanian • February 14, 2025\\
-\\
-Thinking about taking probiotics? Learn how these “good bacteria” work with your gut and what research reveals about their effects on your health.\\
-\\
-7 minutes](https://seed.com/cultured/should-you-take-probiotics-are-they-right-for-you-guide/) [![What Probiotics Should You Take? A Beginner’s Guide](https://seed.com/wp-content/uploads/2025/02/SEO_WhatProbioticsShouldITake_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What Probiotics Should You Take? A Beginner’s Guide** \\
-\\
-by Chandana Balasubramanian • February 20, 2025\\
-\\
-You don’t have to go with your gut—at least not when choosing a probiotic. Skip the marketing hype and learn how to find the right one based on strain, dosage, quality, and more.\\
-\\
-7 minutes](https://seed.com/cultured/what-probiotics-should-you-take-guide/) [![Yellow pear resting on a stack of beige ceramic plates against a dark green background](https://seed.com/wp-content/uploads/2024/11/FollowingtheJourneyofYourFood_Cultured_111824-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Following the Journey of Your Food: From Eating to Excreting** \\
-\\
-by Megan Falk • November 19, 2024\\
-\\
-Digestion is a complex and carefully coordinated process involving trillions of bacteria and 25-30 feet of anatomical runway. Let’s double-click on the GI tract to learn all about how it works and how to support it through diet and lifestyle.\\
-\\
-10 minutes](https://seed.com/cultured/digestion-101/)

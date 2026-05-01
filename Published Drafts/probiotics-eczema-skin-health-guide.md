@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#)
-
 # Scratching the Surface: Exploring Probiotics for Eczema
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Dana Jessen-Howard, MS](https://seed.com/cultured/expert-reviewer/dana-jessenhoward)
 
-7 minutes
-
-[25 Citations](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-eczema-skin-health-guide/# "share")
-
-Last updated: October 16, 2025
-
 You’ve switched detergents, moisturizers, and diets—more than once. But the itchy flare-ups keep coming. Now, science is turning inward, exploring how the gut—and specific probiotic strains—might influence skin health and offer new support for those with eczema.
-
-7 minutes
-
-[25 Citations](https://seed.com/cultured/probiotics-eczema-skin-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-eczema-skin-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch6_ProbioticsforEczema_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -191,66 +165,3 @@ View Citations
 5. Ito, T. & Nakamura, Y. (2024). The skin barrier and microbiome in infantile atopic dermatitis development: can skincare prevent onset? _International Immunology, 36_(11):579-84. [https://doi.org/10.1093/intimm/dxae038](https://doi.org/10.1093/intimm/dxae038)
 6. Dmitrieva, N. I., Boehm, M., Yancey, P. H., Enhörning, S. (2024). Long-term health outcomes associated with hydration status. _Nature Reviews Nephrology, 20_(5):275-94. [https://doi.org/10.1038/s41581-024-00817-1](https://doi.org/10.1038/s41581-024-00817-1)
 7. Doron, S. & Snydman, D. R. (2015). Risk and safety of probiotics. _Clinical Infectious Diseases, 60_(Suppl.2):S129-34. [https://doi.org/10.1093/cid/civ085](https://doi.org/10.1093/cid/civ085)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Dana Jessen-Howard](https://seed.com/wp-content/uploads/2025/05/Dana.png)
-
-### Reviewed By
-
-## [Dana Jessen-Howard](https://seed.com/cultured/expert-reviewer/dana-jessenhoward)
-
-Dana is a published computational biologist with expertise in cancer bioinformatics and neurodegenerative disease. At Seed, she has held a variety of roles leading science communications and product insights. Her extensive background studying/working in public health, exercise science, neuroscience, microbiology, and commercialization of biologics and medical technologies is backed by a curiosity in connecting novel scientific research and tech innovation to support population health at scale.
-
-[![What are the Best Probiotics for Skin Health? A Science-Backed Guide ](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforSkin_Cultured_0225.jpg)\\
-**Next Article** **What are the Best Probiotics for Skin Health? A Science-Backed Guide**\\
-\\
-by Leigh Weingus • May 22, 2025\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotics-for-skin-health-guide/)
-
-## Related Articles
-
-[![Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforAcne_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis** \\
-\\
-by Sydni Rubio • May 9, 2025\\
-\\
-Breakouts aren't just skin deep. Discover how gut health, the gut-skin axis, and strain-specific probiotics may influence acne—and why clearer skin could start in your microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/) [![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/) [![Water glass and](https://seed.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-2-2025-12_47_19-PM-768x512.png)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Actually Work? A Science-Based Look Beyond the Hype** \\
-\\
-by Sydni Rubio • April 2, 2025\\
-\\
-The real question isn’t just “do probiotics work,” but which ones, how much, and in what form. The answer lies in the details—specific probiotic strain, precise dose, and proper delivery method. Discover how science-backed probiotics can support better gut health and a balanced immune system.\\
-\\
-11 minutes](https://seed.com/cultured/do-probiotics-work-benefits-and-strains-guide/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#)
-
 # The Brain-Gut Connection: Can Probiotics Really Support Your Mental Health?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/# "share")
-
-Last updated: September 17, 2025
-
 Curious about probiotics for mental health? Explore how your gut and brain communicate, what psychobiotics are, and which specific probiotic strains are being studied for their impact on mood, stress, and anxiety.
-
-8 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-mental-health-gut-brain-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch6_ProbioticsforMentalHealth_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -194,66 +168,3 @@ View Citations
 10. Kim, C. S., Cha, L., Sim, M., Jung, S., Chun, W. Y., Baik, H. W., Shin, D. M. (2021). Probiotic Supplementation Improves Cognitive Function and Mood with Changes in Gut Microbiota in Community-Dwelling Older Adults: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. The Journals of Gerontology: Series A, 76(1):32-40. [https://doi.org/10.1093/gerona/glaa090](https://doi.org/10.1093/gerona/glaa090)
 11. Smith, K. S., Greene, M. W., Babu, J. R., Frugé, A. D. (2021). Psychobiotics as treatment for anxiety, depression, and related symptoms: a systematic review. Nutritional Neuroscience, 24(12):963-77. [https://doi.org/10.1080/1028415X.2019.1701220](https://doi.org/10.1080/1028415X.2019.1701220)
 12. Johnson, K. V. A. & Steenbergen, L. (2025). Probiotics reduce negative mood over time: the value of daily self-reports in detecting effects. Npj Mental Health Research, 4(1). [https://doi.org/10.1038/s44184-025-00123-z](https://doi.org/10.1038/s44184-025-00123-z)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Do Probiotics Actually Help with Gas and Bloating? What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225.jpg)\\
-**Next Article** **Do Probiotics Actually Help with Gas and Bloating? What the Science Says**\\
-\\
-by Leigh Weingus • June 10, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-gas-bloating-relief-guide/)
-
-## Related Articles
-
-[![closeup of older persons eyes looking at camera](https://seed.com/wp-content/uploads/2025/02/HowYourMicrobiomeImpactsYourLongevity_Cultured_22725-768x362.jpeg)\\
-\\
-Human microbiome\\
-\\
-**The Microbiome’s (Contested) Role in Longevity** \\
-\\
-by Emma Loewe • February 27, 2025\\
-\\
-As we grow older, our resident bacteria grow with us. Could these microbiome changes influence how—and how long—we live?\\
-\\
-7 minutes](https://seed.com/cultured/the-microbiomes-role-in-longevity-and-healthspan/) [![Probiotics for IBS: What Science Says About Gut Relief](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforIBS_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for IBS: What Science Says About Gut Relief** \\
-\\
-by Sydni Rubio • June 6, 2025\\
-\\
-Overview IBS doesn’t exactly send calendar invites. It shows up unannounced—after lunch, before meetings, in the middle of a grocery run—with symptoms that range from annoying to downright disruptive. Bloating, cramping, urgent bathroom trips (or none at all)? Yep, all part of the package. And while the name says “irritable bowel,” anyone with IBS knows...\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-for-ibs-symptoms-relief-guide/) [![The ‘Leaky Gut Diet’ Demystified: What Does Science Say?](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGutDiet_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**The ‘Leaky Gut Diet’ Demystified: What Does Science Say?** \\
-\\
-by Leigh Weingus • May 23, 2025\\
-\\
-Explore the science behind "leaky gut" and intestinal permeability. Learn how to nourish your gut barrier with an evidence-based dietary approach focusing on fiber, polyphenols, and beneficial microbes, rather than overly restrictive fads. Your guide to sustainable gut health.\\
-\\
-8 minutes](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/)

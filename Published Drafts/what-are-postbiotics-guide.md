@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-are-postbiotics-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-are-postbiotics-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-are-postbiotics-guide/#)
-- [Send Email](https://seed.com/cultured/what-are-postbiotics-guide/#)
-- [Download PDF](https://seed.com/cultured/what-are-postbiotics-guide/#)
-
 # Postbiotics: Why These Microbial “Leftovers” Matter for Your Gut
 
 Last updated: August 13, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-8 minutes
-
-[7 Citations](https://seed.com/cultured/what-are-postbiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-are-postbiotics-guide/# "share")
-
-Last updated: August 13, 2025
-
 Ever heard of postbiotics? And no, they're not probiotics with a typo—they're something entirely different. Learn what they actually do for your gut health and why they may be worth your attention.
-
-8 minutes
-
-[7 Citations](https://seed.com/cultured/what-are-postbiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-are-postbiotics-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch7_WhatArePostbiotics_Cultured_0325-1.jpg)
 
 ### **Overview**
 
@@ -212,66 +186,3 @@ View Citations
 5. Żółkiewicz J, Marzec A, Ruszczyński M, Feleszko W. Nutrients. 2020;12(8):2189.
 6. Andresen V, Gschossmann J, Layer P. Lancet Gastroenterol Hepatol. 2020;5(7):658-66.
 7. Saito Y, Mihara T, Oki M, Kumagai T. Biosci Microbiota Food Health. 2018;37(3):59-65.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![The Need to Feed: How to Increase Butyrate From the Inside Out](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_HowtoIncreaseButyrate_Cultured_0525-1-scaled.jpg)\\
-**Next Article** **The Need to Feed: How to Increase Butyrate From the Inside Out**\\
-\\
-by Gianina Deines • July 8, 2025\\
-\\
-8 minutes](https://seed.com/cultured/how-to-increase-butyrate-guide/)
-
-## Related Articles
-
-[![Can You “Heal” Leaky Gut? Here’s What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_HowtoHealLeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You “Heal” Leaky Gut? Here’s What the Science Says** \\
-\\
-by Leigh Weingus • June 13, 2025\\
-\\
-Overview You’ve probably heard the term “leaky gut” floating around. Maybe a friend mentioned it, you saw it on social media, or you’re experiencing symptoms like bloating, fatigue, or food sensitivities and wondering if this could be the culprit. If you’re trying to figure out “how to heal leaky gut,” you’re looking for answers and,...\\
-\\
-10 minutes](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/) [![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Water glass and](https://seed.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-2-2025-12_47_19-PM-768x512.png)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Actually Work? A Science-Based Look Beyond the Hype** \\
-\\
-by Sydni Rubio • April 2, 2025\\
-\\
-The real question isn’t just “do probiotics work,” but which ones, how much, and in what form. The answer lies in the details—specific probiotic strain, precise dose, and proper delivery method. Discover how science-backed probiotics can support better gut health and a balanced immune system.\\
-\\
-11 minutes](https://seed.com/cultured/do-probiotics-work-benefits-and-strains-guide/)

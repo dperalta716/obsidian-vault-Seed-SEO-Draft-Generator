@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#)
-- [Share on Twitter](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#)
-- [Send Email](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#)
-- [Download PDF](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#)
-
 # How Probiotics Regulate Your Poop: A Comprehensive Guide
 
 Last updated: September 11, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Gregor Reid, PhD, MBA](https://seed.com/cultured/expert-reviewer/gregor-reid)
 
-8 minutes
-
-[25 Citations](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/# "share")
-
-Last updated: September 11, 2025
-
 Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these healthy microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.
-
-8 minutes
-
-[25 Citations](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/# "share")
-
-![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-2048x966.jpg)
 
 ### **Overview**
 
@@ -218,66 +192,3 @@ View Citations
 23. Ramirez, J., Guarner, F., Fernandez, L. B., Maruy, A., Sdepanian, V. L., Cohen, H. (2020). Antibiotics as Major Disruptors of Gut Microbiota. Frontiers in Cellular and Infection Microbiology, 10:572912. [doi.org/10.3389/fcimb.2020.572912‌](https://doi.org/10.3389/fcimb.2020.572912%E2%80%8C)
 24. Reid, G., Abrahamsson, T., Bailey, M., Bindels, L. B., Bubnov, R., Ganguli, K., Martoni, C., O’Neill, C., Savignac, H. M., Stanton, C., Ship, N., Surette, M., Tuohy, K., van Hemert, S. (2017). How do probiotics and prebiotics function at distant sites? _Beneficial Microbes, 8_(4):521-34. [doi.org/10.3920/bm2016.0222](https://doi.org/10.3920/bm2016.0222)
 25. Quinn-Bohmann, N., Wilmanski, T., Sarmiento, K. R., Levy, L., Lampe, J. W., Gurry, T., Rappaport, N., Ostrem, E. M., Venturelli, O. S., Diener, C., Gibbons, S. M. (2024). Microbial community-scale metabolic modelling predicts personalized short-chain fatty acid production profiles in the human gut. _Nature Microbiology, 9_(7). [doi.org/10.1038/s41564-024-01728-4](https://doi.org/10.1038/s41564-024-01728-4)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Gregor Reid](https://seed.com/wp-content/uploads/2025/03/GR-photo-JW-1-Dr-Rogers-pick-scaled-e1633716513157.jpg)
-
-### Reviewed By
-
-## [Gregor Reid](https://seed.com/cultured/expert-reviewer/gregor-reid)
-
-Gregor Reid is a globally recognized leader in probiotics and the microbiome for human and non-human life forms. He is a Distinguished Professor Emeritus at the University of Western Ontario. Reid's extensive research includes over 600 publications on beneficial microbes, probiotic strains, and women's health cited 70,000 times. His work has significantly advanced the field, impacting clinical practices and international guidelines, as well as making a tremendous health impact in developing countries around the world.
-
-[![Do Probiotics Cause Gas? What Science Says About This Common Side Effect](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225.jpg)\\
-**Next Article** **Do Probiotics Cause Gas? What Science Says About This Common Side Effect**\\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/)
-
-## Related Articles
-
-[![Probiotics can start working in your gut in a few days, but research shows it takes a few weeks to months for longer-term effects.](https://seed.com/wp-content/uploads/2025/02/SEO_HowLongDoesItTakeForProbioticsToWork_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Long Do Probiotics Take To Work? A Science-Based Timeline** \\
-\\
-by Chandana Balasubramanian • February 7, 2025\\
-\\
-Taking probiotics but not sure if they're working? These "good bacteria" get straight to work. But while some changes appear in days, others take weeks or months. Here's what science tells us about how long it takes for the effects of probiotics to kick in.\\
-\\
-5 minutes](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/) [![Close-up of bubbles suspended in a green liquid background](https://seed.com/wp-content/uploads/2025/02/SEO_ShouldITakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Should You Take Probiotics? Are They Right For You?** \\
-\\
-by Chandana Balasubramanian • February 14, 2025\\
-\\
-Thinking about taking probiotics? Learn how these “good bacteria” work with your gut and what research reveals about their effects on your health.\\
-\\
-7 minutes](https://seed.com/cultured/should-you-take-probiotics-are-they-right-for-you-guide/) [![What Probiotics Should You Take? A Beginner’s Guide](https://seed.com/wp-content/uploads/2025/02/SEO_WhatProbioticsShouldITake_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What Probiotics Should You Take? A Beginner’s Guide** \\
-\\
-by Chandana Balasubramanian • February 20, 2025\\
-\\
-You don’t have to go with your gut—at least not when choosing a probiotic. Skip the marketing hype and learn how to find the right one based on strain, dosage, quality, and more.\\
-\\
-7 minutes](https://seed.com/cultured/what-probiotics-should-you-take-guide/)

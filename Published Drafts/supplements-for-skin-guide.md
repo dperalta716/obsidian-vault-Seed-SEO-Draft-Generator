@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/supplements-for-skin-guide/#)
-- [Share on Twitter](https://seed.com/cultured/supplements-for-skin-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/supplements-for-skin-guide/#)
-- [Send Email](https://seed.com/cultured/supplements-for-skin-guide/#)
-- [Download PDF](https://seed.com/cultured/supplements-for-skin-guide/#)
-
 # Supplements for Skin: Vitamins and Nutrients to Add to Your Routine
 
 Published: March 26, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Lindsey DeSoto, RDN](https://seed.com/cultured/expert-reviewer/)
 
-9 minutes
-
-[14 Citations](https://seed.com/cultured/supplements-for-skin-guide/#view-citations)
-
-[Share](https://seed.com/cultured/supplements-for-skin-guide/# "share")
-
-Published: March 26, 2026
-
 Your skin reflects what's happening inside your body, not just what you put on it. This guide covers the nutrients that actually matter for skin structure and repair, why your gut microbiome plays a bigger role than you'd expect, and what to look for when choosing a supplement for skin health.
-
-9 minutes
-
-[14 Citations](https://seed.com/cultured/supplements-for-skin-guide/#view-citations)
-
-[Share](https://seed.com/cultured/supplements-for-skin-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/03/SEO_Batch5_DM-02_supplementsfordryskin_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -214,62 +188,3 @@ View Citations
 12. Rowland I, Gibson G, Heinken A, et al. Eur J Nutr. 2018;57(1):1-24.
 13. Elgharably N, Al Abadie M, Al Abadie M, et al. Dermatol Rep. 2022;15(1):9511.
 14. Umar M, Sastry KS, Chouchane AI. Skin Pharmacol Physiol. 2018;31(2):74-86.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Lindsey DeSoto](https://seed.com/cultured/expert-reviewer/)
-
-[![What Is CoQ10? Benefits, Dosage, and Why You Need It](https://seed.com/wp-content/uploads/2026/03/SEO_Batch5_AM-02_coq10_1113-scaled.jpg)\\
-**Next Article** **What Is CoQ10? Benefits, Dosage, and Why You Need It**\\
-\\
-by Sydni Rubio • March 16, 2026\\
-\\
-9 minutes](https://seed.com/cultured/what-is-coq10-coenzyme-q10-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?](https://seed.com/wp-content/uploads/2025/11/SEO_Batch4_AM-02_supplementsforstress_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?** \\
-\\
-by Sydni Rubio • November 14, 2025\\
-\\
-Overview Picture this: It’s 2 a.m., you’re wide awake (again), and your browser history is basically a shrine to sleep supplements. 😩 Two names keep appearing like they’re running for office: Ashwagandha vs. magnesium for sleep. Both promise better nights. Both apparently ease stress. Both have studies backing them up. But which one do you...\\
-\\
-9 minutes](https://seed.com/cultured/ashwagandha-vs-magnesium-for-sleep-stress-guide/) [![Are Fermented Foods Really Probiotic? The Science Behind the Labels](https://seed.com/wp-content/uploads/2025/06/SEO_TypesofProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Are Fermented Foods Really Probiotic? The Science Behind the Labels** \\
-\\
-by Sydni Rubio • June 20, 2025\\
-\\
-Overview Have you ever tossed yogurt or a bottle of kombucha into your cart just because the label promised “probiotics”? 🛒 You’re not the only one. But what if this isn’t the best approach? With so many foods advertising live cultures, it’s tempting to assume your gut is in good hands. Are all these so-called...\\
-\\
-7 minutes](https://seed.com/cultured/probiotic-food-vs-fermented-foods-guide/)

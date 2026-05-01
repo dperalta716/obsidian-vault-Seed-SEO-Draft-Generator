@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#)
-
 # Probiotics for Respiratory Health: Evidence-Based or Over-Inflated?
 
 Published: July 21, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[15 Citations](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-respiratory-health-guide/# "share")
-
-Published: July 21, 2025
-
 You knew they could help your gut, but were probiotics for respiratory health on your bingo card? Learn about the gut-lung axis, how specific probiotic strains may support immune function, and what the latest research says about reducing the incidence of upper respiratory tract infections.
-
-7 minutes
-
-[15 Citations](https://seed.com/cultured/probiotics-for-respiratory-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-respiratory-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_ProbioticsforHeartHealth_Cultured_0425-2048x966.jpg)
 
 ## **Overview**
 
@@ -180,66 +154,3 @@ View Citations
 13. Rizzardini, G., Eskesen, D., Calder, P. C., Capetti, A., Jespersen, L., & Clerici, M. (2012). Evaluation of the immune benefits of two probiotic strains _Bifidobacterium animalis_ ssp. _lactis_, BB-12® and _Lactobacillus paracasei_ ssp. _paracasei_, _L. casei_ 431® in an influenza vaccination model: A randomised, double-blind, placebo-controlled study. _British Journal of Nutrition, 107_(6), 876–884. [https://doi.org/10.1017/s000711451100420x](https://doi.org/10.1017/s000711451100420x)
 14. Derrien, M., & Van Hylckama Vlieg, J. E. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology, 23_(6), 354–366. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
 15. Zajac, A. E., Adams, A. S., & Turner, J. H. (2015). A systematic review and meta‐analysis of probiotics for the treatment of allergic rhinitis. _International Forum of Allergy & Rhinology, 5_(6), 524–532. [https://doi.org/10.1002/alr.21492](https://doi.org/10.1002/alr.21492)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Can Probiotics Help With Stomach Pain?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525-1.jpg)\\
-**Next Article** **Can Probiotics Help With Stomach Pain?**\\
-\\
-by Leigh Weingus • July 21, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-stomach-pain-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Green glass bottle and glass with blue and beige light patterns in background](https://seed.com/wp-content/uploads/2024/01/culture_dryjanuary_010424_1-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How 3 Common New Year’s Resolutions Impact Your Gut** \\
-\\
-by Seed Health • January 2, 2024\\
-\\
-Read before you resolve. Here, we dive into four common New Year's health trends to explore how they’ll impact your world within.\\
-\\
-8 minutes](https://seed.com/cultured/resolutions-unpacked/)

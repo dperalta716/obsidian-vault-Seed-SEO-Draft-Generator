@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-mastitis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-mastitis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-mastitis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-mastitis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-mastitis-guide/#)
-
 # Can Probiotics Help With Mastitis?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-for-mastitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-mastitis-guide/# "share")
-
-Last updated: September 17, 2025
-
 Mastitis is a painful reality for many new mothers. We explore the science of the breast microbiome, the entero-mammary pathway, and how specific, clinically studied probiotic strains may help prevent recurrence and support breast health during your breastfeeding journey.
-
-7 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-for-mastitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-mastitis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforIBS_Cultured_0225.jpg)
 
 ### **Overview**
 
@@ -41,7 +15,6 @@ Mastitis is a painful reality for many new mothers. We explore the science of th
 - Specific probiotic strains, such as _Lactobacillus fermentum_ CECT5716 and _L. salivarius_ PS2, have been studied for their ability to reduce recurrence and symptoms of mastitis.
 - Probiotics are not a replacement for antibiotics or medical care during an active infection, but they may offer supportive benefits.
 - To be effective, a probiotic must contain the exact strains used in research, at clinically studied doses, and in a form that ensures delivery to your gut.
-
 
 You’re deep in the newborn trenches, figuring out how to feed a small human while wearing the same nursing bra for 48 hours straight. Somewhere between triple-feeding and googling “Is this normal?”, mastitis decides to crash the party. Swollen, red, hot, painful—oh, and let’s add fever and muscle aches to the mix for good measure.
 
@@ -169,66 +142,3 @@ View Citations
 10. Fernández, L., Cárdenas, N., Arroyo, R., Manzano, S., Jiménez, E., Martín, V., & Rodríguez, J. M. (2015). Prevention of infectious mastitis by oral administration of _Lactobacillus salivarius_ PS2 during late pregnancy. _Clinical Infectious Diseases_, 62(5), 568–573. [https://doi.org/10.1093/cid/civ974](https://doi.org/10.1093/cid/civ974)
 11. Alemu, B. K., Azeze, G. G., Wu, L., Lau, S. L., Wang, C. C., & Wang, Y. (2023). Effects of maternal probiotic supplementation on breast milk microbiome and infant gut microbiome and health: a systematic review and meta-analysis of randomized controlled trials. _American Journal of Obstetrics & Gynecology MFM_, 5(11), 101148. [https://doi.org/10.1016/j.ajogmf.2023.101148](https://doi.org/10.1016/j.ajogmf.2023.101148)
 12. Derrien, M., & Van Hylckama Vlieg, J. E. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology_, 23(6), 354–366. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Probiotics for Anxiety: Mind Over Microbes](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_BestProbioticforAnxiety_Cultured_0525-1-scaled.jpg)\\
-**Next Article** **Probiotics for Anxiety: Mind Over Microbes**\\
-\\
-by Sydni Rubio • July 3, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/)
-
-## Related Articles
-
-[![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/) [![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/)

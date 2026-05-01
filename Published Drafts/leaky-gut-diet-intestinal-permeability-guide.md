@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#)
-- [Share on Twitter](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#)
-- [Send Email](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#)
-- [Download PDF](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#)
-
 # The ‘Leaky Gut Diet’ Demystified: What Does Science Say?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[20 Citations](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#view-citations)
-
-[Share](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/# "share")
-
-Last updated: September 17, 2025
-
 Explore the science behind "leaky gut" and intestinal permeability. Learn how to nourish your gut barrier with an evidence-based dietary approach focusing on fiber, polyphenols, and beneficial microbes, rather than overly restrictive fads. Your guide to sustainable gut health.
-
-8 minutes
-
-[20 Citations](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/#view-citations)
-
-[Share](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGutDiet_Cultured_0425.jpg)
 
 ### Overview
 
@@ -220,66 +194,3 @@ View Citations
 18. Skrovanek, S., DiGuilio, K., Bailey, R., Huntington, W., Urbas, R., Mayilvaganan, B., … & Kevil, C. G. (2014). Zinc and gastrointestinal disease. _World journal of gastrointestinal pathophysiology, 5_(4), 496. [https://doi.org/10.4291/wjgp.v5.i4.496](https://doi.org/10.4291/wjgp.v5.i4.496)
 19. Wang, S. C., Chen, Y. C., Chen, S. J., Lee, C. H., & Cheng, C. M. (2020). Alcohol Addiction, Gut Microbiota, and Alcoholism Treatment: A Review. International journal of molecular sciences, 21(17), 6413. [https://doi.org/10.3390/ijms21176413](https://doi.org/10.3390/ijms21176413)
 20. Yuan, T., Ma, H., Liu, W., Niesen, D. B., Shah, N., Crews, R., … & Zhang, Y. (2016). Pomegranate’s Neuroprotective Effects against Alzheimer’s Disease Are Mediated by Urolithins, its Ellagitannin-Gut Microbial Derived Metabolites. _ACS Chemical Neuroscience_, _7_(1), 26-33. [https://doi.org/10.1021/acschemneuro.5b00260](https://doi.org/10.1021/acschemneuro.5b00260)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Scratching the Surface: Exploring Probiotics for Eczema](https://seed.com/wp-content/uploads/2025/05/SEO_Batch6_ProbioticsforEczema_Cultured_0325.jpg)\\
-**Next Article** **Scratching the Surface: Exploring Probiotics for Eczema**\\
-\\
-by Sydni Rubio • May 22, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-eczema-skin-health-guide/)
-
-## Related Articles
-
-[![Bowl of hummus with olive oil and chickpeas, celery sticks, radishes, lemon water, and pita chips.](https://seed.com/wp-content/uploads/2025/01/CulturedCheck-MediterraneanDiet_Cultured_12125-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Should We All Be Following the Mediterranean Diet?** \\
-\\
-by Emma Loewe • January 24, 2025\\
-\\
-The Mediterranean diet is the subject of 7,076 scientific studies (and counting). Let’s dig into the research to see if this food approach is as great as the internet makes it sound.\\
-\\
-6 minutes](https://seed.com/cultured/mediterranean-diet-for-gut-health/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Can Probiotics Help With a “Leaky Gut”? ](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help With a “Leaky Gut”?** \\
-\\
-by Sydni Rubio • May 19, 2025\\
-\\
-Leaky gut" isn't about your gut springing leaks like faulty plumbing—it’s actually increased intestinal permeability. Find out what this means, how your daily habits affect your gut barrier, and whether probiotics can truly lend a hand.\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/)

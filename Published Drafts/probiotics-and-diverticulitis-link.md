@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#)
-
 # Gut Microbiome and Diverticulitis: What the Science Says
 
 Last updated: February 18, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-4 minutes
-
-[6 Citations](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-diverticulitis-guide/# "share")
-
-Last updated: February 18, 2026
-
 Learn about the connection between the gut microbiome and diverticular disease, what the research says about probiotic efficacy for digestive support, and why strain specificity is key to finding a formulation that can support your health.
-
-4 minutes
-
-[6 Citations](https://seed.com/cultured/probiotics-and-diverticulitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-diverticulitis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_ProbioticsforDiverticulitis_Cultured_0225-2048x966.jpg)
 
 ### **Overview**
 
@@ -135,66 +109,3 @@ View Citations
 4. Tursi, A., Brandimarte, G., Elisei, W., Picchio, M., Giorgetti, G., Aiello, F., & Pistoia, M. A. (2013). Randomised clinical trial: mesalazine and/or probiotics in maintaining remission of symptomatic uncomplicated diverticular disease–a double-blind, randomised, placebo-controlled study. _Alimentary Pharmacology & Therapeutics, 38_(7), 741–751. [https://doi.org/10.1111/apt.12463](https://doi.org/10.1111/apt.12463)
 5. Carabotti, M., Annibale, B., Severi, C., & Lahner, E. (2017). Role of Fiber in Symptomatic Uncomplicated Diverticular Disease: A Systematic Review. _Nutrients, 9_(2), 161. [https://doi.org/10.3390/nu9020161](https://doi.org/10.3390/nu9020161)
 6. Carlson, J. L., Erickson, J. M., Lloyd, B. B., & Slavin, J. L. (2018). Health Effects and Sources of Prebiotic Dietary Fiber. _Current Developments in Nutrition, 2_(3), nzy005. [https://doi.org/10.1093/cdn/nzy005](https://doi.org/10.1093/cdn/nzy005)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![What’s Actually Happening With Gut Dysbiosis? Your Microbial Balance, Decoded](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutDysbiosis_Cultured_0325.jpg)\\
-**Next Article** **What’s Actually Happening With Gut Dysbiosis? Your Microbial Balance, Decoded**\\
-\\
-by Sydni Rubio • June 27, 2025\\
-\\
-4 minutes](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/)
-
-## Related Articles
-
-[![bubbles in soda zoomed in](https://seed.com/wp-content/uploads/2025/02/CulturedCheck_ArePrebioticSodasActuallyDoingAnythingForYourGut__Cultured_21325-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Are Prebiotic Sodas Actually Doing Anything For Your Gut?** \\
-\\
-by Megan Falk • February 13, 2025\\
-\\
-“Gut-friendly” alternatives to classic pop are officially mainstream. But can soda ever really be “good” for you or your microbiome?\\
-\\
-7 minutes](https://seed.com/cultured/prebiotic-sodas-for-gut-health/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Regulate Your Poop: A Comprehensive Guide** \\
-\\
-by Sydni Rubio • March 12, 2025\\
-\\
-Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these beneficial microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.\\
-\\
-8 minutes](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/)

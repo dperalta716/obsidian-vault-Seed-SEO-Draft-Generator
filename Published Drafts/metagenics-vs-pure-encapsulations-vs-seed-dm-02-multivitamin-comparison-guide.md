@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#)
-- [Share on Twitter](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#)
-- [Send Email](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#)
-- [Download PDF](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#)
-
 # Multivitamin Comparison: Seed's DM-02 vs. Metagenics PhytoMulti vs. Pure Encapsulations O.N.E.
 
 Published: February 2, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Meghan Novoshielski , MS, RDN](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[7 Citations](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/# "share")
-
-Published: February 2, 2026
-
 Three practitioner-grade multivitamins, three different philosophies. This comparison breaks down what actually matters—bioavailability, delivery systems, and whether your gut microbiome gets any love—so you can pick the one that fits how you think about health.
-
-10 minutes
-
-[7 Citations](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_DM-02_shoulditakeamultivitamin_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -254,62 +228,3 @@ View Citations
 5. Aaseth J, Alexander J, Alehagen U. Mech Ageing Dev. 2021;197:111521.
 6. Yan T, Nisar MF, Hu X, Chang J, Wang Y, Wu Y, Liu Z, Cai Y, Jia J, Xiao Y, Wan C. Curr Res Food Sci. 2024;9:100889.
 7. Madeo F, Bauer MA, Carmona-Gutierrez D, Kroemer G. Autophagy. 2019;15(1):165-168.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Meghan Novoshielski](https://seed.com/cultured/expert-reviewer/)
-
-[![Lemme Sleep vs. Olly Sleep vs. Seed’s PM-02™: Which Sleep Supplement Is Best for You?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_-PM-02ashwagandhavsmagnesium_1125-scaled.jpg)\\
-**Next Article** **Lemme Sleep vs. Olly Sleep vs. Seed’s PM-02™: Which Sleep Supplement Is Best for You?**\\
-\\
-by Sydni Rubio • January 27, 2026\\
-\\
-10 minutes](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/)
-
-## Related Articles
-
-[![Co-Biotics 101](https://seed.com/wp-content/uploads/2025/11/Cultured_NPD_CoBiotics101_1935x913_10032025-768x362.jpeg)\\
-\\
-Cultured\\
-\\
-**Co-Biotics 101** \\
-\\
-by Mizue Naito • November 19, 2025\\
-\\
-A deep dive into co-biotic ingredients: What they are, what makes them different from probiotics and prebiotics, and why they are the basis of Seed’s latest product category.\\
-\\
-6 minutes](https://seed.com/cultured/co-biotics/) [![SmartyPants vs. OLLY vs. Seed DM-02™: Which Multivitamin Is Your Best Choice?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch3_DM-02_mitochondriasupplement_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**SmartyPants vs. OLLY vs. Seed DM-02™: Which Multivitamin Is Your Best Choice?** \\
-\\
-by Sydni Rubio • January 16, 2026\\
-\\
-Overview Take a look at any multivitamin label and the names of included vitamins and minerals look similar across brands. But the format you choose—gummy or capsule—affects which nutrients can be included, what forms they come in, and how they survive digestion. 🔬 This guide compares SmartyPants, OLLY, and Seed’s DM-02™ on the factors that...\\
-\\
-13 minutes](https://seed.com/cultured/smartypants-vs-olly-vs-seed-dm-02-multivitamin-comparison-guide/) [![Lemme Sleep vs. Olly Sleep vs. Seed’s PM-02™: Which Sleep Supplement Is Best for You?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_-PM-02ashwagandhavsmagnesium_1125-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Lemme Sleep vs. Olly Sleep vs. Seed’s PM-02™: Which Sleep Supplement Is Best for You?** \\
-\\
-by Sydni Rubio • January 27, 2026\\
-\\
-Overview Finding the right sleep support can feel like a part-time job. One night you’re staring at the ceiling doing mental math (“If I fall asleep right now, I’ll get five hours and twelve minutes…”), and the next you’re groggy from a supplement that worked a little too well. 😴 It’s a frustrating cycle—you want...\\
-\\
-11 minutes](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/)

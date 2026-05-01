@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#)
-- [Send Email](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#)
-- [Download PDF](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#)
-
 # Lactiplantibacillus plantarum: Strain-Specific Benefits, Science & Gut Health
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[8 Citations](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/# "share")
-
-Last updated: October 16, 2025
-
 Explore the science behind Lactiplantibacillus plantarum (formerly Lactobacillus plantarum), a standout probiotic found in fermented foods and the gut. See how carefully researched strains can support digestion, cholesterol, iron absorption, and mental well-being.
-
-7 minutes
-
-[8 Citations](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lactiplantibacillus-plantarum-benefits-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_CanProbioticsHelpWithAcidReflux_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -178,66 +152,3 @@ View Citations
 6. Million M, Angelakis E, Paul M, Armougom F, Leibovici L, Raoult D. Microb Pathog. 2012;53(2):100-108.
 7. Francavilla R, Piccolo M, Francavilla A, Polimeno L, Semeraro F, Cristofori F, Castellaneta S, Barone M, Indrio F, Gobbetti M, De Angelis M. J Clin Gastroenterol. 2019;53(3):e117-e125.
 8. Ciorba MA. Clin Gastroenterol Hepatol. 2012;10(9):960-968.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Finding the Best Probiotic for Vaginal Health When You’re Confused by Labels](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_BestProbioticforVaginalHealth_Cultured_0525.jpg)\\
-**Next Article** **Finding the Best Probiotic for Vaginal Health When You’re Confused by Labels**\\
-\\
-by Gianina Deines • July 30, 2025\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotic-for-vaginal-health-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Best Probiotics to Take with Antibiotics (and When to Take Them)](https://seed.com/wp-content/uploads/2025/06/SEO_Batch6_TakingProbioticsWithAntibiotics_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotics to Take with Antibiotics (and When to Take Them)** \\
-\\
-by Sydni Rubio • June 5, 2025\\
-\\
-Antibiotics can leave your gut feeling off balance. Find out which probiotic strains may help support your microbiome, how to time them for maximum benefit, and why fiber is your gut's best friend during recovery.\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotic-for-antibiotics-guide/) [![Can Probiotics Cause Diarrhea? What You Should Know](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_CanProbioticsCauseDiarrhea_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Cause Diarrhea? What You Should Know** \\
-\\
-by Sydni Rubio • May 17, 2025\\
-\\
-Can probiotics actually cause diarrhea? Discover why your gut sometimes reacts with loose stools when starting probiotics, what's behind the idea of "die-off," and how to manage symptoms. Plus, learn how long these changes typically last (and when it’s time to check in with your doctor).\\
-\\
-8 minutes](https://seed.com/cultured/can-probiotics-cause-diarrhea-gut-adjustment-guide/)

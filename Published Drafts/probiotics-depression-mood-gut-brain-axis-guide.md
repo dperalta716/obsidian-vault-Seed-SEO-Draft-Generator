@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#)
-
 # Can Probiotics Help With Depression? Your Gut May Have a Say
 
 Last updated: September 24, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-5 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/# "share")
-
-Last updated: September 24, 2025
-
 Can probiotics help with depression? Explore the science of the gut-brain axis and how certain microbial strains may support mood. Understand the research, what to look for in a probiotic, and why talking to your doctor is key.
-
-5 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforDepression_Cultured_0325-1.jpg)
 
 ### **Overview**
 
@@ -179,66 +153,3 @@ View Citations
 19. Walden, K. E., Moon, J. M., Hagele, A. M., Allen, L. E., Gaige, C. J., Krieger, J. M., … & Kerksick, C. M. (2023). A randomized controlled trial to examine the impact of a multi-strain probiotic on self-reported indicators of depression, anxiety, mood, and associated biomarkers. _Frontiers in Nutrition, 10_, 1219313\. [https://doi.org/10.3389/fnut.2023.1219313](https://doi.org/10.3389/fnut.2023.1219313)
 20. Wallace, C. J. K., & Milev, R. (2017). The effects of probiotics on depressive symptoms in humans: a systematic review. _Annals of General Psychiatry, 16_(14). [https://doi.org/10.1186/s12991-017-0138-2](https://doi.org/10.1186/s12991-017-0138-2)
 21. Yano, J. M., Yu, K., Donaldson, G. P., Shastri, G. G., Ann, P., Ma, L., … & Hsiao, E. Y. (2015). Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis. _Cell, 161_(2), 264-276. [https://doi.org/10.1016/j.cell.2015.02.047](https://doi.org/10.1016/j.cell.2015.02.047)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![How to Increase Good Bacteria in Your Gut, Naturally](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-1-scaled.jpg)\\
-**Next Article** **How to Increase Good Bacteria in Your Gut, Naturally**\\
-\\
-by Gianina Deines • June 21, 2025\\
-\\
-5 minutes](https://seed.com/cultured/how-to-increase-good-bacteria-in-gut-naturally-guide/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Two green capsules held by metal tweezers against a plain background.](https://seed.com/wp-content/uploads/2024/09/ScienceOrScam_Cultured_100324-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**How Seed Is Setting a New Standard for Probiotics Research** \\
-\\
-by Seed Health • October 18, 2024\\
-\\
-Double-blind, randomized, placebo-controlled trials are the culmination of centuries of medical progress. Here’s how Seed is using them to add legitimacy and rigor to the probiotic space.\\
-\\
-7 minutes](https://seed.com/cultured/how-seed-is-fixing-probiotic-research/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#)
-
 # Probiotics for Kids: What’s Best for Your Child's Gut Health?
 
 Last updated: March 23, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-9 minutes
-
-[24 Citations](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/# "share")
-
-Last updated: March 23, 2026
-
 Wondering if probiotics are right for your child? Discover how a kid’s gut microbiome develops, what the research says about specific strains, and why clinically studied pediatric synbiotics are changing how families support gut health every day.
-
-9 minutes
-
-[24 Citations](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/# "share")
-
-![Child playing with colorful wooden stacking toys on lap.](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_ProbioticsforKids_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -265,66 +239,3 @@ View Citations
 22. Boyte M, Benkowski A, Pane M, Shehata HR. Front Microbiol. 2023;14:1304621.
 23. Quagliani D, Felt-Gunderson P. Am J Lifestyle Med. 2015;11(1):80-85.
 24. Zmora N, Zilberman-Schapira G, Suez J, et al. Cell. 2018;174(6):1388-1405.e21.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Do Seniors Need Probiotics? Supporting Your Health as You Age](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforWomenOver50_Cultured_0425.jpg)\\
-**Next Article** **Do Seniors Need Probiotics? Supporting Your Health as You Age**\\
-\\
-by Sydni Rubio • May 6, 2025\\
-\\
-9 minutes](https://seed.com/cultured/probiotics-for-seniors-aging-gut-health-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Infant sleeping in foreground with grassy hill in background](https://seed.com/wp-content/uploads/2022/04/Infantmicrobiome-2-768x686.jpg)\\
-\\
-Children’s Microbiome\\
-\\
-**How does the infant microbiome develop?** \\
-\\
-by Seed Health • April 13, 2022\\
-\\
-You are much more than just you. As you made your way into the world, you began a lifelong relationship with microbes. Exactly where, when, and how this relationship began is a topic of ongoing research that sheds light on where we fit in a much larger picture. \\
-\\
-10 minutes](https://seed.com/cultured/how-does-the-infant-microbiome-develop/) [![Fresh vegetables, jars of sauce, cheese, olives, and eggs inside a refrigerator.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsNeedtoBeRefridgerated_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Need to Be Refrigerated? The Truth About Storage** \\
-\\
-by Sydni Rubio • March 25, 2025\\
-\\
-Wondering if your probiotics need to be refrigerated? While some require cold storage, many premium probiotics stay effective at room temperature. Learn how factors like formulation and technology affect probiotic potency and how to store them for maximum effectiveness.\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-refrigeration-storage-guide/)

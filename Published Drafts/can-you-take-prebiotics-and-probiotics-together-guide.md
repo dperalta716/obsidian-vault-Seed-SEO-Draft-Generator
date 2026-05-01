@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#)
-- [Share on Twitter](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#)
-- [Send Email](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#)
-- [Download PDF](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#)
-
 # Can You Take Prebiotics and Probiotics Together?
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-5 minutes
-
-[17 Citations](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#view-citations)
-
-[Share](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/# "share")
-
-Last updated: October 17, 2025
-
 Can you take prebiotics and probiotics at the same time? Yes—and combining them may be even more effective than either alone. Here's what that means for your gut and beyond.
-
-5 minutes
-
-[17 Citations](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/#view-citations)
-
-[Share](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225-2048x966.jpg)
 
 ### **Overview**
 
@@ -177,66 +151,3 @@ View Citations
 15. Iemoli E, Trabattoni D, Parisotto S, Borgonovo L, Toscano M, Rizzardini G, et al. J Clin Gastroenterol. 2012;46(Suppl):S33-40.
 16. Ciorba MA. Clin Gastroenterol Hepatol. 2012;10(9):960-8.
 17. Pradhan D, Mallappa RH, Grover S. Food Control. 2019;108:106872.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![The Real Worst Foods for Gut Health (and Why It’s Not Just About “Bad” Ingredients)](https://seed.com/wp-content/uploads/2025/06/SEO_ShouldITakeProbiotics_Cultured_0225.jpg)\\
-**Next Article** **The Real Worst Foods for Gut Health (and Why It’s Not Just About “Bad” Ingredients)**\\
-\\
-by Leigh Weingus • June 30, 2025\\
-\\
-5 minutes](https://seed.com/cultured/worst-foods-for-gut-health-guide/)
-
-## Related Articles
-
-[![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Bowl of hummus with olive oil and chickpeas, celery sticks, radishes, lemon water, and pita chips.](https://seed.com/wp-content/uploads/2025/01/CulturedCheck-MediterraneanDiet_Cultured_12125-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Should We All Be Following the Mediterranean Diet?** \\
-\\
-by Emma Loewe • January 24, 2025\\
-\\
-The Mediterranean diet is the subject of 7,076 scientific studies (and counting). Let’s dig into the research to see if this food approach is as great as the internet makes it sound.\\
-\\
-6 minutes](https://seed.com/cultured/mediterranean-diet-for-gut-health/) [![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/)

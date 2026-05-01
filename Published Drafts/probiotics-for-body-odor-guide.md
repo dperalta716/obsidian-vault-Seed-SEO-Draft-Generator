@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-body-odor-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-body-odor-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-body-odor-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-body-odor-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-body-odor-guide/#)
-
 # Probiotics For Body Odor: Can They Help?
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-8 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-for-body-odor-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-body-odor-guide/# "share")
-
-Last updated: September 8, 2025
-
 We break down the science behind body odor, explaining how your gut microbiome influences your skin. Learn if probiotics can really help, which strains are studied for skin health, and what to look for in a formulation. It's time to go deeper than deodorant for a new approach to body odor.
-
-8 minutes
-
-[12 Citations](https://seed.com/cultured/probiotics-for-body-odor-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-body-odor-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_ProbioticsforBacterialOvergrowth_Cultured_0425.jpg)
 
 ### **Overview**
 
@@ -183,66 +157,3 @@ View Citations
 10. Li, P., Chen, S., Li, P., Xu, D., Tang, X., Liao, J., Xie, H., Li, G., Kuang, Y., Su, J., Tang, S., & Zhou, J. (2022). Treatment of Axillary Osmidrosis by Rebalancing Skin Microecology With Lactobacillus bulgaricus. Frontiers in Microbiology, 13, 821696. [https://doi.org/10.3389/fmicb.2022.821696](https://doi.org/10.3389/fmicb.2022.821696)
 11. Han, S., Lu, Y., Xie, J., Fei, Y., Zheng, G., Wang, Z., Liu, J., Lv, L., Ling, Z., Berglund, B., Yao, M., & Li, L. (2021). Probiotic Gastrointestinal Transit and Colonization After Oral Administration: A Long Journey. Frontiers in Cellular and Infection Microbiology, 11, 609722. [https://doi.org/10.3389/fcimb.2021.609722](https://doi.org/10.3389/fcimb.2021.609722)
 12. Baker, L. B. (2019). Physiology of sweat gland function: The roles of sweating and sweat composition in human health. Temperature (Austin, Tex.), 6(3), 211–259. [https://doi.org/10.1080/23328940.2019.1632145](https://doi.org/10.1080/23328940.2019.1632145)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Probiotics For Gastroparesis—Everything You Need to Know](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforGastritis_Cultured_0325-1.jpg)\\
-**Next Article** **Probiotics For Gastroparesis—Everything You Need to Know**\\
-\\
-by Leigh Weingus • July 30, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-for-gastroparesis-symptoms-guide/)
-
-## Related Articles
-
-[![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Can You Take Prebiotics and Probiotics Together?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Prebiotics and Probiotics Together?** \\
-\\
-by Leigh Weingus • July 1, 2025\\
-\\
-Overview You’re doing your best to support your gut health. Maybe you’ve added a probiotic to your daily routine, but you may have heard about prebiotics, too. And now you’re wondering: Should you take them both? Is it helpful—or just too much? The short answer is yes, you can, and there’s solid science behind why...\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/) [![Half of a yellow pear with white flesh on a white surface and dark background.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch3_FiberandProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Fiber and Probiotics: Better Together for Gut Health** \\
-\\
-by Sydni Rubio • March 26, 2025\\
-\\
-Fiber and probiotics form a powerful team for gut health. Fiber acts as fuel for probiotics, helping them support digestive and immune function. Learn how different types of fiber nourish specific probiotic strains, the benefits of synbiotics, and practical tips for combining them in your diet.\\
-\\
-8 minutes](https://seed.com/cultured/fiber-and-probiotics-benefits-guide/)

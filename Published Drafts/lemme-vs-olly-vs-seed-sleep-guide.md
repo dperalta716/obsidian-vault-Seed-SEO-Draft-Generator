@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#)
-- [Share on Twitter](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#)
-- [Send Email](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#)
-- [Download PDF](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#)
-
 # Lemme Sleep vs. Olly Sleep vs. Seed's PM-02™: Which Sleep Supplement Is Best for You?
 
 Published: January 27, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-11 minutes
-
-[6 Citations](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/# "share")
-
-Published: January 27, 2026
-
 A detailed comparison of Lemme Sleep, Olly Sleep, and Seed's PM-02™ Sleep + Restore—analyzing ingredients, melatonin dosage, and delivery technology to help you choose the right sleep support.
-
-11 minutes
-
-[6 Citations](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/#view-citations)
-
-[Share](https://seed.com/cultured/lemme-vs-olly-vs-seed-sleep-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_-PM-02ashwagandhavsmagnesium_1125-2048x966.jpg)
 
 ### **Overview**
 
@@ -271,62 +245,3 @@ View Citations
 4. Strandwitz P. Brain Res. 2018;1693(Pt B):128-133.
 5. Lemme. Lemme Sleep. n.d.
 6. Olly. Sleep Blackberry Zen. n.d.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![A Guide to the Best Vitamins for Bone & Joint Health](https://seed.com/wp-content/uploads/2026/01/SEO_Batch1_jointhealthsupplements_1025-scaled.jpg)\\
-**Next Article** **A Guide to the Best Vitamins for Bone & Joint Health**\\
-\\
-by Sydni Rubio • January 27, 2026\\
-\\
-11 minutes](https://seed.com/cultured/best-vitamins-for-bones-joint-health-guide/)
-
-## Related Articles
-
-[![Sleep Supplement Curious? Comparing Seed’s PM-02, Moonbrew, and Beam Dream](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_PM-02ashwagandhaforsleep_1125-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Sleep Supplement Curious? Comparing Seed’s PM-02, Moonbrew, and Beam Dream** \\
-\\
-by Sydni Rubio • January 22, 2026\\
-\\
-Overview These three sleep supplements represent distinct philosophies: Beam Dream prioritizes the ritual experience, Moonbrew prioritizes melatonin-free herbal support, and Seed prioritizes precision dosing with microbiome-targeted delivery. 💊 This guide compares Beam Dream, Moonbrew, and Seed’s PM-02™—reviewing formulation, delivery, and price so you can choose a sleep supplement based on what matters to you. What...\\
-\\
-10 minutes](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/) [![Co-Biotics 101](https://seed.com/wp-content/uploads/2025/11/Cultured_NPD_CoBiotics101_1935x913_10032025-768x362.jpeg)\\
-\\
-Cultured\\
-\\
-**Co-Biotics 101** \\
-\\
-by Mizue Naito • November 19, 2025\\
-\\
-A deep dive into co-biotic ingredients: What they are, what makes them different from probiotics and prebiotics, and why they are the basis of Seed’s latest product category.\\
-\\
-6 minutes](https://seed.com/cultured/co-biotics/) [![Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?](https://seed.com/wp-content/uploads/2025/11/SEO_Batch4_AM-02_supplementsforstress_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Ashwagandha vs. Magnesium: Which Is Better for Stress & Sleep?** \\
-\\
-by Sydni Rubio • November 14, 2025\\
-\\
-Overview Picture this: It’s 2 a.m., you’re wide awake (again), and your browser history is basically a shrine to sleep supplements. 😩 Two names keep appearing like they’re running for office: Ashwagandha vs. magnesium for sleep. Both promise better nights. Both apparently ease stress. Both have studies backing them up. But which one do you...\\
-\\
-9 minutes](https://seed.com/cultured/ashwagandha-vs-magnesium-for-sleep-stress-guide/)

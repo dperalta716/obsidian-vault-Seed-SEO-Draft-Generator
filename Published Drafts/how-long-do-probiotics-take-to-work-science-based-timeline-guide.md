@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#)
-- [Share on Twitter](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#)
-- [Send Email](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#)
-- [Download PDF](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#)
-
 # How Long Do Probiotics Take To Work? A Science-Based Timeline
 
 Last updated: September 19, 2025
@@ -16,23 +6,7 @@ Written by [Chandana Balasubramanian](https://seed.com/cultured/author/chandana-
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Gregor Reid, PhD, MBA](https://seed.com/cultured/expert-reviewer/gregor-reid)
 
-5 minutes
-
-[12 Citations](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/# "share")
-
-Last updated: September 19, 2025
-
 Taking probiotics but not sure if they're working? These "good bacteria" get straight to work. But while some changes appear in days, others take weeks or months. Here's what science tells us about how long it takes for the effects of probiotics to kick in.
-
-5 minutes
-
-[12 Citations](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/# "share")
-
-![Probiotics can start working in your gut in a few days, but research shows it takes a few weeks to months for longer-term effects.](https://seed.com/wp-content/uploads/2025/02/SEO_HowLongDoesItTakeForProbioticsToWork_Cultured_0225.jpg)
 
 ### **Overview**
 
@@ -149,68 +123,3 @@ View Citations
 10. Xiong, R., Li, J., Cheng, J., Zhou, D., Wu, S., Huang, S., Saimaiti, A., Yang, Z., Gan, R., & Li, H. (2023). The role of gut microbiota in anxiety, depression, and other mental disorders as well as the protective effects of dietary components. _Nutrients_,15(14), 3258. [https://doi.org/10.3390/nu15143258](https://doi.org/10.3390/nu15143258)
 11. Wu, W.-L., Adame, M. D., Liou, C.-W., Barlow, J. T., Lai, T.-T., Sharon, G., Schretter, C. E., Needham, B. D., Wang, M. I., Tang, W., Ousey, J., Lin, Y.-Y., Yao, T.-H., Abdel-Haq, R., Beadle, K., Gradinaru, V., Ismagilov, R. F., & Mazmanian, S. K. (2021). Microbiota regulate social behaviour via stress response neurons in the brain. _Nature_, _595_(7867), 409–414. [https://doi.org/10.1038/s41586-021-03669-y](https://doi.org/10.1038/s41586-021-03669-y)
 12. Napier, B. A., Van Den Elzen, C., Al-Ghalith, G. A., Tierney, B. T., Evans, M., Stuivenberg, G., Reid, G., Gevers, D., Dhir, R., Mazmanian, S., Versalovic, J., Fasano, A., Blaser, M. J., & Simmons, S. L. (2024). MO1898.Daily supplementation with a multi-species synbiotic (Ds-01) During and after antibiotic treatment protects against the loss of low-abundance bacterial species while enhancing gut barrier integrity. _Gastroenterology_, 166(5), S-1165. [https://doi.org/10.1016/s0016-5085(24)03137-8](https://doi.org/10.1016/s0016-5085(24)03137-8)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Chandana Balasubramanian](https://seed.com/wp-content/uploads/2025/03/Chandy.jpg)
-
-### Written By
-
-## [Chandana Balasubramanian](https://seed.com/cultured/author/chandana-balasubramanian)
-
-Chandana Balasubramanian (Chandy) is a seasoned science writer and healthcare executive who is passionate about demystifying complex science. She loves to write about nutrition, gut health, and overall wellness. As the President of Global Insight Advisory Network, she draws on her background to share practical, accessible information on health and science. During her master’s degree, she led classes in biomolecular chemistry and cell biology, sparking her interest in science education and communication. Education: - University of Wisconsin-Madison, M.S (Biomedical Engineering) Professional Accomplishments: - Senior healthcare executive
-\- Launched a Cancer specialty hospital as their Head of Marketing
-\- Ran medical education, product management, and brand management in a Fortune 500 company
-
-![Gregor Reid](https://seed.com/wp-content/uploads/2025/03/GR-photo-JW-1-Dr-Rogers-pick-scaled-e1633716513157.jpg)
-
-### Reviewed By
-
-## [Gregor Reid](https://seed.com/cultured/expert-reviewer/gregor-reid)
-
-Gregor Reid is a globally recognized leader in probiotics and the microbiome for human and non-human life forms. He is a Distinguished Professor Emeritus at the University of Western Ontario. Reid's extensive research includes over 600 publications on beneficial microbes, probiotic strains, and women's health cited 70,000 times. His work has significantly advanced the field, impacting clinical practices and international guidelines, as well as making a tremendous health impact in developing countries around the world.
-
-[![When Is the Best Time to Take Probiotics?](https://seed.com/wp-content/uploads/2025/02/SEO_BestTimetoTakeProbiotics_Cultured_0225.jpg)\\
-**Next Article** **When Is the Best Time to Take Probiotics?**\\
-\\
-by Chandana Balasubramanian • February 6, 2025\\
-\\
-5 minutes](https://seed.com/cultured/best-time-to-take-probiotics-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Black container of Seed probiotic capsules on stacked books with a small dish holding two capsules.](https://seed.com/wp-content/uploads/2025/02/SEO_BestTimetoTakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**When Is the Best Time to Take Probiotics?** \\
-\\
-by Chandana Balasubramanian • February 6, 2025\\
-\\
-Learn about how probiotics work, their benefits, when you should take them, and why keeping a consistent schedule is key.\\
-\\
-5 minutes](https://seed.com/cultured/best-time-to-take-probiotics-guide/) [![Close-up of a person wearing textured, mustard-colored athletic leggings.](https://seed.com/wp-content/uploads/2024/08/GutOnExercise_Cultured_090624-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How Your Gut Health Impacts Your Gym Performance (And Vice Versa)** \\
-\\
-by Megan Falk • September 23, 2024\\
-\\
-Do professional athletes have different gut microbiomes than the rest of us? Can running help keep me regular? And why do HIIT workouts always send me to the bathroom? We’ll answer all of it and more in this deep dive into exercise and the gut.\\
-\\
-9 minutes](https://seed.com/cultured/exercise-and-the-gut/)

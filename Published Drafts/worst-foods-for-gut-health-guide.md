@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/worst-foods-for-gut-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/worst-foods-for-gut-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/worst-foods-for-gut-health-guide/#)
-- [Send Email](https://seed.com/cultured/worst-foods-for-gut-health-guide/#)
-- [Download PDF](https://seed.com/cultured/worst-foods-for-gut-health-guide/#)
-
 # The Real Worst Foods for Gut Health (and Why It’s Not Just About “Bad” Ingredients)
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-5 minutes
-
-[14 Citations](https://seed.com/cultured/worst-foods-for-gut-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/worst-foods-for-gut-health-guide/# "share")
-
-Last updated: February 17, 2026
-
 What are the worst foods for gut health? It's less about avoiding specific ingredients and more about understanding how ultra-processed foods, sugar, and alcohol impact your microbiome's ecosystem. Learn the science of gut disruptors and what to eat instead for long-term health.
-
-5 minutes
-
-[14 Citations](https://seed.com/cultured/worst-foods-for-gut-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/worst-foods-for-gut-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_ShouldITakeProbiotics_Cultured_0225.jpg)
 
 ### **Overview**
 
@@ -154,66 +128,3 @@ View Citations
 12. Fu, J., et al. (2022). Dietary fiber intake and gut microbiota in human health. _Microorganisms_, 10(12), 2507. [https://doi.org/10.3390/microorganisms10122507](https://doi.org/10.3390/microorganisms10122507)
 13. Silva, Y. P., et al. (2020). The Role of Short-Chain Fatty Acids From Gut Microbiota in Gut-Brain Communication. _Frontiers in Endocrinology_, 11, 25. [https://doi.org/10.3389/fendo.2020.00025](https://doi.org/10.3389/fendo.2020.00025)
 14. McDonald, D., et al. (2018). American Gut: an Open Platform for Citizen Science Microbiome Research. _mSystems_, 3(3), e00031-18. [https://doi.org/10.1128/mSystems.00031-18](https://doi.org/10.1128/mSystems.00031-18)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Gut Microbiome and Diverticulitis: What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_ProbioticsforDiverticulitis_Cultured_0225.jpg)\\
-**Next Article** **Gut Microbiome and Diverticulitis: What the Science Says**\\
-\\
-by Leigh Weingus • June 30, 2025\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-and-diverticulitis-guide/)
-
-## Related Articles
-
-[![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/)

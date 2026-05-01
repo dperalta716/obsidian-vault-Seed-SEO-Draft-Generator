@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-liver-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-liver-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-liver-health-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-liver-health-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-liver-health-guide/#)
-
 # Probiotics for Liver Health: A Science-Backed Guide
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[13 Citations](https://seed.com/cultured/probiotics-for-liver-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-liver-health-guide/# "share")
-
-Last updated: February 17, 2026
-
 A science-backed look at probiotics for liver health. We explore the gut-liver axis, how gut dysbiosis impacts the liver, and what clinical research says about using specific probiotic strains for conditions like non-alcoholic fatty liver disease (NAFLD) and cirrhosis.
-
-7 minutes
-
-[13 Citations](https://seed.com/cultured/probiotics-for-liver-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-liver-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsandLiverHealth_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -174,66 +148,3 @@ View Citations
 11. Petrescu, M., Vlaicu, S. I., Ciumărnean, L., Milaciu, M. V., Mărginean, C., Florea, M., Vesa, Ș. C., & Popa, M. (2022). Chronic Inflammation—A Link between Nonalcoholic Fatty Liver Disease (NAFLD) and Dysfunctional Adipose Tissue. _Medicina, 58_(5), 641. [https://doi.org/10.3390/medicina58050641](https://doi.org/10.3390/medicina58050641)
 12. Mazziotta, C., Tognon, M., Martini, F., Torreggiani, E., & Rotondo, J. C. (2023). Probiotics mechanism of action on immune cells and beneficial effects on human health. _Cells, 12_(1), 184. [https://doi.org/10.3390/cells12010184](https://doi.org/10.3390/cells12010184)
 13. Appanna, V. D. (2018). Dysbiosis, probiotics, and prebiotics: in Diseases and health. In Springer eBooks (pp. 81–122). [https://doi.org/10.1007/978-981-10-7684-8\_3](https://doi.org/10.1007/978-981-10-7684-8_3)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Probiotics for Yeast Infections: The Candid Truth](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_ProbioticsforYeastInfection_Cultured_0525.jpg)\\
-**Next Article** **Probiotics for Yeast Infections: The Candid Truth**\\
-\\
-by Sydni Rubio • July 30, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-yeast-infection-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Can You Take Prebiotics and Probiotics Together?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Prebiotics and Probiotics Together?** \\
-\\
-by Leigh Weingus • July 1, 2025\\
-\\
-Overview You’re doing your best to support your gut health. Maybe you’ve added a probiotic to your daily routine, but you may have heard about prebiotics, too. And now you’re wondering: Should you take them both? Is it helpful—or just too much? The short answer is yes, you can, and there’s solid science behind why...\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/)

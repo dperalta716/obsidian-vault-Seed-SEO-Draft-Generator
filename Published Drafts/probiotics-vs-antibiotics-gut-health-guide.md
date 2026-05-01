@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#)
-
 # Probiotics vs. Antibiotics: Understanding Their Gut Impact
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-8 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/# "share")
-
-Last updated: September 8, 2025
-
 Antibiotics are vital for bacterial infections but can impact your gut's good bacteria. Discover the science behind antibiotics, how probiotics work, and how they might be used together to support digestive health and microbiome recovery. Learn about timing, strain specificity, and more.
-
-8 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-vs-antibiotics-gut-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch7_ProbioticsVsAntibiotics_Cultured_0325-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -41,7 +15,6 @@ Antibiotics are vital for bacterial infections but can impact your gut's good ba
 - Taking the right probiotic during or after antibiotics may help ease digestive side effects (like antibiotic-associated diarrhea) and support your microbial recovery.💩
 - Timing matters: take your probiotics at least two hours apart from antibiotics to give them a better shot at surviving.
 - Not all probiotics are created equal. Strain and dose matter, so go for a product with solid science behind it.
-
 
 You’ve probably crossed paths with antibiotics—those go-to meds for knocking out bacterial infections when you’re under the weather. Then there are probiotics—the ones getting all the buzz for supporting gut health. Both involve bacteria, but their missions couldn’t be more different. One’s wiping out the bad guys; the other’s showing up to rebuild.
 
@@ -170,7 +143,6 @@ If you and your healthcare provider decide that taking a probiotic during or aft
 
 - **Consult Your Doctor:** This is always the most important step. Your doctor can help you decide if a probiotic is appropriate for your situation and recommend a product based on your specific needs and the type of antibiotic you’re taking.
 
-
 ## The Key Insight
 
 Antibiotics and probiotics are not adversaries; they can be viewed as different tools for different, yet sometimes overlapping, health goals. Antibiotics are essential for treating bacterial infections by eliminating harmful bacteria. Probiotics, on the other hand, are beneficial microorganisms that can support your gut health and potentially mitigate some of the disruptive effects of antibiotics.
@@ -222,66 +194,3 @@ View Citations
 19. Kesavelu, D., & Jog, P. (2023). Current understanding of antibiotic-associated dysbiosis and approaches for its management. Therapeutic advances in infectious disease, 10, 20499361231154443. [https://doi.org/10.1177/20499361231154443](https://doi.org/10.1177/20499361231154443)
 20. Shen, Y., Fan, N., Ma, S. X., Cheng, X., Yang, X., & Wang, G. (2025). Gut Microbiota Dysbiosis: Pathogenesis, Diseases, Prevention, and Therapy. MedComm, 6(5), e70168. [https://doi.org/10.1002/mco2.70168](https://doi.org/10.1002/mco2.70168)
 21. Wu, J., Wang, K., Wang, X., Pang, Y., & Jiang, C. (2021). The role of the gut microbiome and its metabolites in metabolic diseases. Protein & cell, 12(5), 360–373. [https://doi.org/10.1007/s13238-020-00814-7](https://doi.org/10.1007/s13238-020-00814-7)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Do Probiotics Help with Weight Loss? Here’s What We Know.](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_DoProbioticsHelpYouLoseWeight_Cultured_0525.jpg)\\
-**Next Article** **Do Probiotics Help with Weight Loss? Here’s What We Know.**\\
-\\
-by Sydni Rubio • June 4, 2025\\
-\\
-8 minutes](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/)
-
-## Related Articles
-
-[![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/) [![Antibiotics kill both harmful and beneficial gut bacteria, disrupting digestion and immunity. Learn how to protect your gut microbiome and recover faster.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch7_DoAntibioticsKillGoodBacteria_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Antibiotics Kill Good Bacteria? How They Affect Your Gut & Health** \\
-\\
-by Sydni Rubio • March 10, 2025\\
-\\
-Antibiotics can disrupt your gut microbiome, impacting digestion, immunity, and overall health. Learn how different antibiotics affect your gut bacteria, the short- and long-term effects of microbial disruption, and how to support your good bacteria during and after antibiotic treatment.\\
-\\
-7 minutes](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/) [![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/)

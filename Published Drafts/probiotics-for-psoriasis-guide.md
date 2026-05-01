@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-psoriasis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-psoriasis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-psoriasis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-psoriasis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-psoriasis-guide/#)
-
 # Probiotics for Psoriasis: Inside Job, Outside Impact
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[9 Citations](https://seed.com/cultured/probiotics-for-psoriasis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-psoriasis-guide/# "share")
-
-Last updated: February 17, 2026
-
 When psoriasis flares for no clear reason, your gut may be sending the signals. Probiotics for psoriasis may support skin by calming inflammation where it starts—deep in the gut. The gut-skin axis is a connection worth knowing, and probiotics may be one way to target it from the inside out.
-
-8 minutes
-
-[9 Citations](https://seed.com/cultured/probiotics-for-psoriasis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-psoriasis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_ProbioticsforPsoriasis_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -175,66 +149,3 @@ View Citations
 7. Chen, L., Li, J., Zhu, W., Kuang, Y., Liu, T., Zhang, W., Chen, X., Peng, C. (2020). Skin and Gut Microbiome in Psoriasis: Gaining Insight Into the Pathophysiology of It and Finding Novel Therapeutic Strategies. Frontiers in microbiology, 11:589726. [https://doi.org/10.3389/fmicb.2020.589726](https://doi.org/10.3389/fmicb.2020.589726)
 8. Amalia, N., Wicaksono, D., Wiyarta, E., Rampengan, D. D. C. H., Darmawan, H., Aditya, M. R., Athallah, A. F., Cahyono, M. B. A., Alatas, A. I., Tallei, T. E., Tjandrawinata, R. R., Bhunia, A. K., Nurkolis, F. (2025). The gut-skin axis in psoriasis: Evidence-based insights from a meta-analysis on probiotics-synbiotics-mediated microbiota interventions. Medicine in Microecology, 25:100126. [https://doi.org/10.1016/j.medmic.2025.100126](https://doi.org/10.1016/j.medmic.2025.100126)
 9. Navarro-López, V., Martínez-Andrés, A., Ramírez-Boscá, A., Ruzafa-Costas, B., Núñez-Delegido, E., Carrión-Gutiérrez, M. A., … & Chenoll-Cuadros, E. (2019). Efficacy and Safety of Oral Administration of a Mixture of Probiotic Strains in Patients with Psoriasis: A Randomized Controlled Clinical Trial. Acta Dermato-Venereologica, 99(12):1078-84. [https://doi.org/10.2340/00015555-3305](https://doi.org/10.2340/00015555-3305)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![What is Leaky Gut? Understanding Intestinal Permeability](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-1-scaled.jpg)\\
-**Next Article** **What is Leaky Gut? Understanding Intestinal Permeability**\\
-\\
-by Leigh Weingus • May 27, 2025\\
-\\
-8 minutes](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/)
-
-## Related Articles
-
-[![Scratching the Surface: Exploring Probiotics for Eczema](https://seed.com/wp-content/uploads/2025/05/SEO_Batch6_ProbioticsforEczema_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Scratching the Surface: Exploring Probiotics for Eczema** \\
-\\
-by Sydni Rubio • May 22, 2025\\
-\\
-You’ve switched detergents, moisturizers, and diets—more than once. But the itchy flare-ups keep coming. Now, science is turning inward, exploring how the gut—and specific probiotic strains—might influence skin health and offer new support for those with eczema.\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-eczema-skin-health-guide/) [![Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforAcne_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis** \\
-\\
-by Sydni Rubio • May 9, 2025\\
-\\
-Breakouts aren't just skin deep. Discover how gut health, the gut-skin axis, and strain-specific probiotics may influence acne—and why clearer skin could start in your microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/) [![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/)

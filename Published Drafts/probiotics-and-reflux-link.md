@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#)
-
 # Probiotics and Acid Reflux: What the Science Says
 
 Last updated: February 18, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-6 minutes
-
-[4 Citations](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-acid-reflux-guide/# "share")
-
-Last updated: February 18, 2026
-
 Curious if probiotics can help with acid reflux? This guide explores the science, explaining how probiotics may indirectly ease discomfort like heartburn and regurgitation by influencing gut motility and the gut-brain axis. Learn what the research says.
-
-6 minutes
-
-[4 Citations](https://seed.com/cultured/probiotics-and-acid-reflux-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-and-acid-reflux-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforAcidReflux_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -156,66 +130,3 @@ View Citations
 2. Cryan, J. F., et al. (2019). The Microbiota-Gut-Brain Axis. _Physiological Reviews_, 99(4), 1877–2013. [https://doi.org/10.1152/physrev.00018.2018](https://doi.org/10.1152/physrev.00018.2018)
 3. Iemoli, E., et al. (2012). Probiotics reduce gut microbial translocation and improve adult atopic dermatitis. _Journal of Clinical Gastroenterology_, 46(Suppl), S33–S40. [https://doi.org/10.1097/MCG.0b013e3182572344](https://doi.org/10.1097/MCG.0b013e3182572344)
 4. You, S., et al. (2022). The promotion mechanism of prebiotics for probiotics: A review. _Frontiers in Nutrition_, 9, 1000517. [https://doi.org/10.3389/fnut.2022.1000517](https://doi.org/10.3389/fnut.2022.1000517)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can You Take Prebiotics and Probiotics Together?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225.jpg)\\
-**Next Article** **Can You Take Prebiotics and Probiotics Together?**\\
-\\
-by Leigh Weingus • July 1, 2025\\
-\\
-6 minutes](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/)
-
-## Related Articles
-
-[![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Regulate Your Poop: A Comprehensive Guide** \\
-\\
-by Sydni Rubio • March 12, 2025\\
-\\
-Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these beneficial microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.\\
-\\
-8 minutes](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/) [![Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_WhatAreProbiotics_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes** \\
-\\
-by Sydni Rubio • June 26, 2025\\
-\\
-Overview Ever notice how “probiotics” seems to be the answer to everything these days?  Digestive issues? Probiotics. Skin problems? Probiotics. Immune system off-balance? You guessed it—probiotics.  The word is everywhere, but what are probiotics, really? And can they actually help with all of those things? Most of us think we know what probiotics are, but...\\
-\\
-13 minutes](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/)

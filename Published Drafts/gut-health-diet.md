@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-health-diet-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-health-diet-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-health-diet-guide/#)
-- [Send Email](https://seed.com/cultured/gut-health-diet-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-health-diet-guide/#)
-
 # What to Eat for Gut Health: A Science-Backed Microbiome Guide
 
 Last updated: February 18, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-12 minutes
-
-[12 Citations](https://seed.com/cultured/gut-health-diet-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-diet-guide/# "share")
-
-Last updated: February 18, 2026
-
 Confused by gut health advice? This clear, science-backed guide explains why a fiber-rich, 70% plant-based diet—plus fermented foods and healthy fats—can help your microbiome thrive. Learn how your food choices shape your gut and your overall health.
-
-12 minutes
-
-[12 Citations](https://seed.com/cultured/gut-health-diet-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-diet-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_MicrobiomeDiet_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -224,66 +198,3 @@ View Citations
 10. Sonnenburg, J. L., & Bäckhed, F. (2016). Diet–microbiota interactions as moderators of human metabolism. _Nature_, _535_(7610), 56–64. [https://doi.org/10.1038/nature18846](https://doi.org/10.1038/nature18846)
 11. Wu, G. D., Chen, J., Hoffmann, C., Bittinger, K., Chen, Y. Y., Keilbaugh, S. A., Bewtra, M., Knights, D., Walters, W. A., Knight, R., Sinha, R., Gilroy, E., Green-Mack, L., Fuchs, B., Harisa, D., Human-Bararian, L., Tria, G., Albenberg, L., Frederic, D., … Lewis, J. D. (2011). Linking long-term dietary patterns with gut microbial enterotypes. _Science_, _334_(6052), 105–108. [https://doi.org/10.1126/science.1208344](https://doi.org/10.1126/science.1208344)
 12. Li, Y., He, P., Shan, Y. et al. Reducing climate change impacts from the global food system through diet shifts. Nat. Clim. Chang. 14, 943–953 (2024). [https://doi.org/10.1038/s41558-024-02084-1](https://doi.org/10.1038/s41558-024-02084-1)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Probiotics for Cholesterol and Heart Health: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_BestProbioticforHeartburn_Cultured_0525.jpg)\\
-**Next Article** **Probiotics for Cholesterol and Heart Health: A Science-Backed Guide**\\
-\\
-by Leigh Weingus • May 30, 2025\\
-\\
-12 minutes](https://seed.com/cultured/probiotics-cholesterol-heart-health-support-guide/)
-
-## Related Articles
-
-[![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/) [![Zain Kassam, M.D., M.P.H., Seed Chief Medical Officer](https://seed.com/wp-content/uploads/2025/05/AGIPhysiciansTop4TipsforChoosingAQualityProbiotic_Hero_Cultured_051525-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**A GI Physician’s Top 4 Tips for Choosing a Quality Probiotic** \\
-\\
-by Seed Health • May 20, 2025\\
-\\
-Exactly what Seed's Chief Medical Officer looks for (and avoids) when identifying high-quality probiotics.\\
-\\
-6 minutes](https://seed.com/cultured/gi-tips-for-choosing-a-quality-probiotic/) [![Bowl of hummus with olive oil and chickpeas, celery sticks, radishes, lemon water, and pita chips.](https://seed.com/wp-content/uploads/2025/01/CulturedCheck-MediterraneanDiet_Cultured_12125-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Should We All Be Following the Mediterranean Diet?** \\
-\\
-by Emma Loewe • January 24, 2025\\
-\\
-The Mediterranean diet is the subject of 7,076 scientific studies (and counting). Let’s dig into the research to see if this food approach is as great as the internet makes it sound.\\
-\\
-6 minutes](https://seed.com/cultured/mediterranean-diet-for-gut-health/)

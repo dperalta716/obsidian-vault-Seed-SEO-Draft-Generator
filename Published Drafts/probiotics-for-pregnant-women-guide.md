@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#)
-
 # Probiotics for Pregnant Women: What the Science Really Says
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH, MBA](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[25 Citations](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-pregnant-women-guide/# "share")
-
-Last updated: October 17, 2025
-
 Thinking about taking probiotics for pregnant women? Learn how your microbiome changes during pregnancy, which strains are backed by research for maternal and infant health, and what to look for in a quality product. Get the evidence-based guide.
-
-7 minutes
-
-[25 Citations](https://seed.com/cultured/probiotics-for-pregnant-women-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-pregnant-women-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425.jpg)
 
 ### **Overview**
 
@@ -190,66 +164,3 @@ View Citations
 23. Anania, C., Matys, V., Marra, S., De Canditiis, D., Olivero, F., Carraro, C., Giugliano, A., Zicari, A. M., & Piccioni, M. G. (2025). Effect of Supplementation with a Specific Probiotic (Bifidobacterium bifidum PRL2010) in Pregnancy for the Prevention of Atopic Dermatitis in Children: Preliminary Results of a Randomized Trial. _Nutrients_, 17(4), 673. [https://doi.org/10.3390/nu17040673](https://doi.org/10.3390/nu17040673)
 24. Wu, B. B., Yang, Y., Xu, X., & Wang, W. P. (2016). Effects of Bifidobacterium supplementation on intestinal microbiota composition and the immune response in healthy infants. _World Journal of Pediatrics_, 12(2), 177–182. [https://doi.org/10.1007/s12519-015-0025-3](https://doi.org/10.1007/s12519-015-0025-3)
 25. O’Brien, C. E., Meier, A. K., Cernioglo, K., Mitchell, R. D., Casaburi, G., Frese, S. A., Henrick, B. M., Underwood, M. A., & Smilowitz, J. T. (2022). Early probiotic supplementation with B. infantis in breastfed infants leads to persistent colonization at 1 year. _Pediatric Research_, 91(3), 627–636. [https://doi.org/10.1038/s41390-020-01350-0](https://doi.org/10.1038/s41390-020-01350-0)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Do Probiotics Help With H. pylori?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_SupplementsforLeakyGut_Cultured_0425.jpg)\\
-**Next Article** **Do Probiotics Help With H. pylori?**\\
-\\
-by Leigh Weingus • July 7, 2025\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Hand holding wooden chopsticks against a two-tone fabric background](https://seed.com/wp-content/uploads/2023/09/seed_skipthetuna_hero_091823-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**Take an Antibiotic Recently? Maybe Skip the Tuna** \\
-\\
-by Seed Health • September 15, 2023\\
-\\
-A 1984 study painted a shocking picture of how our gut protects us (or doesn’t) from dietary mercury. After nearly 40 years, we’re finally ready to understand the radical implications of this foundational research.\\
-\\
-7 minutes](https://seed.com/cultured/dietary-mercury-and-your-microbiome/) [![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/)

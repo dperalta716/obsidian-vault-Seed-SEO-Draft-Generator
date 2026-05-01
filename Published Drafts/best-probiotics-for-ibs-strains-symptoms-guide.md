@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#)
-- [Share on Twitter](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#)
-- [Send Email](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#)
-- [Download PDF](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#)
-
 # The Best Probiotics for IBS: Which Strains Actually Work?
 
 Last updated: December 15, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[20 Citations](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/# "share")
-
-Last updated: December 15, 2025
-
 Tired of IBS guesswork? Dive into the science of the best probiotics for IBS, focusing on specific strains like certain Lactobacillus and Bifidobacterium that research shows can target symptoms such as diarrhea, constipation, bloating, and inflammation.
-
-8 minutes
-
-[20 Citations](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-for-ibs-strains-symptoms-guide/# "share")
-
-![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-2048x966.jpg)
 
 ### **Overview**
 
@@ -323,12 +297,3 @@ View Citations
 18. Doron, S. & Snydman, D. R. (2015). Risk and safety of probiotics. _Clinical Infectious Diseases, 60_(Suppl. 2):S129-34. [https://doi.org/10.1093/cid/civ085](https://doi.org/10.1093/cid/civ085)
 19. Adriani, A., Ribaldone, D. G., Astegiano, M., Durazzo, M., Saracco, G. M., Pellicano, R. (2018). Irritable bowel syndrome: the clinical approach. _Panminerva Medica, 60_(4):213-22. [https://doi.org/10.23736/S0031-0808.18.03541-3](https://doi.org/10.23736/S0031-0808.18.03541-3)
 20. Derrien, M. & van Hylckama Vlieg, J. E. T. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology, 23_(6):354-66. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
-
-* * *
-
-[![Probiotics: A Traveler’s Guide to a Happy Gut on the Go](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforTravel_Cultured_0425.jpg)\\
-**Next Article** **Probiotics: A Traveler’s Guide to a Happy Gut on the Go**\\
-\\
-by Sydni Rubio • May 29, 2025\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotics-for-travel-gut-health-guide/)

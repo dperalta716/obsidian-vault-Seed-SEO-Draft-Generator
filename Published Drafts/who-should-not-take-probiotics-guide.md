@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/who-should-not-take-probiotics-guide/#)
-- [Share on Twitter](https://seed.com/cultured/who-should-not-take-probiotics-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/who-should-not-take-probiotics-guide/#)
-- [Send Email](https://seed.com/cultured/who-should-not-take-probiotics-guide/#)
-- [Download PDF](https://seed.com/cultured/who-should-not-take-probiotics-guide/#)
-
 # Who Should Not Take Probiotics? The Science-First Guide to Gut Safety
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-6 minutes
-
-[4 Citations](https://seed.com/cultured/who-should-not-take-probiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/who-should-not-take-probiotics-guide/# "share")
-
-Last updated: October 17, 2025
-
 Wondering if probiotics are right for you, or if you should steer clear? This reader-friendly guide explores who needs extra caution with probiotics, the real risks for vulnerable groups, and what to know about side effects and allergies.
-
-6 minutes
-
-[4 Citations](https://seed.com/cultured/who-should-not-take-probiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/who-should-not-take-probiotics-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_ShouldITakeProbiotics_Cultured_0225-1.jpg)
 
 ### **Overview**
 
@@ -148,66 +122,3 @@ View Citations
 2. Didari, T., Solki, S., Mozaffari, S., Nikfar, S., & Abdollahi, M. (2014). A systematic review of the safety of probiotics. _Expert Opinion on Drug Safety_, 13(2), 227–239. [https://doi.org/10.1517/14740338.2014.872627](https://doi.org/10.1517/14740338.2014.872627)
 3. Poindexter, B., & COMMITTEE ON FETUS AND NEWBORN (2021). Use of Probiotics in Preterm Infants. _Pediatrics_, 147(6), e2021051485. [https://doi.org/10.1542/peds.2021-051485](https://doi.org/10.1542/peds.2021-051485)
 4. Suez, J., Zmora, N., Segal, E., & Elinav, E. (2019). The pros, cons, and many unknowns of probiotics. _Nature Medicine_, 25(5), 716–729. [https://doi.org/10.1038/s41591-019-0439-x](https://doi.org/10.1038/s41591-019-0439-x)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![How the Best Probiotics for Teens Support Skin, Mood, and Confidence](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticsforTeens_Cultured_0425.jpg)\\
-**Next Article** **How the Best Probiotics for Teens Support Skin, Mood, and Confidence**\\
-\\
-by Gianina Deines • July 14, 2025\\
-\\
-6 minutes](https://seed.com/cultured/best-probiotics-for-teenagers-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![closeup of a kiss](https://seed.com/wp-content/uploads/2025/02/SharingBacteriaIsCaring_Cultured_21425-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How Your Relationships Influence Your Microbiome** \\
-\\
-by Emma Loewe • February 14, 2025\\
-\\
-Your microbiome isn’t just yours—it’s a living archive of handshakes and hugs, shared meals and subway rides. Here’s how it tells the story of your closest relationships.\\
-\\
-9 minutes](https://seed.com/cultured/how-your-relationships-influence-your-microbiome/)

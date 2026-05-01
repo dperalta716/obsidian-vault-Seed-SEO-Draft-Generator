@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#)
-- [Send Email](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#)
-- [Download PDF](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#)
-
 # What is Leaky Gut? Understanding Intestinal Permeability
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-13 minutes
-
-[20 Citations](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/# "share")
-
-Last updated: September 17, 2025
-
 Unpack "leaky gut,” a.k.a. increased intestinal permeability—what it means for your health, common triggers like diet and stress, its link to various conditions, and evidence-based ways to support your gut barrier integrity for overall well-being.
-
-13 minutes
-
-[20 Citations](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-leaky-gut-intestinal-permeability-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-1-2048x966.jpg)
 
 ### Overview
 
@@ -279,66 +253,3 @@ View Citations
 18. Leclercq, S., Matamoros, S., Cani, P. D., Neyrinck, A. M., Jamar, F., Stärkel, P., … & De Timary, P. (2014). Intestinal permeability, gut-bacterial dysbiosis, and behavioral markers of alcohol-dependence in patients. _Proceedings of the National Academy of Sciences, 111_(42), E4485–E4494. [https://doi.org/10.1073/pnas.1415174111](https://doi.org/10.1073/pnas.1415174111)
 19. Qaiyum, S., Shahi, M. H., & K. H, R. (2019). Gut microbiome and its implications in human health. _International Journal of Medical and Exercise Science, 5_(3), 587-595. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770155/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6770155/)
 20. Latif, M. A., Ummay, H., Rahman, M. M., Akter, F., Al-Reja, A. A., Akter, S., … & Hossain, M. S. (2023). Probiotics for human gut health: Functions, strains, and dose. _Heliyon, 9_(8), e18807. [https://doi.org/10.1016/j.heliyon.2023.e18807](https://doi.org/10.1016/j.heliyon.2023.e18807)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can Probiotics Help Soothe Rosacea? Exploring the Gut-Skin Connection](https://seed.com/wp-content/uploads/2018/05/GLOBAL_Aerial_Bacteria_lq_test-scaled.jpg)\\
-**Next Article** **Can Probiotics Help Soothe Rosacea? Exploring the Gut-Skin Connection**\\
-\\
-by Sydni Rubio • May 26, 2025\\
-\\
-13 minutes](https://seed.com/cultured/probiotics-rosacea-gut-skin-axis-guide/)
-
-## Related Articles
-
-[![The ‘Leaky Gut Diet’ Demystified: What Does Science Say?](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGutDiet_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**The ‘Leaky Gut Diet’ Demystified: What Does Science Say?** \\
-\\
-by Leigh Weingus • May 23, 2025\\
-\\
-Explore the science behind "leaky gut" and intestinal permeability. Learn how to nourish your gut barrier with an evidence-based dietary approach focusing on fiber, polyphenols, and beneficial microbes, rather than overly restrictive fads. Your guide to sustainable gut health.\\
-\\
-8 minutes](https://seed.com/cultured/leaky-gut-diet-intestinal-permeability-guide/) [![Can Probiotics Help With a “Leaky Gut”? ](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help With a “Leaky Gut”?** \\
-\\
-by Sydni Rubio • May 19, 2025\\
-\\
-Leaky gut" isn't about your gut springing leaks like faulty plumbing—it’s actually increased intestinal permeability. Find out what this means, how your daily habits affect your gut barrier, and whether probiotics can truly lend a hand.\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/) [![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/)

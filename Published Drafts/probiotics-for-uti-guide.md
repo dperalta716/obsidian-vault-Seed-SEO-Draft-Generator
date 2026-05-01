@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-uti-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-uti-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-uti-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-uti-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-uti-guide/#)
-
 # Probiotics for UTIs: Can They Help?
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-6 minutes
-
-[5 Citations](https://seed.com/cultured/probiotics-for-uti-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-uti-guide/# "share")
-
-Last updated: October 16, 2025
-
 Do probiotics really work for urinary tract infections? This guide dives into the nuanced science, explaining how certain probiotic strains can support the vaginal microbiome as a line of defense, what the clinical evidence says, and how to choose a high-quality product for urogenital health.
-
-6 minutes
-
-[5 Citations](https://seed.com/cultured/probiotics-for-uti-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-uti-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_BestProbioticforUTIFemale_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -135,66 +109,3 @@ View Citations
 3. Stapleton, A. E., Au-Yeung, M., Hooton, T. M., Fredricks, D. N., Roberts, P. L., Czaja, C. A., Yarova-Yarovaya, Y., Fiedler, T., Cox, M., & Stamm, W. E. (2011). Randomized, placebo-controlled phase 2 trial of a Lactobacillus crispatus probiotic given intravaginally for prevention of recurrent urinary tract infection. _Clinical Infectious Diseases_, 52(10), 1212–1217. [https://doi.org/10.1093/cid/cir183](https://doi.org/10.1093/cid/cir183)
 4. Abdullatif, V. A., Sur, R. L., Eshaghian, E., Gaura, K. A., Goldman, B., Panchatsharam, P. K., Williams, N. J., & Abbott, J. E. (2021). Efficacy of Probiotics as Prophylaxis for Urinary Tract Infections in Premenopausal Women: A Systematic Review and Meta-Analysis. _Cureus_, 13(10), e18843. [https://doi.org/10.7759/cureus.18843](https://doi.org/10.7759/cureus.18843)
 5. Abdelmaksoud, A. A., Koparde, V. N., Sheth, N. U., Serrano, M. G., Glascock, A. L., Fettweis, J. M., Strauss, J. F., 3rd, Buck, G. A., & Jefferson, K. K. (2016). Comparison of Lactobacillus crispatus isolates from Lactobacillus-dominated vaginal microbiomes with isolates from microbiomes containing bacterial vaginosis-associated bacteria. _Microbiology_, 162(Pt 3), 466–475. [https://doi.org/10.1099/mic.0.000238](https://doi.org/10.1099/mic.0.000238)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Can Probiotics Help With Strep Throat?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforAcidReflux_Cultured_0325-1.jpg)\\
-**Next Article** **Can Probiotics Help With Strep Throat?**\\
-\\
-by Leigh Weingus • July 24, 2025\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-strep-throat-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Best Probiotics to Take with Antibiotics (and When to Take Them)](https://seed.com/wp-content/uploads/2025/06/SEO_Batch6_TakingProbioticsWithAntibiotics_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotics to Take with Antibiotics (and When to Take Them)** \\
-\\
-by Sydni Rubio • June 5, 2025\\
-\\
-Antibiotics can leave your gut feeling off balance. Find out which probiotic strains may help support your microbiome, how to time them for maximum benefit, and why fiber is your gut's best friend during recovery.\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotic-for-antibiotics-guide/) [![Bottle labeled probiotics with speech bubbles containing the words millions and billions](https://seed.com/wp-content/uploads/2022/08/CFUAFU-768x686.png)\\
-\\
-Probiotics 101\\
-\\
-**CFU vs. AFU: How to Decipher Probiotic Labels** \\
-\\
-by Seed Health • August 1, 2022\\
-\\
-There’s a wealth of information that can be found on the label of a probiotic. You may be used to seeing MILLIONS and BILLIONS plastered all over, but what do these numbers mean? And how are they measured? \\
-\\
-4 minutes](https://seed.com/cultured/cfu-vs-afu-whats-the-difference-and-which-is-better/)

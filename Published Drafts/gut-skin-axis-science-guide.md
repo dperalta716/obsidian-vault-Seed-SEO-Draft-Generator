@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-skin-axis-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-skin-axis-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-skin-axis-science-guide/#)
-- [Send Email](https://seed.com/cultured/gut-skin-axis-science-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-skin-axis-science-guide/#)
-
 # The Gut-Skin Axis: What Your Digestion Has to Do with Your Complexion
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-8 minutes
-
-[15 Citations](https://seed.com/cultured/gut-skin-axis-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-skin-axis-science-guide/# "share")
-
-Last updated: February 17, 2026
-
 What if breakouts and flare-ups aren’t just skin-deep? Learn how the gut-skin axis links your microbiome to your complexion—and how fiber, sleep, and probiotics may help support calmer, clearer skin from the inside out.
-
-8 minutes
-
-[15 Citations](https://seed.com/cultured/gut-skin-axis-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-skin-axis-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch5_ProbioticsforHistamineSensitivity_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -187,66 +161,3 @@ View Citations
 13. Iemoli, E., Trabattoni, D., Parisotto, S., Borgonovo, L., Toscano, M., Rizzardini, G., Clerici, M., Drago, L. (2012). Probiotics reduce gut microbial translocation and improve adult atopic dermatitis. Journal of Clinical Gastroenterology, 46:S33-40. [https://doi.org/10.1097/MCG.0b013e3182610058](https://doi.org/10.1097/MCG.0b013e3182610058)
 14. Navarro-López V., Ramírez-Boscá A., Ramón-Vidal D., et al. (2018). Effect of Oral Administration of a Mixture of Probiotic Strains on SCORAD Index and Use of Topical Steroids in Young Patients With Moderate Atopic Dermatitis: A Randomized Clinical Trial. JAMA Dermatol. Jan 1;154(1):37-43. [https://doi.org/10.1001/jamadermatol.2017.3647](https://doi.org/10.1001/jamadermatol.2017.3647)
 15. Malesza, I. J., Malesza, M., Walkowiak, J., Mussin, N., Walkowiak, D., Aringazina, R., Bartkowiak-Wieczorek, J., Madry, E. (2021). High-Fat, Western-Style Diet, Systemic Inflammation, and Gut Microbiota: A Narrative Review. Cells, 10(11):3164. [https://doi.org/10.3390/cells10113164](https://doi.org/10.3390/cells10113164)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![How to Find the Best Vegan Probiotic for You (and Your Gut)](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_ProbioticsforVegans_Cultured_0425.jpg)\\
-**Next Article** **How to Find the Best Vegan Probiotic for You (and Your Gut)**\\
-\\
-by Sydni Rubio • May 22, 2025\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotics-for-vegans-plant-based-guide/)
-
-## Related Articles
-
-[![Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforAcne_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Gut Check: How Probiotics for Acne Affect the Gut-Skin Axis** \\
-\\
-by Sydni Rubio • May 9, 2025\\
-\\
-Breakouts aren't just skin deep. Discover how gut health, the gut-skin axis, and strain-specific probiotics may influence acne—and why clearer skin could start in your microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/) [![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/) [![Probiotics can start working in your gut in a few days, but research shows it takes a few weeks to months for longer-term effects.](https://seed.com/wp-content/uploads/2025/02/SEO_HowLongDoesItTakeForProbioticsToWork_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Long Do Probiotics Take To Work? A Science-Based Timeline** \\
-\\
-by Chandana Balasubramanian • February 7, 2025\\
-\\
-Taking probiotics but not sure if they're working? These "good bacteria" get straight to work. But while some changes appear in days, others take weeks or months. Here's what science tells us about how long it takes for the effects of probiotics to kick in.\\
-\\
-5 minutes](https://seed.com/cultured/how-long-do-probiotics-take-to-work-science-based-timeline-guide/)

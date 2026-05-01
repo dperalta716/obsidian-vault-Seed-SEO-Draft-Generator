@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#)
-- [Share on Twitter](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#)
-- [Send Email](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#)
-- [Download PDF](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#)
-
 # Seed's DS-01® Daily Synbiotic vs. Bioma Health Probiotics: A Scientific Comparison
 
 Last updated: December 17, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-8 minutes
-
-[16 Citations](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/# "share")
-
-Last updated: December 17, 2025
-
 A detailed scientific comparison of Seed's DS-01® Daily Synbiotic and Bioma Health Probiotics. We examine probiotic strains, prebiotic types, delivery technology, scientific research, potency (AFU vs CFU), and overall value to help you make an informed choice for your gut health.
-
-8 minutes
-
-[16 Citations](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch2_BiomavsSeed_Cultured_0425.jpg)
 
 ### **Overview**
 
@@ -250,66 +224,3 @@ View Citations
 14. Yang J, Summanen PH, Henning SM, Hsu M, Lam H, Huang J, Tseng CH, Dowd SE, Finegold SM, Heber D, Li Z. Front Physiol. 2015;6:216.
 15. Fredua-Agyeman M, Gaisford S. Benef Microbes. 2014;6(1):141-52.
 16. Aoun A, Darwish F, Hamod N. Prev Nutr Food Sci. 2020;25(2):113-123.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Seed DS-01 vs. Ritual Synbiotic+: A Clear Look at Your Gut Health Options](https://seed.com/wp-content/uploads/2025/08/SEO_Batch2_SeedvsRitualProbiotic_Cultured_0425.jpg)\\
-**Next Article** **Seed DS-01 vs. Ritual Synbiotic+: A Clear Look at Your Gut Health Options**\\
-\\
-by Leigh Weingus • August 15, 2025\\
-\\
-8 minutes](https://seed.com/cultured/seed-ds-01-vs-ritual-synbiotic-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![Lactobacillus rhamnosus: Strain-Specific Benefits Backed by Science](https://seed.com/wp-content/uploads/2025/08/SEO_Batch7_LacticaseibacillusRhamnosus_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Lactobacillus rhamnosus: Strain-Specific Benefits Backed by Science** \\
-\\
-by Leigh Weingus • August 1, 2025\\
-\\
-Overview Curious about what makes Lactobacillus rhamnosus a probiotic favorite? Chances are, you’ve spotted this name on a bottle, a yogurt label, or even heard it dropped in a podcast about gut health. But what does the science actually say about it? L. rhamnosus is a friendly lactic acid bacterium, living in your gut and...\\
-\\
-7 minutes](https://seed.com/cultured/lactobacillus-rhamnosus-benefits-strains-science-guide/)

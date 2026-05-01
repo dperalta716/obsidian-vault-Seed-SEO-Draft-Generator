@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#)
-
 # Getting to the Root of Probiotics for Teeth
 
 Published: July 24, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-9 minutes
-
-[7 Citations](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/# "share")
-
-Published: July 24, 2025
-
 Probiotics for teeth target the real culprit behind oral health issues: bacterial imbalance. But not all strains work the same way. Explore the science behind local and systemic probiotics—and find out what helps your gums, prevents cavities, and what's worth your money.
-
-9 minutes
-
-[7 Citations](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-teeth-oral-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_DoProbioticsHelpWithGasAndBloating_Cultured_0225-1.jpg)
 
 ## **Overview**
 
@@ -173,66 +147,3 @@ View Citations
 5. Babina, K., Salikhova, D., Polyakova, M., Svitich, O., Samoylikov, R., Ahmad El-Abed, S., Zaytsev, A., & Novozhilova, N. (2022). The Effect of Oral Probiotics (Streptococcus Salivarius k12) on the Salivary Level of Secretory Immunoglobulin A, Salivation Rate, and Oral Biofilm: A Pilot Randomized Clinical Trial. _Nutrients_, 14(5), 1124. [https://doi.org/10.3390/nu14051124](https://doi.org/10.3390/nu14051124)
 6. Burton, J. P., Drummond, B. K., Chilcott, C. N., Tagg, J. R., Thomson, W. M., Hale, J. D. F., & Wescombe, P. A. (2013). Influence of the probiotic Streptococcus salivarius strain M18 on indices of dental health in children: a randomized double-blind, placebo-controlled trial. _Journal of Medical Microbiology_, 62(Pt 6), 875–884. [https://doi.org/10.1099/jmm.0.056663-0](https://doi.org/10.1099/jmm.0.056663-0)
 7. Lee, D.-S., Kim, M., Nam, S.-H., Kang, M.-S., & Lee, S.-A. (2021). Effects of Oral Probiotics on Subjective Halitosis, Oral Health, and Psychosocial Health of College Students: A Randomized, Double-Blind, Placebo-Controlled Study. _International Journal of Environmental Research and Public Health_, 18(3), 1143. [https://doi.org/10.3390/ijerph18031143](https://doi.org/10.3390/ijerph18031143)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Probiotics for Hair Growth: Can They Help?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_DoProbioticsHelpWithGasAndBloating_Cultured_0225.jpg)\\
-**Next Article** **Probiotics for Hair Growth: Can They Help?**\\
-\\
-by Leigh Weingus • July 24, 2025\\
-\\
-9 minutes](https://seed.com/cultured/probiotics-for-hair-growth-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![bubbles in soda zoomed in](https://seed.com/wp-content/uploads/2025/02/CulturedCheck_ArePrebioticSodasActuallyDoingAnythingForYourGut__Cultured_21325-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Are Prebiotic Sodas Actually Doing Anything For Your Gut?** \\
-\\
-by Megan Falk • February 13, 2025\\
-\\
-“Gut-friendly” alternatives to classic pop are officially mainstream. But can soda ever really be “good” for you or your microbiome?\\
-\\
-7 minutes](https://seed.com/cultured/prebiotic-sodas-for-gut-health/) [![Are Fermented Foods Really Probiotic? The Science Behind the Labels](https://seed.com/wp-content/uploads/2025/06/SEO_TypesofProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Are Fermented Foods Really Probiotic? The Science Behind the Labels** \\
-\\
-by Sydni Rubio • June 20, 2025\\
-\\
-Overview Have you ever tossed yogurt or a bottle of kombucha into your cart just because the label promised “probiotics”? 🛒 You’re not the only one. But what if this isn’t the best approach? With so many foods advertising live cultures, it’s tempting to assume your gut is in good hands. Are all these so-called...\\
-\\
-7 minutes](https://seed.com/cultured/probiotic-food-vs-fermented-foods-guide/)

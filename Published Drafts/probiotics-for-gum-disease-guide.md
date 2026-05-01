@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-gum-disease-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-gum-disease-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-gum-disease-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-gum-disease-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-gum-disease-guide/#)
-
 # The Research Behind Probiotics for Gum Disease (And Why Your Dentist Still Matters)
 
 Last updated: September 9, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-8 minutes
-
-[10 Citations](https://seed.com/cultured/probiotics-for-gum-disease-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-gum-disease-guide/# "share")
-
-Last updated: September 9, 2025
-
 Probiotics for gum disease aren't a trend—there's solid emerging research backing their benefits. From choosing the right strains to understanding dosage, here's a practical guide to what works, what doesn't, and why maintaining strong oral hygiene and regular dental visits are mission-critical.
-
-8 minutes
-
-[10 Citations](https://seed.com/cultured/probiotics-for-gum-disease-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-gum-disease-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_SignsProbioticsAreWorking_Cultured_0225.jpg)
 
 ### **Overview**
 
@@ -174,66 +148,3 @@ View Citations
 08. Babina, K., Salikhova, D., Polyakova, M., Svitich, O., Samoylikov, R., Ahmad El-Abed, S., Zaytsev, A., & Novozhilova, N. (2022). The Effect of Oral Probiotics (Streptococcus Salivarius k12) on the Salivary Level of Secretory Immunoglobulin A, Salivation Rate, and Oral Biofilm: A Pilot Randomized Clinical Trial. _Nutrients_, _14_(5), 1124. [https://doi.org/10.3390/nu14051124](https://doi.org/10.3390/nu14051124)
 09. Burton, J. P., Drummond, B. K., Chilcott, C. N., Tagg, J. R., Thomson, W. M., Hale, J. D. F., & Wescombe, P. A. (2013). Influence of the probiotic _Streptococcus salivarius_ strain M18 on indices of dental health in children: A randomized double-blind, placebo-controlled trial. _Journal of Medical Microbiology_, _62_(6), 875–884. [https://doi.org/10.1099/jmm.0.056663-0](https://doi.org/10.1099/jmm.0.056663-0)
 10. Lee, D.-S., Kim, M., Nam, S.-H., Kang, M.-S., & Lee, S.-A. (2021). Effects of Oral Probiotics on Subjective Halitosis, Oral Health, and Psychosocial Health of College Students: A Randomized, Double-Blind, Placebo-Controlled Study. _International Journal of Environmental Research and Public Health_, _18_(3), 1143. [https://doi.org/10.3390/ijerph18031143](https://doi.org/10.3390/ijerph18031143)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can Probiotics Help Prevent Bladder Infections? A Guide](https://seed.com/wp-content/uploads/2025/07/SEO_Batch6_ProbioticsforUrinaryHealth_Cultured_0325.jpg)\\
-**Next Article** **Can Probiotics Help Prevent Bladder Infections? A Guide**\\
-\\
-by Leigh Weingus • July 29, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-for-bladder-infection-uti-guide/)
-
-## Related Articles
-
-[![Half of a yellow pear with white flesh on a white surface and dark background.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch3_FiberandProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Fiber and Probiotics: Better Together for Gut Health** \\
-\\
-by Sydni Rubio • March 26, 2025\\
-\\
-Fiber and probiotics form a powerful team for gut health. Fiber acts as fuel for probiotics, helping them support digestive and immune function. Learn how different types of fiber nourish specific probiotic strains, the benefits of synbiotics, and practical tips for combining them in your diet.\\
-\\
-8 minutes](https://seed.com/cultured/fiber-and-probiotics-benefits-guide/) [![Can You Take Prebiotics and Probiotics Together?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Prebiotics and Probiotics Together?** \\
-\\
-by Leigh Weingus • July 1, 2025\\
-\\
-Overview You’re doing your best to support your gut health. Maybe you’ve added a probiotic to your daily routine, but you may have heard about prebiotics, too. And now you’re wondering: Should you take them both? Is it helpful—or just too much? The short answer is yes, you can, and there’s solid science behind why...\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/) [![Microscopic view of pollen grains on a leaf surface.](https://seed.com/wp-content/uploads/2025/03/SeasonalAllergiesWorseThanUsual_Cultured_31825-768x362.jpg)\\
-\\
-Environmental health \| Human microbiome\\
-\\
-**How to Get Your Microbiome Ready for Allergy Season** \\
-\\
-by Megan Falk • March 18, 2025\\
-\\
-Plus, why climate change’s impacts on allergies are nothing to sneeze at.\\
-\\
-9 minutes](https://seed.com/cultured/allergies-and-the-microbiome/)

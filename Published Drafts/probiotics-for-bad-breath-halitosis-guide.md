@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#)
-
 # Probiotics for Bad Breath: Science-Backed Solution or Oral Health Hype?
 
 Published: July 14, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-6 minutes
-
-[11 Citations](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/# "share")
-
-Published: July 14, 2025
-
 Ever wonder if probiotics for bad breath could replace an endless cycle of mints and mouthwash? Your mouth's bacterial balance matters more than you think. Research is promising, but the role of probiotics is nuanced. We dig into which strains may help and why the delivery method matters.
-
-6 minutes
-
-[11 Citations](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-bad-breath-halitosis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforOralHealth_Cultured_0325-2048x966.jpg)
 
 ## **Overview**
 
@@ -161,66 +135,3 @@ View Citations
 09. Brookes, Z., Teoh, L., Cieplik, F., & Kumar, P. (2023). Mouthwash effects on the oral microbiome: Are they good, bad, or balanced? _International Dental Journal, 73_(7S), S74–S81. [https://doi.org/10.1016/j.identj.2023.08.010](https://doi.org/10.1016/j.identj.2023.08.010)
 10. Babina, K., Salikhova, D., Polyakova, M., Svitich, O., Samoylikov, R., Ahmad El-Abed, S., Zaytsev, A., & Novozhilova, N. (2022). The Effect of Oral Probiotics (Streptococcus Salivarius k12) on the Salivary Level of Secretory Immunoglobulin A, Salivation Rate, and Oral Biofilm: A Pilot Randomized Clinical Trial. _Nutrients_, _14_(5), 1124. [https://doi.org/10.3390/nu14051124](https://doi.org/10.3390/nu14051124)
 11. Burton, J. P., Drummond, B. K., Chilcott, C. N., Tagg, J. R., Thomson, W. M., Hale, J. D. F., & Wescombe, P. A. (2013). Influence of the probiotic Streptococcus salivarius strain M18 on indices of dental health in children: a randomized double-blind, placebo-controlled trial. _Journal of Medical Microbiology, 62_(6), 875–884. [https://doi.org/10.1099/jmm.0.056663-0](https://doi.org/10.1099/jmm.0.056663-0)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can Probiotics Really Help With Lactose Intolerance?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsfoLactoseIntolerance_Cultured_0325-scaled.jpg)\\
-**Next Article** **Can Probiotics Really Help With Lactose Intolerance?**\\
-\\
-by Sydni Rubio • July 11, 2025\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-lactose-intolerance-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![A Science-Backed Guide to the ‘Best’ Gut Health Supplements](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_BestGutHealthSupplement_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to the ‘Best’ Gut Health Supplements** \\
-\\
-by Leigh Weingus • June 20, 2025\\
-\\
-Overview Bloating, unpredictable digestion, brain fog after meals—it’s no surprise your search history includes “best gut health supplement,” or that the wellness aisle of your local drugstore is packed with powders and pills that promise to fix your microbiome. But here’s where it gets interesting: gut support isn’t about chasing a miracle capsule. It’s about...\\
-\\
-6 minutes](https://seed.com/cultured/best-gut-health-products-science-guide/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/)

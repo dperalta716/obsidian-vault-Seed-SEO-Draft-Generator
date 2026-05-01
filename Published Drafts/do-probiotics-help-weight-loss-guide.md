@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#)
-- [Share on Twitter](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#)
-- [Send Email](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#)
-- [Download PDF](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#)
-
 # Do Probiotics Help with Weight Loss? Here’s What We Know.
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-6 minutes
-
-[26 Citations](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#view-citations)
-
-[Share](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/# "share")
-
-Last updated: September 8, 2025
-
 Can taking probiotics really help you lose weight? We unpack the science behind strains, metabolism, gut diversity, and what actually supports sustainable weight goals.
-
-6 minutes
-
-[26 Citations](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/#view-citations)
-
-[Share](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_DoProbioticsHelpYouLoseWeight_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -173,66 +147,3 @@ View Citations
 24. Mailing LJ, Allen JM, Buford TW, Fields CJ, Woods JA. Exerc Sport Sci Rev. 2019;47(2):75-85.
 25. Smith RP, Easson C, Lyle SM, Kapoor R, Donnelly CP, Davidson EJ, Ma Y. PLoS One. 2019;14(10):e0222394.
 26. Madison AA, Kiecolt-Glaser JK. Curr Opin Behav Sci. 2021;28:105-110.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![The Best Probiotics for Weight Loss: What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_BestProbioticsforWeightLoss_Cultured_0525.jpg)\\
-**Next Article** **The Best Probiotics for Weight Loss: What the Science Says**\\
-\\
-by Sydni Rubio • June 3, 2025\\
-\\
-6 minutes](https://seed.com/cultured/best-probiotics-for-weight-loss-guide/)
-
-## Related Articles
-
-[![Close-up of two faces showing diverse skin tones and eye colors.](https://seed.com/wp-content/uploads/2025/04/SEO_BestProbioticForWomen_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What is the Best Probiotic for Women? A Life Stage Guide** \\
-\\
-by Sydni Rubio • April 22, 2025\\
-\\
-This guide identifies the best probiotic strains for women's health concerns from vaginal microbiome balance to digestive comfort. Learn about L. crispatus for vaginal health, strain-specific benefits for women over 50, and how to evaluate quality beyond marketing claims.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotic-for-women-strain-benefits-guide/) [![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Half of a yellow pear with white flesh on a white surface and dark background.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch3_FiberandProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Fiber and Probiotics: Better Together for Gut Health** \\
-\\
-by Sydni Rubio • March 26, 2025\\
-\\
-Fiber and probiotics form a powerful team for gut health. Fiber acts as fuel for probiotics, helping them support digestive and immune function. Learn how different types of fiber nourish specific probiotic strains, the benefits of synbiotics, and practical tips for combining them in your diet.\\
-\\
-8 minutes](https://seed.com/cultured/fiber-and-probiotics-benefits-guide/)

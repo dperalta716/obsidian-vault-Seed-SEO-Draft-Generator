@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/bone-health-supplements-guide/#)
-- [Share on Twitter](https://seed.com/cultured/bone-health-supplements-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/bone-health-supplements-guide/#)
-- [Send Email](https://seed.com/cultured/bone-health-supplements-guide/#)
-- [Download PDF](https://seed.com/cultured/bone-health-supplements-guide/#)
-
 # Bone Health Supplements: A Guide to Stronger Bones
 
 Last updated: November 3, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-8 minutes
-
-[17 Citations](https://seed.com/cultured/bone-health-supplements-guide/#view-citations)
-
-[Share](https://seed.com/cultured/bone-health-supplements-guide/# "share")
-
-Last updated: November 3, 2025
-
 Forget everything you thought you knew about bone health supplements. We break down the science of bone renewal, exploring the synergistic nutrients beyond calcium—like vitamin K2, magnesium, and CoQ10—that are essential for supporting bone strength and healthy aging at a cellular level.
-
-8 minutes
-
-[17 Citations](https://seed.com/cultured/bone-health-supplements-guide/#view-citations)
-
-[Share](https://seed.com/cultured/bone-health-supplements-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_bonehealthsupplements_1025-2048x966.jpg)
 
 ### **Overview**
 
@@ -221,62 +195,3 @@ View Citations
 15. Hernández-Camacho JD, Bernier M, López-Lluch G, Navas P. Front Physiol. 2018;9:44.
 16. Chowanadisai W, Bauerly KA, Tchaparian E, Wong A, Cortopassi GA, Rucker RB. J Biol Chem. 2010;285(1):142-52.
 17. Madeo F, Eisenberg T, Pietrocola F, Kroemer G. Science. 2018;359(6374):eaan2788.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![A Guide to Heart Health Supplements: Beyond the Basics](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_hearthealthsupplements_1025-scaled.jpg)\\
-**Next Article** **A Guide to Heart Health Supplements: Beyond the Basics**\\
-\\
-by Sydni Rubio • October 28, 2025\\
-\\
-8 minutes](https://seed.com/cultured/heart-health-supplements-cardiovascular-guide/)
-
-## Related Articles
-
-[![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![Can Probiotics Help With Strep Throat?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforAcidReflux_Cultured_0325-1-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help With Strep Throat?** \\
-\\
-by Leigh Weingus • July 24, 2025\\
-\\
-Overview You know the feeling: it starts with a tickle, then a scratch, and before long, swallowing feels like an Olympic sport you never trained for. One look at your throat (or a rapid strep test) and the verdict is in—strep throat. That usually comes with a prescription for antibiotics, as it should. While you’re...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-strep-throat-guide/) [![Dry thistle plants with spiky stems against a blurred brownish background.](https://seed.com/wp-content/uploads/2024/08/ClimateChangeMicrobes_Cultured_090624-768x362.jpg)\\
-\\
-Environmental health\\
-\\
-**How Climate Changes Impact Microbes** \\
-\\
-by Emma Loewe • September 19, 2024\\
-\\
-Extreme heat, unpredictable weather, and biodiversity loss are destabilizing the microorganisms within and around us. It’s (past) time to do something about it.\\
-\\
-8 minutes](https://seed.com/cultured/how-climate-changes-impact-microbes/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#)
-- [Share on Twitter](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#)
-- [Send Email](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#)
-- [Download PDF](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#)
-
 # Comparing Seed DS-01® vs. AG1: A Tale of Two Approaches
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH, MBA](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-11 minutes
-
-[13 Citations](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/# "share")
-
-Last updated: February 17, 2026
-
 Seed DS-01® vs AG1: synbiotic meets greens powder. You're essentially comparing two different approaches to gut health. Which aligns with your needs? Time to break down probiotic strains, AFU/CFU counts, prebiotics, delivery tech, scientific backing, and what each brings to the table.
-
-11 minutes
-
-[13 Citations](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-ds-01-vs-athletic-greens-ag1-comparison-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch3_SeedvsAG1_Cultured_0525-2048x966.jpg)
 
 ## **Overview**
 
@@ -241,66 +215,3 @@ View Citations
 11. Van De Wiele T, Van Den Abbeele P, Ossieur W, et al. Springer; 2015. p. 305-317.
 12. La Monica MB, Raub B, Hartshorn S, Gustat AL, et al. J Int Soc Sports Nutr. 2024;21(1).
 13. Kirby TO, Townsend JR, Sapp PA, et al. Nutraceuticals. 2023;3(4):489-498.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Visbiome vs. Seed DS-01®: High-Dose Medical Food or Multi-Strain Synbiotic?](https://seed.com/wp-content/uploads/2025/08/SEO_Batch3_VisbiomevsSeed_Cultured_0525.jpg)\\
-**Next Article** **Visbiome vs. Seed DS-01®: High-Dose Medical Food or Multi-Strain Synbiotic?**\\
-\\
-by Gianina Deines • August 15, 2025\\
-\\
-11 minutes](https://seed.com/cultured/seed-ds01-vs-visbiome-probiotic-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Coastal mountain landscape with cloudy skies](https://seed.com/wp-content/uploads/2024/04/DSC09374_4497SEED_B_ADOBERGB-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**Can We Combat Rising CO₂ Levels With Microbes?** \\
-\\
-by Seed Health • April 19, 2024\\
-\\
-In partnership with the Two Frontiers Project (2FP), we’re supporting a range of research initiatives in 2024 focused on the discovery and application of microbes to capture CO₂ and transform it into sustainable solutions and resources.\\
-\\
-3 minutes](https://seed.com/cultured/seedlabs-carbon/) [![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Regulate Your Poop: A Comprehensive Guide** \\
-\\
-by Sydni Rubio • March 12, 2025\\
-\\
-Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these beneficial microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.\\
-\\
-8 minutes](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/)

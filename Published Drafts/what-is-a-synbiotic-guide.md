@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-is-a-synbiotic-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-is-a-synbiotic-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-is-a-synbiotic-guide/#)
-- [Send Email](https://seed.com/cultured/what-is-a-synbiotic-guide/#)
-- [Download PDF](https://seed.com/cultured/what-is-a-synbiotic-guide/#)
-
 # What Is a Synbiotic? Probiotics, Prebiotics, and the Science of Teamwork
 
 Last updated: September 9, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-7 minutes
-
-[7 Citations](https://seed.com/cultured/what-is-a-synbiotic-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-a-synbiotic-guide/# "share")
-
-Last updated: September 9, 2025
-
 Wondering what a synbiotic is? Discover the difference between probiotics, prebiotics, and synbiotics, how they support your gut microbiome, and what to look for in a science-backed synbiotic product designed for real results and better digestive health.
-
-7 minutes
-
-[7 Citations](https://seed.com/cultured/what-is-a-synbiotic-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-a-synbiotic-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_Synbiotic_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -160,66 +134,3 @@ View Citations
 5. Swanson KS, Gibson GR, Hutkins R, Reimer RA, Reid G, Verbeke K, Scott KP, Holscher HD, Azad MB, Delzenne NM, Sanders ME. Nat Rev Gastroenterol Hepatol. 2020;17(11):687-701.
 6. Markowiak P, Śliżewska K. Nutrients. 2017;9(9):1021.
 7. Tierney BT, Van den Abbeele P, Al-Ghalith GA, Verstrepen L, Ghyselinck J, Calatayud M, Marzorati M, Gadir AA, Daisley BA, Reid G, Bron PA, Gevers D, Dhir R, Simmons SL. Appl Environ Microbiol. 2023;89(3):e01880-22.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Can Probiotics Help With Depression? Your Gut May Have a Say](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforDepression_Cultured_0325-1.jpg)\\
-**Next Article** **Can Probiotics Help With Depression? Your Gut May Have a Say**\\
-\\
-by Leigh Weingus • June 24, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-depression-mood-gut-brain-axis-guide/)
-
-## Related Articles
-
-[![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/)

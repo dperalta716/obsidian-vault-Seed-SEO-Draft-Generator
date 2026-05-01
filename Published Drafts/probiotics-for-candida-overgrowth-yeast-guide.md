@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#)
-
 # Yeet the Yeast? What Probiotics Can—and Can’t—Do for Candida Overgrowth
 
 Published: July 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-9 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/# "share")
-
-Published: July 16, 2025
-
 Candida isn’t just some rogue yeast—it’s part of your microbiome. But when things get out of balance, overgrowth can lead to frustrating infections. Can probiotics help? Only if you know which strains to trust. Let’s clear up the science (and the symptoms).
-
-9 minutes
-
-[21 Citations](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-candida-overgrowth-yeast-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_BestProbioticforCandida_Cultured_0525.jpg)
 
 ### **Overview**
 
@@ -219,66 +193,3 @@ View Citations
 19. Jørgensen, M. R., Kragelund, C., Jensen, P. Ø., Keller, M. K., Twetman, S. (2017). Probiotic _Lactobacillus reuteri_ has antifungal effects on oral _Candida_ species in vitro. _Journal of Oral Microbiology, 9_(1):1274582. [https://doi.org/10.1080/20002297.2016.1274582](https://doi.org/10.1080/20002297.2016.1274582)
 20. Mandar, R., Sõerunurk, G., Štšepetova, J., Smidt, I., Rööp, T., Kõljalg, S., Saare, M., Ausmees, K., Le, D. D., Jaagura, M., Piiskop, S., Tamm, H., Salumets, A. (2023). Impact of _Lactobacillus crispatus_-containing oral and vaginal probiotics on vaginal health: a randomised double-blind placebo controlled clinical trial. _Beneficial Microbes, 14_(2):143-52. [https://doi.org/10.3920/bm2022.0091](https://doi.org/10.3920/bm2022.0091)
 21. Marco, M. L., Sanders, M. E., Gänzle, M., Arrieta, M. C., Cotter, P. D., De Vuyst, L., Hill, C., Holzapfel, W., Lebeer, S., Merenstein, D., Reid, G., Wolfe, B. E., Hutkins, R. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. _Nature Reviews Gastroenterology & Hepatology, 18_(3):196-208. [https://doi.org/10.1038/s41575-020-00390-5](https://doi.org/10.1038/s41575-020-00390-5)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee, MS](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![A Guide to Using Probiotics for Thrush](https://seed.com/wp-content/uploads/2025/07/SEO_Batch6_ProbioticsforThrush_Cultured_0325.jpg)\\
-**Next Article** **A Guide to Using Probiotics for Thrush**\\
-\\
-by Leigh Weingus • July 16, 2025\\
-\\
-9 minutes](https://seed.com/cultured/probiotics-for-thrush-guide/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![closeup of a kiss](https://seed.com/wp-content/uploads/2025/02/SharingBacteriaIsCaring_Cultured_21425-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How Your Relationships Influence Your Microbiome** \\
-\\
-by Emma Loewe • February 14, 2025\\
-\\
-Your microbiome isn’t just yours—it’s a living archive of handshakes and hugs, shared meals and subway rides. Here’s how it tells the story of your closest relationships.\\
-\\
-9 minutes](https://seed.com/cultured/how-your-relationships-influence-your-microbiome/)

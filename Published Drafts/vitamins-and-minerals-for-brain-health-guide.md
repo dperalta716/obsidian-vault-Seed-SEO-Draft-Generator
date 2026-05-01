@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#)
-- [Send Email](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#)
-- [Download PDF](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#)
-
 # A Guide to the Best Vitamins and Minerals for Brain Health
 
 Last updated: November 3, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Meghan Novoshielski , MS RDN](https://seed.com/cultured/expert-reviewer/)
 
-8 minutes
-
-[22 Citations](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/# "share")
-
-Last updated: November 3, 2025
-
 Explore the essential vitamins & minerals for brain health, from methylated B-vitamins and mitochondrial support to the connection between your gut and your mind. Learn how to support cognitive function through a systemic, evidence-based approach.
-
-8 minutes
-
-[22 Citations](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-and-minerals-for-brain-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_vitaminsforbrainhealth_1025-3-2048x966.jpg)
 
 ### **Overview**
 
@@ -251,62 +225,3 @@ View Citations
 20. James KA, Stromin JI, Steenkamp N, Combrinck MI. Front Endocrinol. 2023;14.
 21. van Soest A, Beers S, van de Rest O, de Groot L. Adv Nutr. 2024;15(3):100184.
 22. Miller ER, Pastor-Barriuso R, Dalal D, Riemersma RA, Appel LJ, Guallar E. Ann Intern Med. 2005;142(1):37–46.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Meghan Novoshielski](https://seed.com/cultured/expert-reviewer/)
-
-[![Does Melatonin Really Help You Sleep Better Without the Morning Fog?](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_melatoninforsleep_1025-scaled.jpg)\\
-**Next Article** **Does Melatonin Really Help You Sleep Better Without the Morning Fog?**\\
-\\
-by Sydni Rubio • October 29, 2025\\
-\\
-8 minutes](https://seed.com/cultured/melatonin-for-sleep-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![Glass of water with ice cubes and sliced baguette on a plate with a knife](https://seed.com/wp-content/uploads/2024/08/AreCarbsBad_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Are Carbs “Bad” for Your Gut?** \\
-\\
-by Jennifer Chesak • August 21, 2024\\
-\\
-Despite what low-carb diets may lead you to believe, carbs are not the enemy. In fact, they can strengthen your gut microbiome when chosen wisely.\\
-\\
-11 minutes](https://seed.com/cultured/carbs-and-the-gut/)

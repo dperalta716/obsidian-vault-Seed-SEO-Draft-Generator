@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#)
-
 # Probiotics and OCD: Can Tiny Microbes Make a Big Difference?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-7 minutes
-
-[11 Citations](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/# "share")
-
-Last updated: September 17, 2025
-
 Discover the science of probiotics and OCD. Get clarity on the gut-brain axis, current research on specific strains for OCD-like behaviors, and how supporting your microbiome might complement traditional OCD treatments. Find out what to look for in a quality probiotic.
-
-7 minutes
-
-[11 Citations](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-ocd-obsessive-compulsive-disorder-gut-brain-axis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforOCD_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -164,66 +138,3 @@ View Citations
 09. Sanikhani, N. S., Modarressi, M. H., Jafari, P., Vousooghi, N., Shafei, S., Akbariqomi, M., Heidari, R., Lavasani, P. S., Yazarlou, F., Motevaseli, E., Ghafouri-Fard, S. (2020). The effect of _Lactobacillus_ casei consumption in improvement of obsessive-compulsive disorder: an animal study. _Probiotics and Antimicrobial Proteins, 12_(4):1409-19. [https://doi.org/10.1007/s12602-020-09642-x](https://doi.org/10.1007/s12602-020-09642-x)
 10. Messaoudi, M., Lalonde, R., Violle, N., Javelot, H., Desor, D., Nejdi, A., Bisson, J. F., Rougeot, C., Pichelin, M., Cazaubiel, M., Cazaubiel, J. M. (2011). Assessment of psychotropic-like properties of a probiotic formulation ( _Lactobacillus_ _helveticus_ R0052 and _Bifidobacterium longum_ R0175) in rats and human subjects. _British Journal of Nutrition, 105_(5):755-64. [https://doi.org/10.1017/S0007114510004319](https://doi.org/10.1017/S0007114510004319)
 11. American Psychiatric Association. (2023). What is Obsessive‑Compulsive Disorder? Psychiatry.org. [https://www.psychiatry.org/patients-families/ocd/what-is-obsessive-compulsive-disorder](https://www.psychiatry.org/patients-families/ocd/what-is-obsessive-compulsive-disorder)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Can Probiotics Help With Colitis? ](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_BestPrebioticandProbiotic_Cultured_0425-1-scaled.jpg)\\
-**Next Article** **Can Probiotics Help With Colitis?**\\
-\\
-by Leigh Weingus • July 10, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Green-tinted water with clusters of bubbles and foam on the surface.](https://seed.com/wp-content/uploads/2024/05/SpringCleaningWithYourMicrobiomeInMind-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Spring Cleaning With Your Microbiome in Mind** \\
-\\
-by Seed Health • May 13, 2024\\
-\\
-How do the antimicrobial products you’re using to scrub your home affect your microbiome? We’re digging into the dos and don’ts of cleaning with the help of Dr. Cezmi Akdis.\\
-\\
-5 minutes](https://seed.com/cultured/spring-cleaning/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/immune-support-supplement-guide/#)
-- [Share on Twitter](https://seed.com/cultured/immune-support-supplement-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/immune-support-supplement-guide/#)
-- [Send Email](https://seed.com/cultured/immune-support-supplement-guide/#)
-- [Download PDF](https://seed.com/cultured/immune-support-supplement-guide/#)
-
 # Immune Support Supplements: Trust Your Gut (Literally)
 
 Published: February 23, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-11 minutes
-
-[18 Citations](https://seed.com/cultured/immune-support-supplement-guide/#view-citations)
-
-[Share](https://seed.com/cultured/immune-support-supplement-guide/# "share")
-
-Published: February 23, 2026
-
 Your immune system isn't asking to be "boosted"—it wants balance. Here's what the science says about nutrient gaps, your gut-immune connection, and how to support your defenses the smart way.
-
-11 minutes
-
-[18 Citations](https://seed.com/cultured/immune-support-supplement-guide/#view-citations)
-
-[Share](https://seed.com/cultured/immune-support-supplement-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_DM-02_immunesupportsupplement_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -252,62 +226,3 @@ View Citations
 16. Sang D, Lin K, Yang Y, et al. Cell. 2023;186(25):5500-5516.e21.
 17. Beurel E. Gut Microbes. 2024;16(1):2327409.
 18. Franck M, Tanner KT, Tennyson RL, et al. Nat Aging. 2025;5(8):1471-1480.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![Caffeine-Free Nootropics Compared: Mind Lab Pro, Alpha Brain, AM-02](https://seed.com/wp-content/uploads/2026/02/SEO_Batch2_AM-02bestgaba-supplementforstress_1125-scaled.jpg)\\
-**Next Article** **Caffeine-Free Nootropics Compared: Mind Lab Pro, Alpha Brain, AM-02**\\
-\\
-by Sydni Rubio • February 18, 2026\\
-\\
-11 minutes](https://seed.com/cultured/mind-lab-pro-vs-alpha-brain-vs-seed-am-02-focus-supplement-nootropics-guide/)
-
-## Related Articles
-
-[![Life Extension, Pure Encapsulations, or Seed’s DM-02: Finding Your Multivitamin Match](https://seed.com/wp-content/uploads/2026/01/SEO_Batch3_DM-02_bestbiotinsupplement_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Life Extension, Pure Encapsulations, or Seed’s DM-02: Finding Your Multivitamin Match** \\
-\\
-by Sydni Rubio • January 22, 2026\\
-\\
-Overview These three multivitamins represent distinct philosophies: Life Extension prioritizes potency, Pure Encapsulations prioritizes purity, and Seed prioritizes microbiome-targeted delivery. The differences lie in what happens after you swallow them—the nutrient forms, how they make it through digestion, and where they end up. 💊 This guide compares Life Extension Two-Per-Day, Pure Encapsulations O.N.E., and Seed’s...\\
-\\
-10 minutes](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/) [![Multivitamin Comparison: Seed’s DM-02 vs. Metagenics PhytoMulti vs. Pure Encapsulations O.N.E.](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_DM-02_shoulditakeamultivitamin_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Multivitamin Comparison: Seed’s DM-02 vs. Metagenics PhytoMulti vs. Pure Encapsulations O.N.E.** \\
-\\
-by Sydni Rubio • February 2, 2026\\
-\\
-Overview Three practitioner-grade multivitamins. Three promises of “bioavailable forms” and “science-backed ingredients” for better health and nutrition. But is it true? And is there any real difference between Metagenics, Pure Encapsulations, and Seed’s DM-02? 💊 They are different. Not in a “one is garbage” way, but in a “these were designed with different philosophies” way....\\
-\\
-10 minutes](https://seed.com/cultured/metagenics-vs-pure-encapsulations-vs-seed-dm-02-multivitamin-comparison-guide/) [![Your Inner Rainforest: A Guide to Understanding and Nurturing Your Gut Flora](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutFlora_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Your Inner Rainforest: A Guide to Understanding and Nurturing Your Gut Flora** \\
-\\
-by Leigh Weingus • June 17, 2025\\
-\\
-Overview You’ve probably heard the term “gut flora” and wondered what it really means for your health. Is it a good thing? A bad thing? Something you need to actively manage? If you’re picturing a delicate garden inside you, you’re on the right track, but the reality is even more complex and fascinating. Actually, it’s...\\
-\\
-10 minutes](https://seed.com/cultured/understanding-gut-flora-microbiota-guide/)

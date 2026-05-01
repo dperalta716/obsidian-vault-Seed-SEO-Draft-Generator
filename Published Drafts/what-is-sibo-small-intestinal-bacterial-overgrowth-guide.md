@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#)
-- [Send Email](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#)
-- [Download PDF](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#)
-
 # SIBO Explained: When Your Small Intestine Gets Too Popular
 
 Published: June 21, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-6 minutes
-
-[12 Citations](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/# "share")
-
-Published: June 21, 2025
-
 Tired of unexplained bloating or digestive drama? Discover what SIBO really is, how it’s tested, treatment beyond antibiotics, and why probiotics aren’t off the table. Unpack real science and smarter solutions for a better gut.
-
-6 minutes
-
-[12 Citations](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-sibo-small-intestinal-bacterial-overgrowth-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforSibo_Cultured_0325-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -148,66 +122,3 @@ View Citations
 10. Lauritano, E. C., Gabrielli, M., Scarpellini, E., Lupascu, A., Novi, M., Sottili, S., Vitale, G., Cesario, V., Serricchio, M., Cammarota, G., Gasbarrini, G., Gasbarrini, A. (2008). Small intestinal bacterial overgrowth recurrence after antibiotic therapy. American Journal of Gastroenterology, 103(8):2031-35. [https://pubmed.ncbi.nlm.nih.gov/18802998/](https://pubmed.ncbi.nlm.nih.gov/18802998/)
 11. Chedid, V., Dhalla, S., Clarke, J. O., Roland, B. C., Dunbar, K. B., Koh, J., Justino, E., Tomakin, E., Mullin, G. E. (2014). Herbal therapy is equivalent to rifaximin for the treatment of small intestinal bacterial overgrowth. Global Advances in Health and Medicine, 3(3):16-24. [https://doi.org/10.7453/gahmj.2014.019](https://doi.org/10.7453/gahmj.2014.019)
 12. Staudacher, H. M. & Whelan, K. (2017). The low FODMAP diet: Recent advances in understanding its mechanisms and efficacy in IBS. American Journal of Gastroenterology, 112(6):940-45. [https://pubmed.ncbi.nlm.nih.gov/28592442/](https://pubmed.ncbi.nlm.nih.gov/28592442/)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Are Fermented Foods Really Probiotic? The Science Behind the Labels](https://seed.com/wp-content/uploads/2025/06/SEO_TypesofProbiotics_Cultured_0225.jpg)\\
-**Next Article** **Are Fermented Foods Really Probiotic? The Science Behind the Labels**\\
-\\
-by Sydni Rubio • June 20, 2025\\
-\\
-6 minutes](https://seed.com/cultured/probiotic-food-vs-fermented-foods-guide/)
-
-## Related Articles
-
-[![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![soil running through hand into plastic pot](https://seed.com/wp-content/uploads/2025/03/OurFoodSystemisBroken_Cultured_041725-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**How Soil Microbes Feed the World and Fight Climate Change** \\
-\\
-by Emma Loewe • March 27, 2025\\
-\\
-Digging into the soil biome—home of the bacteria, fungi, and protists that form the foundations of modern agriculture.\\
-\\
-5 minutes](https://seed.com/cultured/soil-microbes-for-food-system/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/)

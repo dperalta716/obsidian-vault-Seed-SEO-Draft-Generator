@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-gastritis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-gastritis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-gastritis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-gastritis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-gastritis-guide/#)
-
 # Probiotics for Gastritis: Can They Help?
 
 Last updated: February 11, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-5 minutes
-
-[17 Citations](https://seed.com/cultured/probiotics-for-gastritis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-gastritis-guide/# "share")
-
-Last updated: February 11, 2026
-
 Gastritis is the inflammation of the stomach lining, leading to pain and discomfort. Learn the science-backed ways probiotics can support your gut health, reinforce its protective barrier, and help manage symptoms alongside diet and lifestyle changes. This is your guide to the facts, not the fads.
-
-5 minutes
-
-[17 Citations](https://seed.com/cultured/probiotics-for-gastritis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-gastritis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforGastritis_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -272,66 +246,3 @@ View Citations
 15. Lim, S. L., Canavarro, C., Zaw, M. H., Zhu, F., Loke, W. C., Chan, Y. H., Yeoh, K. G. (2012). Irregular Meal Timing Is Associated with Helicobacter pylori Infection and Gastritis. ISRN Nutrition (2013):1-7. [https://doi.org/10.5402/2013/714970](https://doi.org/10.5402/2013/714970)
 16. Megha, R., Farooq, U., Lopez, P. P. (2023, April 16). Stress-Induced Gastritis. Nih.gov; StatPearls Publishing. [https://www.ncbi.nlm.nih.gov/books/NBK499926/](https://www.ncbi.nlm.nih.gov/books/NBK499926/)
 17. Choudhury, A., Jena, A., Hearth, V., Dutta, A. K., Makharia, G., Dutta, U., Goenka, M., Kochar, R., Sharma, V. (2023). Vitamin B12 deficiency and use of proton pump inhibitors: a systematic review and meta-analysis. (2023). Expert Review of Gastroenterology & Hepatology, 17(5):479-87. [https://doi.org/10.1080//17474124.2023.2204229](https://doi.org/10.1080//17474124.2023.2204229)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_WhatAreProbiotics_Cultured_0425.jpg)\\
-**Next Article** **Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes**\\
-\\
-by Sydni Rubio • June 26, 2025\\
-\\
-5 minutes](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![How to Find the Best Vegan Probiotic for You (and Your Gut)](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_ProbioticsforVegans_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How to Find the Best Vegan Probiotic for You (and Your Gut)** \\
-\\
-by Sydni Rubio • May 22, 2025\\
-\\
-Going plant-based doesn’t stop at your plate. Is your probiotic actually vegan—or just labeled that way? Learn what to look for, what to skip, and how to choose a probiotic for vegans that actually works.\\
-\\
-10 minutes](https://seed.com/cultured/best-probiotics-for-vegans-plant-based-guide/)

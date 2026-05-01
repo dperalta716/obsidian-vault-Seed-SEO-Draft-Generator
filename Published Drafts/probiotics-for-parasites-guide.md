@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-parasites-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-parasites-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-parasites-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-parasites-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-parasites-guide/#)
-
 # Probiotics for Parasites: What the Science Actually Says
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-for-parasites-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-parasites-guide/# "share")
-
-Last updated: September 8, 2025
-
 Can probiotics help with parasites like Giardia or Blastocystis? Our guide looks at the science of how the microbiome defends against unwanted guests, which probiotic strains have been studied, and what to look for in a quality formulation.
-
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-for-parasites-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-parasites-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsandLiverHealth_Cultured_0525-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -183,66 +157,3 @@ View Citations
 14. Williams, N. T. (2010). Probiotics. American Journal of Health-System Pharmacy, 67(6), 449–458. [https://doi.org/10.2146/ajhp090168](https://doi.org/10.2146/ajhp090168)
 15. McFarland, L. V. (2007). Meta-analysis of probiotics for the prevention of traveler’s diarrhea. Travel Medicine and Infectious Disease, 5(2), 97–105. [https://doi.org/10.1016/j.tmaid.2005.10.003](https://doi.org/10.1016/j.tmaid.2005.10.003)
 16. Campbell, S., & Soman-Faulkner, K. (2023). Antiparasitic Drugs. In StatPearls. StatPearls Publishing. [https://www.ncbi.nlm.nih.gov/books/NBK544251/](https://www.ncbi.nlm.nih.gov/books/NBK544251/)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Seed’s DS-01® Daily Synbiotic vs. Klora Gut-Renew: A Science-Based Guide to Gut Health and Immune Balance](https://seed.com/wp-content/uploads/2025/08/SEO_Batch3_SeedvsKlora_Cultured_0525.jpg)\\
-**Next Article** **Seed’s DS-01® Daily Synbiotic vs. Klora Gut-Renew: A Science-Based Guide to Gut Health and Immune Balance**\\
-\\
-by Leigh Weingus • August 8, 2025\\
-\\
-7 minutes](https://seed.com/cultured/seed-ds-01-vs-klora-gut-renew-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Ask SciCare text with speech bubbles on an orange and red pixelated background](https://seed.com/wp-content/uploads/2023/09/seed_askscicare_heat_hero-768x362.jpg)\\
-\\
-Environmental health\\
-\\
-**Does Heat Impact My Gut Health?** \\
-\\
-by Seed Health • September 11, 2023\\
-\\
-Our SciCare team is coming in hot with answers to four FAQs about heat, probiotics, the microbiome, and your health.\\
-\\
-5 minutes](https://seed.com/cultured/scicare-corner-heat-edition/) [![Two green capsules held by metal tweezers against a plain background.](https://seed.com/wp-content/uploads/2024/09/ScienceOrScam_Cultured_100324-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**How Seed Is Setting a New Standard for Probiotics Research** \\
-\\
-by Seed Health • October 18, 2024\\
-\\
-Double-blind, randomized, placebo-controlled trials are the culmination of centuries of medical progress. Here’s how Seed is using them to add legitimacy and rigor to the probiotic space.\\
-\\
-7 minutes](https://seed.com/cultured/how-seed-is-fixing-probiotic-research/)

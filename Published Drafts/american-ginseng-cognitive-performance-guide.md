@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#)
-- [Share on Twitter](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#)
-- [Send Email](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#)
-- [Download PDF](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#)
-
 # A Nootropic Guide to American Ginseng for Cognitive Performance
 
 Last updated: November 3, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Meghan Novoshielski , MS, RDN](https://seed.com/cultured/expert-reviewer/)
 
-9 minutes
-
-[14 Citations](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#view-citations)
-
-[Share](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/# "share")
-
-Last updated: November 3, 2025
-
 Explore the science of American ginseng (Panax quinquefolius). Learn how this nootropic supports cognitive performance, focus, and mental stamina—how it differs from other ginsengs, its connection to the gut-brain axis, and how it provides sustained energy without the jitters.
-
-9 minutes
-
-[14 Citations](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/#view-citations)
-
-[Share](https://seed.com/cultured/american-ginseng-cognitive-performance-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_ginsengforenergy_1025-2048x966.jpg)
 
 ### **Overview**
 
@@ -213,62 +187,3 @@ View Citations
 12. Mucalo I, Jovanovski E, Vuksan V, Božikov V, Romić Ž, Rahelić D. Evid Based Complement Alternat Med. 2014;2014:1–6.
 13. Yuan CS, Wei G, Dey L, Karrison T, Nahlik L, Maleckar S, Kasza K, Ang-Lee M, Moss J. Ann Intern Med. 2004;141(1):23–7.
 14. Vuksan V, Sievenpiper JL, Koo VY, Francis T, Beljan-Zdravkovic U, Xu Z, Vidgen E. Arch Intern Med. 2000;160(7):1009–13.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Meghan Novoshielski](https://seed.com/cultured/expert-reviewer/)
-
-[![Could Aquariums Help Rewrite the Future of Coral Reefs?](https://seed.com/wp-content/uploads/2025/09/COMMSCI2Corals_Cultured_Hero_090425.jpg)\\
-**Next Article** **Could Aquariums Help Rewrite the Future of Coral Reefs?**\\
-\\
-by Emma Loewe • September 8, 2025\\
-\\
-9 minutes](https://seed.com/cultured/project-reeflink/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Do Probiotics Help with Weight Loss? Here’s What We Know.](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_DoProbioticsHelpYouLoseWeight_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Help with Weight Loss? Here’s What We Know.** \\
-\\
-by Sydni Rubio • June 4, 2025\\
-\\
-Can taking probiotics really help you lose weight? We unpack the science behind strains, metabolism, gut diversity, and what actually supports sustainable weight goals.\\
-\\
-6 minutes](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/) [![person meditating with green filter overlay](https://seed.com/wp-content/uploads/2025/05/5WaystoImproveDigestionThatHaveNothingtoDoWithFood_Hero_Cultured_052825-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**5 Ways to Improve Digestion (That Have Nothing to Do With Food)** \\
-\\
-by Emma Loewe • May 28, 2025\\
-\\
-Strategies for supporting digestive health beyond diet—from regulating your sleep timing to exploring your local park.\\
-\\
-5 minutes](https://seed.com/cultured/non-diet-digestion-tips/)

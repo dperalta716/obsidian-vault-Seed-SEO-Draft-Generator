@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#)
-- [Share on Twitter](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#)
-- [Send Email](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#)
-- [Download PDF](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#)
-
 # Sleep Supplement Curious? Comparing Seed’s PM-02, Moonbrew, and Beam Dream
 
 Published: January 22, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[7 Citations](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#view-citations)
-
-[Share](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/# "share")
-
-Published: January 22, 2026
-
 Sleepy cocoa or clinical precision? This guide breaks down the differences between Beam Dream, Moonbrew, and Seed's PM-02™ Sleep + Restore—comparing formulation, delivery, and price.
-
-10 minutes
-
-[7 Citations](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/#view-citations)
-
-[Share](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_PM-02ashwagandhaforsleep_1125-2048x966.jpg)
 
 ### **Overview**
 
@@ -248,62 +222,3 @@ View Citations
 5. Strandwitz P. Brain Res. 2018;1693(Pt B):128-133.
 6. Beam. Dream Powder. n.d.
 7. Moonbrew. Moonbrew Nighttime Superfoods. n.d.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![The Best Biotin Supplement Isn’t the Biggest One](https://seed.com/wp-content/uploads/2026/01/SEO_Batch3_DM-02_bestbiotinsupplement_1113-scaled.jpg)\\
-**Next Article** **The Best Biotin Supplement Isn’t the Biggest One**\\
-\\
-by Sydni Rubio • January 16, 2026\\
-\\
-10 minutes](https://seed.com/cultured/how-to-choose-the-best-biotin-supplement-guide/)
-
-## Related Articles
-
-[![Best Multivitamin for Women: A 2026 Guide](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_bestmultivitaminforwomen_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Multivitamin for Women: A 2026 Guide** \\
-\\
-by Sydni Rubio • October 30, 2025\\
-\\
-Overview Walk down any wellness aisle, and you’ll be met with a wide selection of multivitamins for women. 💊 Bottles promise to support everything from energy to immunity, often categorized by age or life stage. The sheer volume of choice can feel overwhelming, doesn’t it? And it leads to an important question: What actually makes...\\
-\\
-9 minutes](https://seed.com/cultured/the-thinking-persons-guide-to-the-best-multivitamin-for-women-guide/) [![Co-Biotics 101](https://seed.com/wp-content/uploads/2025/11/Cultured_NPD_CoBiotics101_1935x913_10032025-768x362.jpeg)\\
-\\
-Cultured\\
-\\
-**Co-Biotics 101** \\
-\\
-by Mizue Naito • November 19, 2025\\
-\\
-A deep dive into co-biotic ingredients: What they are, what makes them different from probiotics and prebiotics, and why they are the basis of Seed’s latest product category.\\
-\\
-6 minutes](https://seed.com/cultured/co-biotics/) [![Which Multivitamin Should You Choose: Seed’s DM-02, OLLY, or HUM Nutrition?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch1_brainsupplements_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Which Multivitamin Should You Choose: Seed’s DM-02, OLLY, or HUM Nutrition?** \\
-\\
-by Sydni Rubio • January 14, 2026\\
-\\
-Overview The vitamin and mineral names on a multivitamin label are almost the same across brands. Their differences lie in what happens after you swallow them: the vitamin and nutrient forms, how they make it through digestion, and whether they reach the cells that actually need them. This guide compares HUM Nutrition’s Base Control, OLLY’s...\\
-\\
-11 minutes](https://seed.com/cultured/hum-nutrition-vs-olly-vs-seed-dm-02-guide/)

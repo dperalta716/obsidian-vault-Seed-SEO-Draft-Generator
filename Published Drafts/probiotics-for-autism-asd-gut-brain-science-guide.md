@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#)
-
 # Microbes on the Spectrum: Probiotics for Autism
 
 Published: August 19, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-9 minutes
-
-[8 Citations](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/# "share")
-
-Published: August 19, 2025
-
 Ever wonder what probiotics can really do for autistic people? Here’s the no-nonsense science on gut-brain research, what helps neurodivergent adults and kids (and what doesn’t), and why “typical” isn’t even on the menu.
-
-9 minutes
-
-[8 Citations](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsforDigestion_Cultured_0225-2.jpg)
 
 ### **Overview**
 
@@ -200,66 +174,3 @@ View Citations
 6. Feng, P., Zhao, S., Zhang, Y., Li, E. (2023). A review of probiotics in the treatment of autism spectrum disorders: Perspectives from the gut-brain axis. Frontiers in microbiology, 14, 1123462. [https://doi.org/10.3389/fmicb.2023.1123462](https://doi.org/10.3389/fmicb.2023.1123462)
 7. He, X., Liu, W., Tang, F., Chen, X., Song, G. (2023). Effects of Probiotics on Autism Spectrum Disorder in Children: A Systematic Review and Meta-Analysis of Clinical Trials. Nutrients, 15(6), 1415. [https://doi.org/10.3390/nu15061415](https://doi.org/10.3390/nu15061415)
 8. Liu, Y. W., Liong, M. T., Chung, Y. C., Huang, H. Y., Peng, W. S., Cheng, Y. F., Lin, Y. S., Wu, Y. Y., Tsai, Y. C. (2019). Effects of Lactobacillus plantarum PS128 on Children with Autism Spectrum Disorder in Taiwan: A Randomized, Double-Blind, Placebo-Controlled Trial. Nutrients, 11(4), 820. [https://doi.org/10.3390/nu11040820](https://doi.org/10.3390/nu11040820)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Seed’s DS-01® Daily Synbiotic vs. Bioma Health Probiotics: A Scientific Comparison](https://seed.com/wp-content/uploads/2025/08/SEO_Batch2_BiomavsSeed_Cultured_0425.jpg)\\
-**Next Article** **Seed’s DS-01® Daily Synbiotic vs. Bioma Health Probiotics: A Scientific Comparison**\\
-\\
-by Sydni Rubio • August 15, 2025\\
-\\
-9 minutes](https://seed.com/cultured/seed-vs-bioma-health-probiotics-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![person meditating with green filter overlay](https://seed.com/wp-content/uploads/2025/05/5WaystoImproveDigestionThatHaveNothingtoDoWithFood_Hero_Cultured_052825-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**5 Ways to Improve Digestion (That Have Nothing to Do With Food)** \\
-\\
-by Emma Loewe • May 28, 2025\\
-\\
-Strategies for supporting digestive health beyond diet—from regulating your sleep timing to exploring your local park.\\
-\\
-5 minutes](https://seed.com/cultured/non-diet-digestion-tips/) [![Are Fermented Foods Really Probiotic? The Science Behind the Labels](https://seed.com/wp-content/uploads/2025/06/SEO_TypesofProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Are Fermented Foods Really Probiotic? The Science Behind the Labels** \\
-\\
-by Sydni Rubio • June 20, 2025\\
-\\
-Overview Have you ever tossed yogurt or a bottle of kombucha into your cart just because the label promised “probiotics”? 🛒 You’re not the only one. But what if this isn’t the best approach? With so many foods advertising live cultures, it’s tempting to assume your gut is in good hands. Are all these so-called...\\
-\\
-7 minutes](https://seed.com/cultured/probiotic-food-vs-fermented-foods-guide/)

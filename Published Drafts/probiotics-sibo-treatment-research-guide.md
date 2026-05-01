@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#)
-
 # Probiotics for SIBO: Navigating the Controversy with Science
 
 Last updated: December 30, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH, MBA](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/# "share")
-
-Last updated: December 30, 2025
-
 Navigate the complex relationship between probiotics and SIBO with evidence-based insights. Learn which strains show promise, when probiotics might backfire, and how to incorporate them into your treatment plan.
-
-7 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-sibo-treatment-research-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforSibo_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -346,66 +320,3 @@ View Citations
 17. Grace, E., Shaw, C., Whelan, K., Andreyev, N. (2013). Review article: small intestinal bacterial overgrowth – prevalence, clinical features, current and developing diagnostic tests, and treatment. _Alimentary Pharmacology & Therapeutics, 38_(7):674-88. [https://doi.org/10.1111/apt.12456](https://doi.org/10.1111/apt.12456)
 18. Comas-Basté, O., Sánchez-Pérez, S., Veciana-Nogués, M. T., Latorre-Moratalla, M., Vidal-Carou, M. C. (2020). Histamine intolerance: The current state of the art. _Biomolecules, 10_(8):1181. [https://doi.org/10.3390/biom10081181](https://doi.org/10.3390/biom10081181)
 19. Marco, M. L., Sanders, M. E., Gänzle, M., Arrieta, M. C., Cotter, P. D., De Vuyst, L., Hill, C., Holzapfel, W., Lebeer, S., Merenstein, D., Reid, G., Wolfe, B. E., Hutkins, R. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. _Nature Reviews Gastroenterology & Hepatology, 18_(3):196-208. [https://doi.org/10.1038/s41575-020-00390-5](https://doi.org/10.1038/s41575-020-00390-5)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Should You Take Probiotics With Antibiotics? An Evidence-Based Look](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_TakingProbioticswithAntibiotics_Cultured_0525.jpg)\\
-**Next Article** **Should You Take Probiotics With Antibiotics? An Evidence-Based Look**\\
-\\
-by Leigh Weingus • June 11, 2025\\
-\\
-7 minutes](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/)
-
-## Related Articles
-
-[![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![Half of a yellow pear with white flesh on a white surface and dark background.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch3_FiberandProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Fiber and Probiotics: Better Together for Gut Health** \\
-\\
-by Sydni Rubio • March 26, 2025\\
-\\
-Fiber and probiotics form a powerful team for gut health. Fiber acts as fuel for probiotics, helping them support digestive and immune function. Learn how different types of fiber nourish specific probiotic strains, the benefits of synbiotics, and practical tips for combining them in your diet.\\
-\\
-8 minutes](https://seed.com/cultured/fiber-and-probiotics-benefits-guide/) [![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/)

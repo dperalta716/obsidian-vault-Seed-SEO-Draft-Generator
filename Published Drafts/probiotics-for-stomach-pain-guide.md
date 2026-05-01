@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#)
-
 # Can Probiotics Help With Stomach Pain?
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[14 Citations](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-stomach-pain-guide/# "share")
-
-Last updated: October 17, 2025
-
 A comprehensive guide to understanding the connection between your gut microbiome and stomach pain. We break down the science of how probiotics may help with discomfort from gas, bloating, and constipation, and explain how to choose a product that actually works.
-
-7 minutes
-
-[14 Citations](https://seed.com/cultured/probiotics-for-stomach-pain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-stomach-pain-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525-1.jpg)
 
 ### **Overview**
 
@@ -182,66 +156,3 @@ View Citations
 12. Terciolo, C., Dobric, A., Ouaissi, M., Siret, C., Breuzard, G., Silvy, F., Marchiori, B., Germain, S., Bonier, R., Hama, A., Owens, R., Lombardo, D., Rigot, V., & André, F. (2017). Saccharomyces boulardii CNCM I-745 Restores intestinal Barrier Integrity by Regulation of E-cadherin Recycling. _Journal of Crohn’s and Colitis_, 11(8), 999–1010. [https://doi.org/10.1093/ecco-jcc/jjx030](https://doi.org/10.1093/ecco-jcc/jjx030)
 13. Kelesidis, T., & Pothoulakis, C. (2011). Efficacy and safety of the probiotic Saccharomyces boulardii for the prevention and therapy of gastrointestinal disorders. _Therapeutic Advances in Gastroenterology_, 5(2), 111–125. [https://doi.org/10.1177/1756283×11428502](https://doi.org/10.1177/1756283x11428502)
 14. Derrien, M., & Van Hylckama Vlieg, J. E. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology_, 23(6), 354–366. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Probiotics for Oral Health: What Really Works for Your Mouth (and Why Your Gut Matters)](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforOralHealth_Cultured_0325-1-scaled.jpg)\\
-**Next Article** **Probiotics for Oral Health: What Really Works for Your Mouth (and Why Your Gut Matters)**\\
-\\
-by Sydni Rubio • July 21, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-oral-health-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Can You “Heal” Leaky Gut? Here’s What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_HowtoHealLeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You “Heal” Leaky Gut? Here’s What the Science Says** \\
-\\
-by Leigh Weingus • June 13, 2025\\
-\\
-Overview You’ve probably heard the term “leaky gut” floating around. Maybe a friend mentioned it, you saw it on social media, or you’re experiencing symptoms like bloating, fatigue, or food sensitivities and wondering if this could be the culprit. If you’re trying to figure out “how to heal leaky gut,” you’re looking for answers and,...\\
-\\
-10 minutes](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/) [![Bowl of hummus with olive oil and chickpeas, celery sticks, radishes, lemon water, and pita chips.](https://seed.com/wp-content/uploads/2025/01/CulturedCheck-MediterraneanDiet_Cultured_12125-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Cultured Check: Should We All Be Following the Mediterranean Diet?** \\
-\\
-by Emma Loewe • January 24, 2025\\
-\\
-The Mediterranean diet is the subject of 7,076 scientific studies (and counting). Let’s dig into the research to see if this food approach is as great as the internet makes it sound.\\
-\\
-6 minutes](https://seed.com/cultured/mediterranean-diet-for-gut-health/)

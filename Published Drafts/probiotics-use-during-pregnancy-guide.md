@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#)
-
 # Probiotics During Pregnancy: Good for You and Your Baby?
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[22 Citations](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/# "share")
-
-Last updated: October 16, 2025
-
 Expecting a baby? Learn how probiotics support your pregnancy by promoting digestive comfort and vaginal health. From managing morning sickness to restoring microbial balance, discover the science-backed benefits of probiotics during pregnancy and find expert guidance on choosing the right product.
-
-8 minutes
-
-[22 Citations](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/# "share")
-
-![Close-up of hands gently holding a pregnant belly.](https://seed.com/wp-content/uploads/2025/02/SEO_Batch2_CanYouTakeProbioticsWhilePregnant_Cultured_0225-2048x966.jpg)
 
 ### Overview
 
@@ -187,66 +161,3 @@ View Citations
 21. Mandar, A., Soerunurk, G., Stsepetova, J., Smidt, I., Roop, T., Koljalg, S., Saare, M., Ausmees, K., Le, D. D., Jaagura, M., Piiskop, S., Tamm, H., Salumets, A. (2023). Impact of _Lactobacillus crispatus_-containing oral and vaginal probiotics on vaginal health: a randomised double-blind placebo controlled clinical trial. _Beneficial Microbes, 14_(2):143-52. [doi.org/10.3920/bm2022.0091](https://doi.org/10.3920/bm2022.0091)
 22. Mills, S., Yang, B. Smith, G.J., Stanton, C., Ross, R. P. (2022). Efficacy of _Bifidobacterium longum_ alone or in multi-strain probiotic formulations during early life and beyond. _Gut Microbes, 15_(1). [doi.org/10.1080/19490976.2023.2186098](https://doi.org/10.1080/19490976.2023.2186098)
 23. Alemu, B. K., Azeze, G. G., Wu, L., Lau, S. L., Wang, C. C., Wang, Y. (2023). Effects of maternal probiotic supplementation on breast milk microbiome and infant gut microbiome and health: a systematic review and meta-analysis of randomized controlled trials. _American Journal of Obstetrics & Gynecology, 5_(11). [doi.org/10.1016/j.ajogmf.2023.101148](https://doi.org/10.1016/j.ajogmf.2023.101148)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Do Probiotics Expire? How Microbes Hold Up Over Time & Storage](https://seed.com/wp-content/uploads/2025/02/SEO_Batch2_DoProbioticsExpire_Cultured_0225-scaled.jpg)\\
-**Next Article** **Do Probiotics Expire? How Microbes Hold Up Over Time & Storage**\\
-\\
-by Sydni Rubio • February 20, 2025\\
-\\
-8 minutes](https://seed.com/cultured/do-probiotics-expire-shelf-life-storage-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Took extra probiotics? Don't worry. You might have temporary bloating or gas, but it’s generally harmless. The type of probiotic matters more than the amount.](https://seed.com/wp-content/uploads/2025/02/SEO_CanYouTakeTooManyProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Too Many Probiotics? How Do I Know Which Ones To Take?** \\
-\\
-by Chandana Balasubramanian • February 10, 2025\\
-\\
-Taking more probiotics than recommended won't typically cause harm. Choosing the right type of probiotic for your goals matters more than the dose. Learn what the science says.\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-too-many-probiotics-how-to-choose-right-ones-guide/) [![Round white object with a pattern of dark and light green dots in a circular arrangement](https://seed.com/wp-content/uploads/2023/06/seeding_hero_3-768x362.jpg)\\
-\\
-Children’s Microbiome\\
-\\
-**How Your Microbiome Is Made—and How It Informs Your Lifelong Health** \\
-\\
-by Seed Health • June 16, 2023\\
-\\
-Your body is an ecosystem that is home to trillions of microbes that are crucial to your wellbeing. Here's how your microbiome is formed and how you can support it.\\
-\\
-12 minutes](https://seed.com/cultured/microbiome-development/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#)
-- [Share on Twitter](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#)
-- [Send Email](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#)
-- [Download PDF](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#)
-
 # Vitamins for Hair, Skin, and Nail Health: 2026 Guide
 
 Last updated: February 8, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Lindsey DeSoto, RDN, LD](https://seed.com/cultured/expert-reviewer/)
 
-8 minutes
-
-[20 Citations](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/# "share")
-
-Last updated: February 8, 2026
-
 A comprehensive guide to the vitamins and minerals for hair, skin, and nail health. We explore the roles of antioxidants, B vitamins, and novel compounds like PQQ, explaining why foundational cellular support is more effective than focusing on single "beauty" ingredients.
-
-8 minutes
-
-[20 Citations](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-for-hair-skin-and-nails-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/11/SEO_Batch1_hairskinandnailsvitamins_1025-2048x966.jpg)
 
 ### **Overview**
 
@@ -154,89 +128,3 @@ Think of it as tending a garden—results don’t happen overnight, but consiste
 **There isn’t just one—and that’s actually the point.** While biotin supports keratin production and [vitamin C](https://seed.com/cultured/best-fruits-for-gut-health/) helps build collagen, they don’t work in isolation. These vitamins rely on a supporting cast of nutrients like zinc, copper, antioxidants, and other B vitamins to function effectively. [4](https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=multi_vitmin_suppl&lang=eng)
 
 **👉 TL;DR:**  A comprehensive approach to vitamins beats putting all your hope in a single ingredient.
-
-* * *
-
-View Citations
-
-## Citations
-
-01. Maeda K. Cosmetics. 2017;4(4):47.
-02. Yaemsiri S, Hou N, Slining MM, He K. J Eur Acad Dermatol Venereol. 2010;24(4):420-3.
-03. Hoover E, Renault S, Aickara D, Wikramanayake TC. StatPearls \[Internet\]. Treasure Island (FL): StatPearls Publishing; 2023.
-04. Health Canada. Multi-Vitamin/Mineral Supplements Monograph. 2023.
-05. Health Canada. Antioxidants Monograph. 2023.
-06. Pullar JM, Carr AC, Vissers MCM. Nutrients. 2017;9(8):866.
-07. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). EFSA J. 2009;7(9):1221.
-08. Joshi M, Hiremath P, John J, Ranadive N, Nandakumar K, Mudgal J. Pharmacol Rep. 2023;75(5):1096-114.
-09. Nie X, Dong X, Hu Y, Xu F, Hu C, Shu C. Drug Des Devel Ther. 2023;17:2623-37.
-10. Patel DP, Swink SM, Castelo-Soccio L. Skin Appendage Disord. 2017;3(3):166-9.
-11. Almohanna HM, Ahmed AA, Tsatalis JP, Tosti A. Dermatol Ther (Heidelb). 2019;9(1):51-70.
-12. Carboni L. Integr Med (Encinitas). 2022;21(3):36-41.
-13. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). EFSA J. 2009;7(10):1229.
-14. Lin PH, Sermersheim M, Li H, Lee PHU, Steinberg SM, Ma J. Nutrients. 2018;10(1):16.
-15. EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). EFSA J. 2011;9(4):2079.
-16. Zhang X, Gao Y, Zhang S, Wang Y, Pei X, Chen Y, et al. Cell Commun Signal. 2025;23(1):290.
-17. Chowanadisai W, Tchaparian KA, Ursin VM, Rucker RB. J Biol Chem. 2010;285(1):142-52.
-18. Saihara K, Kamikubo R, Ikemoto K, Uchida K, Akagawa M. Biochemistry. 2017;56(50):6615-25.
-19. Madeo F, Bauer MA, Carmona-Gutierrez D, Kroemer G. Autophagy. 2018;15(1):165-8.
-20. Eisenberg T, Abdellatif M, Schroeder S, et al. Nat Med. 2016;22(12):1428-38.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Lindsey DeSoto](https://seed.com/cultured/expert-reviewer/)
-
-[![Best Joint Health Supplements: A Science-Based Guide](https://seed.com/wp-content/uploads/2025/11/SEO_Batch1_jointhealthsupplements_1025-scaled.jpg)\\
-**Next Article** **Best Joint Health Supplements: A Science-Based Guide**\\
-\\
-by Sydni Rubio • November 6, 2025\\
-\\
-8 minutes](https://seed.com/cultured/joint-health-supplements-guide/)
-
-## Related Articles
-
-[![Can Probiotics Help With Stomach Pain?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525-1-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help With Stomach Pain?** \\
-\\
-by Leigh Weingus • July 21, 2025\\
-\\
-Overview It’s happened to all of us at some point: The sudden sharp cramp, the nagging ache, or just a vague sense that something isn’t quite right in their stomach. Stomach discomfort is incredibly common; in fact it’s one of the top reasons people seek medical advice. Its causes can range from eating something your...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-stomach-pain-guide/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Do Probiotics Actually Help with Gas and Bloating? What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Actually Help with Gas and Bloating? What the Science Says** \\
-\\
-by Leigh Weingus • June 10, 2025\\
-\\
-Overview Let’s be real—bloating can make it feel like your gut’s holding a grudge. One minute you’re fine, the next your stomach’s puffed up like a balloon, and you’re contemplating your life choices (and lunch order). Gas and bloating might be common, but they’re rarely simple—and rarely comfortable. That’s why many people turn to probiotics....\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-gas-bloating-relief-guide/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#)
-- [Share on Twitter](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#)
-- [Send Email](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#)
-- [Download PDF](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#)
-
 # Seed's DS-01® Daily Synbiotic vs. Pendulum Therapeutics: A Microbiome Match-Up
 
 Last updated: February 18, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/)
 
-16 minutes
-
-[13 Citations](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/# "share")
-
-Last updated: February 18, 2026
-
 Two of the most talked-about names in the probiotic space are Seed and Pendulum. But while both offer microbiome-focused formulations, their strategies couldn’t be more different. Here's what makes them distinct—and how to know which one might be right for you.
-
-16 minutes
-
-[13 Citations](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/seed-vs-pendulum-probiotics-comparison-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/12/SEO_Batch5_ProbioticsforCDiff_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -256,62 +230,3 @@ View Citations
 11. Navarro-López, V., Ramírez-Boscá, A., Ramón-Vidal, D., Ruzafa-Costas, B., Genovés-Martínez, S., Chenoll-Cuadros, E., Carrión-Gutiérrez, M., De La Parte, J. H., Prieto-Merino, D., & Codoñer-Cortés, F. M. (2017). Effect of oral administration of a mixture of probiotic strains on SCORAD index and use of topical steroids in young patients with moderate atopic dermatitis. JAMA Dermatology, 154(1), 37. [https://doi.org/10.1001/jamadermatol.2017.3647](https://doi.org/10.1001/jamadermatol.2017.3647)
 12. Strozzi, G. P., & Mogna, L. (2008). In vivo absorption of folate by _Bifidobacterium adolescentis_ MB 239. _Journal of Clinical Gastroenterology, 42 Suppl 3 Pt 2_, S179-S180. [https://www.ncbi.nlm.nih.gov/pubmed/18685499](https://www.ncbi.nlm.nih.gov/pubmed/18685499)
 13. Bron, P. A., Catalayud, M., Marzorati, M., Pane, M., Kartal, E., Dhir, R., & Reid, G. (2021). Delivery of metabolically neuroactive probiotics to the human gut. International Journal of Molecular Sciences, 22(17), 9122. [https://doi.org/10.3390/ijms22179122](https://doi.org/10.3390/ijms22179122)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/)
-
-[![Vitamin E for Hair: The Science-Backed Benefits](https://seed.com/wp-content/uploads/2025/12/SEO_Batch3_DM-02_vitamineforhair_1113-scaled.jpg)\\
-**Next Article** **Vitamin E for Hair: The Science-Backed Benefits**\\
-\\
-by Sydni Rubio • December 17, 2025\\
-\\
-16 minutes](https://seed.com/cultured/vitamin-e-for-hair-guide/)
-
-## Related Articles
-
-[![Three people running outdoors wearing jackets, motion blur effect.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch1_BestProbioticforMen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotics for Men: A Complete Guide to Strain Selection and Benefits** \\
-\\
-by Sydni Rubio • April 16, 2025\\
-\\
-Find the best probiotic strains for men's health needs, from digestive support to cardiovascular health, based on clinical research instead of marketing claims.\\
-\\
-9 minutes](https://seed.com/cultured/best-probiotic-for-men-strain-specific-guide/) [![Three people running outdoors wearing jackets, motion blur effect.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch1_BestProbioticforMen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotics for Men: A Complete Guide to Strain Selection and Benefits** \\
-\\
-by Sydni Rubio • April 16, 2025\\
-\\
-Find the best probiotic strains for men's health needs, from digestive support to cardiovascular health, based on clinical research instead of marketing claims.\\
-\\
-9 minutes](https://seed.com/cultured/best-probiotic-for-men-strain-specific-guide/) [![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/)

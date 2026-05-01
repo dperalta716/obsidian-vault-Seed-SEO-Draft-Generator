@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#)
-- [Send Email](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#)
-
 # The Gut-Brain Axis: Why Your Gut Health Is Actually Mental Health
 
 Published: June 20, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-9 minutes
-
-[19 Citations](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-brain-axis-connection-science-guide/# "share")
-
-Published: June 20, 2025
-
 The gut-brain axis shapes how you think, feel, and digest—sometimes all at once. Get to know this communication network, why your microbes matter, and how your daily habits can help keep both your gut and mind in sync.
-
-9 minutes
-
-[19 Citations](https://seed.com/cultured/gut-brain-axis-connection-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-brain-axis-connection-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutBrainAxis_Cultured_0325-1-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -234,66 +208,3 @@ View Citations
 17. Chen, H., Wang, C., Bai, J., Song, J., Bu, L., Liang, M., & Suo, H. (2023). Targeting microbiota to alleviate the harm caused by sleep deprivation. Microbiological Research, 275, 127467. [https://doi.org/10.1016/j.micres.2023.127467](https://doi.org/10.1016/j.micres.2023.127467)
 18. Cataldi, S., Bonavolontà, V., Poli, L., Clemente, F. M., De Candia, M., Carvutto, R., Silva, A. F., Badicu, G., Greco, G., & Fischetti, F. (2022). The Relationship between Physical Activity, Physical Exercise, and Human Gut Microbiota in Healthy and Unhealthy Subjects: A Systematic Review. Biology, 11(3), 479. [https://doi.org/10.3390/biology11030479](https://doi.org/10.3390/biology11030479)
 19. Hill, C., Guarner, F., Reid, G., Gibson, G. R., Merenstein, D. J., Pot, B., Morelli, L., Canani, R. B., Flint, H. J., Salminen, S., Calder, P. C., & Sanders, M. E. (2014). Expert consensus document. The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic. Nature reviews. Gastroenterology & hepatology, 11(8), 506–514. [https://doi.org/10.1038/nrgastro.2014.66](https://doi.org/10.1038/nrgastro.2014.66)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![A Science-Backed Guide to the ‘Best’ Gut Health Supplements](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_BestGutHealthSupplement_Cultured_0425.jpg)\\
-**Next Article** **A Science-Backed Guide to the ‘Best’ Gut Health Supplements**\\
-\\
-by Leigh Weingus • June 20, 2025\\
-\\
-9 minutes](https://seed.com/cultured/best-gut-health-products-science-guide/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Close-up of a person holding two green capsules near their mouth against a blue background.](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforWomenOver50_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Seniors Need Probiotics? Supporting Your Health as You Age** \\
-\\
-by Sydni Rubio • May 6, 2025\\
-\\
-Your gut microbiome changes with age—but not in the way some commercials suggest. Discover how strain-specific probiotics for seniors may support digestion, gut barrier health, and immunity for men and women in their 50's, 60's, and beyond.\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-for-seniors-aging-gut-health-guide/)

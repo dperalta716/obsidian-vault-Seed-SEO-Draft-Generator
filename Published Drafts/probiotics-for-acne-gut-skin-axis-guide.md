@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#)
-
 # Gut Check: How Probiotics for Acne Affect Skin from Within
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-6 minutes
-
-[36 Citations](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/# "share")
-
-Last updated: September 17, 2025
-
 Breakouts aren't just skin deep. Discover how gut health, the gut-skin axis, and strain-specific probiotics may influence acne—and why clearer skin could start in your microbiome.
-
-6 minutes
-
-[36 Citations](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-acne-gut-skin-axis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforAcne_Cultured_0225.jpg)
 
 ### **Overview**
 
@@ -189,66 +163,3 @@ View Citations
 34. Derrien, M. & van Hylckama Vlieg, J. E. T. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology, 23_(6):354-66. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
 35. Zmora, N., Zilberman-Schapira, G., Suez, J., Mor, U., Dori-Bachash, M., Bashiardes, S., Kotler, E., Zur, M., Regev-Lehavi, D., Brik, R. B. Z., Federici, S., Cohen, Y., Linevsky, R., Rothschild, D., Moor, A. E., Ben-Moshe, S., Harmelin, A., Itzkovitz, S., Maharshak, N., Shibolet, O. (2018). Personalized Gut Mucosal Colonization Resistance to Empiric Probiotics Is Associated with Unique Host and Microbiome Features. _Cell, 174_(6):1388-1405.e21. [https://doi.org/10.1016/j.cell.2018.08.041](https://doi.org/10.1016/j.cell.2018.08.041)
 36. Fabbrocini, G., Bertona, M., Picazo, Ó., Pareja-Galeano, H., Monfrecola, G., Emanuele, E. (2016). Supplementation with _Lactobacillus rhamnosus_ SP1 normalises skin expression of genes implicated in insulin signalling and improves adult acne. Beneficial Microbes, 7(5):625-30. [https://doi.org/10.3920/bm2016.0089](https://doi.org/10.3920/bm2016.0089)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Probiotics for Kids: What’s Best for Your Child’s Gut Health?](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_ProbioticsforKids_Cultured_0425.jpg)\\
-**Next Article** **Probiotics for Kids: What’s Best for Your Child’s Gut Health?**\\
-\\
-by Sydni Rubio • May 7, 2025\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-kids-pediatric-synbiotic-guide/)
-
-## Related Articles
-
-[![Water glass and](https://seed.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-2-2025-12_47_19-PM-768x512.png)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Actually Work? A Science-Based Look Beyond the Hype** \\
-\\
-by Sydni Rubio • April 2, 2025\\
-\\
-The real question isn’t just “do probiotics work,” but which ones, how much, and in what form. The answer lies in the details—specific probiotic strain, precise dose, and proper delivery method. Discover how science-backed probiotics can support better gut health and a balanced immune system.\\
-\\
-11 minutes](https://seed.com/cultured/do-probiotics-work-benefits-and-strains-guide/) [![Green supplement bottle with capsules being poured in, next to a glass of liquid.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch2_HowLongShouldYouTakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Long Should You Take Probiotics Before You See Results?** \\
-\\
-by Sydni Rubio • April 18, 2025\\
-\\
-Looking to support gut health, digestion, or bounce back after antibiotics? How long you should take probiotics might not be as straightforward as it seems—and depends on more than just the product label. Learn more with this science-backed guide.\\
-\\
-8 minutes](https://seed.com/cultured/how-long-take-probiotics-duration-guide/) [![Hand reaching for a container of Seed daily synbiotic on a bathroom counter with beauty tools.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch8_HowToImproveGutHealth_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How to Improve Gut Health: Your Friendly Guide to a Happier Microbiome** \\
-\\
-by Sina Eissfeller • April 11, 2025\\
-\\
-Overview Ever had that moment where your stomach makes an unexpected noise during an important meeting? Or experienced sudden bloating that makes your jeans refuse to button? Your gut is trying to tell you something—and it’s time we listened. But that’s where things get confusing. Between probiotics, kombucha crazes, and endless elimination diets, the gut...\\
-\\
-9 minutes](https://seed.com/cultured/how-to-improve-gut-health-a-science-backed-guide/)

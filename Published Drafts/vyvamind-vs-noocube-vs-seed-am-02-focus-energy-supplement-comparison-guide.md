@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#)
-- [Share on Twitter](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#)
-- [Send Email](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#)
-- [Download PDF](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#)
-
 # Find Your Focus: Vyvamind, Noocube, and Seed’s AM-02™ Compared
 
 Published: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[15 Citations](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/# "share")
-
-Published: February 17, 2026
-
 Trying to decide between Vyvamind, Noocube, and Seed's AM-02™? All three are focus supplements, but each one takes a different approach—from caffeine to herbal nootropics to gut-brain support. This guide compares ingredients, delivery format, and price so you can choose based on what matters to you.
-
-10 minutes
-
-[15 Citations](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vyvamind-vs-noocube-vs-seed-am-02-focus-energy-supplement-comparison-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_AM-02_vitaminsforstress_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -76,8 +50,6 @@ Research shows that your gut microbiome directly influences cognitive function a
 This is why some newer focus supplements don’t just target the brain. They also support the ecosystem that feeds it.
 
 ## **Key Differences at a Glance: Vyvamind vs. Noocube vs. Seed AM-02**
-
-![](https://seed.com/wp-content/uploads/2026/02/image-2.png)
 
 ## **A Closer Look: Seed’s AM-02™ Energy + Focus**
 
@@ -254,58 +226,3 @@ View Citations
 13. Walker EA, Pellegrini MV. Bacopa monnieri. StatPearls \[Internet\]. 2023 Mar 17.
 14. Noocube. Noocube Brain Productivity \[Internet\]. n.d.
 15. Vyvamind. Vyvamind Neurostimulant \[Internet\]. n.d.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/)
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![Attention, Please: Comparing Magic Mind, Alpha Brain, and Seed AM-02™ Focus Supplements](https://seed.com/wp-content/uploads/2026/02/SEO_Batch5_AM-02_coq10_1113-scaled.jpg)\\
-**Next Article** **Attention, Please: Comparing Magic Mind, Alpha Brain, and Seed AM-02™ Focus Supplements**\\
-\\
-by Sydni Rubio • February 13, 2026\\
-\\
-10 minutes](https://seed.com/cultured/magic-mind-vs-alpha-brain-vs-seed-am-02-guide/)
-
-## Related Articles
-
-[![Attention, Please: Comparing Magic Mind, Alpha Brain, and Seed AM-02™ Focus Supplements](https://seed.com/wp-content/uploads/2026/02/SEO_Batch5_AM-02_coq10_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Attention, Please: Comparing Magic Mind, Alpha Brain, and Seed AM-02™ Focus Supplements** \\
-\\
-by Sydni Rubio • February 13, 2026\\
-\\
-Overview Productivity shots, nootropic stacks, adaptogens, functional mushrooms, gut-brain formulas—focus supplements come in a lot of forms, and they don’t all work the same way. What works for you depends on factors like caffeine preference, how you respond to stimulants, and whether you want a capsule or a drink. Magic Mind is a matcha-based shot...\\
-\\
-8 minutes](https://seed.com/cultured/magic-mind-vs-alpha-brain-vs-seed-am-02-guide/) [![Co-Biotics 101](https://seed.com/wp-content/uploads/2025/11/Cultured_NPD_CoBiotics101_1935x913_10032025-768x362.jpeg)\\
-\\
-Cultured\\
-\\
-**Co-Biotics 101** \\
-\\
-by Mizue Naito • November 19, 2025\\
-\\
-A deep dive into co-biotic ingredients: What they are, what makes them different from probiotics and prebiotics, and why they are the basis of Seed’s latest product category.\\
-\\
-6 minutes](https://seed.com/cultured/co-biotics/) [![A Sleep Supplement Guide: Seed’s PM-02 vs. Nello vs. Natural Vitality](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_PM-02_bestsupplementsforsleep_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Sleep Supplement Guide: Seed’s PM-02 vs. Nello vs. Natural Vitality** \\
-\\
-by Sydni Rubio • February 4, 2026\\
-\\
-Overview The shelves are crowded with powders, gummies, and capsules all promising the same thing: a better night’s sleep. But if you’ve ever found yourself staring at the ceiling at 3 AM—or dragging yourself out of bed in a fog the next morning—you know that “sleep support” isn’t a one-size-fits-all label. 💊 The rise of...\\
-\\
-11 minutes](https://seed.com/cultured/nello-super-calm-vs-natural-vitality-calm-vs-seed-pm-02-guide/)

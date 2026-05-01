@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-thrush-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-thrush-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-thrush-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-thrush-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-thrush-guide/#)
-
 # A Guide to Using Probiotics for Thrush
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-7 minutes
-
-[20 Citations](https://seed.com/cultured/probiotics-for-thrush-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-thrush-guide/# "share")
-
-Last updated: February 17, 2026
-
 A science-backed guide to understanding oral and vaginal thrush. We explore how probiotics work, what the research says about specific strains for managing Candida overgrowth, and how to choose an effective product. Learn how to support your microbiome and find relief from thrush.
-
-7 minutes
-
-[20 Citations](https://seed.com/cultured/probiotics-for-thrush-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-thrush-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch6_ProbioticsforThrush_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -183,66 +157,3 @@ View Citations
 18. Wen, Z., Tian, L., Li, X., & Liu, J. (2022). Microbial community structure and function of oral biofilm in dental caries. Microbiology, 168(6), 001196. [https://doi.org/10.1099/mic.0.001196](https://doi.org/10.1099/mic.0.001196)
 19. Inchingolo, F., Santacroce, L., Ballini, A., Topi, S., Bottalico, L., Di Benedetto, A., Inchingolo, A. D., Ceci, S., Dipalma, G., & Hazballa, D. (2023). Probiotics in the Prevention of Oral Candidiasis: Where Are We Now? Pharmaceuticals, 16(9), 1313. [https://doi.org/10.3390/ph16091313](https://doi.org/10.3390/ph16091313)
 20. Marco, M. L., Heeney, D., Binda, S., Cifelli, C. J., Cotter, P. D., Foligné, B., Gänzle, M., Kort, R., Pasin, G., Pihlanto, A., Smid, E. J., & Hutkins, R. (2017). Health benefits of fermented foods: microbiota and beyond. Current Opinion in Biotechnology, 44, 94–102. [https://doi.org/10.1016/j.copbio.2016.11.010](https://doi.org/10.1016/j.copbio.2016.11.010)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee, MS](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Who Should Not Take Probiotics? The Science-First Guide to Gut Safety](https://seed.com/wp-content/uploads/2025/07/SEO_ShouldITakeProbiotics_Cultured_0225-1.jpg)\\
-**Next Article** **Who Should Not Take Probiotics? The Science-First Guide to Gut Safety**\\
-\\
-by Leigh Weingus • July 15, 2025\\
-\\
-7 minutes](https://seed.com/cultured/who-should-not-take-probiotics-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Ancient warriors in helmets and armor holding spears and a shield in a battle scene.](https://seed.com/wp-content/uploads/2023/07/alcohol_hero-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How Alcohol Damages Your Microbiome—And What You Can Do About It** \\
-\\
-by Seed Health • July 28, 2023\\
-\\
-When you drink alcohol, your body embarks on a hero's journey to overcome the effects of imbibing. Here's how alcohol affects the microbiome and how you can support your gut in its fight to recover.\\
-\\
-9 minutes](https://seed.com/cultured/how-alcohol-damages-your-microbiome/)

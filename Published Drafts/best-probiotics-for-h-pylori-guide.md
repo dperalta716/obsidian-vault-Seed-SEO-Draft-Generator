@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#)
-- [Share on Twitter](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#)
-- [Send Email](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#)
-- [Download PDF](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#)
-
 # Do Probiotics Help With H. pylori?
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-7 minutes
-
-[18 Citations](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/# "share")
-
-Last updated: October 17, 2025
-
 Probiotics aren't a cure for H. pylori, but can be a powerful ally. Our science-backed guide explains how specific strains of Lactobacillus, Bifidobacterium, and S. boulardii can help reduce antibiotic side effects, improve treatment tolerance, and support your long-term gut health.
-
-7 minutes
-
-[18 Citations](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-for-h-pylori-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_SupplementsforLeakyGut_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -193,66 +167,3 @@ View Citations
 16. Merenstein, D., et al. (2021). _Bifidobacterium animalis_ subsp. _lactis_ BB-12 protects against antibiotic-induced microbiome changes. _Nutrients_, 13(8), 2814. [https://doi.org/10.3390/nu13082814](https://doi.org/10.3390/nu13082814)
 17. Seddik, H., et al. (2019). _Saccharomyces boulardii_ CNCM I-745 plus sequential therapy for _Helicobacter pylori_ infections. _European Journal of Clinical Pharmacology_, 75(5), 639–645. [https://doi.org/10.1007/s00228-019-02625-0](https://doi.org/10.1007/s00228-019-02625-0)
 18. Williams, N. T. (2010). Probiotics. _American Journal of Health-System Pharmacy_, 67(6), 449–458. [https://doi.org/10.2146/ajhp090168](https://doi.org/10.2146/ajhp090168)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Can Probiotics Help With Mastitis?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforIBS_Cultured_0225.jpg)\\
-**Next Article** **Can Probiotics Help With Mastitis?**\\
-\\
-by Leigh Weingus • July 7, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-mastitis-guide/)
-
-## Related Articles
-
-[![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/)

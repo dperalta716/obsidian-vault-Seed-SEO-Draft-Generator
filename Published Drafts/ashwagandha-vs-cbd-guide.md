@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#)
-- [Share on Twitter](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#)
-- [Send Email](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#)
-- [Download PDF](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#)
-
 # Ashwagandha vs. CBD: Understanding Two Popular Natural Wellness Options
 
 Published: November 21, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Caitlin Beale, MS, RDN](https://seed.com/cultured/expert-reviewer/)
 
-9 minutes
-
-[17 Citations](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#view-citations)
-
-[Share](https://seed.com/cultured/ashwagandha-vs-cbd-guide/# "share")
-
-Published: November 21, 2025
-
 Explore the science of ashwagandha vs. CBD, comparing their mechanisms, benefits for stress and sleep, and how they interact with your body's natural rhythms to help you make an informed choice.
-
-9 minutes
-
-[17 Citations](https://seed.com/cultured/ashwagandha-vs-cbd-guide/#view-citations)
-
-[Share](https://seed.com/cultured/ashwagandha-vs-cbd-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/11/SEO_Batch2_PM-02ashwagandhavscbd_1025-2048x966.jpg)
 
 ### **Overview**
 
@@ -234,62 +208,3 @@ View Citations
 15. Narayan AJ, Hayley AC, Rose S, Natale LD, Downey LA. Psychopharmacology (Berl). 2024;242(2):297-308.
 16. Brown JD, Winterstein AG. J Clin Med. 2019;8(7):989.
 17. Zhdanova IV, Wurtman RJ, Lynch HJ, Ives JR, Dollins AB, Morabito C, et al. Clin Pharmacol Ther. 1996;57(5):552-8.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Caitlin Beale](https://seed.com/cultured/expert-reviewer/)
-
-[![L-Theanine vs Ashwagandha: Understanding the Science of Calm](https://seed.com/wp-content/uploads/2025/11/SEO_Batch3_AM-02_bestsupplementsforfocusandconcentration_1113-scaled.jpg)\\
-**Next Article** **L-Theanine vs Ashwagandha: Understanding the Science of Calm**\\
-\\
-by Sydni Rubio • November 21, 2025\\
-\\
-9 minutes](https://seed.com/cultured/l-theanine-vs-ashwagandha-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![different shaped pills on neutral background](https://seed.com/wp-content/uploads/2025/02/AskSciCare-ShouldIBeCyclingMyProbiotics_Cultured_21925-768x362.jpeg)\\
-\\
-Human microbiome\\
-\\
-**Ask SciCare: Should I Be “Cycling” My Probiotics?** \\
-\\
-by Seed Health • February 20, 2025\\
-\\
-True or false: Taking a new probiotic every few months helps build a more diverse gut microbiome.\\
-\\
-5 minutes](https://seed.com/cultured/cycling-rotating-probiotics/) [![Can Probiotics Help Prevent Bladder Infections? A Guide](https://seed.com/wp-content/uploads/2025/07/SEO_Batch6_ProbioticsforUrinaryHealth_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help Prevent Bladder Infections? A Guide** \\
-\\
-by Leigh Weingus • July 29, 2025\\
-\\
-Overview If you’ve ever experienced that unmistakable burning feeling and constant urge to pee, you’re familiar with how disruptive a bladder infection can be. Bladder infections—also called urinary tract infections (UTIs)—are a common reason for those “Why me?” moments in life. And if you’re someone who deals with them regularly, you’ve probably wondered if there’s...\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-for-bladder-infection-uti-guide/)

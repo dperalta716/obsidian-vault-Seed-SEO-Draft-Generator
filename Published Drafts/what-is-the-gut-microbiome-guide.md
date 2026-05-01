@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#)
-- [Send Email](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#)
-- [Download PDF](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#)
-
 # What is the Gut Microbiome? A Friendly Guide to Your Inner Ecosystem
 
 Published: June 10, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-8 minutes
-
-[18 Citations](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-the-gut-microbiome-guide/# "share")
-
-Published: June 10, 2025
-
 The gut microbiome is more than a buzzword—it’s a complex inner ecosystem shaping digestion, immunity, and mood. Get to know what it is, what it does, and how your daily choices help keep your microbes happy and balanced.
-
-8 minutes
-
-[18 Citations](https://seed.com/cultured/what-is-the-gut-microbiome-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-the-gut-microbiome-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutMicrobiome_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -236,66 +210,3 @@ View Citations
 16. Karl, J. P., Hatch, A. M., Arcidiacono, S. M., Pearce, S. C., Pantoja-Feliciano, I. G., Doherty, L. A., Soares, J. W. (2018). Effects of psychological, environmental and physical stressors on the gut microbiota. _Frontiers in Microbiology, 9_, 2013. [https://doi.org/10.3389/fmicb.2018.02013](https://doi.org/10.3389/fmicb.2018.02013)
 17. Levy, M., Kolodziejczyk, A. A., Thaiss, C. A., Elinav, E. (2017). Dysbiosis and the immune system. Nature Reviews Immunology, 17(4), 219–232. [https://doi.org/10.1038/nri.2017.7](https://doi.org/10.1038/nri.2017.7)
 18. Gevers, D., et al. (2012). The Human Microbiome Project: a community resource for the healthy human microbiome. PLoS Biology, 10(8), e1001377. [https://doi.org/10.1371/journal.pbio.1001377](https://doi.org/10.1371/journal.pbio.1001377)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![What’s the Link Between Gut Health and Weight Loss?](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_GutHealthandWeightLoss_Cultured_0525.jpg)\\
-**Next Article** **What’s the Link Between Gut Health and Weight Loss?**\\
-\\
-by Leigh Weingus • June 7, 2025\\
-\\
-8 minutes](https://seed.com/cultured/gut-health-weight-loss-science-guide/)
-
-## Related Articles
-
-[![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/)

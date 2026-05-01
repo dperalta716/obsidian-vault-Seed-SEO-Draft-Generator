@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#)
-
 # Probiotics for Anxiety: Mind Over Microbes
 
 Published: July 3, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-9 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/# "share")
-
-Published: July 3, 2025
-
 Curious about probiotics and anxiety? Get the lowdown on the gut-brain connection, which strains have been researched for mood support, and what to consider before you add a probiotic to your routine. This guide unpacks the science behind how your microbiome might shape anxiety.
-
-9 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-anxiety-gut-brain-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_BestProbioticforAnxiety_Cultured_0525-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -212,66 +186,3 @@ View Citations
 17. Wu, W. L., Adame, M. D., Liou, C. W., Barlow, J. T., Lai, T. T., Sharon, G., Schretter, C. E., Needham, B. D., Wang, M. I., Tang, W., Ousey, J., Lin, Y. Y., Yao, T. H., Abdel-Haq, R., Beadle, K., Gradinaru, V., Ismagilov, R. F., Mazmanian, S. K. (2021). Microbiota regulate social behaviour via stress response neurons in the brain. _Nature, 595_(7867):409-14. [https://doi.org/10.1038/s41586-021-03669-y](https://doi.org/10.1038/s41586-021-03669-y)
 18. Suez, J., Zmora, N., Segal, E., Elinav, E. (2019). The pros, cons, and many unknowns of probiotics. _Nature Medicine, 25_(5):716-29. [https://doi.org/10.1038/s41591-019-0439-x](https://doi.org/10.1038/s41591-019-0439-x)
 19. Johnson, K.V. A. & Steenbergen, L. (2025). Probiotics reduce negative mood over time: the value of daily self-reports in detecting effects. _NPJ Mental Health Research, 4_:10\. [https://doi.org/10.1038/s44184-025-00123-z](https://doi.org/10.1038/s44184-025-00123-z)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![The Science Behind Finding the Best Prebiotic and Probiotic Pairing](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_BestPrebioticandProbiotic_Cultured_0425-scaled.jpg)\\
-**Next Article** **The Science Behind Finding the Best Prebiotic and Probiotic Pairing**\\
-\\
-by Gianina Deines • July 3, 2025\\
-\\
-9 minutes](https://seed.com/cultured/best-prebiotic-probiotic-combination-guide/)
-
-## Related Articles
-
-[![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/) [![Human respiratory system showing nasal cavity, trachea, and lungs.](https://seed.com/wp-content/uploads/2023/03/coldandflu_cultured_4-768x686.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Could Help You Get Through Flu Season** \\
-\\
-by Seed Health • March 3, 2023\\
-\\
-Recent research suggests that certain probiotic strains may reduce the frequency and severity of respiratory tract infections.\\
-\\
-8 minutes](https://seed.com/cultured/were-still-not-through-cold-flu-season-heres-how-probiotics-could-help/)

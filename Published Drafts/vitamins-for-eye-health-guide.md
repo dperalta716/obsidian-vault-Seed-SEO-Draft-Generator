@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/vitamins-for-eye-health-guide/#)
-- [Share on Twitter](https://seed.com/cultured/vitamins-for-eye-health-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/vitamins-for-eye-health-guide/#)
-- [Send Email](https://seed.com/cultured/vitamins-for-eye-health-guide/#)
-- [Download PDF](https://seed.com/cultured/vitamins-for-eye-health-guide/#)
-
 # Vitamins for Eye Health: A Science-Backed Guide
 
 Last updated: February 8, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Lindsey Desoto, RDN, LD](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[16 Citations](https://seed.com/cultured/vitamins-for-eye-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-for-eye-health-guide/# "share")
-
-Last updated: February 8, 2026
-
 Your guide to the vitamins and nutrients that support long-term eye health. Learn how a systemic approach—including your microbiome and circadian rhythm—can help maintain healthy vision as you age.
-
-10 minutes
-
-[16 Citations](https://seed.com/cultured/vitamins-for-eye-health-guide/#view-citations)
-
-[Share](https://seed.com/cultured/vitamins-for-eye-health-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/12/SEO_Batch3_DM-02_vitaminsforeyehealth_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -184,62 +158,3 @@ View Citations
 15. Harris, C. B., Chowanadisai, W., Mishchuk, D. O., Satre, M. A., Slupsky, C. M., Rucker, R. B. (2013). Dietary pyrroloquinoline quinone (PQQ) alters indicators of inflammation and mitochondrial-related metabolism in human subjects. Journal of nutritional biochemistry, 24(12):2076-84. [https://doi.org/10.1016/j.jnutbio.2013.07.008](https://doi.org/10.1016/j.jnutbio.2013.07.008)
 
 Nakano, M., Yamamoto, T., Okamura, H., Tsuda, A., Kowatari, Y. (2012). Effects of Oral Supplementation with Pyrroloquinoline Quinone on Stress, Fatigue, and Sleep. Functional Foods in Health & Disease, 2(8):307-24. [https://www.ffhdj.com/index.php/ffhd/article/view/81](https://www.ffhdj.com/index.php/ffhd/article/view/81)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Lindsey Desoto](https://seed.com/cultured/expert-reviewer/)
-
-[![Seed’s DS-01® Daily Synbiotic vs. Cymbiotika Probiotic: What Science Says About Your Gut Health Options](https://seed.com/wp-content/uploads/2025/12/SEO_Batch5_ProbioticsforSibo_Cultured_0325.jpg)\\
-**Next Article** **Seed’s DS-01® Daily Synbiotic vs. Cymbiotika Probiotic: What Science Says About Your Gut Health Options**\\
-\\
-by Sydni Rubio • December 18, 2025\\
-\\
-10 minutes](https://seed.com/cultured/seed-ds01-synbiotic-vs-cymbiotika-probiotic-comparison-guide/)
-
-## Related Articles
-
-[![Close-up of a person wearing textured, mustard-colored athletic leggings.](https://seed.com/wp-content/uploads/2024/08/GutOnExercise_Cultured_090624-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How Your Gut Health Impacts Your Gym Performance (And Vice Versa)** \\
-\\
-by Megan Falk • September 23, 2024\\
-\\
-Do professional athletes have different gut microbiomes than the rest of us? Can running help keep me regular? And why do HIIT workouts always send me to the bathroom? We’ll answer all of it and more in this deep dive into exercise and the gut.\\
-\\
-9 minutes](https://seed.com/cultured/exercise-and-the-gut/) [![Limosilactobacillus reuteri: The Story Behind This Surprisingly Adaptable Microbe](https://seed.com/wp-content/uploads/2025/08/SEO_Batch2_LeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Limosilactobacillus reuteri: The Story Behind This Surprisingly Adaptable Microbe** \\
-\\
-by Leigh Weingus • August 1, 2025\\
-\\
-Overview You’ve probably heard plenty about probiotics and those so-called “good bacteria” that set up shop in your gut. But if you’ve ever paused mid-label and wondered what all those Latin names actually mean (or why anyone needs a probiotic with a name like Limosilactobacillus reuteri), we’ve got answers for you. Here’s where it gets...\\
-\\
-8 minutes](https://seed.com/cultured/limosilactobacillus-reuteri-benefits-strains-guide/) [![Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_WhatAreProbiotics_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes** \\
-\\
-by Sydni Rubio • June 26, 2025\\
-\\
-Overview Ever notice how “probiotics” seems to be the answer to everything these days?  Digestive issues? Probiotics. Skin problems? Probiotics. Immune system off-balance? You guessed it—probiotics.  The word is everywhere, but what are probiotics, really? And can they actually help with all of those things? Most of us think we know what probiotics are, but...\\
-\\
-13 minutes](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/)

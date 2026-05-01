@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/microbiome-testing-accuracy-guide/#)
-- [Share on Twitter](https://seed.com/cultured/microbiome-testing-accuracy-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/microbiome-testing-accuracy-guide/#)
-- [Send Email](https://seed.com/cultured/microbiome-testing-accuracy-guide/#)
-- [Download PDF](https://seed.com/cultured/microbiome-testing-accuracy-guide/#)
-
 # Microbiome Testing 101 (Finally, a Reason to Mail Your Poop)
 
 Last updated: September 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-9 minutes
-
-[8 Citations](https://seed.com/cultured/microbiome-testing-accuracy-guide/#view-citations)
-
-[Share](https://seed.com/cultured/microbiome-testing-accuracy-guide/# "share")
-
-Last updated: September 16, 2025
-
 At-home microbiome tests claim to reveal secrets about your gut from a single stool sample—but how accurate are they really? Get a science-backed look at the limits of current microbiome testing, why stool is only part of the story, and how to actually support your gut health.
-
-9 minutes
-
-[8 Citations](https://seed.com/cultured/microbiome-testing-accuracy-guide/#view-citations)
-
-[Share](https://seed.com/cultured/microbiome-testing-accuracy-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_ShouldITakeProbiotics_Cultured_0225-2.jpg)
 
 ### **Overview**
 
@@ -193,66 +167,3 @@ View Citations
 6. Human Microbiome Project Consortium. Nature. 2012;486(7402):207-14.
 7. Shanahan F, Ghosh TS, O’Toole PW. Gastroenterology. 2021;160(2):483-94.
 8. Zmora N, Zilberman-Schapira G, Suez J, Mor U, Dori-Bachash M, Bashiardes S, Kotler E, Zur M, Regev-Lehavi D, Brik RB, Federici S, Cohen Y, Linevsky R, Rothschild D, Moor AE, Ben-Moshe S, Harmelin A, Itzkovitz S, Maharshak N, Shibolet O, Elinav E. Cell. 2018;174(6):1388-1405.e21.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![When When a Stomach Bug Strikes, Do Probiotics Get a Say?](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525-2.jpg)\\
-**Next Article** **When When a Stomach Bug Strikes, Do Probiotics Get a Say?**\\
-\\
-by Sydni Rubio • August 9, 2025\\
-\\
-9 minutes](https://seed.com/cultured/probiotics-for-stomach-virus-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Can You Take Prebiotics and Probiotics Together?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch3_CanYouTakePrebioticsAndProbioticsTogether_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Prebiotics and Probiotics Together?** \\
-\\
-by Leigh Weingus • July 1, 2025\\
-\\
-Overview You’re doing your best to support your gut health. Maybe you’ve added a probiotic to your daily routine, but you may have heard about prebiotics, too. And now you’re wondering: Should you take them both? Is it helpful—or just too much? The short answer is yes, you can, and there’s solid science behind why...\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-prebiotics-and-probiotics-together-guide/) [![Close-up of a person holding two green capsules near their mouth against a blue background.](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforWomenOver50_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Seniors Need Probiotics? Supporting Your Health as You Age** \\
-\\
-by Sydni Rubio • May 6, 2025\\
-\\
-Your gut microbiome changes with age—but not in the way some commercials suggest. Discover how strain-specific probiotics for seniors may support digestion, gut barrier health, and immunity for men and women in their 50's, 60's, and beyond.\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-for-seniors-aging-gut-health-guide/)

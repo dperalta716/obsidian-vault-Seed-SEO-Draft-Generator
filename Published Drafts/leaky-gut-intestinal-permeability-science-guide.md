@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#)
-- [Send Email](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#)
-- [Download PDF](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#)
-
 # Can Supplements Help With ‘Leaky Gut’?
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Dana Jessen-Howard, MS](https://seed.com/cultured/expert-reviewer/dana-jessenhoward)
 
-4 minutes
-
-[20 Citations](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/# "share")
-
-Last updated: September 8, 2025
-
 Dive into the science of "leaky gut" (increased intestinal permeability). Learn how diet and stress affect your gut barrier, and explore evidence for specific probiotic strains, L-glutamine, zinc, and other approaches to support a healthy intestinal lining.
-
-4 minutes
-
-[20 Citations](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/leaky-gut-intestinal-permeability-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch2_SupplementsforLeakyGut_Cultured_0425-2-2048x966.jpg)
 
 ### **Overview**
 
@@ -135,66 +109,3 @@ View Citations
 18. Fu, J., et al. (2022). Dietary fiber intake and gut microbiota in human health. _Microorganisms, 10_(12), 2507. https://doi.org/10.3390/microorganisms10122507
 19. Davani-Davari, D., Negahdaripour, M., Karimzadeh, I., Seifan, M., Mohkam, M., Masoumi, S. J., Berenjian, A., & Ghasemi, Y. (2019). _Prebiotics: Definition, Types, Sources, Mechanisms, and Clinical Applications_. _Foods_, 8(3), 92. [https://doi.org/10.3390/foods8030092](https://doi.org/10.3390/foods8030092)
 20. Li, G., et al. (2024). Sleep deprivation impairs intestinal mucosal barrier by activating endoplasmic reticulum stress in goblet cells. _American Journal of Pathology, 194_(1), 85–100. https://doi.org/10.1016/j.ajpath.2023.10.004
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Dana Jessen-Howard](https://seed.com/wp-content/uploads/2025/05/Dana.png)
-
-### Reviewed By
-
-## [Dana Jessen-Howard](https://seed.com/cultured/expert-reviewer/dana-jessenhoward)
-
-Dana is a published computational biologist with expertise in cancer bioinformatics and neurodegenerative disease. At Seed, she has held a variety of roles leading science communications and product insights. Her extensive background studying/working in public health, exercise science, neuroscience, microbiology, and commercialization of biologics and medical technologies is backed by a curiosity in connecting novel scientific research and tech innovation to support population health at scale.
-
-[![Just Thrive Probiotic vs. Seed DS-01®: Key Differences That Matter](https://seed.com/wp-content/uploads/2025/08/SEO_Batch3_JustThriveProbioticvsSeed_Cultured_0525.jpg)\\
-**Next Article** **Just Thrive Probiotic vs. Seed DS-01®: Key Differences That Matter**\\
-\\
-by Gianina Deines • August 21, 2025\\
-\\
-4 minutes](https://seed.com/cultured/seed-ds-01-vs-just-thrive-probiotic-guide/)
-
-## Related Articles
-
-[![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut** \\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-Overview We’ve all had those off days—your stomach feels unsettled, your energy’s tanking, or you’re uncharacteristically irritable. It might not be your first thought, but what if these frustrations were your gut trying to send an SOS? Your digestive system is home to trillions of microbes, all busily contributing to digestion, immunity, and even your...\\
-\\
-8 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/) [![Three people running outdoors wearing jackets, motion blur effect.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch1_BestProbioticforMen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotics for Men: A Complete Guide to Strain Selection and Benefits** \\
-\\
-by Sydni Rubio • April 16, 2025\\
-\\
-Find the best probiotic strains for men's health needs, from digestive support to cardiovascular health, based on clinical research instead of marketing claims.\\
-\\
-9 minutes](https://seed.com/cultured/best-probiotic-for-men-strain-specific-guide/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/)

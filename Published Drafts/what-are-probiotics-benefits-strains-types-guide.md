@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#)
-- [Send Email](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#)
-- [Download PDF](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#)
-
 # Probiotics, Explained: The Science Behind Your Gut’s Favorite Microbes
 
 Last updated: December 4, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-13 minutes
-
-[24 Citations](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/# "share")
-
-Last updated: December 4, 2025
-
 Your gut has high standards—not every microbe deserves a gold star. Learn what makes a probiotic strain stand out, how these microbes interact with your body, and why the right ones can support digestion, immune balance, clearer skin, and even mental well-being.
-
-13 minutes
-
-[24 Citations](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-are-probiotics-benefits-strains-types-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch1_WhatAreProbiotics_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -300,66 +274,3 @@ View Citations
 22. Chong, H. X., Yusoff, N. A. A., Hor, Y. Y., Lew, L. C., Jaafar, M. H., Choi, S. B., Yusoff, M. S. B., Wahid, N., Abdullah, M. F. I. L., Zakaria, N., Ong, K. L., Park, Y. H., & Liong, M. T. (2019). Lactobacillus plantarum DR7 alleviates stress and anxiety in adults: a randomised, double-blind, placebo-controlled study. Beneficial microbes, 10(4), 355–373. [https://doi.org/10.3920/BM2018.0135](https://doi.org/10.3920/BM2018.0135)
 23. ‌Majeed, M., Nagabhushanam, K., Arumugam, S., Majeed, S., Ali, F. (2018). _Bacillus coagulans_ MTCC 5856 for the management of major depression with irritable bowel syndrome: a randomised, double-blind, placebo controlled, multi-centre, pilot clinical study. _Food & Nutrition Research, 62_(0). [https://doi.org/10.29219/fnr.v62.1218](https://doi.org/10.29219/fnr.v62.1218)
 24. Doron, S. & Snydman, D. R. (2015). Risk and Safety of Probiotics. _Clinical Infectious Diseases, 60_(Suppl.2):S129-34. [https://doi.org/10.1093/cid/civ085](https://doi.org/10.1093/cid/civ085)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![What Is a Synbiotic? Probiotics, Prebiotics, and the Science of Teamwork](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_Synbiotic_Cultured_0425.jpg)\\
-**Next Article** **What Is a Synbiotic? Probiotics, Prebiotics, and the Science of Teamwork**\\
-\\
-by Gianina Deines • June 26, 2025\\
-\\
-13 minutes](https://seed.com/cultured/what-is-a-synbiotic-guide/)
-
-## Related Articles
-
-[![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Hand holding a handful of dark purple berries over a wooden surface.](https://seed.com/wp-content/uploads/2024/08/BestFruits_Cultured_082024-768x362.jpg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**Bite Into the 5 Best Fruits for Gut Health** \\
-\\
-by Megan Falk • August 22, 2024\\
-\\
-Fruit is packed with polyphenols but also high in sugar—so where does it net out for your gut? Here’s a breakdown of the five best fruits for gut health and how to enjoy them.\\
-\\
-8 minutes](https://seed.com/cultured/best-fruits-for-gut-health/) [![soil running through hand into plastic pot](https://seed.com/wp-content/uploads/2025/03/OurFoodSystemisBroken_Cultured_041725-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**How Soil Microbes Feed the World and Fight Climate Change** \\
-\\
-by Emma Loewe • March 27, 2025\\
-\\
-Digging into the soil biome—home of the bacteria, fungi, and protists that form the foundations of modern agriculture.\\
-\\
-5 minutes](https://seed.com/cultured/soil-microbes-for-food-system/)

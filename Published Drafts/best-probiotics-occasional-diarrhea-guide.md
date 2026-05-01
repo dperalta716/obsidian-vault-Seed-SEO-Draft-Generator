@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#)
-- [Share on Twitter](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#)
-- [Send Email](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#)
-- [Download PDF](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#)
-
 # The Scoop on Poop: What Are the Best Probiotics for Diarrhea?
 
 Last updated: December 15, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-9 minutes
-
-[32 Citations](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/# "share")
-
-Last updated: December 15, 2025
-
 Is your digestive system staging an unexpected rebellion? Let's talk about which probiotics for diarrhea might help you regain control and find a more peaceful rhythm for your gut.
-
-9 minutes
-
-[32 Citations](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/#view-citations)
-
-[Share](https://seed.com/cultured/best-probiotics-occasional-diarrhea-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_ProbioticsforDiarrhea_Cultured_0225-2048x966.jpg)
 
 ### **Overview**
 
@@ -259,66 +233,3 @@ View Citations
 30. ‌Huang, R., Xing, H.-Y., Liu, H. J., Chen, Z. F., Tang, B. B. (2021). Efficacy of probiotics in the treatment of acute diarrhea in children: a systematic review and meta-analysis of clinical trials. Translational Pediatrics, 10(12):3248–3260. [https://doi.org/10.21037/tp-21-511](https://doi.org/10.21037/tp-21-511)
 31. Goldenberg, J. Z., Mertz, D., Johnston, B. C. (2018). Probiotics to Prevent Clostridium difficile Infection in Patients Receiving Antibiotics. JAMA, 320(5):499. [https://doi.org/10.1001/jama.2018.9064](https://doi.org/10.1001/jama.2018.9064)
 32. Rau, S., Gregg, A., Yaceczko, S., Limketkai, B. (2024). Prebiotics and probiotics for gastrointestinal disorders. Nutrients, 16(6):778. [https://doi.org/10.3390/nu16060778](https://doi.org/10.3390/nu16060778) ‌
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425.jpg)\\
-**Next Article** **Best Probiotic for Menopause? The Science on Gut & Vaginal Health**\\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-9 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/)
-
-## Related Articles
-
-[![Can probiotics cause nausea?](https://seed.com/wp-content/uploads/2025/02/SEO_Batch3_CanProbioticsCauseNausea_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Feeling Sick from Probiotics? Here’s Why.** \\
-\\
-by Sydni Rubio • March 6, 2025\\
-\\
-Probiotic-induced nausea is a common temporary side effect when starting probiotics. Learn why it occurs, including factors like strain selection, underlying conditions, and product quality. Plus, find effective ways to minimize discomfort, such as the right probiotic strains for easier adaptation.\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-nausea-guide/) [![White ceramic toilet with an open front toilet seat against a plain background](https://seed.com/wp-content/uploads/2025/03/SEO_DoProbioticsMakeYouPoop_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Probiotics Regulate Your Poop: A Comprehensive Guide** \\
-\\
-by Sydni Rubio • March 12, 2025\\
-\\
-Wondering how probiotics affect your poop? Whether you’re trying to manage occasional constipation or improve digestive comfort, these beneficial microbes can help regulate your digestive rhythm. Learn how probiotics work behind the scenes to support a healthier gut and more consistent bathroom visits.\\
-\\
-8 minutes](https://seed.com/cultured/how-probiotics-regulate-your-poop-a-comprehensive-guide/) [![Green supplement bottle with capsules being poured in, next to a glass of liquid.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch2_HowLongShouldYouTakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Long Should You Take Probiotics Before You See Results?** \\
-\\
-by Sydni Rubio • April 18, 2025\\
-\\
-Looking to support gut health, digestion, or bounce back after antibiotics? How long you should take probiotics might not be as straightforward as it seems—and depends on more than just the product label. Learn more with this science-backed guide.\\
-\\
-8 minutes](https://seed.com/cultured/how-long-take-probiotics-duration-guide/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#)
-- [Send Email](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#)
-
 # The Gut-Anxiety Connection: Can Your Microbiome Influence How You Feel?
 
 Published: June 16, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-7 minutes
-
-[19 Citations](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/# "share")
-
-Published: June 16, 2025
-
 Ever felt your stomach in knots when you’re anxious? Discover how your gut health shapes anxiety—and how science says you can nurture your microbiome for a calmer mind.
-
-7 minutes
-
-[19 Citations](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-and-anxiety-microbiome-mood-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_BestProbioticforAnxiety_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -226,66 +200,3 @@ View Citations
 17. Cataldi, S., Bonavolontà, V., Poli, L., Clemente, F. M., De Candia, M., Carvutto, R., Silva, A. F., Badicu, G., Greco, G., Fischetti, F. (2022). The Relationship between Physical Activity, Physical Exercise, and Human Gut Microbiota in Healthy and Unhealthy Subjects: A Systematic Review. Biology, 11(3):479. [https://doi.org/10.3390/biology11030479](https://doi.org/10.3390/biology11030479)
 18. Johnson, K. V. A. & Steenbergen, L. (2025). Probiotics reduce negative mood over time: the value of daily self-reports in detecting effects. Npj Mental Health Research, 4(1). [https://doi.org/10.1038/s44184-025-00123-z](https://doi.org/10.1038/s44184-025-00123-z)
 19. Rondinella, D., Raoul, P. C., Valeriani, E., Venturini, I., Cintoni, M., Severino, A., Galli, F. S., Mora, V., Mele, M. C., Cammarota, G., Gasbarrini, A., Rinninella, E., Ianiro, G. (2025). The Detrimental Impact of Ultra-Processed Foods on the Human Gut Microbiome and Gut Barrier. Nutrients, 17(5):859. [https://doi.org/10.3390/nu17050859](https://doi.org/10.3390/nu17050859)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![The Gut-Brain Connection: How Your Microbiome Shapes Your Mental Health](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutBrainAxis_Cultured_0325-1-scaled.jpg)\\
-**Next Article** **The Gut-Brain Connection: How Your Microbiome Shapes Your Mental Health**\\
-\\
-by Sydni Rubio • June 16, 2025\\
-\\
-7 minutes](https://seed.com/cultured/gut-microbiome-mental-health-connection-guide/)
-
-## Related Articles
-
-[![Best Probiotic for Menopause? The Science on Gut & Vaginal Health](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforMenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Probiotic for Menopause? The Science on Gut & Vaginal Health** \\
-\\
-by Sydni Rubio • May 14, 2025\\
-\\
-Hot flashes get the spotlight, but your gut and vaginal microbiomes also feel the shift. Here’s how menopause changes your internal ecosystems—and how the right probiotics may help support digestion, skin, mood, and more.\\
-\\
-8 minutes](https://seed.com/cultured/best-probiotic-menopause-microbiome-support-guide/) [![Ask SciCare text with speech bubbles on an orange and red pixelated background](https://seed.com/wp-content/uploads/2023/09/seed_askscicare_heat_hero-768x362.jpg)\\
-\\
-Environmental health\\
-\\
-**Does Heat Impact My Gut Health?** \\
-\\
-by Seed Health • September 11, 2023\\
-\\
-Our SciCare team is coming in hot with answers to four FAQs about heat, probiotics, the microbiome, and your health.\\
-\\
-5 minutes](https://seed.com/cultured/scicare-corner-heat-edition/) [![Dark green container of Seed DS-01 Daily Synbiotic probiotic supplement on white surface](https://seed.com/wp-content/uploads/2025/01/HowtoHaveYourBestPoopsEverin2025_Cultured_12125-1-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**How to Have Your Best Poops Ever in 2025** \\
-\\
-by Emma Loewe • January 8, 2025\\
-\\
-Next stop: Poo-phoria. Here are nine of our team’s top tips for smoother, more consistent stools in the new year.\\
-\\
-7 minutes](https://seed.com/cultured/how-to-poop-better/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#)
-
 # Probiotics for Fungal Infections: What Science Says
 
 Last updated: October 16, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-4 minutes
-
-[7 Citations](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-fungal-infections-guide/# "share")
-
-Last updated: October 16, 2025
-
 A science-backed guide to understanding fungal infections and the microbiome. We explore how probiotics work, what research says about specific strains for managing Candida and Malassezia overgrowth, and how to choose an effective product. Learn how to support your body's natural defenses.
-
-4 minutes
-
-[7 Citations](https://seed.com/cultured/probiotics-for-fungal-infections-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-fungal-infections-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_BestPrebioticandProbiotic_Cultured_0425-1-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -114,66 +88,3 @@ View Citations
 5. Van Ende, M., et al. (2019). Sugar signaling in Candida albicans. _Frontiers in Microbiology_, 10, 99. [https://doi.org/10.3389/fmicb.2019.00099](https://doi.org/10.3389/fmicb.2019.00099)
 6. Hill, C., et al. (2014). The International Scientific Association for Probiotics and Prebiotics consensus statement. _Nature Reviews Gastroenterology & Hepatology_, 11(8), 506-514. [https://doi.org/10.1038/nrgastro.2014.66](https://doi.org/10.1038/nrgastro.2014.66)
 7. Rossoni, R. D., et al. (2018). Antifungal activity of Lactobacillus against Candida. _Biofouling_, 34(2), 212–225. [https://doi.org/10.1080/08927014.2018.1425402](https://doi.org/10.1080/08927014.2018.1425402)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Microbes on Tap: Breastfeeding, Probiotics, and Your Baby’s Gut](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_ProbioticsWhileBreastfeeding_Cultured_0225.jpg)\\
-**Next Article** **Microbes on Tap: Breastfeeding, Probiotics, and Your Baby’s Gut**\\
-\\
-by Sydni Rubio • July 29, 2025\\
-\\
-4 minutes](https://seed.com/cultured/probiotics-while-breastfeeding-benefits-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Took extra probiotics? Don't worry. You might have temporary bloating or gas, but it’s generally harmless. The type of probiotic matters more than the amount.](https://seed.com/wp-content/uploads/2025/02/SEO_CanYouTakeTooManyProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Too Many Probiotics? How Do I Know Which Ones To Take?** \\
-\\
-by Chandana Balasubramanian • February 10, 2025\\
-\\
-Taking more probiotics than recommended won't typically cause harm. Choosing the right type of probiotic for your goals matters more than the dose. Learn what the science says.\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-too-many-probiotics-how-to-choose-right-ones-guide/) [![Airplane wing and distant plane flying at sunset viewed through window.](https://seed.com/wp-content/uploads/2024/07/Cultured_Flying_1080x1080_07252024-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**Flying Doesn’t Have to Suck for Your Gut** \\
-\\
-by Seed Health • July 25, 2024\\
-\\
-Tired of feeling gassy, bloated, and irregular after every flight? Here’s our complete guide to preparing your gut for takeoff.\\
-\\
-8 minutes](https://seed.com/cultured/how-to-prevent-digestive-issues-during-air-travel/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#)
-- [Share on Twitter](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#)
-- [Send Email](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#)
-- [Download PDF](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#)
-
 # Life Extension, Pure Encapsulations, or Seed’s DM-02: Finding Your Multivitamin Match
 
 Published: January 22, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Melissa Mitri, MS, RD](https://seed.com/cultured/expert-reviewer/)
 
-10 minutes
-
-[11 Citations](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#view-citations)
-
-[Share](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/# "share")
-
-Published: January 22, 2026
-
 Choosing the right multivitamin can be overwhelming. This guide breaks down Seed's DM-02™ Daily Multivitamin against two popular competitors—Life Extension Two-Per-Day and Pure Encapsulations O.N.E.—comparing formulation, delivery, and price.
-
-10 minutes
-
-[11 Citations](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/#view-citations)
-
-[Share](https://seed.com/cultured/multivitamin-comparison-seed-dm-02-life-extension-pure-encapsulations-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/01/SEO_Batch3_DM-02_bestbiotinsupplement_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -244,58 +218,3 @@ View Citations
 09. Abosamak NER, Gupta V. Vitamin B6 (pyridoxine). StatPearls. 2023.
 10. Life Extension. Two-Per-Day Multivitamin. n.d.
 11. Pure Encapsulations. O.N.E. Multivitamin. n.d.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/)
-
-### Reviewed By
-
-## [Melissa Mitri](https://seed.com/cultured/expert-reviewer/)
-
-[![Sleep Supplement Curious? Comparing Seed’s PM-02, Moonbrew, and Beam Dream](https://seed.com/wp-content/uploads/2026/01/SEO_Batch2_PM-02ashwagandhaforsleep_1125-scaled.jpg)\\
-**Next Article** **Sleep Supplement Curious? Comparing Seed’s PM-02, Moonbrew, and Beam Dream**\\
-\\
-by Sydni Rubio • January 22, 2026\\
-\\
-10 minutes](https://seed.com/cultured/beam-dream-vs-moonbrew-vs-seed-pm-02-sleep-aid-supplement-guide/)
-
-## Related Articles
-
-[![Best Multivitamin for Women: A 2026 Guide](https://seed.com/wp-content/uploads/2025/10/SEO_Batch1_bestmultivitaminforwomen_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Multivitamin for Women: A 2026 Guide** \\
-\\
-by Sydni Rubio • October 30, 2025\\
-\\
-Overview Walk down any wellness aisle, and you’ll be met with a wide selection of multivitamins for women. 💊 Bottles promise to support everything from energy to immunity, often categorized by age or life stage. The sheer volume of choice can feel overwhelming, doesn’t it? And it leads to an important question: What actually makes...\\
-\\
-9 minutes](https://seed.com/cultured/the-thinking-persons-guide-to-the-best-multivitamin-for-women-guide/) [![Vitafusion vs OLLY vs Seed DM-02™: Which Multivitamin is Right for You?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch1_bestmultivitaminforwomen_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Vitafusion vs OLLY vs Seed DM-02™: Which Multivitamin is Right for You?** \\
-\\
-by Sydni Rubio • January 14, 2026\\
-\\
-Overview Take a look at any multivitamin label and the names of included vitamins and minerals are similar across brands. But the format you choose—gummy or capsule—affects which nutrients can be included, what forms they come in, and how they survive digestion. This guide compares Vitafusion’s Women’s Multivitamin, OLLY’s The Perfect Women’s Multi, and Seed’s...\\
-\\
-12 minutes](https://seed.com/cultured/vitafusion-vs-olly-womens-multivitamin-vs-seed-dm-02-guide/) [![Which Multivitamin Should You Choose: Seed’s DM-02, OLLY, or HUM Nutrition?](https://seed.com/wp-content/uploads/2026/01/SEO_Batch1_brainsupplements_1025-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Which Multivitamin Should You Choose: Seed’s DM-02, OLLY, or HUM Nutrition?** \\
-\\
-by Sydni Rubio • January 14, 2026\\
-\\
-Overview The vitamin and mineral names on a multivitamin label are almost the same across brands. Their differences lie in what happens after you swallow them: the vitamin and nutrient forms, how they make it through digestion, and whether they reach the cells that actually need them. This guide compares HUM Nutrition’s Base Control, OLLY’s...\\
-\\
-11 minutes](https://seed.com/cultured/hum-nutrition-vs-olly-vs-seed-dm-02-guide/)

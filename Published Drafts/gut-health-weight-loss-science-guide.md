@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-health-weight-loss-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-health-weight-loss-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-health-weight-loss-science-guide/#)
-- [Send Email](https://seed.com/cultured/gut-health-weight-loss-science-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-health-weight-loss-science-guide/#)
-
 # What’s the Link Between Gut Health and Weight Loss?
 
 Last updated: October 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Mirae Lee, MS](https://seed.com/cultured/expert-reviewer/mirae-lee)
 
-7 minutes
-
-[15 Citations](https://seed.com/cultured/gut-health-weight-loss-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-weight-loss-science-guide/# "share")
-
-Last updated: October 17, 2025
-
 Delve into the science of gut health and its influence on weight. Discover how your microbiome affects energy, inflammation, and appetite, the strain-specific role of probiotics (not all aid weight loss!), and how diet supports a healthy gut-weight balance .
-
-7 minutes
-
-[15 Citations](https://seed.com/cultured/gut-health-weight-loss-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-health-weight-loss-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_GutHealthandWeightLoss_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -198,66 +172,3 @@ View Citations
 13. Martindale, R. G., Mundi, M. S., Hurt, R. T., & McClave, S. A. (2025). Short-chain fatty acids in clinical practice: where are we? _Current Opinion in Clinical Nutrition and Metabolic Care, 28_(2), 54–60. [https://doi.org/10.1097/MCO.0000000000001101](https://doi.org/10.1097/MCO.0000000000001101)
 14. Mo, S. J., Lee, K., Hong, H. J., Hong, D. K., Jung, S. H., Park, S. D., Shim, J. J., & Lee, J. L. (2022). Effects of Lactobacillus curvatus HY7601 and Lactobacillus plantarum KY1032 on Overweight and the Gut Microbiota in Humans: Randomized, Double-Blinded, Placebo-Controlled Clinical Trial. _Nutrients, 14_(12), 2484. [https://doi.org/10.3390/nu14122484](https://doi.org/10.3390/nu14122484)
 15. Noor, J., Chaudhry, A., Batool, S., Noor, R., & Fatima, G. (2023). Exploring the Impact of the Gut Microbiome on Obesity and Weight Loss: A Review Article. _Cureus, 15_(6), e40948. [https://doi.org/10.7759/cureus.40948](https://doi.org/10.7759/cureus.40948)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Mirae Lee](https://seed.com/wp-content/uploads/2025/04/Mirae.png)
-
-### Reviewed By
-
-## [Mirae Lee](https://seed.com/cultured/expert-reviewer/mirae-lee)
-
-Mirae Lee is a microbiologist and science communicator. She has extensive hands-on experience in the lab as a former bacterial researcher, with a primary focus on the gut microbiome. Through her scientific and academic background, she is dedicated to making science more accessible and more easily digestible. She is also passionate about raising awareness of how not all bacteria are harmful and that many actually contribute to human and planetary health.
-
-[![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325.jpg)\\
-**Next Article** **Do Probiotics Make You Gain Weight? Unpacking the Science**\\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/)
-
-## Related Articles
-
-[![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![Close-up of hands gently holding a pregnant belly.](https://seed.com/wp-content/uploads/2025/02/SEO_Batch2_CanYouTakeProbioticsWhilePregnant_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics During Pregnancy: Good for You and Your Baby?** \\
-\\
-by Sydni Rubio • February 26, 2025\\
-\\
-Expecting a baby? Learn how probiotics support your pregnancy by promoting digestive comfort and vaginal health. From managing morning sickness to restoring microbial balance, discover the science-backed benefits of probiotics during pregnancy and find expert guidance on choosing the right product.\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-use-during-pregnancy-guide/) [![Half of a yellow pear with white flesh on a white surface and dark background.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch3_FiberandProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Fiber and Probiotics: Better Together for Gut Health** \\
-\\
-by Sydni Rubio • March 26, 2025\\
-\\
-Fiber and probiotics form a powerful team for gut health. Fiber acts as fuel for probiotics, helping them support digestive and immune function. Learn how different types of fiber nourish specific probiotic strains, the benefits of synbiotics, and practical tips for combining them in your diet.\\
-\\
-8 minutes](https://seed.com/cultured/fiber-and-probiotics-benefits-guide/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#)
-- [Share on Twitter](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#)
-- [Send Email](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#)
-- [Download PDF](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#)
-
 # Should You Take Probiotics With Antibiotics? An Evidence-Based Look
 
 Last updated: September 24, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-5 minutes
-
-[12 Citations](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/# "share")
-
-Last updated: September 24, 2025
-
 Antibiotics can disrupt your gut microbiome. Explore the science behind taking probiotics with antibiotics, their role in preventing diarrhea, optimal timing for doses, and tips for choosing effective strains to support your digestive health during and after treatment .
-
-5 minutes
-
-[12 Citations](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/#view-citations)
-
-[Share](https://seed.com/cultured/taking-probiotics-with-antibiotics-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_TakingProbioticswithAntibiotics_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -149,66 +123,3 @@ View Citations
 10. Tierney, B. T., Van den Abbeele, P., Al-Ghalith, G. A., Verstrepen, L., Ghyselinck, J., Calatayud, M., Marzorati, M., Gadir, A. A., Daisley, B. A., Reid, G., Bron, P. A., Gevers, D., Dhir, R., & Simmons, S. L. (2023). Capacity of a microbial synbiotic to rescue the in vitro metabolic activity of the gut microbiome following perturbation with alcohol or antibiotics. _Applied and Environmental Microbiology, 89_(3), e01880-22. [https://doi.org/10.1128/aem.01880-22](https://doi.org/10.1128/aem.01880-22)
 11. Williams, N. T. (2010). Probiotics. _American Journal of Health-System Pharmacy, 67_(6), 449–458. [https://doi.org/10.2146/ajhp090168](https://doi.org/10.2146/ajhp090168)
 12. Neut, C., Mahieux, S., & Dubreuil, L. J. (2017). Antibiotic susceptibility of probiotic strains: Is it reasonable to combine probiotics with antibiotics? _Médecine et Maladies Infectieuses, 47_(7), 477–483. [https://doi.org/10.1016/j.medmal.2017.07.001](https://doi.org/10.1016/j.medmal.2017.07.001)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Probiotic Yogurt vs. Real Probiotics: What’s the Difference?](https://seed.com/wp-content/uploads/2025/06/SEO_TypesofProbiotics_Cultured_0225.jpg)\\
-**Next Article** **Probiotic Yogurt vs. Real Probiotics: What’s the Difference?**\\
-\\
-by Gianina Deines • June 11, 2025\\
-\\
-5 minutes](https://seed.com/cultured/best-probiotic-yogurt-science-guide/)
-
-## Related Articles
-
-[![different shaped pills on neutral background](https://seed.com/wp-content/uploads/2025/02/AskSciCare-ShouldIBeCyclingMyProbiotics_Cultured_21925-768x362.jpeg)\\
-\\
-Human microbiome\\
-\\
-**Ask SciCare: Should I Be “Cycling” My Probiotics?** \\
-\\
-by Seed Health • February 20, 2025\\
-\\
-True or false: Taking a new probiotic every few months helps build a more diverse gut microbiome.\\
-\\
-5 minutes](https://seed.com/cultured/cycling-rotating-probiotics/) [![Antibiotics kill both harmful and beneficial gut bacteria, disrupting digestion and immunity. Learn how to protect your gut microbiome and recover faster.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch7_DoAntibioticsKillGoodBacteria_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Antibiotics Kill Good Bacteria? How They Affect Your Gut & Health** \\
-\\
-by Sydni Rubio • March 10, 2025\\
-\\
-Antibiotics can disrupt your gut microbiome, impacting digestion, immunity, and overall health. Learn how different antibiotics affect your gut bacteria, the short- and long-term effects of microbial disruption, and how to support your good bacteria during and after antibiotic treatment.\\
-\\
-7 minutes](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/) [![Dark green container of Seed DS-01 Daily Synbiotic probiotic supplement on white surface](https://seed.com/wp-content/uploads/2025/01/HowtoHaveYourBestPoopsEverin2025_Cultured_12125-1-768x362.jpeg)\\
-\\
-Digestion \| Human microbiome\\
-\\
-**How to Have Your Best Poops Ever in 2025** \\
-\\
-by Emma Loewe • January 8, 2025\\
-\\
-Next stop: Poo-phoria. Here are nine of our team’s top tips for smoother, more consistent stools in the new year.\\
-\\
-7 minutes](https://seed.com/cultured/how-to-poop-better/)

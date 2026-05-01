@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#)
-- [Share on Twitter](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#)
-- [Send Email](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#)
-- [Download PDF](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#)
-
 # Do Antibiotics Kill Good Bacteria? How They Affect Your Gut & Health
 
 Last updated: September 11, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-7 minutes
-
-[23 Citations](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#view-citations)
-
-[Share](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/# "share")
-
-Last updated: September 11, 2025
-
 Antibiotics can disrupt your gut microbiome, impacting digestion, immunity, and overall health. Learn how different antibiotics affect your gut bacteria, the short- and long-term effects of microbial disruption, and how to support your good bacteria during and after antibiotic treatment.
-
-7 minutes
-
-[23 Citations](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/#view-citations)
-
-[Share](https://seed.com/cultured/antibiotics-and-good-bacteria-guide/# "share")
-
-![Antibiotics kill both harmful and beneficial gut bacteria, disrupting digestion and immunity. Learn how to protect your gut microbiome and recover faster.](https://seed.com/wp-content/uploads/2025/03/SEO_Batch7_DoAntibioticsKillGoodBacteria_Cultured_0325-2048x966.jpg)
 
 ## **Overview**
 
@@ -199,66 +173,3 @@ View Citations
 21. Fernández-Alonso, M., Aguirre Camorlinga, A., Messiah, S. E., & Marroquin, E. (2022). Effect of adding probiotics to an antibiotic intervention on the human gut microbial diversity and composition: A systematic review. Journal of Medical Microbiology, 71(11), 001625. [https://doi.org/10.1099/jmm.0.001625](https://doi.org/10.1099/jmm.0.001625)
 22. Williams, N. T. (2010). Probiotics. American Journal of Health-System Pharmacy, 67(6), 449–458. [https://doi.org/10.2146/ajhp090168](https://doi.org/10.2146/ajhp090168)
 23. Tierney, B. T., Van Den Abbeele, P., Al-Ghalith, G. A., Verstrepen, L., Ghyselinck, J., Calatayud, M., Marzorati, M., Gadir, A. A., Daisley, B. A., Reid, G., Bron, P. A., Gevers, D., Dhir, R., & Simmons, S. (2023). Capacity of a microbial synbiotic to rescue the in vitro metabolic activity of the gut microbiome following perturbation with alcohol or antibiotics. Applied and Environmental Microbiology, 89(3), e01880-22. [https://doi.org/10.1128/aem.01880-22](https://doi.org/10.1128/aem.01880-22)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Feeling Sick from Probiotics? Here’s Why.](https://seed.com/wp-content/uploads/2025/02/SEO_Batch3_CanProbioticsCauseNausea_Cultured_0225.jpg)\\
-**Next Article** **Feeling Sick from Probiotics? Here’s Why.**\\
-\\
-by Sydni Rubio • March 6, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-nausea-guide/)
-
-## Related Articles
-
-[![What Probiotics Should You Take? A Beginner’s Guide](https://seed.com/wp-content/uploads/2025/02/SEO_WhatProbioticsShouldITake_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**What Probiotics Should You Take? A Beginner’s Guide** \\
-\\
-by Chandana Balasubramanian • February 20, 2025\\
-\\
-You don’t have to go with your gut—at least not when choosing a probiotic. Skip the marketing hype and learn how to find the right one based on strain, dosage, quality, and more.\\
-\\
-7 minutes](https://seed.com/cultured/what-probiotics-should-you-take-guide/) [![Took extra probiotics? Don't worry. You might have temporary bloating or gas, but it’s generally harmless. The type of probiotic matters more than the amount.](https://seed.com/wp-content/uploads/2025/02/SEO_CanYouTakeTooManyProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You Take Too Many Probiotics? How Do I Know Which Ones To Take?** \\
-\\
-by Chandana Balasubramanian • February 10, 2025\\
-\\
-Taking more probiotics than recommended won't typically cause harm. Choosing the right type of probiotic for your goals matters more than the dose. Learn what the science says.\\
-\\
-5 minutes](https://seed.com/cultured/can-you-take-too-many-probiotics-how-to-choose-right-ones-guide/) [![Can probiotics cause nausea?](https://seed.com/wp-content/uploads/2025/02/SEO_Batch3_CanProbioticsCauseNausea_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Feeling Sick from Probiotics? Here’s Why.** \\
-\\
-by Sydni Rubio • March 6, 2025\\
-\\
-Probiotic-induced nausea is a common temporary side effect when starting probiotics. Learn why it occurs, including factors like strain selection, underlying conditions, and product quality. Plus, find effective ways to minimize discomfort, such as the right probiotic strains for easier adaptation.\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-nausea-guide/)

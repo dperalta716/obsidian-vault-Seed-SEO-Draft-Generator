@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#)
-
 # Can Probiotics Help With a “Leaky Gut”?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/# "share")
-
-Last updated: September 17, 2025
-
 Leaky gut" isn't about your gut springing leaks like faulty plumbing—it’s actually increased intestinal permeability. Find out what this means, how your daily habits affect your gut barrier, and whether probiotics can truly lend a hand.
-
-7 minutes
-
-[16 Citations](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -184,66 +158,3 @@ View Citations
 14. Maseda, D. & Ricciotti, E. (2020). NSAID–Gut Microbiota Interactions. _Frontiers in Pharmacology, 11_. [https://doi.org/10.3389/fphar.2020.01153](https://doi.org/10.3389/fphar.2020.01153)
 15. Leclercq, S., Matamoros, S., Cani, P. D., Neyrinck, A. M., Jamar, F., Stärkel, P., Windey, K., Tremaroli, V., Bäckhed, F., Verbeke, K., de Timary, P., Delzenne, N. M. (2014). Intestinal permeability, gut-bacterial dysbiosis, and behavioral markers of alcohol-dependence severity. _PNAS, 111_(42):e4485-93. [https://doi.org/10.1073/pnas.1415174111](https://doi.org/10.1073/pnas.1415174111)
 16. Martinez, J. E., Kahana, D. D., Ghuman, S., Wilson, H. P., Wilson, J., Samuel, Lagishetty, V., Jacobs, J. P., Sinha-Hikim, A. P., Friedman, T. C. (2021). Unhealthy Lifestyle and Gut Dysbiosis: A Better Understanding of the Effects of Poor Diet and Nicotine on the Intestinal Microbiome. _Frontiers in Endocrinology, 12_. [https://doi.org/10.3389/fendo.2021.667066](https://doi.org/10.3389/fendo.2021.667066)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can Probiotics Cause Diarrhea? What You Should Know](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_CanProbioticsCauseDiarrhea_Cultured_0225.jpg)\\
-**Next Article** **Can Probiotics Cause Diarrhea? What You Should Know**\\
-\\
-by Sydni Rubio • May 17, 2025\\
-\\
-7 minutes](https://seed.com/cultured/can-probiotics-cause-diarrhea-gut-adjustment-guide/)
-
-## Related Articles
-
-[![Water glass and](https://seed.com/wp-content/uploads/2025/04/ChatGPT-Image-Apr-2-2025-12_47_19-PM-768x512.png)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Actually Work? A Science-Based Look Beyond the Hype** \\
-\\
-by Sydni Rubio • April 2, 2025\\
-\\
-The real question isn’t just “do probiotics work,” but which ones, how much, and in what form. The answer lies in the details—specific probiotic strain, precise dose, and proper delivery method. Discover how science-backed probiotics can support better gut health and a balanced immune system.\\
-\\
-11 minutes](https://seed.com/cultured/do-probiotics-work-benefits-and-strains-guide/) [![Hand reaching for a container of Seed daily synbiotic on a bathroom counter with beauty tools.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch8_HowToImproveGutHealth_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How to Improve Gut Health: Your Friendly Guide to a Happier Microbiome** \\
-\\
-by Sina Eissfeller • April 11, 2025\\
-\\
-Overview Ever had that moment where your stomach makes an unexpected noise during an important meeting? Or experienced sudden bloating that makes your jeans refuse to button? Your gut is trying to tell you something—and it’s time we listened. But that’s where things get confusing. Between probiotics, kombucha crazes, and endless elimination diets, the gut...\\
-\\
-9 minutes](https://seed.com/cultured/how-to-improve-gut-health-a-science-backed-guide/) [![Probiotics for Gas and Bloating: Let’s Clear the Air](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_DoProbioticsHelpWithGasAndBloating_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Gas and Bloating: Let’s Clear the Air** \\
-\\
-by Sydni Rubio • May 9, 2025\\
-\\
-Probiotics for bloating and gas are easy to find, harder to get right. This guide breaks down what causes digestive discomfort, how probiotics may help, and what to look for—delivery, dosage, and daily habits included.\\
-\\
-7 minutes](https://seed.com/cultured/best-probiotic-bloating-gas-guide/)

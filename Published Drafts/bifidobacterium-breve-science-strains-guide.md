@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#)
-- [Share on Twitter](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#)
-- [Send Email](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#)
-- [Download PDF](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#)
-
 # Bifidobacterium breve: A Deep Dive Into This Mighty Microbe
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[10 Citations](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#view-citations)
-
-[Share](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/# "share")
-
-Last updated: September 8, 2025
-
 Curious about Bifidobacterium breve? Explore how this microbe shapes digestive, immune, and skin health for infants and adults alike—and why picking the right strain is key for real, science-backed results.
-
-8 minutes
-
-[10 Citations](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/#view-citations)
-
-[Share](https://seed.com/cultured/bifidobacterium-breve-science-strains-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch7_BifidobacteriumBreve_Cultured_0325.jpg)
 
 You’ve probably heard friends, parents, or health influencers chat about “good bacteria”—but few names pop up as often as _Bifidobacterium breve_.
 
@@ -178,66 +152,3 @@ View Citations
 08. Markowiak-Kopeć, P., & Śliżewska, K. (2020). The Effect of Probiotics on the Production of Short-Chain Fatty Acids by Human Intestinal Microbiome. _Nutrients_, 12(4), 1107. [https://doi.org/10.3390/nu12041107](https://doi.org/10.3390/nu12041107)
 09. Kurose, Y., Minami, J., Sen, A., Iwabuchi, N., Abe, F., Xiao, J., & Suzuki, T. (2019). Bioactive factors secreted by Bifidobacterium breve B-3 enhance barrier function in human intestinal Caco-2 cells. _Beneficial Microbes_, 10(1), 89–100. [https://doi.org/10.3920/BM2018.0062](https://doi.org/10.3920/BM2018.0062)
 10. Doron, S., & Snydman, D. R. (2015). Risk and safety of probiotics. _Clinical Infectious Diseases_, 60 Suppl 2, S129-S134. [https://doi.org/10.1093/cid/civ085](https://doi.org/10.1093/cid/civ085)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Probiotics For Body Odor: Can They Help?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_ProbioticsforBacterialOvergrowth_Cultured_0425.jpg)\\
-**Next Article** **Probiotics For Body Odor: Can They Help?**\\
-\\
-by Leigh Weingus • July 30, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-for-body-odor-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Can Probiotics Help With Food Poisoning?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Help With Food Poisoning?** \\
-\\
-by Leigh Weingus • July 17, 2025\\
-\\
-Overview We’ve all been there. That sinking feeling a few hours after a questionable meal, when your stomach starts to churn, and you begin to retrace every culinary step. You’ve officially entered the regrettable, uncomfortable, and downright miserable world of food poisoning (also called foodborne illness). As you ride out the storm, you might wonder...\\
-\\
-10 minutes](https://seed.com/cultured/probiotics-for-food-poisoning-recovery-guide/) [![Coastal mountain landscape with cloudy skies](https://seed.com/wp-content/uploads/2024/04/DSC09374_4497SEED_B_ADOBERGB-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**Can We Combat Rising CO₂ Levels With Microbes?** \\
-\\
-by Seed Health • April 19, 2024\\
-\\
-In partnership with the Two Frontiers Project (2FP), we’re supporting a range of research initiatives in 2024 focused on the discovery and application of microbes to capture CO₂ and transform it into sustainable solutions and resources.\\
-\\
-3 minutes](https://seed.com/cultured/seedlabs-carbon/)

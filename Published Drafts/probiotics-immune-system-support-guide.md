@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-immune-system-support-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-immune-system-support-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-immune-system-support-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-immune-system-support-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-immune-system-support-guide/#)
-
 # Which Probiotic Is Best for Your Immune System? A Science-Backed Guide
 
 Published: May 19, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-7 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-immune-system-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-immune-system-support-guide/# "share")
-
-Published: May 19, 2025
-
 Your gut is home to much of your immune system—and certain probiotic strains may support how it responds to the world around you. This article explores the gut-immune axis and how beneficial microbes help your body decide what’s a threat (and what’s not.)
-
-7 minutes
-
-[19 Citations](https://seed.com/cultured/probiotics-immune-system-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-immune-system-support-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/05/SEO_Batch6_ProbioticsforImmuneSystem_Cultured_0325-2048x966.jpg)
 
 ### **Overview**
 
@@ -208,66 +182,3 @@ View Citations
 17. Marco, M. L., Sanders, M. E., Gänzle, M., Arrieta, M. C., Cotter, P. D., De Vuyst, L., Hill, C., Holzapfel, W., Lebeer, S., Merenstein, D., Reid, G., Wolfe, B. E., Hutkins, R. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. Nature Reviews: Gastroenterology & Hepatology, 18(3):196–208. [https://doi.org/10.1038/s41575-020-00390-5](https://doi.org/10.1038/s41575-020-00390-5)
 18. Boyte, M., Benkowski, A., Pane, M., Shehata, H. R. (2023). Probiotic and postbiotic analytical methods: a perspective of available enumeration techniques. Frontiers in Microbiology, 14:1304621. [https://doi.org/10.3389/fmicb.2023.1304621](https://doi.org/10.3389/fmicb.2023.1304621)
 19. Doron, S. & Snydman, D. R. (2015). Risk and Safety of Probiotics. Clinical Infectious Diseases, 60(Suppl 2):S129-34. [https://doi.org/10.1093/cid/civ085](https://doi.org/10.1093/cid/civ085)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Can Probiotics Help With a “Leaky Gut”? ](https://seed.com/wp-content/uploads/2025/05/SEO_Batch2_LeakyGut_Cultured_0425-scaled.jpg)\\
-**Next Article** **Can Probiotics Help With a “Leaky Gut”?**\\
-\\
-by Sydni Rubio • May 19, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-leaky-gut-barrier-support-guide/)
-
-## Related Articles
-
-[![You've started taking probiotics, and now you're wondering: "Are they actually doing anything?" Whether you're dealing with digestive issues, recovering from antibiotics, or simply trying to support your gut health, it's natural to question if your probiotics are making a difference.](https://seed.com/wp-content/uploads/2025/02/SEO_SignsProbioticsAreWorking_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**5 Signs Your Probiotics Are Actually Working** \\
-\\
-by Chandana Balasubramanian • February 5, 2025\\
-\\
-You've started taking probiotics, and now you're wondering: "Are they actually doing anything?"\\
-\\
-6 minutes](https://seed.com/cultured/signs-probiotics-are-working-guide/) [![Close-up of a person holding two green capsules near their mouth against a blue background.](https://seed.com/wp-content/uploads/2025/05/SEO_Batch1_BestProbioticforWomenOver50_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Seniors Need Probiotics? Supporting Your Health as You Age** \\
-\\
-by Sydni Rubio • May 6, 2025\\
-\\
-Your gut microbiome changes with age—but not in the way some commercials suggest. Discover how strain-specific probiotics for seniors may support digestion, gut barrier health, and immunity for men and women in their 50's, 60's, and beyond.\\
-\\
-5 minutes](https://seed.com/cultured/probiotics-for-seniors-aging-gut-health-guide/) [![Close-up of a hand resting on a person's bare skin.](https://seed.com/wp-content/uploads/2022/09/GutImmuneConnection_Cultured_090624-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**The Role of the Gut Microbiome in Your Immunity** \\
-\\
-by Seed Health • September 28, 2022\\
-\\
-Your gut and immune system are deeply connected, working together to carefully coordinate your body’s response to the world around and within you. But how do these seemingly separate systems influence one another? Microbes are an important part of the answer.\\
-\\
-7 minutes](https://seed.com/cultured/the-gut-immune-connection/)

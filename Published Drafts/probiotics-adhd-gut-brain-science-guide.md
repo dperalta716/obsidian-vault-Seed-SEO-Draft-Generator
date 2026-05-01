@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#)
-
 # The Impulsive Buyer's Guide to ADHD and Probiotics
 
 Last updated: February 17, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-9 minutes
-
-[15 Citations](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/# "share")
-
-Last updated: February 17, 2026
-
 Learn what current science says about the gut-brain axis, probiotics, and ADHD. We break down research on specific microbial strains and clarify what's known (and not) about their role in supporting well-being for those with ADHD.
-
-9 minutes
-
-[15 Citations](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-adhd-gut-brain-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsforADHD_Cultured_0525-2048x966.jpg)
 
 ### **Overview**
 
@@ -220,66 +194,3 @@ View Citations
 13. Kumperscak, H. G., Gricar, A., Ülen, I., Micetic-Turk, D. (2020). A Pilot Randomized Control Trial With the Probiotic Strain _Lactobacillus rhamnosus_ GG (LGG) in ADHD: Children and Adolescents Report Better Health-Related Quality of Life. _Frontiers in Psychiatry, 11_. [https://doi.org/10.3389/fpsyt.2020.00181](https://doi.org/10.3389/fpsyt.2020.00181)
 14. Wang, L. J., Yang, C. Y., Kuo, H. C., Chou, W. J., Tsai, C. S., Lee, S. Y. (2022). Effect of _Bifidobacterium bifidum_ on Clinical Characteristics and Gut Microbiota in Attention-Deficit/Hyperactivity Disorder. _Journal of Personalized Medicine, 12_(2):227. [https://doi.org/10.3390/jpm12020227](https://doi.org/10.3390/jpm12020227)
 15. Hill, C., Guarner, F., Reid, G., Gibson, G. R., Merenstein, D. J., Pot, B., Morelli, L., Canani, R. B., Flint, H. J., Salminen, S., Calder, P. C., Sanders, M. E. (2014). The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic. _Nature Reviews Gastroenterology & Hepatology, 11_(8):506-14. [https://doi.org/10.1038/nrgastro.2014.66](https://doi.org/10.1038/nrgastro.2014.66)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Probiotics for Parasites: What the Science Actually Says](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsandLiverHealth_Cultured_0525-1.jpg)\\
-**Next Article** **Probiotics for Parasites: What the Science Actually Says**\\
-\\
-by Leigh Weingus • August 8, 2025\\
-\\
-9 minutes](https://seed.com/cultured/probiotics-for-parasites-guide/)
-
-## Related Articles
-
-[![A Science-Backed Guide to Probiotics for PCOS](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_BestProbioticforPerimenopause_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Science-Backed Guide to Probiotics for PCOS** \\
-\\
-by Leigh Weingus • July 22, 2025\\
-\\
-Overview Living with Polycystic Ovary Syndrome (PCOS) can feel like a never-ending balancing act. Hormones acting up, your metabolism in flux, and let’s be honest—a ton of advice that’s equal parts hopeful and confusing. You’ve probably heard it all: Change your diet, exercise regularly, practice mindfulness. But here’s a twist you might not expect: your...\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-for-pcos-guide/) [![Can You “Heal” Leaky Gut? Here’s What the Science Says](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_HowtoHealLeakyGut_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can You “Heal” Leaky Gut? Here’s What the Science Says** \\
-\\
-by Leigh Weingus • June 13, 2025\\
-\\
-Overview You’ve probably heard the term “leaky gut” floating around. Maybe a friend mentioned it, you saw it on social media, or you’re experiencing symptoms like bloating, fatigue, or food sensitivities and wondering if this could be the culprit. If you’re trying to figure out “how to heal leaky gut,” you’re looking for answers and,...\\
-\\
-10 minutes](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/) [![soil running through hand into plastic pot](https://seed.com/wp-content/uploads/2025/03/OurFoodSystemisBroken_Cultured_041725-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**How Soil Microbes Feed the World and Fight Climate Change** \\
-\\
-by Emma Loewe • March 27, 2025\\
-\\
-Digging into the soil biome—home of the bacteria, fungi, and protists that form the foundations of modern agriculture.\\
-\\
-5 minutes](https://seed.com/cultured/soil-microbes-for-food-system/)

@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/gut-healthy-foods-science-guide/#)
-- [Share on Twitter](https://seed.com/cultured/gut-healthy-foods-science-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/gut-healthy-foods-science-guide/#)
-- [Send Email](https://seed.com/cultured/gut-healthy-foods-science-guide/#)
-- [Download PDF](https://seed.com/cultured/gut-healthy-foods-science-guide/#)
-
 # The Truth About Gut-Healthy Foods (and What to Skip)
 
 Last updated: December 4, 2025
@@ -16,23 +6,7 @@ Written by [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-8 minutes
-
-[15 Citations](https://seed.com/cultured/gut-healthy-foods-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-healthy-foods-science-guide/# "share")
-
-Last updated: December 4, 2025
-
 When you're desperately searching for gut healthy foods that work, it's chaos. Fiber? Fermented stuff? TikTok trends? What really matters for your microbiome? This guide cuts through the confusion with science-backed answers that'll transform how you eat.
-
-8 minutes
-
-[15 Citations](https://seed.com/cultured/gut-healthy-foods-science-guide/#view-citations)
-
-[Share](https://seed.com/cultured/gut-healthy-foods-science-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch8_GutHealthyFoods_Cultured_0325-2.jpg)
 
 ### **Overview**
 
@@ -215,66 +189,3 @@ View Citations
 13. Zinöcker MK, Lindseth IA. Nutrients. 2018;10(3):365.
 14. Costantini L, Molinari R, Farinon B, Merendino N. Int J Mol Sci. 2017;18(12):2645.
 15. Lee E, Lee JE. Curr Opin Food Sci. 2021;37:91-7.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Gianina Deines](https://seed.com/wp-content/uploads/2025/06/Gia.jpg)
-
-### Written By
-
-## [Gianina Deines](https://seed.com/cultured/author/gianina-deines)
-
-Gia Deines is a multidisciplinary writer, editor, and strategist with 10+ years of experience shaping content across health, wellness, beauty, politics, and culture. She began in product copy before expanding into long-form health education, brand storytelling, and ghostwriting thought leadership, including published work for CNN.com and global brands like Tylenol, Zyrtec, and Aveeno. Offline, Gia is likely outside trying to grow something edible, reading three books at once, or getting lost in a period piece.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Probiotics and Acid Reflux: What the Science Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch5_ProbioticsforAcidReflux_Cultured_0325.jpg)\\
-**Next Article** **Probiotics and Acid Reflux: What the Science Says**\\
-\\
-by Leigh Weingus • July 2, 2025\\
-\\
-8 minutes](https://seed.com/cultured/probiotics-and-acid-reflux-guide/)
-
-## Related Articles
-
-[![Close-up of a person holding their abdomen with both hands against a green background](https://seed.com/wp-content/uploads/2025/03/SEO_Batch2_DoProbioticsCauseGas_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Gas? What Science Says About This Common Side Effect** \\
-\\
-by Sydni Rubio • March 11, 2025\\
-\\
-Discover the science of probiotic-related gas and bloating. This guide explains why temporary gas might actually be a sign your probiotics are working, which strains are less likely to cause discomfort, and helpful strategies to minimize symptoms while maximizing benefits for your gut microbiome.\\
-\\
-6 minutes](https://seed.com/cultured/probiotics-gas-science-solutions-guide/) [![Do Probiotics Help with Weight Loss? Here’s What We Know.](https://seed.com/wp-content/uploads/2025/06/SEO_Batch4_DoProbioticsHelpYouLoseWeight_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Help with Weight Loss? Here’s What We Know.** \\
-\\
-by Sydni Rubio • June 4, 2025\\
-\\
-Can taking probiotics really help you lose weight? We unpack the science behind strains, metabolism, gut diversity, and what actually supports sustainable weight goals.\\
-\\
-6 minutes](https://seed.com/cultured/do-probiotics-help-weight-loss-guide/) [![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/)

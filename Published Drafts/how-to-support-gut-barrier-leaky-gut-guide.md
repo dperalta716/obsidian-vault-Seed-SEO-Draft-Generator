@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#)
-- [Share on Twitter](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#)
-- [Send Email](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#)
-- [Download PDF](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#)
-
 # Can You “Heal” Leaky Gut? Here’s What the Science Says
 
 Last updated: September 19, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Preya Patel, PharmD](https://seed.com/cultured/expert-reviewer/preya-patel)
 
-10 minutes
-
-[18 Citations](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/# "share")
-
-Last updated: September 19, 2025
-
 Explore the science behind "leaky gut," or increased intestinal permeability. Understand its causes, from diet to stress, and learn actionable strategies, including microbial support, to maintain a healthy gut barrier. Your guide to a resilient digestive system.
-
-10 minutes
-
-[18 Citations](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/#view-citations)
-
-[Share](https://seed.com/cultured/how-to-support-gut-barrier-leaky-gut-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch2_HowtoHealLeakyGut_Cultured_0425-2048x966.jpg)
 
 ### **Overview**
 
@@ -206,66 +180,3 @@ View Citations
 16. Iemoli, E., Trabattoni, D., Parisotto, S., Borgonovo, L., Toscano, M., Rizzardini, G., … Clerici, M. (2012). Probiotics reduce gut microbial translocation and improve adult atopic dermatitis. _Journal of Clinical Gastroenterology, 46_(Suppl), S33–S40. [https://pubmed.ncbi.nlm.nih.gov/22955355/](https://pubmed.ncbi.nlm.nih.gov/22955355/)
 17. Magistrelli, L., Amoruso, A., Mogna, L., Graziano, T., Cantello, R., Pane, M., & Comi, C. (2019). Probiotics may affect gut-brain axis inflammation by modulating gut microbiota in Parkinson’s disease. _Parkinson’s Disease, 2019_, 6427852. [https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2019.00969/full](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2019.00969/full)
 18. Chakkalakal, J. V., Vimalraj, A., & Kim, K. (2022). Crosstalk between gut microbiota and intestinal epithelial cells in aging. _International Journal of Molecular Sciences, 23_(23), 14610. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9699032/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9699032/)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Preya Patel](https://seed.com/wp-content/uploads/2025/03/Preya.jpg)
-
-### Reviewed By
-
-## [Preya Patel](https://seed.com/cultured/expert-reviewer/preya-patel)
-
-Preya Patel is a licensed pharmacist and writer. She envisions a future where technology, medicine and functional nutrition intersect to transform quality of life outcomes. With expertise in pharmacology and nutrition, she translates scientific research into actionable insights, empowering individuals to make informed health decisions. Her work blends regulatory knowledge and holistic principles, spanning collaborations with the FDA, P&G Ventures Studio, and startups to shape human and planetary health.
-
-[![Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut](https://seed.com/wp-content/uploads/2025/06/SEO_Batch3_GutBacteria_Cultured_0525-scaled.jpg)\\
-**Next Article** **Beyond the Bathroom: Decoding the Signs of an Unhealthy Gut**\\
-\\
-by Gianina Deines • June 12, 2025\\
-\\
-10 minutes](https://seed.com/cultured/signs-of-unhealthy-gut-health-guide/)
-
-## Related Articles
-
-[![Best Foods for Your Gut Microbiome: A Science-Backed Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutHealthyFoods_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Best Foods for Your Gut Microbiome: A Science-Backed Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview Gut health is central to how your entire body functions. That’s because living inside your colon is a microscopic metropolis: trillions of microbes that interact constantly with your immune system, metabolism, hormones, and even your brain. So when you hear “gut health,” think whole-body health—with your daily diet at the controls. And while social...\\
-\\
-8 minutes](https://seed.com/cultured/best-foods-gut-microbiome-guide/) [![Ask SciCare text with speech bubbles on an orange and red pixelated background](https://seed.com/wp-content/uploads/2023/09/seed_askscicare_heat_hero-768x362.jpg)\\
-\\
-Environmental health\\
-\\
-**Does Heat Impact My Gut Health?** \\
-\\
-by Seed Health • September 11, 2023\\
-\\
-Our SciCare team is coming in hot with answers to four FAQs about heat, probiotics, the microbiome, and your health.\\
-\\
-5 minutes](https://seed.com/cultured/scicare-corner-heat-edition/) [![The Gut-Skin Axis: What Your Digestion Has to Do with Your Complexion](https://seed.com/wp-content/uploads/2025/05/SEO_Batch5_ProbioticsforHistamineSensitivity_Cultured_0525-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**The Gut-Skin Axis: What Your Digestion Has to Do with Your Complexion** \\
-\\
-by Sydni Rubio • May 22, 2025\\
-\\
-What if breakouts and flare-ups aren’t just skin-deep? Learn how the gut-skin axis links your microbiome to your complexion—and how fiber, sleep, and probiotics may help support calmer, clearer skin from the inside out.\\
-\\
-8 minutes](https://seed.com/cultured/gut-skin-axis-science-guide/)

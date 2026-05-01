@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#)
-- [Share on Twitter](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#)
-- [Send Email](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#)
-- [Download PDF](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#)
-
 # What’s Actually Happening With Gut Dysbiosis? Your Microbial Balance, Decoded
 
 Last updated: September 9, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Chelsea Jackle, MFN, RDN, LD](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
 
-11 minutes
-
-[39 Citations](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/# "share")
-
-Last updated: September 9, 2025
-
 Bloating, fatigue, digestive chaos—gut dysbiosis doesn't mess around when it strikes. Your microbiome's delicate ecosystem has gone haywire, but here's the thing: you're not powerless against it. Discover what triggers this imbalance and what you can do to bounce back.
-
-11 minutes
-
-[39 Citations](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/#view-citations)
-
-[Share](https://seed.com/cultured/what-is-gut-dysbiosis-symptoms-causes-support-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/06/SEO_Batch8_GutDysbiosis_Cultured_0325.jpg)
 
 ### **Overview**
 
@@ -284,66 +258,3 @@ View Citations
 37. Chen, H., Wang, C., Bai, J., Song, J., Bu, L., Liang, M., & Suo, H. (2023). Targeting microbiota to alleviate the harm caused by sleep deprivation. Microbiological Research, 275, 127467. [https://doi.org/10.1016/j.micres.2023.127467](https://doi.org/10.1016/j.micres.2023.127467)
 38. Cataldi, S., Bonavolontà, V., Poli, L., Clemente, F. M., De Candia, M., Carvutto, R., Silva, A. F., Badicu, G., Greco, G., & Fischetti, F. (2022). The Relationship between Physical Activity, Physical Exercise, and Human Gut Microbiota in Healthy and Unhealthy Subjects: A Systematic Review. Biology, 11(3), 479. [https://doi.org/10.3390/biology11030479](https://doi.org/10.3390/biology11030479)
 39. Human Microbiome Project Consortium. (2012). Structure, function and diversity of the healthy human microbiome. Nature, 486(7402), 207–214. [https://doi.org/10.1038/nature11234](https://doi.org/10.1038/nature11234)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Chelsea Jackle](https://seed.com/wp-content/uploads/2025/03/Chelsea.jpg)
-
-### Reviewed By
-
-## [Chelsea Jackle](https://seed.com/cultured/expert-reviewer/chelsea-jackle)
-
-Chelsea Jackle is a registered dietitian nutritionist and the SciCare Team Lead at Seed with expertise in digital health, dietary supplements, wellness coaching, and chronic disease management. With a strong foundation in health writing and science communication, she is dedicated to making wellness more accessible—translating complex science into clear, evidence-based guidance rooted in integrity and empathy.
-
-[![Probiotics for Gastritis: Can They Help?](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_ProbioticsforGastritis_Cultured_0325.jpg)\\
-**Next Article** **Probiotics for Gastritis: Can They Help?**\\
-\\
-by Leigh Weingus • June 26, 2025\\
-\\
-11 minutes](https://seed.com/cultured/probiotics-for-gastritis-guide/)
-
-## Related Articles
-
-[![Snow-covered evergreen trees in a foggy, winter forest scene.](https://seed.com/wp-content/uploads/2024/12/CanMicrobesSoothetheWinterBlues_Cultured_120924-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Microbes Squash the Winter Blues?** \\
-\\
-by Megan Falk • December 9, 2024\\
-\\
-Your gut microbiome is the winter ally you never knew you needed. Here’s how it can brighten your mood through the dark days to come.\\
-\\
-9 minutes](https://seed.com/cultured/microbiome-and-winter-blues/) [![Do Probiotics Make You Gain Weight? Unpacking the Science](https://seed.com/wp-content/uploads/2025/06/SEO_Batch5_CanProbioticsCauseWeightGain_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Make You Gain Weight? Unpacking the Science** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You start a probiotic to support your gut—maybe for digestion, regularity, or just to feel like you’re doing something good for your health. But then something unexpected happens: your jeans feel snug, the scale creeps up. It’s a common experience that often leads to the question: Can probiotics cause weight gain? The complicated answer?...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-cause-weight-gain-guide/) [![soil running through hand into plastic pot](https://seed.com/wp-content/uploads/2025/03/OurFoodSystemisBroken_Cultured_041725-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**How Soil Microbes Feed the World and Fight Climate Change** \\
-\\
-by Emma Loewe • March 27, 2025\\
-\\
-Digging into the soil biome—home of the bacteria, fungi, and protists that form the foundations of modern agriculture.\\
-\\
-5 minutes](https://seed.com/cultured/soil-microbes-for-food-system/)

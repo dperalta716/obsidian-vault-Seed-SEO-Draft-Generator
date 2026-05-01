@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-fertility-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-fertility-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-fertility-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-fertility-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-fertility-guide/#)
-
 # Can Probiotics Actually Support Your Fertility Journey?
 
 Last updated: September 8, 2025
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-12 minutes
-
-[31 Citations](https://seed.com/cultured/probiotics-for-fertility-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-fertility-guide/# "share")
-
-Last updated: September 8, 2025
-
 You’ve heard about probiotics for fertility, but could they actually help TTC couples? Get the facts on how your gut and vaginal microbes might influence reproductive health, and what strains to look for if you’re considering probiotics.
-
-12 minutes
-
-[31 Citations](https://seed.com/cultured/probiotics-for-fertility-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-fertility-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/08/SEO_Batch1_BestProbioticforPregnancy_Cultured_0425.jpg)
 
 ### **Overview**
 
@@ -310,66 +284,3 @@ View Citations
 31. Sheyholislami, H. & Connor, K. L. (2021). Are Probiotics and Prebiotics Safe for Use during Pregnancy and Lactation? A Systematic Review and Meta-Analysis. _Nutrients, 13_(7):2382. [https://doi.org/10.3390/nu13072382](https://doi.org/10.3390/nu13072382)
 
 ‌
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Microbes on the Spectrum: Probiotics for Autism](https://seed.com/wp-content/uploads/2025/08/SEO_Batch4_ProbioticsforDigestion_Cultured_0225-2.jpg)\\
-**Next Article** **Microbes on the Spectrum: Probiotics for Autism**\\
-\\
-by Sydni Rubio • August 19, 2025\\
-\\
-12 minutes](https://seed.com/cultured/probiotics-for-autism-asd-gut-brain-science-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Person holding a green capsule near their mouth against a blue background with text overlay.](https://seed.com/wp-content/uploads/2023/10/seed_cultured_gutimmune_hero_3000x3000_103023-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**Can Probiotics Really ‘Boost’ Immunity?** \\
-\\
-by Seed Health • October 30, 2023\\
-\\
-Understanding the fascinating connection between your gut and immune system can help you support them both in the months ahead.\\
-\\
-6 minutes](https://seed.com/cultured/can-probiotics-boost-immunity/) [![Can Probiotics Actually Support Your Fertility Journey?](https://seed.com/wp-content/uploads/2025/08/SEO_Batch1_BestProbioticforPregnancy_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Can Probiotics Actually Support Your Fertility Journey?** \\
-\\
-by Sydni Rubio • August 20, 2025\\
-\\
-Overview If you’re reading this at 2 AM after another negative pregnancy test, or maybe you’re here because your reproductive endocrinologist mentioned something about your microbiome during your last appointment—either way, you’re not alone. Trying to conceive (TTC) can feel like you’re doing everything right yet still waiting for that positive result. You’re tracking ovulation,...\\
-\\
-12 minutes](https://seed.com/cultured/probiotics-for-fertility-guide/)

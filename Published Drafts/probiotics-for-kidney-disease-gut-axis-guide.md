@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#)
-
 # What the Science Really Says About Probiotics and Kidney Disease
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barr, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[10 Citations](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/# "share")
-
-Last updated: September 17, 2025
-
 While probiotics don't treat kidney disease, a growing body of research explores the "gut-kidney axis." We break down the science on how supporting your gut microbiome with specific probiotic strains may influence markers related to kidney health, and what to look for in a quality probiotic.
-
-7 minutes
-
-[10 Citations](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-kidney-disease-gut-axis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_SupplementsforLeakyGut_Cultured_0425-1-2048x966.jpg)
 
 ### **Overview**
 
@@ -150,66 +124,3 @@ View Citations
 08. Derrien, M., & Van Hylckama Vlieg, J. E. (2015). Fate, activity, and impact of ingested bacteria within the human gut microbiota. _Trends in Microbiology_, 23(6), 354–366. [https://doi.org/10.1016/j.tim.2015.03.002](https://doi.org/10.1016/j.tim.2015.03.002)
 09. World Gastroenterology Organisation. (2023). _WGO Global Guidelines: Probiotics and Prebiotics_. [https://www.worldgastroenterology.org/guidelines/probiotics-and-prebiotics/probiotics-and-prebiotics-english](https://www.worldgastroenterology.org/guidelines/probiotics-and-prebiotics/probiotics-and-prebiotics-english)
 10. Wang, I., Wu, Y., Yang, Y., Ting, I., Lin, C., Yen, T., Chen, J., Wang, C., Huang, C., & Lin, H. (2015). The effect of probiotics on serum levels of cytokine and endotoxin in peritoneal dialysis patients: a randomised, double-blind, placebo-controlled trial. _Beneficial Microbes_, 6(4), 423–430. [https://doi.org/10.3920/bm2014.0088](https://doi.org/10.3920/bm2014.0088)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barr](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barr](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Can Probiotics Help With Food Poisoning?](https://seed.com/wp-content/uploads/2025/07/SEO_Batch4_ProbioticsforStomachVirus_Cultured_0525.jpg)\\
-**Next Article** **Can Probiotics Help With Food Poisoning?**\\
-\\
-by Leigh Weingus • July 17, 2025\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-food-poisoning-recovery-guide/)
-
-## Related Articles
-
-[![Probiotics for Pregnant Women: What the Science Really Says](https://seed.com/wp-content/uploads/2025/07/SEO_Batch1_ProbioticsforPregnantWomen_Cultured_0425-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Probiotics for Pregnant Women: What the Science Really Says** \\
-\\
-by Leigh Weingus • July 8, 2025\\
-\\
-Overview So, you’re pregnant! (Congratulations 🎉) If you’re like most parents-to-be, you’re swimming in advice—from the earnest advice you got from your OB-GYN to the well-meaning but slightly wild that comes from your relatives and 2 a.m. Google deep-dives.  When every choice feels monumental, even something like “probiotics for pregnant women” can sound like a...\\
-\\
-7 minutes](https://seed.com/cultured/probiotics-for-pregnant-women-guide/) [![Green glass bottle and glass with blue and beige light patterns in background](https://seed.com/wp-content/uploads/2024/01/culture_dryjanuary_010424_1-768x362.jpg)\\
-\\
-Human microbiome\\
-\\
-**How 3 Common New Year’s Resolutions Impact Your Gut** \\
-\\
-by Seed Health • January 2, 2024\\
-\\
-Read before you resolve. Here, we dive into four common New Year's health trends to explore how they’ll impact your world within.\\
-\\
-8 minutes](https://seed.com/cultured/resolutions-unpacked/) [![Round white object with a pattern of dark and light green dots in a circular arrangement](https://seed.com/wp-content/uploads/2023/06/seeding_hero_3-768x362.jpg)\\
-\\
-Children’s Microbiome\\
-\\
-**How Your Microbiome Is Made—and How It Informs Your Lifelong Health** \\
-\\
-by Seed Health • June 16, 2023\\
-\\
-Your body is an ecosystem that is home to trillions of microbes that are crucial to your wellbeing. Here's how your microbiome is formed and how you can support it.\\
-\\
-12 minutes](https://seed.com/cultured/microbiome-development/)

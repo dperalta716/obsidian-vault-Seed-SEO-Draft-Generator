@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#)
-- [Share on Twitter](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#)
-- [Send Email](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#)
-- [Download PDF](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#)
-
 # Can Probiotics Help With Colitis?
 
 Last updated: September 17, 2025
@@ -16,23 +6,7 @@ Written by [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Sadie Barry, MPH](https://seed.com/cultured/expert-reviewer/sadie-barr)
 
-7 minutes
-
-[14 Citations](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/# "share")
-
-Last updated: September 17, 2025
-
 Thinking about probiotics for ulcerative or microscopic colitis? We break down the science behind how your microbiome influences colitis and what to look for in a probiotic, explaining the nuances often lost in translation between the lab and the label.
-
-7 minutes
-
-[14 Citations](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/#view-citations)
-
-[Share](https://seed.com/cultured/probiotics-for-ulcerative-microscopic-colitis-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2025/07/SEO_Batch2_BestPrebioticandProbiotic_Cultured_0425-1-2048x966.jpg)
 
 ### Overview
 
@@ -178,66 +152,3 @@ View Citations
 12. Rohatgi, S., Gillevet, P., Hashash, J. G., et al. (2015). Probiotic therapy in microscopic colitis: Results of a randomized, double-blind, placebo-controlled clinical trial. _BMJ Open Gastroenterology_, 2(1), e000018. [https://doi.org/10.1136/bmjgast-2014-000018](https://doi.org/10.1136/bmjgast-2014-000018)
 13. Pagnini, C., Saeed, R., Bamias, G., Arseneau, K. O., Pizarro, T. T., & Cominelli, F. (2023). Lacticaseibacillus rhamnosus GG in inflammatory bowel disease: Current perspectives. _Microorganisms_, 11(6), 1381. [https://doi.org/10.3390/microorganisms11061381](https://doi.org/10.3390/microorganisms11061381)
 14. Wong, C. B., Odamaki, T., & Xiao, J. (2019). Beneficial effects of Bifidobacterium longum subsp. longum BB536 on human health: Modulation of gut microbiome as the principal action. _Journal of Functional Foods_, 54, 506-519. [https://doi.org/10.1016/j.jff.2019.02.002](https://doi.org/10.1016/j.jff.2019.02.002)
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Leigh Weingus](https://seed.com/wp-content/uploads/2025/05/Leigh-Weingus.jpg)
-
-### Written By
-
-## [Leigh Weingus](https://seed.com/cultured/author/leigh-weingus)
-
-Leigh Weingus is a New York City-based journalist and editor with a passion for making science, health, and wellness accessible to a wide audience. After graduating with a BA from UC Davis in 2009, Leigh started her career in entertainment journalism before pivoting to the wellness space (and becoming a certified yoga instructor along the way!). Her bylines have appeared in The Washington Post, Self, Glamour, Forbes, Parade, and many more. When she’s not writing, you can find Leigh exploring the Upper West Side with her husband and two young daughters or taking a class at her local yoga studio.
-
-![Sadie Barry](https://seed.com/wp-content/uploads/2025/04/Sadie.png)
-
-### Reviewed By
-
-## [Sadie Barry](https://seed.com/cultured/expert-reviewer/sadie-barr)
-
-Sadie Barr is a published nutrition researcher and an insatiably curious human. She has 15-years of career experience working in various health-focused industries, including health-tech, food-tech, school food, and environmental and healthcare consulting. She has extensive experience in the food and health startup space, and loves bridging the worlds of science, business, and humanity.
-
-[![Postbiotics: Why These Microbial “Leftovers” Matter for Your Gut](https://seed.com/wp-content/uploads/2025/07/SEO_Batch7_WhatArePostbiotics_Cultured_0325-1.jpg)\\
-**Next Article** **Postbiotics: Why These Microbial “Leftovers” Matter for Your Gut**\\
-\\
-by Sydni Rubio • July 9, 2025\\
-\\
-7 minutes](https://seed.com/cultured/what-are-postbiotics-guide/)
-
-## Related Articles
-
-[![Abstract colorful ink patterns in orange, green, and blue with white contour lines and numbers.](https://seed.com/wp-content/uploads/2023/12/seed_cultured_fivemyths_120823_1-1-768x363.jpg)\\
-\\
-Human microbiome\\
-\\
-**5 Microbiome Myths, Busted in 2023** \\
-\\
-by Seed Health • December 8, 2023\\
-\\
-Much of what we thought we knew about the microbiome—and how it affects cancer, Alzheimer’s, and lifelong health—has changed in the past 12 months.\\
-\\
-17 minutes](https://seed.com/cultured/microbiome-myths-busted-2023/) [![Coastal mountain landscape with cloudy skies](https://seed.com/wp-content/uploads/2024/04/DSC09374_4497SEED_B_ADOBERGB-768x362.jpeg)\\
-\\
-Environmental health\\
-\\
-**Can We Combat Rising CO₂ Levels With Microbes?** \\
-\\
-by Seed Health • April 19, 2024\\
-\\
-In partnership with the Two Frontiers Project (2FP), we’re supporting a range of research initiatives in 2024 focused on the discovery and application of microbes to capture CO₂ and transform it into sustainable solutions and resources.\\
-\\
-3 minutes](https://seed.com/cultured/seedlabs-carbon/) [![Do Probiotics Cause Constipation? Science Behind Gut Adjustments](https://seed.com/wp-content/uploads/2025/05/SEO_Batch4_CanProbioticsCauseConstipation_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**Do Probiotics Cause Constipation? Science Behind Gut Adjustments** \\
-\\
-by Sydni Rubio • May 19, 2025\\
-\\
-Feeling backed up after starting probiotics? This guide explores the science behind probiotic-related constipation, why it's often temporary, the role of specific strains, and practical strategies for easing digestive adjustments.\\
-\\
-8 minutes](https://seed.com/cultured/can-probiotics-cause-constipation-guide/)

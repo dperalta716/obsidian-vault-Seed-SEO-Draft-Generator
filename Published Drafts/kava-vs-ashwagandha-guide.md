@@ -1,13 +1,3 @@
-### Share
-
-- [Share on Facebook](https://seed.com/cultured/kava-vs-ashwagandha-guide/#)
-- [Share on Twitter](https://seed.com/cultured/kava-vs-ashwagandha-guide/#)
-- [_Linkedin_\\
-\\
-Share on LinkedIn](https://seed.com/cultured/kava-vs-ashwagandha-guide/#)
-- [Send Email](https://seed.com/cultured/kava-vs-ashwagandha-guide/#)
-- [Download PDF](https://seed.com/cultured/kava-vs-ashwagandha-guide/#)
-
 # Kava vs. Ashwagandha Guide: One Less Thing to Stress About
 
 Published: March 12, 2026
@@ -16,23 +6,7 @@ Written by [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
 
 [Expert Review By](https://seed.com/editorial-clinical-standards) [Meghan Novoshielski , MS RDN](https://seed.com/cultured/expert-reviewer/)
 
-8 minutes
-
-[15 Citations](https://seed.com/cultured/kava-vs-ashwagandha-guide/#view-citations)
-
-[Share](https://seed.com/cultured/kava-vs-ashwagandha-guide/# "share")
-
-Published: March 12, 2026
-
 Trying to decide between kava and ashwagandha? You already know about their link to stress relief and sleep support, but how similar (or different) are they? This guide breaks down the science, safety, and sleep side of each so you can figure out which herb to try.
-
-8 minutes
-
-[15 Citations](https://seed.com/cultured/kava-vs-ashwagandha-guide/#view-citations)
-
-[Share](https://seed.com/cultured/kava-vs-ashwagandha-guide/# "share")
-
-![](https://seed.com/wp-content/uploads/2026/03/SEO_Batch5_PM-02_kavavsashwagandha_1113-2048x966.jpg)
 
 ### **Overview**
 
@@ -186,62 +160,3 @@ View Citations
 13. Deshpande A, Irani N, Balkrishnan R, Benny IR. Sleep Med. 2020;72:28-36.
 14. Teschke R, Sarris J, Lebot V. Phytomedicine. 2011;18(2-3):96-103.
 15. Verma N, Gupta SK, Tiwari S, Mishra AK. Complement Ther Med. 2021;57:102642.
-
-* * *
-
-Filed Under
-
-[Probiotics 101](https://seed.com/cultured/category/probiotics/ "Probiotics 101")
-
-![Sydni Rubio](https://seed.com/wp-content/uploads/2025/03/Sydni.jpg)
-
-### Written By
-
-## [Sydni Rubio](https://seed.com/cultured/author/sydni-rubio)
-
-Sydni is a science writer with a background in biology and chemistry. As a Master's student, she taught bacteriology labs and conducted research for her thesis, which focused on the microbiology and genetics of symbiotic amoebae and bacteria. Her passion for translating complex scientific concepts into clear, engaging content later led to her role as Editor-in-Chief for a mental health blog. Outside of writing, she loves to learn about new things with her curious son.
-
-### Reviewed By
-
-## [Meghan Novoshielski](https://seed.com/cultured/expert-reviewer/)
-
-[![Does Ashwagandha Make You Sleepy? Not In The Way You Think](https://seed.com/wp-content/uploads/2026/03/SEO_Batch5_PM-02_doesashwagandhamakeyousleepy_1113-scaled.jpg)\\
-**Next Article** **Does Ashwagandha Make You Sleepy? Not In The Way You Think**\\
-\\
-by Sydni Rubio • March 12, 2026\\
-\\
-8 minutes](https://seed.com/cultured/does-ashwagandha-make-you-sleepy-guide/)
-
-## Related Articles
-
-[![Green supplement bottle with capsules being poured in, next to a glass of liquid.](https://seed.com/wp-content/uploads/2025/04/SEO_Batch2_HowLongShouldYouTakeProbiotics_Cultured_0225-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How Long Should You Take Probiotics Before You See Results?** \\
-\\
-by Sydni Rubio • April 18, 2025\\
-\\
-Looking to support gut health, digestion, or bounce back after antibiotics? How long you should take probiotics might not be as straightforward as it seems—and depends on more than just the product label. Learn more with this science-backed guide.\\
-\\
-8 minutes](https://seed.com/cultured/how-long-take-probiotics-duration-guide/) [![How to Replenish Good Bacteria After Antibiotics: A Complete Guide](https://seed.com/wp-content/uploads/2025/06/SEO_Batch7_HowToReplenishGoodBacteria_Cultured_0325-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**How to Replenish Good Bacteria After Antibiotics: A Complete Guide** \\
-\\
-by Sydni Rubio • June 7, 2025\\
-\\
-Overview You’ve finished your course of antibiotics—maybe for a sinus infection, a UTI, or something more persistent—and while the infection’s clearing, your gut might not feel quite right. It’s common to notice looser poops, bloating, or just a sense that things are a little… off. That’s because antibiotics, while essential when needed, don’t just target...\\
-\\
-10 minutes](https://seed.com/cultured/how-to-replenish-good-gut-bacteria-after-antibiotics-guide/) [![A Sleep Supplement Guide: Seed’s PM-02 vs. Nello vs. Natural Vitality](https://seed.com/wp-content/uploads/2026/02/SEO_Batch4_PM-02_bestsupplementsforsleep_1113-768x362.jpg)\\
-\\
-Probiotics 101\\
-\\
-**A Sleep Supplement Guide: Seed’s PM-02 vs. Nello vs. Natural Vitality** \\
-\\
-by Sydni Rubio • February 4, 2026\\
-\\
-Overview The shelves are crowded with powders, gummies, and capsules all promising the same thing: a better night’s sleep. But if you’ve ever found yourself staring at the ceiling at 3 AM—or dragging yourself out of bed in a fog the next morning—you know that “sleep support” isn’t a one-size-fits-all label. 💊 The rise of...\\
-\\
-11 minutes](https://seed.com/cultured/nello-super-calm-vs-natural-vitality-calm-vs-seed-pm-02-guide/)
