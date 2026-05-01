@@ -140,3 +140,26 @@ This command requires the following Claude Code skills:
 3. **google-sheets** - For updating tracking spreadsheet
 
 Ensure all skills are installed and credentials are configured at `~/.claude/skills/google-workspace-credentials/david@david-peralta.com.json`.
+
+## Rules
+
+1. **Never use `sed` for text processing on macOS.** BSD sed (macOS default) has incompatible syntax with GNU sed — especially `\!` escapes and multi-address blocks. Use Python instead for any string manipulation (frontmatter stripping, content escaping, text transformations) before passing content to Google Docs API calls. A silent sed failure produces an empty variable, which the API will "successfully" insert as nothing.
+
+2. **Always use Python for YAML frontmatter stripping.** When preparing markdown content for Google Docs insertion, use this pattern:
+   ```python
+   python3 -c "
+   with open('file.md') as f:
+       lines = f.readlines()
+   dashes = 0
+   start = 0
+   for i, line in enumerate(lines):
+       if line.strip() == '---':
+           dashes += 1
+           if dashes == 2:
+               start = i + 1
+               break
+   print(''.join(lines[start:]), end='')
+   "
+   ```
+
+3. **Always verify doc content after insertion.** After a batch-update insertText call, check that the doc body length is > 100 chars. If it's near-empty, the insertion silently failed and must be retried.
