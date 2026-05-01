@@ -1,8 +1,8 @@
 ---
 date: 2026-05-01
 keyword: "how to restore gut health after alcohol"
-version: v3
-status: reviewed
+version: v5
+status: claims-verified
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 

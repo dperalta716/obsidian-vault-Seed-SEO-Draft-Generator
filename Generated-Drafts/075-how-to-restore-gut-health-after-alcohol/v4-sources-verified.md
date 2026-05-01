@@ -1,8 +1,8 @@
 ---
 date: 2026-05-01
 keyword: "how to restore gut health after alcohol"
-version: v3
-status: reviewed
+version: v4
+status: sources-verified
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
@@ -28,7 +28,7 @@ tags: [seed, seo-draft, ds-01, 2026-messaging]
 
 - Alcohol weakens your gut barrier and shifts the balance of bacteria in your microbiome—even in moderate amounts.
 - Recovery starts with reducing alcohol, then supporting your gut through fiber-rich foods, hydration, and anti-inflammatory eating.
-- Gut dysbiosis from alcohol can persist for three weeks or longer after you stop drinking.
+- Gut dysbiosis from alcohol can persist for three or more weeks after you stop drinking.
 - Fermented foods are nutritious but may not meet the scientific definition of a probiotic.
 - A precision probiotic with clinical evidence can complement dietary changes by supporting your gut barrier and microbiome.°
 
@@ -70,7 +70,7 @@ Here's the encouraging part: your gut is built to bounce back. But the timeline 
 
 ### The Recovery Timeline
 
-After occasional drinking, your microbiome may begin shifting back within days of giving your body a break. For regular or heavy consumption, research shows signs of dysbiosis can persist for three weeks or longer after stopping ([Leclercq 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/)).
+After occasional drinking, your microbiome may begin shifting back within days of giving your body a break. For regular or heavy consumption, research shows signs of dysbiosis can persist for three or more weeks after stopping ([Leclercq 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/)).
 
 That's longer than most people expect. It's also why a "wait and see" approach isn't always enough.
 
@@ -140,7 +140,7 @@ Your gut is built to recover. Give it the right conditions and the right support
 
 ### How long does it take for your gut to recover after drinking?
 
-It depends on how much and how often you've been drinking. After an occasional night out, your microbiome may start recovering within a few days. But research shows that gut dysbiosis from regular alcohol use can persist for three weeks or longer after stopping ([Leclercq 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/)).
+It depends on how much and how often you've been drinking. After an occasional night out, your microbiome may start recovering within a few days. But research shows that gut dysbiosis from regular alcohol use can persist for three or more weeks after stopping ([Leclercq 2014](https://pmc.ncbi.nlm.nih.gov/articles/PMC4210345/)).
 
 Gut barrier repair takes additional time—your intestinal lining needs to restore tight junctions and rebuild its protective layer. Supporting recovery with fiber, anti-inflammatory foods, and a precision probiotic can help move the process along.
 
