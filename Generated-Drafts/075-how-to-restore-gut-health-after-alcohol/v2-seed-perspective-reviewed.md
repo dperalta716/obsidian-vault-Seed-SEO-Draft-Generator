@@ -1,8 +1,8 @@
 ---
 date: 2026-05-01
 keyword: "how to restore gut health after alcohol"
-version: v1
-status: draft
+version: v2
+status: seed-perspective-reviewed
 tags: [seed, seo-draft, ds-01, 2026-messaging]
 ---
 
@@ -32,7 +32,9 @@ tags: [seed, seo-draft, ds-01, 2026-messaging]
 - Fermented foods are nutritious but may not meet the scientific definition of a probiotic.
 - A precision probiotic with clinical evidence can complement dietary changes by supporting your gut barrier and microbiome.°
 
-You know the feeling. The morning after a few drinks, your stomach seems to have filed its own complaint—bloating, rumbling, a sluggishness that no amount of coffee can fix. That discomfort isn't random. It's your gut telling you something went sideways.
+You know the feeling. The morning after a few drinks, your stomach seems to have filed its own complaint—bloating, rumbling, a sluggishness that no amount of coffee can fix.
+
+That discomfort isn't random. It's your gut telling you something went sideways.
 
 The short answer to restoring gut health after alcohol? Start with what you remove, then focus on what you add back. Cut back on drinking, load up on fiber and whole foods, stay hydrated, and give your body time to recover.
 
@@ -58,7 +60,7 @@ The effects show up as bloating, irregular bowel movements, and trouble absorbin
 
 Alcohol also triggers the release of lipopolysaccharides—molecules from bacterial cell walls that amplify inflammation when they cross into the bloodstream ([Franceschi 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8226948/)). In other words, alcohol doesn't just irritate your stomach. It can set off a chain reaction that affects how your entire body handles inflammation.
 
-There's another layer to consider. Your gut and brain communicate constantly through what scientists call the gut-brain axis. A large share of your body's serotonin is produced in the gut, where it helps regulate motility—how your digestive system moves food along ([Appleton 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6469458/)). When alcohol disrupts your microbiome, it may affect the signals traveling along this pathway—though researchers are still studying exactly how.
+There's another layer to consider. Your gut and brain communicate constantly through what scientists call the gut-brain axis. A large share of your body's serotonin is produced in the gut, where it helps regulate how your digestive system moves food along ([Appleton 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6469458/)). When alcohol disrupts your microbiome, it may affect the signals traveling between gut and brain—though researchers are still studying exactly how.
 
 This connection may help explain why digestive issues from drinking sometimes come alongside brain fog or low energy. The relationship is complex and still being explored, but it underscores why gut recovery matters for more than just your stomach.
 
