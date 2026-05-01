@@ -33,11 +33,13 @@ tags: [seed, seo-draft, ds-01, 2026-messaging]
 
 ---
 
-You've probably seen bone broth on every "best foods for gut health" list out there. And if you've been sipping it hoping it'll fix years of digestive complaints—or wondering if it's just expensive stock—you're asking the right questions.
+If you've spent any time searching for ways to heal your gut, bone broth has probably come up more than once. And if you've been sipping it hoping it'll fix years of digestive complaints—or wondering if it's just expensive stock—you're asking the right questions.
 
 Here's the short answer: bone broth does contain nutrients that support your gut lining. That part is real, and there's science to back it up. But the full story is more interesting than "drink broth, heal gut."
 
 Your digestive system is more complex than any single food can address. The gut barrier—that thin but mighty lining separating your intestines from the rest of your body—relies on both physical structure and a thriving community of microbes working together. Bone broth supports one piece of that puzzle, and understanding which piece helps you make smarter choices about the rest.
+
+So let's look at what bone broth actually brings to the table—and where you might want to fill in the gaps.
 
 ## What Makes Bone Broth Useful for Your Gut
 
@@ -61,7 +63,7 @@ Bone broth is one dietary source of glutamine, though the exact amount varies de
 
 ### Glycine and Proline: Structural Support and Calm
 
-Glycine—the most abundant amino acid in collagen—does double duty. It provides raw material for the gut's protective mucus layer, and it has anti-inflammatory properties that may help calm irritated intestinal tissue ([Razak 2017](https://doi.org/10.1097/MCO.0000000000000342)).
+Glycine—the most abundant amino acid in collagen—does double duty. It provides raw material for the gut's protective mucus layer, and it has anti-inflammatory properties that may help calm irritated intestinal tissue ([Razak 2017](https://doi.org/10.1155/2017/1716701)).
 
 In animal studies, glycine has been shown to reduce markers of intestinal inflammation and support the gut's natural repair processes ([Stoffels 2011](https://doi.org/10.1111/j.1365-2982.2010.01603.x)). Proline, another amino acid abundant in bone broth, contributes to mucin production—the gel-like coating that protects your gut lining from direct contact with digestive acids and bacteria.
 
@@ -71,7 +73,9 @@ Together, these amino acids offer what you might call structural maintenance. Th
 
 Collagen from bone broth breaks down into gelatin during cooking, and then further into peptides during digestion. Early research suggests these collagen-derived peptides may support intestinal barrier function in cell studies ([Zhang 2018](https://doi.org/10.3390/nu11010052), [Kanda 2023](https://doi.org/10.3390/nu16010070)).
 
-But here's an honest caveat: most evidence for collagen's gut benefits comes from lab and animal models. We don't yet have large human trials showing that drinking bone broth delivers enough collagen peptides to meaningfully affect gut permeability. The amino acid benefits are better supported.
+But here's an honest caveat: most evidence for collagen's gut benefits comes from lab and animal models. We don't yet have large human trials showing that drinking bone broth delivers enough collagen peptides to meaningfully affect gut permeability in healthy adults. The amino acid benefits are better supported.
+
+It's also worth noting that the collagen content in bone broth varies widely. A long-simmered beef bone broth will yield more collagen than a quick chicken stock. And once those collagen peptides are further broken down during your own digestion, the amount that reaches your intestinal lining in a usable form remains an open question in the research.
 
 ## What Bone Broth Can't Do (And What Your Gut Still Needs)
 
@@ -97,7 +101,9 @@ If you want bone broth to be a useful part of your gut health routine (not a cur
 
 **How much to drink.** Research hasn't established a specific therapeutic dose for bone broth. Most practitioners suggest 1 cup (about 8 ounces) daily as a reasonable starting point. MD Anderson recommends staying around that amount due to potential heavy metal accumulation in longer-simmered broths ([Monro 2013](https://doi.org/10.1016/j.mehy.2012.12.026)).
 
-**Source matters for safety.** Bones can accumulate environmental contaminants, including lead. Choosing bones from pasture-raised, organic sources and varying your bone types can help minimize exposure, though no preparation method eliminates risk entirely.
+**Source matters for safety.** Bones can accumulate environmental contaminants, including lead. Choosing bones from pasture-raised, organic sources and varying your bone types can help minimize exposure, though no preparation method eliminates risk entirely. If you're buying pre-made broth, look for brands that test for heavy metals and keep sodium under 500mg per serving.
+
+**Watch the sodium.** Commercial bone broths can be surprisingly high in sodium—some contain over 800mg per cup. If you're drinking it daily, either make your own (where you control the salt) or choose low-sodium options.
 
 **Pair it with microbial support.** "A truly comprehensive digestive health strategy involves not just providing your gut with structural nutrients, but also ensuring the right microorganisms are present and active in your system," says **Dirk Gevers, Ph.D.**
 
