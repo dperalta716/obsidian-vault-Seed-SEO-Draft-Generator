@@ -140,8 +140,6 @@ There isn't a single "best" supplement because gut health depends on multiple sy
 
 µas of February 2026
 
-††Data derived from ingredient-level clinical research
-
 ---
 
 ## Citations
