@@ -135,6 +135,13 @@ After Phase 1 completes, read the stage1_analysis document and ALL reference fil
 - Section 3: Pre-vetted academic sources with DOIs (citation pool)
 - Section 4: Selected PAA questions (for FAQs)
 
+**A2. Topic Appropriateness Gate (per POV "Navigating Probiotic and Disease Discussions"):**
+
+Before proceeding, assess whether the keyword's context permits DS-01 mentions:
+- If the topic involves alcohol recovery, disease treatment, medication interaction, or other conditions NOT covered by the Claims Library → do NOT position DS-01 as relevant to that specific context. You may discuss probiotics broadly using general research, but clearly separate general research from product context (per POV guidance). The default for disease/disruptor topics is to OMIT DS-01 from that context entirely.
+- If the topic involves a food, supplement, or ingredient → DS-01 can be mentioned, but only with objective differentiation framing (see DS-01 Section Construction below). Never imply DS-01 is superior to or synergistic with the topic ingredient.
+- If uncertain whether the MRD supports DS-01 claims in this context → err on the side of omission. The default is NOT to include DS-01.
+
 **B. Identify Seed's Unique Angles:**
 - Find 2-3 pieces of "standard advice" from competitive baseline
 - Cross-reference against the POV document and Claims Library
@@ -142,6 +149,10 @@ After Phase 1 completes, read the stage1_analysis document and ALL reference fil
 - Frame Seed's view as their specific approach, not the only correct view
 - Use the Consumer Journey messaging pillars from Product Positioning to align angles with the appropriate stage
 - When the article topic involves consuming live microorganisms (fermented foods, kombucha, yogurt, etc.), the "Engineered to Survive" pillar is almost always relevant — flag it as a candidate angle. The natural reader question is: "Do the microbes in [topic food] even survive digestion?" DS-01's answer (ViaCap®, SHIME-tested) is a direct differentiator.
+- **CRITICAL — No Implied Superiority (per POV and Chelsea Jackle compliance review, May 2026):**
+  - When comparing the topic ingredient to probiotics, discuss probiotics as a CATEGORY first — do not introduce DS-01 in the same breath as the comparison. DS-01 can appear later in the article in its own clearly separated context.
+  - Never frame the comparison as "what the topic ingredient can't do but DS-01 can." Instead frame as "these work through different mechanisms." Model on the bone broth article: explains why bone broth and probiotics are different without implying superiority, and pulls claims directly from the MRD.
+  - Per the POV: "it's important to clearly separate general research from product context." General probiotic science goes in one paragraph; DS-01 product claims go in a SEPARATE paragraph.
 
 **C. Build Evidence Strategy:**
 - Tier 1 (USE FIRST): Claims and citations from the Claims Library (Allegretti et al. 2026 n=350 is the landmark study — citation ¹ is always reserved for this trial)
@@ -159,6 +170,13 @@ After Phase 1 completes, read the stage1_analysis document and ALL reference fil
 - NEVER use these citations to support claims about the article's topic food/drink/ingredient
 - If discussing immune function, gut barrier, or regularity in the context of the topic (not DS-01), use independent academic literature from the stage1_analysis citation pool
 - Only cite Claims Library studies in sentences that explicitly reference DS-01 or its formulation
+
+**CRITICAL — Implied Claims Guard (per POV "Disease Discussions" + Chelsea Jackle compliance review, May 2026):**
+- The POV warns: "readers may infer that a probiotic product is intended to treat or support a condition simply because it is discussed in proximity to that condition." Prevent this by maintaining clear separation between general research and DS-01 product claims.
+- When citing a study about probiotics + another substance (e.g., a study on berberine + probiotics), NEVER follow it immediately with a DS-01 mention — this creates the implication that DS-01 was the probiotic studied or that DS-01 works synergistically with that substance.
+- If a general probiotics study is relevant to the article, present it in a paragraph about probiotics broadly. Introduce DS-01 in a SEPARATE paragraph with its own approved Claims Library language.
+- Never suggest DS-01 use is helpful in conjunction with other supplements — this is not a claim in the MRD and could be read as medical advice. If the article naturally discusses supplement combinations, include: "As with any supplement routine, it's always a good idea to check in with your healthcare provider."
+- Never imply that DS-01 was "designed with [topic ingredient] synergy in mind" or that DS-01 "amplifies" the effects of the topic ingredient — these are not MRD-supported claims.
 
 **DS-01 Positioning Requirements (from MRD Product Positioning):**
 - When introducing the Allegretti trial, always include: "the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ" — this is a key awareness-stage differentiator
@@ -228,6 +246,13 @@ The voice balances three pillars (dial up or down based on the topic):
 
 *Example: "Think of probiotics as helpful allies rather than miracle workers — they shouldn't replace any part of your standard prenatal care."*
 
+**Hedging and Claim Precision (per POV hedging templates + Chelsea Jackle compliance review, May 2026):**
+- Use "can support" rather than "supports" when discussing benefits of ingredients outside of Seed's approved claims (e.g., "L-glutamine can support the gut barrier" not "L-glutamine supports the gut barrier")
+- Use "may," "research suggests," and "evidence indicates" for non-DS-01 ingredients' benefits
+- Only use definitive language ("is clinically shown to") for DS-01 claims that appear verbatim in the Claims Library
+- Do NOT use "reshape" when describing microbiome effects — this word is not in the Claims Library. Approved alternatives from the MRD: "transforms the gut°," "increases beneficial bacteria°," "improves the gut microbiome°"
+- When referencing the Timeline of Benefits phases (Restore/Rebalance/Optimize), present each phase's benefits separately with their individual citations and disclaimers — never lump multiple benefit categories into a single sentence
+
 #### Writing Mechanics
 
 **Sentence-level:**
@@ -281,6 +306,12 @@ The voice balances three pillars (dial up or down based on the topic):
 - Format: [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic)
 - Keep mentions casual and brief — don't dump product specs
 - Position as complementary to food-based approaches, never a replacement
+- **Never imply DS-01 is superior** to the topic ingredient — use "different mechanism" framing, not "addresses what X can't"
+- **Never imply DS-01 works synergistically** with the topic ingredient unless a specific study of that exact combination appears in the Claims Library
+- **Discuss probiotics broadly first** when comparing to the topic ingredient; introduce DS-01 as one example of a clinically validated probiotic in a SEPARATE paragraph
+- **Preserve "formulated to" qualifiers** exactly as they appear in the Claims Library — if the MRD says "formulated to target root causes," do not drop "formulated to" (dropping it turns a design intent into a therapeutic claim)
+- **Never suggest combining DS-01 with other supplements** without advising readers to consult their healthcare provider
+- **If the article topic involves a disease, disruptor, or condition not in the Claims Library**, do NOT include DS-01 in that specific context (per Topic Appropriateness Gate above)
 - Use ONLY approved claim language from the Claims Library when making product-specific claims
 - Include ALL required disclaimers per the Disclaimer Cheatsheet:
   - ° (FDA disclaimer) — mandatory on ALL health benefit claims
@@ -292,20 +323,24 @@ The voice balances three pillars (dial up or down based on the topic):
   - Δ (Lactobacillus genera) — mandatory for "17x beneficial bacteria" claim
 - Key evidence asset: Allegretti et al. 2026 clinical trial (n=350, 6-week RCT) — always position as "the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ"
 
-#### DS-01 Pitch Construction
+#### DS-01 Section Construction
 
 The DS-01 section should follow this logic:
-1. **Gap identification**: What the article topic (food/drink/ingredient) cannot do alone (e.g., introduce new strains, deliver at a validated dose, survive digestion)
-2. **Mechanism bridge**: How DS-01 addresses that gap at the root-cause level (transforms the microbiome, supports gut barrier, delivers to the colon)
-3. **Evidence anchor**: The landmark trial result using approved Claims Library language with all required disclaimers
-4. **Positioning**: Frame as "precision on top of a good foundation" — never replacement
+1. **Objective differentiation**: Explain how the topic ingredient and probiotics work through different mechanisms — neither is superior, they address different aspects of health. Do NOT frame this as "what the topic ingredient can't do." Instead frame as "these are different tools that work in different ways."
+2. **Separation of context**: Introduce DS-01 in its own paragraph, clearly separated from the general probiotics discussion. Do NOT position DS-01 as "naturally fitting" alongside the topic ingredient or as filling a gap. The reader should never infer that DS-01 was studied in relation to the topic ingredient.
+3. **Evidence anchor**: Use approved Claims Library language with all required disclaimers. Only include claims RELEVANT to the article topic.
+4. **Complementary positioning**: Frame as "a different approach to gut health" — never as filling a gap in what the topic ingredient does, and never as a synergistic companion to it.
 
-Choose only the claims and mechanisms RELEVANT to the article topic:
+**The "bone broth test"** (named after the one article Chelsea Jackle approved in her May 2026 compliance review): Before finalizing the DS-01 section, ask: "Does this read like the bone broth article — objective, different mechanisms, MRD-sourced claims, no implied superiority? Or does it read like the colostrum article — implied superiority, gap-filling, sales pitch?" If the latter, rewrite.
+
+**Topic-relevant claim selection** — choose ONLY claims relevant to the article:
 - If the topic is about regularity/digestion → use bloating + gas + regularity claims
-- If the topic is about immune function → use immune health claims (††required)
-- If the topic is about microbiome diversity → use "transforms the gut" + "increases beneficial bacteria" claims
+- If the topic is about immune function → use immune health claims (†† required)
+- If the topic is about microbiome diversity → use "increases beneficial bacteria" claims
 - If the topic is about fermented foods or live microbe consumption → include "Engineered to Survive" / ViaCap survivability angle
 - Do NOT include claims unrelated to the article topic just to pack in more product info
+
+**Per-claim presentation** — when referencing multiple benefit categories (e.g., immune function, skin appearance, micronutrient synthesis), present each one separately with its own citation and disclaimer. Never lump multiple benefit categories into a single sentence — each claim has distinct evidence and distinct disclaimer requirements per the Claims Library.
 
 #### Dirk Gevers, Ph.D. Quote
 
