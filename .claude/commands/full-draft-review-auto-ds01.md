@@ -64,10 +64,11 @@ Execute the full `/review-draft-seed-perspective-ds01` command logic:
    - Plus shared compliance/tone files (NO-NO-WORDS, What we are and are not allowed to say, Tone of Voice 2026, COPYStyleGuide)
 
 2. **Relevance Analysis** - Map article keyword to messaging pillars and Timeline of Benefits phases
-3. **Grade Against 15 DS-01 Checks:**
+3. **Grade Against 19 DS-01 Checks:**
    - Claims Library Compliance (5): Claims Library language, disclaimers, substantive claims, no individual strain names, attribution
    - POV & Messaging Alignment (5): POV positions, gut-[topic] axis, ViaCap®, clinical trials (Allegretti 2026), complementary positioning
    - DS-01 Differentiators (5): Messaging pillar talking points, Timeline of Benefits phasing, clinical data, educational angle, Dirk quote
+   - Objectivity & Implied Claims Guard (4): No implied superiority, no implied synergy, research/product separation, topic appropriateness + hedging + per-claim presentation
 4. **Generate Report** - Show the full analysis
 
 **AUTO-APPLY:** Instead of asking "Would you like me to fix these issues?", automatically:

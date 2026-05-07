@@ -10,12 +10,13 @@ Review generated SEO articles against **Seed's scientific perspective for DS-01*
 
 ## What This Command Does
 
-This command grades DS-01 articles against **Seed's scientific perspective** across 3 categories:
+This command grades DS-01 articles against **Seed's scientific perspective** across 4 categories:
 1. **Claims Library Compliance** (5 checks) - Uses Claims Library as primary authority for product claims
 2. **POV & Messaging Alignment** (5 checks) - Reflects DS-01 positioning from 2026 POV and Product Positioning docs
 3. **DS-01 Differentiator Integration** (5 checks) - Incorporates Seed's unique DS-01 angles from Timeline of Benefits and messaging pillars
+4. **Objectivity & Implied Claims Guard** (4 checks) - No implied superiority, synergy, or out-of-scope DS-01 placement (per Chelsea Jackle compliance review, May 2026)
 
-**Total: 15 checks → Letter Grade (A-F)**
+**Total: 19 checks → Letter Grade (A-F)**
 
 ## When to Use This
 
@@ -177,14 +178,38 @@ Identify which file to review:
 - ❌ Fail: Quote is generic wellness advice or focuses on individual strains
 - **Priority:** MEDIUM
 
+### D. Objectivity & Implied Claims Guard (4 checks — per Chelsea Jackle compliance review, May 2026)
+
+**Check 16: No implied superiority over topic ingredient**
+- ✅ Pass: DS-01 is presented as working through "different mechanisms" than the topic ingredient; the article does not frame DS-01 as filling a gap in what the topic ingredient can't do
+- ❌ Fail: Language like "addresses what [X] can't," "unlike [X] which only provides temporary protection," or framing that positions DS-01 as superior to the topic ingredient
+- **How to check:** Search for comparative language between DS-01 and the topic ingredient. The "bone broth test": does the DS-01 section read like objective differentiation, or like a sales pitch establishing DS-01's superiority?
+- **Priority:** CRITICAL
+
+**Check 17: No implied synergy claims**
+- ✅ Pass: DS-01 is not positioned as working synergistically with the topic ingredient; general probiotic research is discussed separately from DS-01 product claims
+- ❌ Fail: Citing a study on probiotics + the topic ingredient, then immediately introducing DS-01 as if it were the probiotic studied; suggesting "adding DS-01" to the topic ingredient for "more comprehensive support"; language like "together, they address more of the picture" or "designed with this synergy in mind"
+- **How to check:** Look for any paragraph where a general probiotics study is followed within 1-2 sentences by a DS-01 mention — this creates implied synergy through proximity
+- **Priority:** CRITICAL
+
+**Check 18: General research separated from DS-01 product claims**
+- ✅ Pass: General probiotic science is in its own paragraph(s); DS-01 product claims are in a clearly separate paragraph with Claims Library language and disclaimers
+- ❌ Fail: DS-01 claims mixed into paragraphs about general probiotic research, or Claims Library citations (Allegretti, Del Piano, etc.) used to support claims about the topic ingredient rather than DS-01
+- **Priority:** HIGH
+
+**Check 19: Topic appropriateness + hedging + per-claim presentation**
+- ✅ Pass: DS-01 is only mentioned in contexts covered by the Claims Library; "can support" / "may" used for non-DS-01 ingredient claims; "formulated to" qualifiers preserved from MRD; each benefit claim has its own citation and disclaimer (not lumped); "reshape" not used for microbiome effects
+- ❌ Fail: DS-01 placed in disease/disruptor contexts (e.g., alcohol recovery, medication interaction) not in the Claims Library; definitive language used for non-DS-01 claims; "formulated to" dropped from MRD claims; multiple benefit categories lumped in one sentence; "reshape" used instead of approved MRD language ("transforms the gut°", "increases beneficial bacteria°")
+- **Priority:** HIGH
+
 ### Grading Scale
 
-**Count checks passed (out of 15):**
-- **13-15 passed: Grade A** (Excellent Seed alignment - ready for quality review)
-- **10-12 passed: Grade B** (Good foundation - minor gaps to address)
-- **7-9 passed: Grade C** (Needs significant work - missing core Seed perspective)
-- **4-6 passed: Grade D** (Major misalignment - substantial rewrite required)
-- **0-3 passed: Grade F** (Complete rewrite needed - does not reflect Seed's positioning)
+**Count checks passed (out of 19):**
+- **17-19 passed: Grade A** (Excellent Seed alignment - ready for quality review)
+- **13-16 passed: Grade B** (Good foundation - minor gaps to address)
+- **9-12 passed: Grade C** (Needs significant work - missing core Seed perspective)
+- **5-8 passed: Grade D** (Major misalignment - substantial rewrite required)
+- **0-4 passed: Grade F** (Complete rewrite needed - does not reflect Seed's positioning)
 
 ### STEP 5: Generate Focused Report
 
@@ -197,7 +222,7 @@ Relevant Timeline Phases: [list from Step 3]
 
 ═══════════════════════════════════════════════════
 SEED SCIENTIFIC PERSPECTIVE (DS-01) - GRADE: [A/B/C/D/F]
-Checks Passed: X/15
+Checks Passed: X/19
 ═══════════════════════════════════════════════════
 
 A. Claims Library Compliance (X/5 checks passed)
@@ -217,6 +242,9 @@ B. POV & Messaging Alignment (X/5 checks passed)
 [Continue for all checks...]
 
 C. DS-01 Differentiator Integration (X/5 checks passed)
+[Continue for all checks...]
+
+D. Objectivity & Implied Claims Guard (X/4 checks passed)
 [Continue for all checks...]
 
 ═══════════════════════════════════════════════════
@@ -241,6 +269,7 @@ Options:
 • 'claims' - Fix only Claims Library compliance issues
 • 'messaging' - Fix only POV & messaging alignment issues
 • 'differentiators' - Fix only DS-01 differentiator issues
+• 'objectivity' - Fix only implied superiority/synergy/context issues
 • 'none' - Skip fixes and end review
 • 'save' - Save this report as markdown file without applying fixes
 
@@ -279,6 +308,17 @@ Parse user's response and apply appropriate fixes:
 - Incorporate Timeline of Benefits phasing where applicable
 - Add clinical trial data citations where appropriate
 - Adjust Dirk Gevers quote if needed to avoid strain-level focus
+
+**Objectivity & Implied Claims Guard:**
+- Replace superiority framing ("addresses what X can't") with "different mechanism" framing
+- Separate general probiotic research paragraphs from DS-01 product claim paragraphs
+- Remove any implied synergy claims (DS-01 + topic ingredient working together)
+- Add "consult your healthcare provider" if supplement combinations are discussed
+- Replace "reshape" with MRD-approved language ("transforms the gut°", "increases beneficial bacteria°")
+- Restore "formulated to" qualifiers where they were dropped from MRD language
+- Change "supports" to "can support" for non-DS-01 ingredient claims
+- Split lumped multi-benefit sentences into individual claims with proper citations/disclaimers
+- Remove DS-01 from any disease/disruptor context not covered by Claims Library
 
 ### STEP 7: Save Reviewed Version
 
