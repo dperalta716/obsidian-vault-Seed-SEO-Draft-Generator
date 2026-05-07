@@ -455,6 +455,15 @@ Before saving, verify:
 - [ ] Dirk Gevers quotes do NOT name any product directly
 - [ ] DS-01 pitch is relevant to the article topic (not generic product dump)
 - [ ] Strain-level temporal claims (e.g., "regularity in 2 weeks") include ingredient callout per Copy Compliance Guidance
+- [ ] **No implied superiority** — DS-01 is never framed as "better than" or "addresses what [topic ingredient] can't" (use "different mechanism" framing)
+- [ ] **No implied synergy** — DS-01 is not positioned as synergistic with the topic ingredient unless that specific combination is in the Claims Library
+- [ ] **General probiotics discussed separately from DS-01** product claims (per POV: "clearly separate general research from product context")
+- [ ] **"Formulated to" qualifiers preserved** exactly from Claims Library language — never dropped
+- [ ] **"Can support" / "may"** used for non-DS-01 ingredient claims; **"reshape" not used** anywhere (not in Claims Library vocabulary)
+- [ ] **Each benefit claim presented separately** with its own citation and disclaimer — no lumped multi-benefit sentences
+- [ ] **Topic appropriateness verified** — DS-01 not placed in disease/disruptor/medication contexts outside Claims Library scope
+- [ ] **Doctor consultation advised** if article discusses supplement combinations
+- [ ] **"Bone broth test" passed** — DS-01 section reads as objective differentiation, not implied superiority or sales pitch
 
 ### Step 2.5: Save Draft
 
