@@ -91,7 +91,7 @@ Using v2-seed-perspective-reviewed.md as input, execute `/review-draft-1-v2` log
 
 1. **Product Detection** - Should detect DS-01 (if not, force DS-01 mode)
 2. **Relevance Analysis** - Map to messaging pillars and Timeline phases
-3. **PRIMARY Grading** - 15 Seed perspective checks (DS-01 version)
+3. **PRIMARY Grading** - 19 Seed perspective checks (DS-01 version, including Objectivity & Implied Claims Guard)
 4. **SECONDARY Checks** - Citations, Product Refs, Compliance, Structure, Tone, SEO
 5. **Generate Report** - Show full analysis
 

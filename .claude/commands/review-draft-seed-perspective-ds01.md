@@ -89,7 +89,7 @@ Identify which file to review:
 3. **Map to Timeline of Benefits phases:**
    - Which phases (Restore/Rebalance/Optimize) are relevant to the article's topic?
 
-### STEP 4: Grade Against 15 Seed Perspective Checks
+### STEP 4: Grade Against 19 Seed Perspective Checks
 
 ## SEED SCIENTIFIC PERSPECTIVE CHECKS (DS-01)
 
