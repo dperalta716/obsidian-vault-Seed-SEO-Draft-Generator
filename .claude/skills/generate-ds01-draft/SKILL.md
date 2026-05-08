@@ -19,48 +19,6 @@ The keyword argument is required. The skill handles everything else automaticall
 
 ---
 
-## PHASE 0: SciCare POV Brief Lookup
-
-Before starting competitor analysis, check if SciCare has provided a topic-specific POV brief for this keyword.
-
-### Step 0.1: Search for POV Brief
-
-Search `Reference/SciCare POV briefs/` (including all subfolders) for a markdown file whose name matches or closely matches the keyword.
-
-```bash
-find "Reference/SciCare POV briefs" -name "*.md" -type f 2>/dev/null
-```
-
-**Matching logic:**
-- Exact match: keyword is "gut health detox" → look for `gut health detox.md`
-- Fuzzy match: if no exact match, check if any filename contains the keyword or vice versa
-- If multiple matches, prefer the most specific one
-
-### Step 0.2: Load POV Brief (if found)
-
-**If a matching POV brief is found:**
-1. Read the file in full
-2. Extract:
-   - **SciCare's POV/Key Takeaway** — the scientific perspective on this topic. This becomes the article's narrative backbone.
-   - **Suggested References** — pre-vetted academic sources with DOIs/URLs. These become the PRIMARY citation pool for the topic (replacing the usual "go find academic sources" step).
-   - **Any specific cautions or nuances** — things SciCare flagged as important.
-3. Log: `Found SciCare POV brief: [filename] — this will govern the article's angle and primary evidence base`
-
-**How the POV brief changes the workflow:**
-- **Phase 1 (competitor analysis) still happens** — we still need the competitive baseline to rank. But the article's ANGLE comes from the POV brief, not from mimicking competitors.
-- **Phase 2 (draft generation):** The POV brief's key takeaway becomes the article's throughline. Its suggested references become Tier 0 in the evidence hierarchy (used before even Claims Library sources for topic-specific claims). Every section is filtered through the SciCare lens.
-- **Evidence hierarchy with POV brief:**
-  - Tier 0 (USE FIRST for topic claims): Suggested references from POV brief
-  - Tier 1 (USE for DS-01 claims): Claims Library citations
-  - Tier 2 (USE NEXT): Citations from the POV document and Timeline of Benefits
-  - Tier 3 (SUPPLEMENT): Pre-vetted academic sources from stage1_analysis
-
-**If no matching POV brief is found:**
-- Log: `No SciCare POV brief found for this keyword — proceeding with standard workflow`
-- Continue to Phase 1 as normal (no changes to the rest of the workflow)
-
----
-
 ## PHASE 1: Pre-Draft Competitor Analysis
 
 ### Step 1.1: Fetch SERP Data
@@ -506,10 +464,6 @@ Before saving, verify:
 - [ ] **Topic appropriateness verified** — DS-01 not placed in disease/disruptor/medication contexts outside Claims Library scope
 - [ ] **Doctor consultation advised** if article discusses supplement combinations
 - [ ] **"Bone broth test" passed** — DS-01 section reads as objective differentiation, not implied superiority or sales pitch
-- [ ] **SciCare POV brief alignment (if one was loaded in Phase 0):**
-  - [ ] Article's core narrative aligns with SciCare's stated POV/Key Takeaway
-  - [ ] Suggested references from the POV brief were incorporated into the citation pool
-  - [ ] No section contradicts SciCare's position or makes claims the POV brief warns against
 
 ### Step 2.5: Save Draft
 

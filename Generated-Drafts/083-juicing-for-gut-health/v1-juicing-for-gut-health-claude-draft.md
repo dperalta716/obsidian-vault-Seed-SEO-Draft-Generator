@@ -44,7 +44,7 @@ Fresh fruit and vegetable juices are concentrated sources of polyphenols, which 
 
 This means your juice is feeding a process. The polyphenols in beet juice, for example, have well-documented antioxidant properties ([Clifford 2019](https://doi.org/10.1186/s12986-019-0421-0)). Ginger contains gingerols and shogaols that may support a healthy inflammatory response. And citrus juices deliver vitamin C alongside flavonoids that your gut microbiota can metabolize.
 
-A small study of 20 healthy adults who followed a three-day juice-only diet found temporary shifts in gut microbiome composition, along with changes in markers linked to blood flow and oxidative stress ([Henning 2017](https://doi.org/10.1038/s41598-017-02200-6)). Some of those effects persisted briefly after participants returned to their usual diet.
+A small study of 20 healthy adults who followed a three-day juice-only diet found temporary shifts in gut microbiome composition, along with changes in markers linked to blood flow and oxidative stress ([Henning 2017](https://doi.org/10.1038/s41598-017-02200-6)). Some of those effects persisted briefly after participants returned to their usual diet. Another small study observed a modest increase in the diversity of gut microbiota after three days of fruit and vegetable juice intake, though the researchers noted that findings were preliminary ([Choi 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6170287/)).
 
 So yes—juice does deliver real, measurable compounds that interact with your gut. The question is what else happens when juicing is your primary strategy.
 
@@ -88,7 +88,9 @@ Juicing and probiotics address gut health from completely different angles. Juic
 
 These are different tools with different mechanisms. One delivers plant-based nutrients. The other delivers living bacteria that can interact with your immune cells, produce beneficial compounds, and support the gut barrier as they move through your digestive tract.
 
-[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is a 24-strain probiotic and prebiotic that was clinically validated in the largest clinical trial for a probiotic on bloating and gas in healthy adults°µ. In that trial of 350 participants, DS-01® was clinically shown to reduce bloating and alleviate gas°. The formulation is also designed to increase beneficial bacteria in the gut microbiome° and support gut barrier integrity°—two outcomes that juice alone doesn't directly address ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
+[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is a 24-strain probiotic and prebiotic that was clinically validated in the largest clinical trial for a probiotic on bloating and gas in healthy adults°µ. In that trial of 350 participants, [DS-01®](https://seed.com/daily-synbiotic) was clinically shown to reduce bloating and alleviate gas° ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
+
+The formulation also increases beneficial bacteria in the gut microbiome°. And it supports gut barrier integrity°—both of which reflect a different approach to digestive health than what polyphenols and vitamins alone provide.
 
 Neither approach replaces the other. Drinking a beet-ginger juice doesn't do what a clinically studied probiotic does, and taking a probiotic doesn't deliver the polyphenols and vitamins in fresh juice. If you're thinking about your gut health broadly, the strongest foundation is a fiber-rich diet—with juice and probiotics each contributing something different.
 
@@ -124,7 +126,7 @@ It's worth noting that regular bowel movements depend heavily on dietary fiber. 
 
 ### What juice is good for bad gut health?
 
-If you're dealing with ongoing digestive discomfort, no single juice will fix the problem—but certain ingredients may offer some support. Ginger juice can help ease occasional nausea and digestive discomfort. Pineapple contains bromelain, which may support protein digestion. Beet juice delivers nitrates and antioxidants that support blood flow to the gut.
+If you're dealing with ongoing digestive discomfort, no single juice is a complete answer—but certain ingredients may offer some support. Ginger juice can help ease occasional nausea and digestive discomfort. Pineapple contains bromelain, which may support protein digestion. Beet juice delivers nitrates and antioxidants that support blood flow to the gut.
 
 Keep in mind that persistent digestive issues deserve a conversation with your healthcare provider. Juice can complement a gut-friendly diet, but it isn't a treatment for underlying digestive conditions. A more comprehensive approach might include fiber-rich whole foods, adequate hydration, and clinically studied probiotics like [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) that are formulated to target root causes of digestive distress°.
 
