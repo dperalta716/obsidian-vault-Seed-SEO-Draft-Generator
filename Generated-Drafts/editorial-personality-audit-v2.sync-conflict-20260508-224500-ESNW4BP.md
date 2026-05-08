@@ -30,9 +30,9 @@ This isn't just a feel-good argument. One case study found that switching to nat
 
 The introduction is the single highest-leverage paragraph in any SEO article. It's the first thing a reader sees after clicking from search results. If the opening feels generic or like every other health article, they bounce. If it feels like someone actually understands their question and has something interesting to say about it, they stay.
 
-Across these 6 articles, the introduction was the area where personality changes were most noticeable. In two cases, vivid scene-setting openings that met readers in their lived experience were replaced entirely with factual or clinical leads. In others, the core hook survived but specific conversational devices -- "Here's the short answer," "And honestly?", "Let's close that gap" -- were trimmed away.
+Across these 6 articles, the introduction was the area where personality changes were most noticeable. In two cases, vivid scene-setting openings that met readers in their lived experience were replaced with factual or clinical leads. In others, the core hook survived but specific conversational devices -- "Here's the short answer," "And honestly?", "Let's close that gap" -- were trimmed away.
 
-One pattern worth calling out specifically: several of the original drafts used a "Here's the short answer" device in the intro -- giving readers the answer to their question up front before diving into the details. This matters because people searching on Google need to know immediately that they're in the right place. When they see their question answered in the first few sentences, they trust the article and keep reading for the deeper context. When that quick answer gets removed, the reader has to hope the article eventually addresses what they came for. Most won't and leave.
+The article-by-article analysis below includes full before-and-after comparisons of every introduction so you can see exactly what changed.
 
 ---
 
@@ -170,6 +170,8 @@ The "(And What Makes Each One Different)" added a sense of guided exploration. T
 #### What Was Preserved and Added
 
 This is where the contrast with ACV is striking. Preya preserved the factory analogy ("fiber is the raw material, your gut bacteria are the factory workers, and SCFAs are the product") and actually added a humorous parenthetical: "(Quality control included.)" She added a chicory joke ("chicory's version of going mainstream"), a coffee parenthetical in the FAQ ("Not an excuse to drink six -- but it does count."), and a strong closing metaphor: "deepening the soil, and letting diversity do the work."
+
+This article shows that Preya can preserve and even enhance personality. The dramatic difference from the ACV article is worth understanding.
 
 ---
 
