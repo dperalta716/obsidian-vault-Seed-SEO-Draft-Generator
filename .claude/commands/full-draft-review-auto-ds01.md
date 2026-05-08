@@ -51,6 +51,41 @@ Identify the starting file using standard logic:
 
 **Verify this is a DS-01 article** by scanning for DS-01®, "Daily Synbiotic", probiotic/microbiome content. If it appears to be an NPD article (PM-02/DM-02/AM-02), warn and suggest `/full-draft-review-auto` instead.
 
+### STEP 0.5: SciCare POV Brief Lookup
+
+Search `Reference/SciCare POV briefs/` (including all subfolders) for a markdown file whose name matches or closely matches the article keyword.
+
+```bash
+find "Reference/SciCare POV briefs" -name "*.md" -type f 2>/dev/null
+```
+
+**Matching logic:**
+- Exact match: keyword is "gut health detox" → look for `gut health detox.md`
+- Fuzzy match: if no exact match, check if any filename contains the keyword or vice versa
+- If multiple matches, prefer the most specific one
+
+**If a matching POV brief is found:**
+1. Read the file in full
+2. Extract:
+   - **SciCare's POV/Key Takeaway** — the scientific perspective on this topic
+   - **Suggested References** — pre-vetted academic sources with DOIs/URLs
+   - **Any specific cautions or nuances** — things SciCare flagged as important
+3. Store this as the **POV Brief Guardrail** — it applies to ALL subsequent review steps
+4. Log: `Found SciCare POV brief: [filename] — applying as alignment guardrail`
+
+**If no matching POV brief is found:**
+- Log: `No SciCare POV brief found for this keyword — proceeding with standard review`
+- Continue to Step 1 as normal
+
+**How the POV Brief Guardrail applies to all steps:**
+
+When a POV brief is loaded, every review step must additionally check:
+1. **Alignment**: Does the draft's narrative align with SciCare's stated POV? Flag any sections where the draft contradicts or undermines the POV.
+2. **Reference incorporation**: Did the draft use the suggested references from the POV brief? If key references were omitted, flag this as a gap.
+3. **Revision safety**: Before applying any fix, verify it does NOT contradict the POV brief. If a proposed revision would conflict with SciCare's position, skip that revision and flag it for manual review instead.
+
+This is a guardrail, not a suggestion — the POV brief represents SciCare's vetted scientific position. No automated fix should override it.
+
 ### STEP 1: DS-01 Seed Perspective Review (Auto-Apply All)
 
 Execute the full `/review-draft-seed-perspective-ds01` command logic:
@@ -64,25 +99,32 @@ Execute the full `/review-draft-seed-perspective-ds01` command logic:
    - Plus shared compliance/tone files (NO-NO-WORDS, What we are and are not allowed to say, Tone of Voice 2026, COPYStyleGuide)
 
 2. **Relevance Analysis** - Map article keyword to messaging pillars and Timeline of Benefits phases
-3. **Grade Against 19 DS-01 Checks:**
+3. **Grade Against DS-01 Checks (19 standard + up to 3 POV brief checks if applicable):**
    - Claims Library Compliance (5): Claims Library language, disclaimers, substantive claims, no individual strain names, attribution
    - POV & Messaging Alignment (5): POV positions, gut-[topic] axis, ViaCap®, clinical trials (Allegretti 2026), complementary positioning
    - DS-01 Differentiators (5): Messaging pillar talking points, Timeline of Benefits phasing, clinical data, educational angle, Dirk quote
    - Objectivity & Implied Claims Guard (4): No implied superiority, no implied synergy, research/product separation, topic appropriateness + hedging + per-claim presentation
+   - **SciCare POV Brief Alignment (if POV brief was loaded in Step 0.5):**
+     - (SC-1) Does the draft's core narrative align with SciCare's stated POV/Key Takeaway?
+     - (SC-2) Were the suggested references from the POV brief incorporated (or was there a good reason to omit them)?
+     - (SC-3) Does any section of the draft contradict SciCare's position or make claims the POV brief explicitly warns against?
 4. **Generate Report** - Show the full analysis
 
 **AUTO-APPLY:** Instead of asking "Would you like me to fix these issues?", automatically:
 - Apply ALL fixes (equivalent to user typing 'all')
+- **POV Brief Safety Check**: Before applying each fix, verify it does NOT contradict the SciCare POV brief (if one was loaded). If a fix would conflict, skip it and flag it in the output as `⚠️ Skipped (conflicts with SciCare POV brief): [description]`
 - Create v2-seed-perspective-reviewed.md
 - Preserve original v1 file
 
 **Progress Output:**
 ```
 ═══════════════════════════════════════════════════
-📋 STEP 1/5: DS-01 Seed Perspective Review
+STEP 1/5: DS-01 Seed Perspective Review
 ═══════════════════════════════════════════════════
 [Show abbreviated analysis - just grade and summary]
-✅ Applied ALL fixes → v2-seed-perspective-reviewed.md
+[If POV brief loaded: show SciCare alignment grade (SC-1, SC-2, SC-3)]
+Applied ALL fixes → v2-seed-perspective-reviewed.md
+[If any fixes skipped due to POV conflict: list them]
 ```
 
 ### STEP 2: Quality Review (Auto-Apply All)
