@@ -309,7 +309,7 @@ The "(And What Makes Each One Different)" added a sense of guided exploration. T
 
 #### What Was Preserved and Added
 
-This is where the contrast with ACV is striking. Preya preserved the factory analogy ("fiber is the raw material, your gut bacteria are the factory workers, and SCFAs are the product") and actually added a humorous parenthetical: "(Quality control included.)" She added a chicory joke ("chicory's version of going mainstream"), a coffee parenthetical in the FAQ ("Not an excuse to drink six -- but it does count."), and a strong closing metaphor: "deepening the soil, and letting diversity do the work."
+Preya preserved the factory analogy ("fiber is the raw material, your gut bacteria are the factory workers, and SCFAs are the product") and actually added a humorous parenthetical: "(Quality control included.)" She added a chicory joke ("chicory's version of going mainstream"), a coffee parenthetical in the FAQ ("Not an excuse to drink six -- but it does count."), and a strong closing metaphor: "deepening the soil, and letting diversity do the work."
 
 ---
 
@@ -342,11 +342,6 @@ The conversational backbone survived well. Three specific personality devices we
 > **Final**: "Fermented Foods That Don't Contain Live Cultures"
 
 The original implied reader surprise and created a "let me help you" dynamic. The replacement is purely descriptive.
-
-> **Original**: "What Happens After You Swallow"
-> **Final**: "Do Fermented Food Bacteria Survive Digestion?"
-
-The original was mildly provocative and attention-grabbing. The replacement is a standard FAQ-style question.
 
 Most other headers survived intact or with minor changes.
 
