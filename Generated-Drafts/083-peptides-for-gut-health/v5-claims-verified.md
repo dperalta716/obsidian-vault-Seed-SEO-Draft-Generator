@@ -1,7 +1,7 @@
 ---
 date: 2026-05-07
 keyword: "peptides for gut health"
-version: v3-reviewed
+version: v5-claims-verified
 status: draft
 tags: [seed, seo-draft, ds-01]
 ---
@@ -163,7 +163,7 @@ Most consumer-marketed peptides for gut health—like BPC-157 and KPV—haven't 
 
 ## Citations
 
-1. Allegretti, J. R., et al. (2026). Clinical trial on DS-01® Daily Synbiotic in healthy adults. *Peer-reviewed publication*. https://pubmed.ncbi.nlm.nih.gov/41599868/
+1. Allegretti, J. R., et al. (2026). A randomized, placebo-controlled trial evaluating multi-species synbiotic supplementation for bloating, gas, and abdominal discomfort. *Nutrients*. https://pubmed.ncbi.nlm.nih.gov/41599868/
 
 2. Bao, X., & Wu, J. (2021). Impact of food-derived bioactive peptides on gut function and health. *Food Research International*, 147, 110485. https://doi.org/10.1016/j.foodres.2021.110485
 
