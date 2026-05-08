@@ -1,4 +1,4 @@
-﻿SEO Article Sprint - SciCare POV
+SEO Article Sprint - SciCare POV
 Requested by: Kate Carruth
 Owner: Dana Jessen-Howard
 Description:
