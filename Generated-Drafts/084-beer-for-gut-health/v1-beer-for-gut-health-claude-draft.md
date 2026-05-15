@@ -28,8 +28,7 @@ tags: [seed, seo-draft, ds-01]
 
 - Beer contains polyphenols, soluble fiber, and fermented compounds that can feed beneficial gut bacteria and support microbial diversity.
 - Alcohol itself works against your gut—damaging the gut barrier, triggering inflammation, and reducing microbial diversity at higher intake levels.
-- Non-alcoholic beer may offer many of the same microbiome benefits without the downsides of ethanol.
-- Beer is not a gut health strategy. The compounds that help your microbiome are a small bonus of moderate consumption—not a reason to drink more.
+- Beer is not a gut health strategy. Non-alcoholic beer may deliver some of the same microbiome benefits without the downsides—but the compounds that help are a small bonus, not a reason to drink more.
 
 You've probably seen the headlines: "A beer a day could be good for your gut." It's the kind of health news that sounds almost too good to be true. And in some ways, it is.
 
@@ -49,7 +48,7 @@ Polyphenols are plant-based compounds found in hops, barley, and malt. Most of t
 
 Think of polyphenols as food for your beneficial bacteria. They act like prebiotics, feeding the microbes you want to keep around.
 
-A randomized crossover trial found that beers with higher polyphenol content can shift gut microbiota composition in measurable ways ([Martínez-Montoro 2022](https://doi.org/10.3390/antiox11040696)). Unfiltered and darker beers tend to retain more polyphenols than their heavily filtered counterparts.
+A randomized crossover trial found that beers with higher polyphenol content can shift gut microbiota composition in measurable ways ([Martínez-Montoro 2022](https://doi.org/10.3390/antiox11040696)). Unfiltered beers tend to retain more polyphenols than heavily filtered ones. That said, the same study found dark beer was associated with an increase in *Streptococcus*—a genus linked to less favorable outcomes—while lager and non-alcoholic beer were not.
 
 ### Fiber and Fermented Compounds
 
@@ -103,7 +102,7 @@ That's not a knock against beer or any fermented food. Many fermented foods and 
 
 Probiotics take a more targeted approach. They introduce specific, studied strains of live bacteria that interact with your gut environment in particular ways. And because most of these microorganisms need to survive the harsh conditions of your stomach to reach the areas where they can do their work, delivery matters.
 
-[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is one example of a clinically validated probiotic that addresses this. It contains 24 scientifically studied strains not commonly found in foods, yogurts, or beverages, delivered through a capsule-in-capsule delivery system engineered to survive digestion.
+[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is one example of a clinically validated probiotic that addresses this. It contains 24 scientifically studied strains not commonly found in foods, yogurts, or beverages, delivered through ViaCap®, a capsule-in-capsule delivery system engineered to survive digestion.
 
 [DS-01®](https://seed.com/daily-synbiotic) was validated in the largest clinical trial for a probiotic on bloating and gas in healthy adults°µ—and was clinically shown to improve regularity, reduce bloating, and alleviate gas° ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)). It's also formulated to increase beneficial bacteria in the gut microbiome.°
 
@@ -115,7 +114,7 @@ Beer's relationship with your gut is a story of competing forces. The polyphenol
 
 The research is clear on one point: the gut-friendly benefits of beer come from its non-alcoholic compounds—the polyphenols, the soluble fiber, and the fermented metabolites. Non-alcoholic beer appears to deliver many of the same microbiome benefits without the tradeoffs of ethanol.
 
-If you enjoy beer, enjoy it because you enjoy it—not as a gut health strategy. Choose unfiltered or polyphenol-rich options when you can, keep intake moderate, and know that the best foundation for a healthy microbiome involves consistent habits: a fiber-rich diet, regular movement, quality sleep, and—if you're looking for targeted digestive support—clinically studied approaches with evidence behind them.
+If you enjoy beer, enjoy it because you enjoy it—not as a gut health strategy. If you choose to drink, keep intake moderate, and know that the best foundation for a healthy microbiome involves consistent habits: a fiber-rich diet, regular movement, quality sleep, and—if you're looking for targeted digestive support—clinically studied approaches with evidence behind them.
 
 ## Frequently Asked Questions
 
@@ -125,7 +124,7 @@ It depends on how much you're drinking and what you mean by "good." Beer contain
 
 ### What beer is best for gut health?
 
-Unfiltered and darker beers tend to retain more polyphenols—the compounds most linked to gut microbiome benefits. A clinical trial found that beers with higher phenolic content can measurably shift gut microbiota composition ([Martínez-Montoro 2022](https://doi.org/10.3390/antiox11040696)). Belgian-style ales, stouts, and porters that undergo secondary fermentation tend to have higher polyphenol levels than mass-produced, heavily filtered lagers. Non-alcoholic versions of these styles can offer similar polyphenol benefits without alcohol's negative effects on the gut. The key factor isn't the brand—it's how much processing the beer has gone through.
+Unfiltered beers tend to retain more polyphenols—the compounds most linked to gut microbiome benefits. A clinical trial found that beers with higher phenolic content can shift gut microbiota composition, though dark beer was also associated with an increase in *Streptococcus*, a less favorable genus ([Martínez-Montoro 2022](https://doi.org/10.3390/antiox11040696)). Non-alcoholic versions may offer similar polyphenol benefits without the downsides of alcohol. The key factor isn't the style—it's how much processing the beer has gone through and whether it contains ethanol.
 
 ### What is the most gut-friendly alcohol?
 
