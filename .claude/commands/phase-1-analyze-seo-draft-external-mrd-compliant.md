@@ -27,7 +27,7 @@ This command automates a comprehensive SEO competitive analysis workflow for Pha
 5. **Searches and fetches** the top 3-4 competing articles for that keyword
 6. **Consults Seed's 2026 MRD documents** to identify unique scientific perspectives, compliance restrictions, and approved claims (MANDATORY)
 7. **Applies Topic Appropriateness Gate** to determine whether and how DS-01 should appear in recommendations
-8. **Performs in-depth analysis** comparing the published article to competitors through Seed's MRD-aligned scientific lens
+8. **Generates content gap recommendations FIRST** (Step 3A), then **applies MRD compliance as a filter** (Step 3B) — ensuring competitive breadth is not sacrificed for compliance rigor
 9. **Validates recommendations through SEO safety checklist AND MRD compliance checklist** (MANDATORY)
 10. **Outputs a structured comparison** highlighting strengths, gaps, and MRD-compliant Seed-aligned recommendations
 11. **Auto-proceeds with ALL recommendations** (no interactive pause)
@@ -118,8 +118,14 @@ find "Reference/SciCare POV briefs" -name "*.md" -type f 2>/dev/null
 **Optional Supplementary — Old SciCare POV (Use ONLY when no POV brief exists AND the topic is not well-covered by MRD):**
 - `Phase 1 Reference Files/SciCare-POV-Section-Index.md` — Read this FIRST to find relevant sections
 - Then selectively load 1-3 relevant sections from `Phase 1 Reference Files/SEO Article Sprint - SciCare POV - DS-01 - General.md` using offset/limit from the Section Index
-- Use this for topic-specific Seed perspective on conditions/topics NOT covered by the Claims Library (e.g., acid reflux, SIBO, skin conditions, UTIs, pregnancy)
-- The MRD always takes authority over the old SciCare POV where they conflict
+- Load only 1-3 relevant sections via offset/limit from the Section Index — never load the full 52K-word file
+
+**When to use the old SciCare POV as fallback:**
+- The topic falls outside MRD scope (e.g., specific conditions like acid reflux, SIBO, UTIs, pregnancy, skin conditions, oral health)
+- No SciCare POV Brief exists for this topic
+- The Section Index shows relevant sections for the article's keyword
+- Use it for: topic-specific Seed perspective, condition-specific guardrails (what NOT to say), mechanism explanations, population-specific nuances
+- The MRD ALWAYS takes authority over the old SciCare POV where they conflict
 
 **How to Use the Reference Files:**
 
@@ -167,7 +173,22 @@ Create a summary documenting:
 5. **Topic Appropriateness Assessment**: Whether and how DS-01 should appear in recommendations
 6. **SciCare POV Brief Status**: Whether one was found and what it says (or "None found — using MRD general principles")
 
-### Step 3: Comparative Analysis Output
+### Step 3A: Content Gap Analysis (GENERATE ALL COMPETITIVE RECOMMENDATIONS)
+
+**Competitor coverage gaps are content recommendations, not compliance decisions. If a competitor covers a topic and we don't, recommend adding it — even if DS-01 has no claims for that topic. The MRD compliance checklist filters HOW we say things, not WHETHER we cover topics.**
+
+Compare the published article against competitors and identify ALL content gaps. Do NOT self-censor recommendations based on DS-01 relevance. Content about postpartum mental health, systemic health connections, mechanisms of action, safety profiles, etc. are valid content recommendations even if DS-01 has no claims in those areas.
+
+For each gap, generate a recommendation with:
+- **What to add and where** (specific section, before/after what content)
+- **Why it matters** (competitive advantage — what competitors cover that we don't)
+- **Suggested framing through Seed's perspective**, using this hierarchy:
+  1. SciCare POV Brief (if found in Step 0) — highest authority for topic-specific framing
+  2. 2026 MRD general principles (transient nature, strain specificity, fermented foods distinction, disease discussion guidance, hedging language)
+  3. Old SciCare POV sections (selectively loaded in Step 2.5) — fallback for topic-specific Seed perspective on things the MRD is silent about
+  4. General scientific framing with appropriate hedging — when none of the above cover the topic, recommend adding the content with balanced science and a note: "No Seed-specific POV available for this subtopic — frame as balanced general science with appropriate limitations language"
+
+**Target 8-12 content recommendations.**
 
 Generate a structured report with these sections:
 
@@ -191,9 +212,18 @@ Generate a structured report with these sections:
 - Priority indicators (quick wins vs. major additions)
 - Citation requirements for new content
 
-#### MRD Compliance Check on Recommendations (MANDATORY)
+### Step 3B: MRD & SEO Compliance Filter (REVIEW ALL RECOMMENDATIONS)
 
-**CRITICAL**: Before presenting recommendations, run each one through BOTH the SEO safety checklist AND the MRD compliance checklist.
+**Do NOT remove a recommendation just because DS-01 can't be connected to it. A recommendation to add content about postpartum mental health is a competitive content gap, not a DS-01 compliance issue. The compliance filter adds guardrails to recommendations — it does not prune them.**
+
+Take every recommendation from Step 3A and run it through BOTH checklists below. For each recommendation, ADD compliance notes — do not remove the recommendation.
+
+**Compliance note guidance per recommendation:**
+- If the recommendation involves DS-01: specify which Claims Library claims to use, which disclaimers are required
+- If the recommendation involves a condition NOT in Claims Library: note "Frame as general science. Do not connect to DS-01. Use hedging language (research suggests, may, can support)."
+- If the recommendation involves general probiotic science: note "Keep in separate paragraph from any DS-01 mentions"
+
+Only REMOVE a recommendation if it fundamentally cannot be made compliant (e.g., it would require making a therapeutic claim that cannot be hedged). This should be rare. If a recommendation is revised for compliance, show what changed and why.
 
 **SEO Safety Checklist (per v3):**
 
@@ -203,7 +233,7 @@ Generate a structured report with these sections:
 4. **Internal Links**: Does NOT remove existing internal links
 5. **Readability & User Intent**: No keyword stuffing, maintains search intent alignment
 
-**MRD Compliance Checklist (NEW):**
+**MRD Compliance Checklist:**
 
 6. **No Implied Superiority**: Recommendations do NOT frame DS-01 as superior to the article's topic ingredient or as "addressing what X can't do." Use "different mechanism" framing.
 7. **No Implied Synergy**: Recommendations do NOT position DS-01 as synergistic with the topic ingredient unless that specific combination appears in the Claims Library.
@@ -219,18 +249,13 @@ Generate a structured report with these sections:
 17. **Per-Claim Presentation**: Each benefit claim recommended has its own citation and disclaimer, not lumped with other claims.
 18. **Citation Misattribution Guard**: Claims Library studies (Allegretti, Del Piano, Iemoli, Chakkalakal, Strozzi, Xiao) are ONLY used to support DS-01 claims, never for claims about the article's topic ingredient.
 
-**If a Recommendation Fails Either Checklist:**
-- **Revise it** to preserve SEO elements AND MRD compliance
-- **Remove it** if it can't be salvaged
-- **Document** any removed recommendations and why
-
 ### Step 4: Auto-Proceed with All Recommendations
 
-**Do NOT pause for user input.** Automatically proceed with ALL recommendations generated in Step 3. Move directly to generating the Drafting Instructions.
+**Do NOT pause for user input.** Automatically proceed with ALL recommendations generated in Steps 3A/3B. Move directly to generating the Drafting Instructions.
 
 ### Step 5: Generate Drafter Instructions for Phase 1 Revisions
 
-Based on ALL improvements identified in Step 3, create detailed implementation instructions.
+Based on ALL improvements identified in Steps 3A/3B, create detailed implementation instructions.
 
 #### Document Structure Requirements
 
@@ -483,8 +508,8 @@ The command provides:
 3. Initial citation count (no target enforcement)
 4. Competitive landscape summary
 5. **Seed MRD Perspective Summary** documenting unique positions, conflicts, and topic appropriateness
-6. Detailed comparative analysis through Seed's MRD-aligned scientific lens
-7. **Dual Review Summary** showing recommendations validated against BOTH SEO safety AND MRD compliance checklists
+6. Detailed comparative analysis through Seed's MRD-aligned scientific lens (Step 3A: content gaps, Step 3B: compliance filter)
+7. **Two-phase review**: Step 3A generates all competitive content gap recommendations, Step 3B validates each through BOTH SEO safety AND MRD compliance checklists
 8. Auto-proceeds with all recommendations (no interactive pause)
 9. Formatted drafter instructions with:
    - Strategic analysis context at TOP
@@ -525,7 +550,8 @@ The command provides:
 - **Preserves all existing citations** — no removal even if count >15
 - **Bolding system** clearly marks new vs. existing content in guidance
 - **MANDATORY MRD consultation** (Step 2.5)
-- **MANDATORY dual safety evaluation** — SEO + MRD compliance (Step 3)
+- **MANDATORY dual safety evaluation** — SEO + MRD compliance (Step 3B)
+- **Two-phase analysis (Steps 3A/3B)**: Step 3A generates all competitive content gap recommendations without compliance self-censoring, then Step 3B applies MRD and SEO compliance as a filter. This prevents compliance rigor from reducing content breadth.
 - **SciCare POV Brief check** — when available, governs topic-specific perspective
 - **Old SciCare POV as fallback** — selectively loaded for topics outside MRD scope
 - **Topic Appropriateness Gate** — prevents DS-01 from appearing in unsupported contexts
