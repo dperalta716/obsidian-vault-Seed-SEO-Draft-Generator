@@ -70,12 +70,23 @@ find "Reference/SciCare POV briefs" -name "*.md" -type f 2>/dev/null
 2. Read that file as the article content
 3. Use the existing folder for all output (do NOT create a new folder)
 
-**Option B — URL or path provided:**
-1. If user provides page path (e.g., `/cultured/probiotics-guide`), prepend `https://www.seed.com`
-2. If full URL provided, use as-is
-3. Scrape using firecrawl skill. Do NOT include images.
-4. Create numbered folder in `Phase 1 Draft Revisions/` (find highest number, add 1)
-5. Save as `[NNN]-[primary-keyword]/[primary-keyword]-currently-published.md`
+**Option B — Published Drafts lookup (automatic):**
+1. Convert the primary keyword to a slug (lowercase, spaces to hyphens)
+2. Search `Published Drafts/` for a markdown file whose name contains that slug
+3. Also try matching with `-guide` appended (e.g., keyword "melatonin for sleep" becomes slug `melatonin-for-sleep`, look for files containing `melatonin-for-sleep`, then try `melatonin-for-sleep-guide`)
+4. If a match is found:
+   - Read that file as the article content
+   - Create a numbered folder in `Phase 1 Draft Revisions/` (find highest number, add 1): `[NNN]-[primary-keyword]/`
+   - Copy the article into that folder as `[primary-keyword]-currently-published.md`
+   - Log: `Found published draft: [filename] — using as article source`
+
+**Option C — Scrape from seed.com (fallback):**
+1. Only if neither Option A nor Option B finds the article
+2. If user provides page path (e.g., `/cultured/probiotics-guide`), prepend `https://www.seed.com`
+3. If full URL provided, use as-is
+4. Scrape using firecrawl skill. Do NOT include images.
+5. Create numbered folder in `Phase 1 Draft Revisions/` (find highest number, add 1)
+6. Save as `[NNN]-[primary-keyword]/[primary-keyword]-currently-published.md`
 
 **Analyze Current State:**
 - Use the primary keyword provided by user (don't extract from article metadata)
