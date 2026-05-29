@@ -1,19 +1,26 @@
-# upload-to-gdocs-ds01
+# upload-to-gdocs-phase1
 
-Upload a DS-01 SEO draft markdown file to Google Docs, automatically move it to the DS-01 drafts folder, and update the Phase 3 Tracking spreadsheet using Google Workspace skills (MCP-independent).
+Upload a Phase 1 revised SEO draft markdown file to Google Docs, automatically move it to the p1 edits folder, and update the "p1 edits" tracking spreadsheet using Google Workspace skills (MCP-independent).
 
 ## Usage
 ```
-/upload-to-gdocs-ds01 <file-path>
+/upload-to-gdocs-phase1 <file-path>
 ```
 
 ## Description
-This command automates the complete process of:
+This command automates the complete process for **p1 edits** workflow:
 1. Converting a markdown draft to a **formatted Google Doc** (rendered headings, bold, hyperlinks, Seed brand colors) using the **markdown-to-gdoc skill**
-2. **Placing the doc directly in the DS-01 drafts folder** on creation
-3. Updating the Phase 3 Tracking spreadsheet using the **google-sheets skill**
-4. **Adding date-stamped notes** in the Notes/Comments column
+2. **Placing the doc directly in the p1 edits folder** on creation
+3. **Finding and updating the existing row** in the "p1 edits" spreadsheet tab using the **google-sheets skill**
+4. **Adding date-stamped notes** in the NotesComments column
 5. No manual folder organization, paste-as-markdown, or MCP server required!
+
+## Key Differences from upload-to-gdocs-ds01
+- **Target Sheet**: "p1 edits" (not "Phase 3 Tracking")
+- **Lookup Method**: Searches for existing row by URL slug in Column A (doesn't append new rows)
+- **Column Mapping**: Updates columns B (Doc Link), C (Status), F (Notes/Comments)
+- **Target Folder**: p1 edits folder (different folder ID)
+- **Metadata Extraction**: Extracts URL slug from markdown file
 
 ## Implementation
 
@@ -24,10 +31,11 @@ When this command is invoked with a file path:
    - If a folder path is provided, find the highest-numbered `v*` file in that folder (e.g., `v5-claims-verified.md` over `v3-reviewed.md`)
    - Verify the file exists and is readable
 
-2. **Extract the primary keyword** from the metadata
-   - Look for line 3 of the file, formatted as `**Primary keyword:** [keyword]` or `**Primary Keyword:** [keyword]`
-   - Clean the extracted keyword (remove asterisks and "Primary keyword:" prefix)
-   - This keyword will be used as the Google Doc title
+2. **Extract metadata** from the file
+   - **Primary keyword** from line 3: `**Primary keyword:** [keyword]` or `**Primary Keyword:** [keyword]` (used as Google Doc title)
+   - **URL slug** from the metadata section: `**Slug:** [slug]` (used to find the spreadsheet row)
+   - Clean both values (remove asterisks and label prefixes)
+   - The slug should look like: `/cultured/keyword-guide/`
 
 3. **Convert and upload** using the markdown-to-gdoc skill:
    - Execute bash script: `~/.claude/skills/markdown-to-gdoc/scripts/convert-and-upload.sh`
@@ -36,66 +44,49 @@ When this command is invoked with a file path:
      * Second argument: The full path to the markdown file
      * Third argument: The extracted primary keyword (document title)
      * Fourth argument: "~/.claude/skills/markdown-to-gdoc/templates/seed-compliance.docx" (Seed brand template)
-     * Fifth argument: "1c6L_PMTktN3lNUz64TQpapA9pE--yY_V" (DS-01 drafts folder ID)
-   - This single call handles: markdown → docx conversion (with Seed fonts/colors), upload to Google Drive with conversion to Google Docs format, placement in the DS-01 folder, and post-upload formatting (heading colors, link styling)
+     * Fifth argument: "1lzlPnRC-ttFYDnBoTcIJE4OBHnhRRhaA" (p1 edits folder ID)
+   - This single call handles: markdown → docx conversion (with Seed fonts/colors), upload to Google Drive with conversion to Google Docs format, placement in the p1 edits folder, and post-upload formatting (heading colors, link styling)
    - Parse the returned JSON to extract:
      * `id` - The document ID
      * `webViewLink` - The Google Docs link
 
-4. **Search for existing keyword in the tracking spreadsheet:**
+4. **Find the row matching the URL slug** in the tracking spreadsheet:
    - Execute bash script: `~/.claude/skills/google-sheets/scripts/read-values.sh`
    - Parameters:
      * First argument: "david@david-peralta.com"
      * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: "Phase 3 Tracking!B:B"
+     * Third argument: "'p1 edits'!A:A"
    - Parse the returned JSON array
-   - Search for the extracted keyword (case-insensitive match)
-   - **If keyword found**: Record that row number → proceed to Step 5a
-   - **If keyword NOT found**: Find the first empty cell → proceed to Step 5b
+   - Iterate through the values to find the row where Column A matches the extracted URL slug
+   - Store the row number for updating
+   - If no matching row is found, report an error: "Error: Could not find URL slug '{slug}' in p1 edits sheet. Please verify the slug exists in Column A."
 
-5a. **Populate existing row** (keyword already in spreadsheet):
-   - The keyword is already in column B — do NOT overwrite it
+5. **Update the spreadsheet row** with the new information:
    - Execute bash script: `~/.claude/skills/google-sheets/scripts/write-values.sh`
    - Parameters:
      * First argument: "david@david-peralta.com"
      * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: `Phase 3 Tracking!E{row}:G{row}` where {row} is the row where the keyword was found
-     * Fourth argument: JSON array: `[[doc_link, "", "unavailable"]]`
-     * Note: Column B (keyword) already populated; Columns C (MSV), D (KD) left untouched; Column E gets the doc link; Column F (Sydni's edits) left empty; G (Status) = "unavailable"
+     * Third argument: `'p1 edits'!B{row}:C{row}` where {row} is the matched row number
+     * Fourth argument: JSON array: `[[doc_link, "Ready for Revisions"]]`
+   - This updates Column B (Doc Link) and Column C (Status)
 
-5b. **Create new row** (keyword NOT found — fallback):
+6. **Add date-stamped note** to the NotesComments column:
+   - Get today's date and format as M/D (e.g., "11/20" for November 20th)
    - Execute bash script: `~/.claude/skills/google-sheets/scripts/write-values.sh`
    - Parameters:
      * First argument: "david@david-peralta.com"
      * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: `Phase 3 Tracking!B{row}:G{row}` where {row} is the first empty row number
-     * Fourth argument: JSON array: `[[keyword, "", "", doc_link, "", "unavailable"]]`
-     * Note: Columns C (MSV), D (KD), and F (Sydni's edits) are left empty; G (Status) = "unavailable"
-
-6. **Add date-stamped note** to the Notes/Comments column (column L):
-   - Get today's date and format as M/D (e.g., "10/23" for October 23rd)
-   - Execute bash script: `~/.claude/skills/google-sheets/scripts/write-values.sh`
-   - Parameters:
-     * First argument: "david@david-peralta.com"
-     * Second argument: "1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8"
-     * Third argument: `Phase 3 Tracking!L{row}` where {row} is the same row number from step 5a or 5b
-     * Fourth argument: JSON array: `[["{M/D}: ready for review"]]` (e.g., "3/27: ready for review")
+     * Third argument: `'p1 edits'!F{row}` where {row} is the same matched row number
+     * Fourth argument: JSON array: `[["{M/D}: ready for revisions"]]` (e.g., "5/22: ready for revisions")
 
 7. **Provide feedback** to the user:
    - Confirm successful Google Doc creation with the document title
-   - Confirm automatic movement to DS-01 drafts folder
+   - Confirm automatic movement to p1 edits folder
    - Display the Google Doc link (which now points to the doc in the correct folder)
    - Confirm spreadsheet update with the row number that was updated
-   - Display success message: "✅ Document successfully created, organized, and tracked!"
+   - Display the URL slug that was matched
+   - Display success message: "✅ Phase 1 draft successfully created, organized, and tracked!"
    - Report any errors encountered during the process
-
-## Key Differences from upload-to-gdocs-v3 (NPD)
-
-| Aspect | upload-to-gdocs-v3 (NPD) | upload-to-gdocs-ds01 |
-|--------|---------------------------|----------------------|
-| **Drive Folder** | NPD drafts (`1JWFAoYKwsD2zTtypjs2gb34F0jAvv2bD`) | DS-01 drafts (`1c6L_PMTktN3lNUz64TQpapA9pE--yY_V`) |
-| **Tracking Tab** | Phase 2 Tracking | Phase 3 Tracking |
-| **Column Layout** | Same | Same (duplicated from Phase 2) |
 
 ## Skill Script Paths
 
@@ -112,20 +103,30 @@ All scripts are located in the user's Claude skills directory:
 ## Error Handling
 - If the file doesn't exist or can't be read, report: "Error: File not found at {path}"
 - If the primary keyword can't be extracted, report: "Error: Could not extract primary keyword from line 3. Expected format: **Primary keyword:** [keyword]"
+- If the URL slug can't be extracted, report: "Error: Could not extract URL slug from metadata. Expected format: **Slug:** [slug]"
 - If Google Doc creation fails, report the specific error from the script output and stop
 - If document ID extraction fails, report: "Error: Could not extract document ID from response"
 - If content insertion fails, report the error but note that the empty doc was created (provide manual edit instructions as fallback)
 - If folder movement fails, report the error but note that the doc was created (provide manual move instructions as fallback)
+- If no matching row is found for the URL slug, report: "Error: Could not find URL slug '{slug}' in p1 edits sheet. Verify the slug exists in Column A."
 - If spreadsheet update fails, report the error but note that the Google Doc was created and moved
 - Always provide clear, actionable feedback about what succeeded or failed
 
 ## Configuration
 - Google Email: david@david-peralta.com
-- DS-01 Drafts Folder ID: 1c6L_PMTktN3lNUz64TQpapA9pE--yY_V
-- DS-01 Drafts Folder Link: https://drive.google.com/drive/folders/1c6L_PMTktN3lNUz64TQpapA9pE--yY_V
+- p1 edits Folder ID: 1lzlPnRC-ttFYDnBoTcIJE4OBHnhRRhaA
+- p1 edits Folder Link: https://drive.google.com/drive/folders/1lzlPnRC-ttFYDnBoTcIJE4OBHnhRRhaA
 - Tracking Spreadsheet ID: 1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8
 - Tracking Spreadsheet Link: https://docs.google.com/spreadsheets/d/1VMNPMKCFG6an5UpteL5aUtm-VLgFgrSOFZDZE6h1ig8/
-- Target Sheet: "Phase 3 Tracking"
+- Target Sheet: "p1 edits"
+
+## Column Mapping
+- Column A: Current URL (used for row matching)
+- Column B: Doc Link (where Google Doc link is written)
+- Column C: Status (written as "Ready for Revisions")
+- Column D: (not modified by this command)
+- Column E: Editor (not modified by this command)
+- Column F: Notes/Comments (date-stamped notes written here)
 
 ## Required Skills
 This command requires the following Claude Code skills:

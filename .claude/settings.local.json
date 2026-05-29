@@ -97,7 +97,9 @@
       "WebFetch(domain:eutils.ncbi.nlm.nih.gov)",
       "Bash(/root/obsidian-vaults/claude-code-demo/.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh:*)",
       "WebFetch(domain:idp.nature.com)",
-      "WebFetch(domain:api.crossref.org)"
+      "WebFetch(domain:api.crossref.org)",
+      "Bash(cp \"/tmp/claude-501/seed-reference-v2.docx\" \"/Users/david/Documents/Obsidian Vaults/claude-code-demo/.claude/skills/markdown-to-gdoc/templates/seed-compliance.docx\")",
+      "Bash(cp \"/private/tmp/claude/build_reference_docx_v2.py\" \"/Users/david/Documents/Obsidian Vaults/claude-code-demo/.claude/skills/markdown-to-gdoc/templates/build-template.py\")"
     ],
     "deny": [],
     "ask": []

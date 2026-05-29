@@ -474,13 +474,14 @@ After generating the detailed drafter instructions, automatically save them:
 - **Format**: Complete markdown file with strategic context at TOP, then drafter instructions
 - **Confirmation**: Notify user where the file was saved
 
-### Step 7: Create Google Doc
+### Step 7: Upload to Google Docs and Track
 
-After saving the Drafting Instructions, create a Google Doc with the same content using the **google-docs skill** located at `~/.claude/skills/google-docs/`.
+After saving the Drafting Instructions, invoke `/upload-to-gdocs-phase1` with the saved Drafting Instructions file path. This will:
 
-1. **Create the Google Doc** titled with the primary keyword
-2. **Populate it** with the full Drafting Instructions content
-3. **Report the Google Doc link** to the user
+1. **Convert the markdown to a formatted Google Doc** with Seed brand styling (headings, colors, hyperlinks) using the `seed-compliance.docx` template
+2. **Place the doc in the Phase 1 Revisions folder** on Google Drive
+3. **Update the "p1 edits" tracking tab** — find the row by URL slug, paste the doc link in Column B, set Column C to "Ready for Revisions", and add a date note in Column F
+4. **Report the Google Doc link** to the user
 
 ### Final Quality Checklist
 
