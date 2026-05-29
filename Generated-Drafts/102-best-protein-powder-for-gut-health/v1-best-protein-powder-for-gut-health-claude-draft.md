@@ -61,7 +61,7 @@ Plant proteins more broadly may support greater microbial diversity and bacteria
 
 Whey is the most popular powder, and its gut story is genuinely mixed. Its bioactive components—including lactoferrin and glycomacropeptide—carry antimicrobial and prebiotic-like properties that may support beneficial bacteria like *Lactobacillus* and *Bifidobacterium* ([Ashaolu 2026](https://doi.org/10.1002/fsn3.71487)). That's the upside.
 
-The nuance comes with the rest of your plate, which we'll get to next.
+The catch is that whey's gut effect leans heavily on what you pair it with. A scoop alongside plenty of fiber tells a very different story for your gut than the same scoop dropped into a low-fiber routine.
 
 ### Rice and other proteins
 
@@ -73,9 +73,9 @@ Brown rice protein simply lacks enough research to draw firm conclusions yet. It
 
 Here's the part that reframes everything. The protein source isn't the only thing that shapes your gut's response—your fiber intake matters just as much.
 
-When dietary carbohydrates are low, both animal and plant proteins can push the gut toward more protein-degrading bacteria. That shift raises byproducts like ammonia and branched-chain fatty acids, which are linked to less favorable gut conditions ([Behounek 2024](https://doi.org/10.1002/mnfr.202300555)). Animal proteins appear a little more likely to promote these byproducts at higher intakes ([Adejumo 2026](https://doi.org/10.1016/j.advnut.2025.100582)).
+Remember that nuance we flagged with whey? Here's the mechanism behind it. When dietary carbohydrates are low, both animal and plant proteins can push the gut toward more protein-degrading bacteria. That shift raises byproducts like ammonia and branched-chain fatty acids, which are linked to less favorable gut conditions ([Behounek 2024](https://doi.org/10.1002/mnfr.202300555)). Animal proteins appear a little more likely to promote these byproducts at higher intakes ([Adejumo 2026](https://doi.org/10.1016/j.advnut.2025.100582)).
 
-What does that mean for you? A scoop of whey alongside a fiber-rich diet is a very different experience for your gut than the same scoop in a low-carb, low-fiber routine. The "best protein powder for gut health" depends partly on what else is on your plate—not just what's in the tub.
+So that scoop of whey alongside a fiber-rich diet really is a different experience for your gut than the same scoop in a low-carb, low-fiber routine. The "best protein powder for gut health" depends partly on what else is on your plate—not just what's in the tub.
 
 The practical move is simple. Pair your protein with plenty of fiber from vegetables, fruits, legumes, whole grains, nuts, and seeds, and the protein source matters a little less.
 
