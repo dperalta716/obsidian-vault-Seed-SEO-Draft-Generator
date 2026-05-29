@@ -53,7 +53,9 @@ Let's walk through the main options the way a friend who reads the studies would
 
 ### Pea and plant proteins
 
-Pea protein is the standout so far. In a lab study using human gut bacteria, two commercial pea protein preparations selectively encouraged the growth of beneficial bacteria like *Bifidobacterium* ([Mancabelli 2025](https://doi.org/10.20517/mrr.2025.77)). A separate study that compared pea, whey, and cricket protein side by side in a simulated gut found that pea protein favored butyrate-producing bacteria such as *Faecalibacterium* ([Franciosa 2026](https://doi.org/10.1038/s41538-026-00785-9)). Butyrate is a short-chain fatty acid that helps nourish the cells lining your gut.
+Pea protein is the standout so far. In a lab study using human gut bacteria, two commercial pea protein preparations selectively encouraged the growth of beneficial bacteria like *Bifidobacterium* ([Mancabelli 2025](https://doi.org/10.20517/mrr.2025.77)). 
+
+A separate study that compared pea, whey, and cricket protein side by side in a simulated gut found that pea protein favored butyrate-producing bacteria such as *Faecalibacterium* ([Franciosa 2026](https://doi.org/10.1038/s41538-026-00785-9)). Butyrate is a short-chain fatty acid that helps nourish the cells lining your gut.
 
 Plant proteins more broadly may support greater microbial diversity and bacteria involved in short-chain fatty acid production compared to animal sources ([Adejumo 2026](https://doi.org/10.1016/j.advnut.2025.100582)). Soy has shown similar favorable signals in fermentation models.
 
