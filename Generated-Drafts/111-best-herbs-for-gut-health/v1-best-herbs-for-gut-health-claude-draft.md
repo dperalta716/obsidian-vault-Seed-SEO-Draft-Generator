@@ -85,6 +85,22 @@ Licorice root--specifically the deglycyrrhizinated (DGL) form--rounds out the Co
 
 A multi-herb preparation combining peppermint, ginger, and chamomile also showed consistent benefit for adults with functional dyspepsia and IBS, suggesting these herbs may work well together through their overlapping pathways ([Moniruzzaman 2025](https://doi.org/10.1016/j.dld.2025.07.010)).
 
+## Honorable Mentions: Popular Herbs With Less Evidence
+
+You'll see these three on almost every "best herbs for gut health" list. They have long histories of traditional use -- but the clinical evidence behind them is substantially thinner than the herbs ranked above.
+
+### Fennel
+
+Fennel is a staple recommendation for bloating and gas, and it has centuries of traditional use for digestive complaints. The issue is that no systematic review or meta-analysis exists for fennel specifically targeting IBS or general digestive symptoms in adults. The clinical trials that do exist are small and scattered -- one on post-surgical recovery, one on infantile colic -- with no dedicated adult digestive trial identified. Compare that to peppermint's multiple meta-analyses pooling over 1,000 patients, and you can see why fennel didn't make the evidence-ranked list above.
+
+### Aloe Vera
+
+Aloe vera has some clinical data -- more than fennel, in fact. One meta-analysis pooled three randomized trials in IBS patients and found a statistically significant benefit ([Hong 2018](https://doi.org/10.1016/j.ctim.2018.09.003)). But that meta-analysis included just 151 total patients, and a subsequent umbrella review rated the overall evidence certainty as "low to very low" ([Zeraattalab-Motlagh 2025](https://doi.org/10.1093/nutrit/nuae107)). A more recent trial found aloe wasn't superior to control in the broader IBS population, though it showed benefit in certain microbiota-defined subgroups ([Storsrud 2020](https://doi.org/10.1186/s12906-020-02882-4)). It's not that aloe does nothing -- it's that the evidence base is still too small and uncertain to rank alongside peppermint, ginger, or turmeric.
+
+### Slippery Elm
+
+Slippery elm is probably the most commonly recommended herb with the least clinical evidence behind it. No standalone human trial on slippery elm for digestive symptoms has been published. The only clinical data comes from a single pilot study that tested a multi-ingredient formula (slippery elm combined with lactulose, oat bran, and licorice root), making it impossible to attribute the results to slippery elm alone. Its reputation rests almost entirely on traditional use and its mucilaginous texture, which is thought to coat and soothe the digestive tract. That may well be helpful -- but until someone runs the trials, we can't say for sure.
+
 ## Where Herbs End and Probiotics Begin
 
 Here's something that often gets lost in the conversation about herbs for gut health: herbs primarily work by easing symptoms. They relax muscles, reduce inflammation, speed up motility, and calm pain signaling. Those are all genuinely helpful--but they're addressing what you feel, not necessarily what's happening in your gut's microbial community.
@@ -133,13 +149,17 @@ A "7 day gut reset" usually involves eliminating processed foods, alcohol, and a
 
 5. Crichton, M., et al. (2023). Therapeutic health effects of ginger (*Zingiber officinale*): Updated narrative review exploring the mechanisms of action. *Nutrition Reviews*, 81(7), 764-780. https://doi.org/10.1093/nutrit/nuac115
 
-6. Moniruzzaman, M., et al. (2025). Mechanisms of action and clinical effectiveness of herbal treatments for disorders of gut-brain interaction. *Digestive and Liver Disease*. https://doi.org/10.1016/j.dld.2025.07.010
+6. Hong, S. W., et al. (2018). Aloe vera is effective and safe in short-term treatment of irritable bowel syndrome: A systematic review and meta-analysis. *Complementary Therapies in Medicine*, 39, 190-195. https://doi.org/10.1016/j.ctim.2018.09.003
 
-7. Servida, S., et al. (2024). Curcumin and gut microbiota: A narrative overview with focus on glycemic control. *International Journal of Molecular Sciences*, 25(14), 7710. https://doi.org/10.3390/ijms25147710
+7. Moniruzzaman, M., et al. (2025). Mechanisms of action and clinical effectiveness of herbal treatments for disorders of gut-brain interaction. *Digestive and Liver Disease*. https://doi.org/10.1016/j.dld.2025.07.010
 
-8. Srivastava, J. K., Shankar, E., & Gupta, S. (2010). Chamomile: A herbal medicine of the past with bright future. *Molecular Medicine Reports*, 3(6), 895-901. https://doi.org/10.1186/1472-6882-10-56
+8. Servida, S., et al. (2024). Curcumin and gut microbiota: A narrative overview with focus on glycemic control. *International Journal of Molecular Sciences*, 25(14), 7710. https://doi.org/10.3390/ijms25147710
 
-9. Zeraattalab-Motlagh, S., et al. (2025). Nutritional interventions in adult patients with irritable bowel syndrome: An umbrella review of systematic reviews and meta-analyses of randomized clinical trials. *Nutrition Reviews*, 83(1). https://doi.org/10.1093/nutrit/nuae107
+9. Srivastava, J. K., Shankar, E., & Gupta, S. (2010). Chamomile: A herbal medicine of the past with bright future. *Molecular Medicine Reports*, 3(6), 895-901. https://doi.org/10.1186/1472-6882-10-56
+
+10. Storsrud, S., et al. (2020). A pilot study of the effect of aloe barbadensis mill. extract (AVH200) in patients with irritable bowel syndrome: A randomized, double-blind, placebo-controlled study. *BMC Complementary Medicine and Therapies*, 20(1), 65. https://doi.org/10.1186/s12906-020-02882-4
+
+11. Zeraattalab-Motlagh, S., et al. (2025). Nutritional interventions in adult patients with irritable bowel syndrome: An umbrella review of systematic reviews and meta-analyses of randomized clinical trials. *Nutrition Reviews*, 83(1). https://doi.org/10.1093/nutrit/nuae107
 
 ---
 

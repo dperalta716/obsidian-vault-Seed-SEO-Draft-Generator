@@ -36,13 +36,15 @@ Here's the honest answer: humic extract shows real promise for gut health, but t
 
 That doesn't mean you should dismiss humic extract. It means the science deserves a closer, more honest look than most articles are giving it. And that's what we're here to do.
 
-## What Is Humic Extract, and Why Is Fulvic Acid the One to Watch?
+## What Is Humic Extract?
 
 Humic extract is a broad term for a family of organic compounds found in soil, peat, and sediment. These substances form through humification -- a natural process where dead plant and animal material is broken down by microorganisms over hundreds or even thousands of years ([Gvozdeva 2025](https://doi.org/10.3390/antiox14091139)). The result is a complex mixture of molecules with antioxidant, anti-inflammatory, and antimicrobial properties.
 
 Within that mixture, there are three main fractions: humic acid, fulvic acid, and humin. They differ primarily in size and solubility. Fulvic acid is the smallest and most soluble of the three, meaning it dissolves in water at any pH and can cross cell membranes more easily ([Yousaf 2026](https://doi.org/10.1007/s10661-026-15146-y)). That matters because bioavailability -- how well your body can actually absorb and use a compound -- is a big part of whether something works or just passes through.
 
-This is why most gut health research has zeroed in on fulvic acid specifically. It's not that humic acid is irrelevant. It's that fulvic acid's molecular properties make it a more practical candidate for biological effects in the human body. When you see "humic extract" on a product label, though, the actual fulvic acid content can vary widely -- and not all products disclose how much of each fraction they contain.
+Based on its molecular properties alone, fulvic acid looks like the most promising fraction for biological effects in the human body. Here's the twist, though: most of the gut-specific research published so far has actually tested humic acid, not fulvic acid. The only human study used humic acid. Several key animal studies used humic acid. Only one recent lab and animal study has focused specifically on fulvic acid formulations.
+
+So when you see "humic extract" on a product label, keep two things in mind. First, the actual fulvic acid content can vary widely -- and not all products disclose how much of each fraction they contain. Second, the research you'll read about below is largely humic acid research, with fulvic acid evidence still catching up to its molecular promise.
 
 ## What the Research Shows About Humic Extract and Gut Health
 
@@ -68,7 +70,7 @@ Still, translating these findings from mice to people isn't straightforward. The
 
 ### Anti-Inflammatory and Antioxidant Properties
 
-A broad review of humic substances found evidence for antioxidant, anti-inflammatory, antimicrobial, and immunomodulatory properties ([Gvozdeva 2025](https://doi.org/10.3390/antiox14091139)). Fulvic acid, in particular, may help neutralize inflammatory signals and support bacteria balance in the gut ([Yousaf 2026](https://doi.org/10.1007/s10661-026-15146-y)).
+A broad review of humic substances found evidence for antioxidant, anti-inflammatory, antimicrobial, and immunomodulatory properties across the humic family as a whole ([Gvozdeva 2025](https://doi.org/10.3390/antiox14091139)). Fulvic acid specifically -- the smaller, more bioavailable fraction -- may help neutralize inflammatory signals and support bacteria balance in the gut ([Yousaf 2026](https://doi.org/10.1007/s10661-026-15146-y)). This is where fulvic acid's molecular promise shows up most clearly, even though the gut-specific clinical data hasn't caught up yet.
 
 These properties are well-documented in laboratory settings. Whether they translate to noticeable anti-inflammatory effects in your daily life is still an open question. The gap between "reduces inflammatory markers in a petri dish" and "makes you feel less inflamed" is one that only human clinical trials can close.
 
