@@ -1,7 +1,7 @@
 ---
 date: 2026-06-05
 keyword: "humic extract for gut health"
-version: v2
+version: v4
 status: draft
 tags: [seed, seo-draft, ds-01]
 ---
@@ -92,7 +92,7 @@ That said, it's worth noting that the evidence base behind probiotics like DS-01
 
 If you're considering trying humic extract, a few things are worth keeping in mind.
 
-Humic substances can contain trace amounts of heavy metals, since they're derived from soil ([Hussain 2024](https://doi.org/10.1007/s12011-024-04091-x)). Reputable products test for lead, arsenic, cadmium, and mercury, but not all manufacturers are transparent about their testing protocols. Look for products that disclose third-party testing results.
+Humic substances can contain trace amounts of heavy metals, since they're derived from soil ([Hussain 2024](https://doi.org/10.1007/s12011-024-04109-4)). Reputable products test for lead, arsenic, cadmium, and mercury, but not all manufacturers are transparent about their testing protocols. Look for products that disclose third-party testing results.
 
 Reported side effects are generally mild and may include tiredness, headache, bloating, or changes in bowel movements -- particularly when starting out. As with any addition to your routine, it's a good idea to check in with your healthcare provider, especially if you're pregnant, breastfeeding, taking medications, or managing a chronic condition.
 
@@ -114,7 +114,7 @@ Humic acid appears to support the growth of bacteria already present in your gut
 
 ### Who should not take humic acid?
 
-People who are pregnant or breastfeeding, those with allergies to trace minerals, and anyone managing a chronic or recurring condition should talk to a healthcare provider before using humic acid. Because humic substances are derived from soil, they may contain trace heavy metals ([Hussain 2024](https://doi.org/10.1007/s12011-024-04091-x)), so choosing a product with transparent third-party testing is important. If you're taking thyroid medication, iodine, or other binders like activated charcoal or clay, spacing them apart from humic extract is generally recommended. As with any new addition to your routine, starting with a smaller dose and seeing how you respond is a reasonable approach.
+People who are pregnant or breastfeeding, those with allergies to trace minerals, and anyone managing a chronic or recurring condition should talk to a healthcare provider before using humic acid. Because humic substances are derived from soil, they may contain trace heavy metals ([Hussain 2024](https://doi.org/10.1007/s12011-024-04109-4)), so choosing a product with transparent third-party testing is important. If you're taking thyroid medication, iodine, or other binders like activated charcoal or clay, spacing them apart from humic extract is generally recommended. As with any new addition to your routine, starting with a smaller dose and seeing how you respond is a reasonable approach.
 
 ### Is fulvic acid good for a leaky gut?
 
@@ -128,7 +128,7 @@ Fulvic acid is the smaller, more bioavailable fraction of humic extract, and it'
 
 3. Huang, J., et al. (2023). Humic acids alleviate dextran sulfate sodium-induced colitis by positively modulating gut microbiota. *Frontiers in Microbiology*, 14, 1147110. https://doi.org/10.3389/fmicb.2023.1147110
 
-4. Hussain, C. M., et al. (2024). Heavy metals in humic substances. *Biological Trace Element Research*. https://doi.org/10.1007/s12011-024-04091-x
+4. Hussain, A., et al. (2024). Hazardous or advantageous: Uncovering the roles of heavy metals and humic substances in Shilajit (phyto-mineral) with emphasis on heavy metals toxicity and their detoxification mechanisms. *Biological Trace Element Research*. https://doi.org/10.1007/s12011-024-04109-4
 
 5. Swidsinski, A., et al. (2017). Impact of humic acids on the colonic microbiome in healthy volunteers. *World Journal of Gastroenterology*, 23(5), 885-890. https://doi.org/10.3748/wjg.v23.i5.885
 
