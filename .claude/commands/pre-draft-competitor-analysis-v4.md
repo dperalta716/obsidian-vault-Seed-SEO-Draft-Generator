@@ -114,6 +114,39 @@ const paaQuestions = scriptOutput.results
 
 ---
 
+STEP 2.5: CREATE OUTPUT FOLDER
+
+Before spawning sub-agents, create the output folder so sub-agents can save scraped content to it.
+
+```bash
+# IMPORTANT: Working directory is already Seed-SEO-Draft-Generator-v4
+# DO NOT prepend "Seed-SEO-Draft-Generator-v4/" to paths
+
+# Check if Generated-Drafts exists, create if needed
+if [ ! -d "Generated-Drafts" ]; then
+  mkdir -p "Generated-Drafts"
+  NEXT="001"
+else
+  # Find highest existing folder number
+  HIGHEST=$(ls -1 Generated-Drafts 2>/dev/null | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
+  if [ -z "$HIGHEST" ]; then
+    NEXT="001"
+  else
+    NEXT=$(printf "%03d" $((10#$HIGHEST + 1)))
+  fi
+fi
+
+# Create keyword slug (lowercase, hyphenated)
+SLUG=$(echo "{keyword}" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+
+# Create folder and competitors subfolder
+mkdir -p "Generated-Drafts/${NEXT}-${SLUG}/competitors"
+```
+
+Store the folder path `Generated-Drafts/${NEXT}-${SLUG}` — you will pass it to sub-agents and use it for the final analysis note.
+
+---
+
 STEP 3: SCRAPE AND ANALYZE ARTICLES
 
 For EACH of the 5 organic URLs, spawn a parallel sub-agent using the Task tool.
@@ -121,7 +154,8 @@ For EACH of the 5 organic URLs, spawn a parallel sub-agent using the Task tool.
 Each sub-agent will:
 1. Use firecrawl-scraper skill to scrape the article
 2. Analyze the content
-3. Return structured findings
+3. Save the full scraped content to the competitors subfolder
+4. Return structured findings
 
 ---
 
@@ -131,6 +165,7 @@ You are analyzing a single competitor article for the keyword: "{keyword}"
 
 Article URL: [INSERT URL]
 Article Title: [INSERT TITLE]
+Output Folder: [INSERT FOLDER PATH, e.g., Generated-Drafts/021-american-ginseng]
 
 STEP 1: SCRAPE ARTICLE CONTENT
 
@@ -138,6 +173,8 @@ Use the firecrawl-scraper skill via bash script:
 ```bash
 ./.claude/skills/firecrawl-scraper/scripts/firecrawl-scrape.sh "[INSERT URL]" "markdown" "true" "2000"
 ```
+
+Save the full scraped content for later reference. Store the raw markdown output in a variable — you will need it for STEP 3.
 
 STEP 2: ANALYZE SCRAPED CONTENT
 
@@ -229,6 +266,30 @@ FORMAT YOUR RESPONSE AS STRUCTURED JSON:
   }
 }
 
+STEP 3: SAVE FULL SCRAPED CONTENT
+
+Save the full scraped article content to the competitors subfolder using the Output Folder path provided above.
+
+File path: `[Output Folder]/competitors/[title-slug].md`
+
+Create the title slug from the article title (lowercase, spaces to hyphens, remove special characters, max 60 chars).
+
+File format:
+```markdown
+# [Article Title]
+
+- **Source**: [Domain name]
+- **Author**: [Author name if available, otherwise "Not specified"]
+- **URL**: [Original URL]
+- **Scraped**: [YYYY-MM-DD]
+
+---
+
+[Full scraped article content in markdown]
+```
+
+Include the COMPLETE scraped markdown from Step 1 below the metadata separator. This preserves the full competitor content for reference during drafting and review.
+
 ---
 
 STEP 4: WAIT FOR ALL SUB-AGENTS TO COMPLETE
@@ -280,13 +341,14 @@ For each of the 4 selected questions, note WHY you selected it (1 sentence ratio
 
 STEP 7: FINAL OUTPUT FORMAT
 
-CRITICAL: DO NOT create any intermediate files during your analysis process.
-ONLY return the final JSON object in your response.
+CRITICAL: The only files sub-agents should create are the competitor content files in the competitors/ subfolder (Step 3 of sub-agent instructions). Do NOT create any other intermediate files.
+Return the final JSON object in your response.
 
 Your entire response should be a single JSON object with all findings:
 
 {
   "keyword": "{keyword}",
+  "folder_path": "Generated-Drafts/[NNN]-[keyword-slug]",
   "user_intent": {
     "primary_intent": "...",
     "core_questions": ["Q1", "Q2", "Q3"]
@@ -337,35 +399,9 @@ Your entire response should be a single JSON object with all findings:
 
 After the agent completes, the main command creates the final analysis document:
 
-#### STEP 1: DETERMINE NEXT FOLDER NUMBER
+#### STEP 1: USE EXISTING FOLDER
 
-```bash
-# IMPORTANT: Working directory is already Seed-SEO-Draft-Generator-v4
-# DO NOT prepend "Seed-SEO-Draft-Generator-v4/" to paths
-
-# Check if Generated-Drafts exists, create if needed
-if [ ! -d "Generated-Drafts" ]; then
-  mkdir -p "Generated-Drafts"
-  NEXT="001"
-else
-  # Find highest existing folder number
-  HIGHEST=$(ls -1 Generated-Drafts 2>/dev/null | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
-
-  # If no folders exist yet, start at 001
-  if [ -z "$HIGHEST" ]; then
-    NEXT="001"
-  else
-    # Increment and format with zero-padding
-    NEXT=$(printf "%03d" $((10#$HIGHEST + 1)))
-  fi
-fi
-
-# Create keyword slug (lowercase, hyphenated)
-SLUG=$(echo "{keyword}" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
-
-# Create folder using relative path
-mkdir -p "Generated-Drafts/${NEXT}-${SLUG}"
-```
+The folder was already created by the agent in Step 2.5. Use the same folder path returned by the agent (e.g., `Generated-Drafts/021-american-ginseng`).
 
 #### STEP 2: CREATE ANALYSIS NOTE
 
@@ -539,6 +575,7 @@ tags: [seed, competitor-analysis, pre-draft, seo]
    - File path created
    - Folder number used
    - Number of articles analyzed
+   - Number of competitor articles saved to competitors/ subfolder
    - Number of PAA questions selected (4 of 8)
    - Ready for draft generation
 
@@ -551,6 +588,7 @@ tags: [seed, competitor-analysis, pre-draft, seo]
 **Output**:
 - Folder: `Generated-Drafts/021-american-ginseng/`
 - File: `stage1_analysis-american-ginseng.md`
+- Competitor content: `Generated-Drafts/021-american-ginseng/competitors/` (5 full-text scraped articles)
 - Contains: Complete competitive analysis with 5 article breakdowns, 4 selected PAA questions with rationales, user intent, and synthesis
 
 ## Implementation Notes
@@ -566,7 +604,7 @@ tags: [seed, competitor-analysis, pre-draft, seo]
 7. **Folder Numbering**: Always check existing folders to get the correct next number
 8. **Error Handling**: If shell script or Firecrawl fails, report clearly and suggest retry
 9. **Token Management**: Sub-agents keep article analysis in separate contexts
-10. **File Creation Policy**: Agent returns JSON only - main command creates the single analysis file
+10. **File Creation Policy**: Agent creates the output folder (Step 2.5) and sub-agents save competitor content files. Main command creates the analysis note.
 11. **Path Handling**: Use relative paths from Seed-SEO-Draft-Generator-v4 working directory
 12. **URL Completeness**: Verify all citation URLs are complete with https:// protocol
 
@@ -577,17 +615,16 @@ Main Agent
 ├─ Bash: ./dataforseo-json.sh (gets URLs + PAA)
 ├─ Parse filtered JSON response
 ├─ Extract top 5 URLs, 8 PAA questions
-├─ Spawn 5 parallel Firecrawl sub-agents
+├─ Calculate next folder number + create folder with competitors/ subfolder
+├─ Spawn 5 parallel Firecrawl sub-agents (each saves full content to competitors/)
 ├─ Wait for completion
 ├─ Consolidate findings
 ├─ Select 4 best PAA questions
-└─ Return complete JSON (no file creation)
+└─ Return complete JSON + folder path
 
 Main Command
-├─ Receive JSON from agent
-├─ Calculate next folder number
-├─ Create folder with correct path
-└─ Create single analysis note
+├─ Receive JSON + folder path from agent
+└─ Create single analysis note in the existing folder
 ```
 
 ### Shell Script Benefits:
@@ -605,7 +642,7 @@ Main Command
 - Verify 4 PAA questions selected with clear rationales
 - Ensure primary sources are properly categorized
 - **Validate all citation URLs are complete working links (not partial identifiers)**
-- **Verify no intermediate files created (only final analysis note)**
+- **Verify competitor content files saved to competitors/ subfolder (one per scraped article)**
 - **Check folder path uses relative paths without duplication**
 - Validate folder numbering incremented correctly
 - Check that analysis note has all required sections
@@ -621,7 +658,8 @@ Main Command
 - ✅ Claims properly categorized (primary vs secondary)
 - ✅ **All citation URLs are complete, working hyperlinks (e.g., https://pmc.ncbi.nlm.nih.gov/articles/PMC7019700/)**
 - ✅ User intent and competitive baseline clearly defined
-- ✅ **Only ONE file created (final analysis note in correct folder)**
+- ✅ **Full scraped competitor content saved to competitors/ subfolder (one .md file per article)**
+- ✅ **Analysis note created in correct folder**
 - ✅ **Folder structure uses correct relative paths without duplication**
 - ✅ Analysis note saved to correctly numbered folder
 - ✅ Output is immediately usable by draft generator

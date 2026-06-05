@@ -50,7 +50,7 @@ So when you're thinking about prebiotic foods, it's less about "how much fiber a
 
 ## The Four Prebiotic Fibers That Matter Most
 
-Not all prebiotic foods contain the same compounds, and each compound does something a little different in your gut. Here are the four types worth knowing about.
+Not all prebiotic foods contain the same compounds, and each compound does something a little different in your gut. Here are the five types worth knowing about.
 
 ### Inulin
 

@@ -75,9 +75,22 @@ Parse the JSON response:
 - Extract top 5 organic URLs (filter `type === "organic"`, take first 5)
 - Extract up to 8 PAA questions (filter `type === "people_also_ask"`)
 
+### Step 1.1b: Create Output Folder
+
+Create the output folder before spawning sub-agents so they can save scraped content:
+
+```bash
+HIGHEST=$(ls -1 Generated-Drafts 2>/dev/null | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
+NEXT=$(printf "%03d" $((10#${HIGHEST:-0} + 1)))
+SLUG=$(echo "$ARGUMENTS" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
+mkdir -p "Generated-Drafts/${NEXT}-${SLUG}/competitors"
+```
+
+Store the folder path `Generated-Drafts/${NEXT}-${SLUG}` for use in subsequent steps.
+
 ### Step 1.2: Scrape & Analyze Top 5 Articles
 
-Spawn 5 parallel sub-agents. Each sub-agent:
+Spawn 5 parallel sub-agents. Pass each sub-agent the output folder path from Step 1.1b. Each sub-agent:
 
 1. Scrapes one article using firecrawl:
 ```bash
@@ -94,6 +107,22 @@ Spawn 5 parallel sub-agents. Each sub-agent:
    - **Notable angles**: Unique perspectives this article takes
    - **Metadata**: Word count estimate, tone, citation density
 
+3. Saves the full scraped content to the competitors subfolder:
+   - File path: `[folder_path]/competitors/[title-slug].md` (title slug: lowercase, hyphens, max 60 chars)
+   - File format:
+     ```markdown
+     # [Article Title]
+
+     - **Source**: [Domain name]
+     - **Author**: [Author name if available, otherwise "Not specified"]
+     - **URL**: [Original URL]
+     - **Scraped**: [YYYY-MM-DD]
+
+     ---
+
+     [Full scraped article content in markdown]
+     ```
+
 ### Step 1.3: Consolidate Findings
 
 After all 5 sub-agents complete, synthesize:
@@ -106,13 +135,7 @@ After all 5 sub-agents complete, synthesize:
 
 ### Step 1.4: Create Analysis Document
 
-Determine the next folder number:
-```bash
-HIGHEST=$(ls -1 Generated-Drafts 2>/dev/null | grep -E '^[0-9]{3}-' | sed 's/-.*//' | sort -n | tail -1)
-NEXT=$(printf "%03d" $((10#${HIGHEST:-0} + 1)))
-SLUG=$(echo "$ARGUMENTS" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
-mkdir -p "Generated-Drafts/${NEXT}-${SLUG}"
-```
+Use the folder created in Step 1.1b (already exists with competitors/ subfolder populated).
 
 Save to: `Generated-Drafts/[NNN]-[slug]/stage1_analysis-[slug].md`
 
