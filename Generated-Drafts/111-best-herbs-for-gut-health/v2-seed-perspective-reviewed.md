@@ -1,8 +1,8 @@
 ---
 date: 2026-06-05
 keyword: "best herbs for gut health"
-version: v1
-status: draft
+version: v2
+status: seed-perspective-reviewed
 tags: [seed, seo-draft, ds-01]
 ---
 
@@ -111,7 +111,7 @@ Probiotics work through a fundamentally different mechanism. Rather than calming
 
 These are different tools for different jobs, and one doesn't replace the other. You can drink ginger tea for post-meal comfort and take a clinically studied probiotic for microbiome support--they're addressing two separate dimensions of gut health.
 
-[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic), for example, is a 24-strain probiotic and prebiotic that has been clinically shown to reduce bloating and alleviate gas in the largest clinical trial for a probiotic on bloating and gas in healthy adults.°µ Unlike herbs, which primarily target symptom pathways, [DS-01®](https://seed.com/daily-synbiotic) is formulated to target root causes of digestive distress by increasing beneficial bacteria in the gut microbiome.°
+[DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic), for example, is a 24-strain probiotic and prebiotic that has been clinically shown to reduce bloating and alleviate gas in the largest clinical trial for a probiotic on bloating and gas in healthy adults.°µ Its ViaCap® capsule-in-capsule delivery system is engineered to survive digestion so those strains can reach the colon, where they do their work. While herbs primarily address symptom pathways, [DS-01®](https://seed.com/daily-synbiotic) is formulated to support the gut microbiome itself--increasing beneficial bacteria and supporting gut barrier integrity.°
 
 ## The Key Insight
 
