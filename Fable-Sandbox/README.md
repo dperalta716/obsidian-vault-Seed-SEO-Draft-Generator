@@ -96,6 +96,16 @@ The "do not read Published Drafts" line is mandatory for every drafting/reviewin
 - **The existing v1 files are also legitimate frozen inputs** while you are iterating only on review stages (downstream-first). Regenerate v1 only after you change the generator, and for the final blind acceptance runs (frozen stage1 → fresh v1 → v5 through the full `-fable` chain).
 - **Never hand-edit any generated draft file.** The only files you may edit are the `-fable` skills/commands and your own analysis/log files.
 
+### 5b. Generator scope and the erosion diagnostic
+
+Both ends of the pipeline are in scope. Downstream-first is a **cost** rule (review-stage edits reuse the frozen v1), not a scope rule.
+
+- **The voice is born in the generator.** Step 2.2 of `generate-ds01-draft-fable` carries the intro architecture, conversational devices, humor guidance, Dirk Gevers quote rules, and closer instruction. The review stages are compliance/accuracy passes — they cannot inject voice a v1 lacks.
+- **The review chain is also a suspect.** Four consecutive auto-apply-all passes are structurally four miniature editors. The free diagnostic: inside each train folder, diff **v1 → v2 → v3 → v4 → v5** and locate where voice appears or erodes. Absent at v1 → generator gap. Eroded during review → that review stage gets a voice-preservation guardrail (parallel to the existing POV Brief Guardrail).
+- **April-regression check (do this before iterating).** The current generator is ~596 lines vs. 312 on April 29 — the additions are almost entirely post-May compliance machinery (hedging rules, implied-claims guards, topic gates). The convergence-target v1s the audits praise were produced by the lean April skill. Regenerate the train topic's v1 with the current `-fable` generator (frozen stage1) and compare it for voice against the stored April v1 (`Generated-Drafts/060-.../v1-...md`). The April skill text is available read-only at `.claude/skills/generate-ds01-draft/SKILL.md.backup.2026-04-29` for understanding what changed. If the compliance additions flattened the voice, restoring voice *without* weakening any compliance rule is the first generator-side task — compliance rules are never to be removed or softened, only counterbalanced with explicit voice requirements.
+- **Batch generator edits.** Collect all generator-attributed gaps, edit once, regenerate v1 once. Never iterate the generator one gap at a time — it is the most expensive stage to test.
+- **Flag rule:** any `-fable` edit that touches Phase 0 (brief lookup), the evidence hierarchy/tiers, or the POV Brief Guardrail must be flagged in `calibration-analysis.md` and double-checked against the brief-pathway smoke test (§6b) — those mechanisms are unexercised by the brief-less calibration topics.
+
 ## 6. Grading: rubric operationalization
 
 Tiers are defined in handoff §8. Use exactly 3 independent Opus graders per held-out topic; each classifies **every** v5-vs-published-final difference into Tiers 0–4; majority vote per finding; output a structured verdict:
@@ -117,6 +127,19 @@ Tiers are defined in handoff §8. Use exactly 3 independent Opus graders per hel
 3. **Tier 4 means**: synonym swaps, comma/punctuation changes, light tightening, light rewording of the same idea in the same position. Two excellent versions always differ at this level; it is expected.
 
 **Tier 3 tolerance** (measure against the 9 North Star articles): average sentence length within ±20% of the North Star mean; paragraphs ≤3 sentences throughout; intro follows hook → direct short answer → nuance; H2 sections within the 300–500 word norm. Within all four → `within_tolerance: true`.
+
+### 6b. Brief-pathway smoke test (required after both held-out topics pass)
+
+**Why:** the calibration topics are necessarily brief-less (their answer keys predate the briefs), so the brief pathway — Phase 0 lookup, Tier 0 evidence promotion, the POV Brief Guardrail in review steps — is never exercised by the blind runs. This test validates that the calibration edits coexist with that machinery before the `-fable` improvements are ever merged back.
+
+**Topic:** `prebiotic foods for gut health` — brief at `Reference/SciCare POV briefs/2026-06-03/prebiotic foods for gut health.md`, prior full run at `Generated-Drafts/108-prebiotic-foods-for-gut-health/` (reuse its stage1_analysis as the frozen input; the prior v1–v5 are a useful before/after comparison but not a grading target).
+
+**Procedure:** run the full calibrated `-fable` chain end-to-end WITH the brief (Phase 0 active). Then a panel of 3 Opus graders checks — there is no published final, so **no diff grading**:
+
+1. **Brief alignment** — the article's narrative matches SciCare's POV/Key Takeaway; the brief's suggested references appear in the citation pool; nothing contradicts the brief's cautions.
+2. **Style bar** — the v5 meets the North Star style DNA and the Tier 3 tolerance metrics above, and carries the Tier 0–2 essentials (scene intro, named-expert quote, conversational headers, metaphor closer).
+
+**Pass:** majority of graders affirm both checks. **Fail:** the conflicting `-fable` edit is identified and reworked (the flag list from §5b is the first place to look), then the smoke test re-runs. A smoke-test failure does NOT reopen the held-out verdicts unless the rework touches stages those runs used.
 
 ## 7. Audit findings distilled (priors, not a substitute for your own style-DNA pass)
 

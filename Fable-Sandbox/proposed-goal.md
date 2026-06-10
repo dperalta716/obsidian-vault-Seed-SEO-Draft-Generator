@@ -9,31 +9,37 @@
 
 ```
 /goal Read FABLE-DS01-CALIBRATION-HANDOFF.md in full, then Fable-Sandbox/README.md
-in full — together they carry the outcome, hard constraints, evidence map, verified
-stage→command mapping, grading rubric with carve-outs, and the setup already
+in full — they carry the outcome, hard constraints, evidence map, verified
+stage→command mapping, grading rubric with carve-outs, & the setup already
 completed. Then execute start to finish.
 
 Calibrate the DS-01 draft pipeline by editing ONLY the -fable copies inside
 Fable-Sandbox/ so that a blind end-to-end run produces a v5 carrying Seed's voice,
-humor, structure, and named-expert E-E-A-T at the level of the voice-preserved
-published finals and the 9 North Star articles.
+humor, structure, & named-expert EEAT at the level of the voice-preserved
+published finals & the 9 North Star articles.
 
-Already done (do not redo): -fable copies of the generator skill and the 4-stage
+Already done (do not redo): -fable copies of the generator skill & the 4-stage
 review chain exist in Fable-Sandbox/, outputs redirected to
-Fable-Sandbox/Generated-Drafts/, Google Docs upload removed. Pipeline: stage1+v1
+Fable-Sandbox/Generated-Drafts/, GDocs upload removed. Pipeline: stage1+v1
 (generate-ds01-draft-fable) → v2 seed-perspective → v3 quality → v4 sources → v5
 claims.
 
 Method: (1) Extract style DNA from the 9 North Star articles in Published Drafts/
-and bake it into the -fable files. (2) Build the static gap map: diff the existing
-v5 of the TRAIN topic, fermented foods (Generated-Drafts/060), against its
-published final, attributing each gap to its owning stage; use the negatives (059
-yogurt, 061 ACV) only to identify editor-stripped patterns you must NOT optimize
-toward. (3) Iterate downstream-first: prefer editing review stages over the v1
-generator, reuse the pre-existing stage1_analysis files (and v1 while the
-generator is unchanged) as frozen inputs, re-run only from the earliest changed
-stage. HELD-OUT topics: best tea (068) and probiotic drinks (067) — never read or
-diff their published finals until grading.
+and bake it into the -fable files. (2) Build the static gap map on the TRAIN
+topic, fermented foods (Generated-Drafts/060): diff its existing v5 against its
+published final, AND diff v1→v2→v3→v4→v5 inside the folder to locate where voice
+erodes within the pipeline itself — a gap absent at v1 belongs to the generator;
+a gap that appears during review belongs to that review stage. Use the negatives
+(059 yogurt, 061 ACV) only to identify editor-stripped patterns you must NOT
+optimize toward. (3) Run the April-regression check: regenerate the train topic's
+v1 with the current -fable generator (frozen stage1) and compare it for voice
+against the stored April v1 — the generator has roughly doubled since April with
+compliance additions that may flatten voice. (4) Iterate with BOTH the generator
+and the review stages in scope; downstream-first is a cost rule, not a scope
+rule: review-stage edits reuse the frozen v1, and generator-attributed gaps are
+batched into a single edit + single v1 regeneration, never fixed one at a time.
+Re-run only from the earliest changed stage. HELD-OUT topics: best tea (068) and
+probiotic drinks (067) — never read or diff their published finals until grading.
 
 Execution rules: ALL drafting, reviewing, and grading runs in Opus subagents
 (model: opus) that read and execute the -fable instruction files; you only
@@ -46,16 +52,22 @@ every v5-vs-published-final difference into Tiers 0–4 per the handoff §8 rubr
 and the README §6 carve-outs (editor-added emoji/callouts/internal links = Tier
 4; a difference where the v5 better satisfies the standard than the final — e.g.
 a named expert the editor dropped — is not a gap), majority-vote into one
-structured verdict per topic.
+structured verdict per topic. Then run the brief-pathway smoke test (README §6b):
+one brief-era topic, prebiotic foods (Generated-Drafts/108), end-to-end through
+the calibrated -fable chain WITH its real SciCare brief; graders check brief
+alignment and the North Star style bar — no published-final diff. This validates
+that calibration edits coexist with the brief machinery the calibration topics
+could not exercise.
 
-Done when BOTH held-out verdicts report zero Tier 0, Tier 1, and Tier 2 gaps with
-Tier 3 within the README §6 tolerance, AND Fable-Sandbox/calibration-analysis.md
-records the gap map, every -fable change with reasoning, and both final verdicts.
+Done when BOTH held-out verdicts report zero Tier 0, Tier 1, & Tier 2 gaps with
+Tier 3 within the README §6 tolerance, AND the brief-pathway smoke test passes,
+AND Fable-Sandbox/calibration-analysis.md
+records the gap map, every -fable change with reasoning, & both final verdicts.
 Hard bound: if not converged after 30 of your turns, stop, write an honest status
 report including the latest verdicts to calibration-analysis.md, and surface it —
 that bounded report also satisfies this goal. Throughout: zero writes outside
 Fable-Sandbox/ (verify with git status at the end against the pre-existing
-baseline) and no upload-to-gdocs command is ever copied or run.
+baseline) and no upload-to-gdocs command is ever copied or run
 ```
 
 ---
@@ -81,3 +93,9 @@ baseline) and no upload-to-gdocs command is ever copied or run.
 9. **Strengthened the blindness rule into an operational instruction** — every drafting/reviewing subagent prompt forbids reading anything in `Published Drafts/` (template in README §3) — rather than a principle Fable holds in mind.
 
 10. **Noted the no-brief reality.** No SciCare POV brief exists for any calibration topic (all three targets predate the earliest brief folder). The generator's Phase 0 will correctly no-op, which matches the conditions the originals were produced under. Recorded in README §5 so the run doesn't chase missing briefs.
+
+11. **Added the brief-pathway smoke test to the definition of done.** Because the calibration topics are necessarily brief-less (their answer keys predate the briefs), the brief pathway — Phase 0 lookup, Tier 0 evidence promotion, POV Brief Guardrail — goes unexercised by the blind runs. The smoke test closes that generalization gap cheaply: one brief-era topic (prebiotic foods, 108, which has both a real brief and a full prior run) goes end-to-end through the calibrated chain, graded for brief alignment plus the North Star style bar, with no published-final diff. Spec in README §6b.
+
+12. **Put the generator explicitly in scope and added the v1→v5 erosion diagnostic.** The voice DNA lives in the generator (intro architecture, expert quote, headers, closers); the four review stages are compliance/accuracy passes that cannot inject voice a v1 lacks — and, as four consecutive auto-apply-all passes, are structurally four miniature editors that may erode it. The per-stage files make the diagnosis free: diff v1→v2→v3→v4→v5 to see where voice appears or erodes, and attribute fixes accordingly. Downstream-first is reframed as a cost rule (review edits reuse the frozen v1; generator edits are batched into one edit + one regeneration), not a scope restriction.
+
+13. **Added the April-regression check.** The current generator is ~2× its April 29 size, almost entirely post-May compliance additions (hedging rules, implied-claims guards, topic gates). The convergence-target v1s — the ones the audits praise for voice — were produced by the lean April skill. Before iterating, the run regenerates one train v1 with the current -fable generator and compares it against the stored April v1: if the added compliance machinery has flattened the voice, that is the first and highest-leverage generator-side finding.
