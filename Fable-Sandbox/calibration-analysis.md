@@ -52,8 +52,8 @@ Pattern confirmed from the audits: editor destroyed those intros (scene → clin
 
 ---
 
-## 3. April-Regression Check
-*(pending — Opus regenerating train v1 with current -fable generator on frozen stage1, comparing voice vs the April-skill-produced v1)*
+## 3. April-Regression Check — RESULT
+Regenerated the train v1 with the *current* (pre-edit) `-fable` generator on the frozen stage1 (Opus, blind). The fresh v1 self-assessment confirmed the gap map exactly: scene intro present, conversational headers present, expert quote present **but no title**, closer ends on a warm grounding line **but no extended metaphor**. So the deficiency is NOT an April-vs-now regression of voice instructions (the current generator's voice spec is actually richer than April's and adds the scene→answer→nuance intro architecture April lacked) — it is a set of **generator absences** the spec never required strongly enough. Conclusion: fix by *strengthening* the existing voice requirements, not by reverting to April. No compliance rule touched.
 
 ---
 
@@ -73,7 +73,23 @@ Pattern confirmed from the audits: editor destroyed those intros (scene → clin
 ---
 
 ## 5. Change Log
-*(populated as edits are made)*
+
+All edits are confined to `Fable-Sandbox/`. No compliance rule was removed or softened anywhere — every change ADDS a voice requirement or a voice-preservation guardrail.
+
+### Generator — `Fable-Sandbox/skills/generate-ds01-draft-fable/SKILL.md`
+- **G1 (Tier 1 E-E-A-T):** Dirk Gevers quote attribution must carry full credential + title on first use ("Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health"). Added to the quote rules and to the compliance self-check. *Why:* the bare "says Dirk Gevers, Ph.D." was present-absent at v1 and never added downstream — the clearest generator gap.
+- **G2 (Tier 2 voice — closer):** "The Key Insight" now has a REQUIRED 4-step closer pattern: plain re-answer → reframe as long-term practice → extended ecosystem metaphor across 2-3 sentences → warm cultivation/"seeded in science" grounding line (no emoji). Mirrored into the article-structure template and the self-check. *Why:* drafts produced a competent-but-flat closer; the memorable garden/seed metaphor was always editor-added.
+- **G3 (Tier 2 voice — humor/metaphor density):** Upgraded humor from "occasional/where natural" to a firm requirement — a conversational device roughly every other paragraph; on embarrassing dimensions a validation sentence precedes any joke; metaphor-before-the-technical-term at each mechanism. Added to self-check. *Why:* the North Star carries this density; drafts under-fired.
+- **G4 (Tier 0 structure):** Outline step now requires each distinct mechanism/distinction (SCFA, fermented≠probiotic, survivability, diversity-vs-volume) to earn its own H2/H3 rather than being buried. Added to self-check. *Why:* under-segmentation forced editorial restructuring.
+
+### Review v2 — `Fable-Sandbox/commands/review-draft-seed-perspective-ds01-fable.md`
+- **R-v2 Voice-Preservation Guardrail** (parallel to the existing POV Brief Guardrail): every messaging/compliance fix must ADD around the voice, never flatten it — scene intro stays a scene, metaphor closer stays, conversational headers stay, asides stay, expert attribution keeps its title (add it if missing). When compliance and voice collide, separate into adjacent sentences/paragraphs. *Why:* the erosion diagnostic showed this is the only stage that materially rewrites prose, and it pushed the closer *more* clinical.
+
+### Review v3 — `Fable-Sandbox/commands/review-draft-1-v2-fable.md`
+- **R-v3 E-E-A-T check:** Structure & Length now verifies the expert attribution carries the full title and **adds it if the quote is present but untitled** (not merely flags). Added a VOICE PRESERVATION line to the content-preservation guardrail so messaging injection here also can't clinicalize the intro/closer/headers. *Why:* v3 is the natural E-E-A-T checkpoint but missed the titleless expert on the train topic.
+
+### Flag-rule note (README §5b)
+None of these edits touch Phase 0 (brief lookup), the evidence hierarchy/tiers, or the POV Brief Guardrail. They are purely additive voice requirements and voice-preservation guardrails, so they are expected to coexist with the brief machinery — to be confirmed by the brief-pathway smoke test (§7).
 
 ## 6. Held-Out Verdicts
 *(populated at acceptance)*

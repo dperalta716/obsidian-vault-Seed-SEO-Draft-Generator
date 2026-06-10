@@ -282,6 +282,7 @@ After assembling the final pool, check the composition of the *topic* (non-DS-01
 - Overview, Introduction, 3-5 H2 body sections, The Key Insight, FAQs
 - Must address competitive baseline requirements
 - Layer Seed's unique angles on top of baseline
+- **Give each distinct mechanism or distinction its own dedicated H2/H3 header — do not bury a discrete idea as a paragraph inside an unrelated section.** The North Star articles segment finely: if the topic involves short-chain fatty acid production, a "why fermented foods aren't the same as probiotics" distinction, a survivability/digestion question, or a diversity-vs-volume point, each earns its own conversational-but-keyword header rather than being folded into a neighboring block. Finely-segmented drafts need less editorial restructuring. Headers follow the voice rules above (ask the reader's literal question, or `Vivid Concept: plain-language payoff`).
 - Use the Timeline of Benefits phasing (Restore/Rebalance/Optimize) when discussing what to expect from DS-01
 
 ### Step 2.2: Write the Article
@@ -321,13 +322,13 @@ The voice balances three pillars (dial up or down based on the topic):
 
 *Example: "If you've been quietly Googling 'do probiotics make you poop' (don't worry, your secret's safe here), you're in good company."*
 
-**Strategic Use of Humor:**
-- Incorporate occasional light humor, especially when discussing potentially embarrassing topics
-- Humor often involves self-awareness (bodily functions) or relatable everyday scenarios
-- Use witty section headings or playful asides where natural
-- Keep humor appropriate and supportive of the educational mission — never at the reader's expense
+**Strategic Use of Humor (a firm requirement, not a "where natural" option):**
+- The North Star articles carry a conversational device — a parenthetical aside, a rhetorical question, a light beat, or a "here's the thing" turn — roughly **every other paragraph**. A draft with none of these reads flat and is the failure mode editors most often have to repair. Aim for that density (without crowding: cap rhetorical questions at ~1 per 400-500 words).
+- **On any embarrassing or anxiety-laden dimension** (gas, bloating, diarrhea, constipation, body odor, etc.), use the published pattern: **one validation sentence first** ("you're not alone," "this is completely normal," "you're not doing anything wrong") **then deflate the tension with one light, self-aware beat.**
+- Humor often involves self-awareness (bodily functions) or relatable everyday scenarios; keep it supportive of the educational mission — never at the reader's expense.
+- **Metaphor before the technical term, every time.** The North Star voice introduces every complex mechanism with a concrete everyday image *before* naming the science (gut-as-garden, antibiotics-as-bulldozers, strain mismatch as "a hammer when you need a screwdriver," a generic species label as "a menu that just says 'beer'"). Reach for a fresh, topic-appropriate metaphor at each mechanism — this is the comprehension engine *and* the warmth engine at once.
 
-*Example: "Who knew your microbiome had such refined taste?"*
+*Examples: "Who knew your microbiome had such refined taste?" / "If you've been quietly Googling this (don't worry, your secret's safe here), you're in good company."*
 
 **Scientific Communication:**
 - Introduce scientific terms with plain language explanations first, then the term
@@ -366,7 +367,11 @@ The voice balances three pillars (dial up or down based on the topic):
   2. Then deliver the direct short answer to the keyword question: "The short answer? Yes..." / "Here's what the research says..."
   3. Then expand with nuance — what's more complex, what most articles miss, and why it's worth reading on.
 - Body sections address baseline topics with Seed's unique angle layered on
-- The Key Insight closes with a warm, grounding line (not a strategy summary)
+- **The Key Insight closer (REQUIRED pattern — do not ship a flat summary):** This section is the emotional close and the single most-rewritten element when editors fix a draft. Build it in this order so the editor has nothing to add:
+  1. Re-answer the keyword question plainly in one or two short sentences.
+  2. Reframe the topic as a long-term *practice*, not a hack or a fix.
+  3. **Land an extended ecosystem metaphor** that fits the topic — gut-as-garden you tend daily, a well-zoned city/neighborhood, an orchestra, seeding/planting, "the first chapter, not the whole book." Carry the metaphor across two or three sentences; don't just name it.
+  4. **Close on a warm "cultivation" grounding line** — a culture/seed/garden wordplay that lands the brand's "seeded in science" sensibility (e.g., the published closers use beats like *"Good health isn't hacked—it's cultured"* and *"The strongest gut ecosystems aren't built on a single food or a single strain—they're cultivated through variety, consistency, and a little scientific precision."*). Write a fresh line each time; never copy these verbatim, and never use emoji (the editor adds those).
 
 #### Style Rules (COPYStyleGuide)
 
@@ -437,7 +442,7 @@ The DS-01 section should follow this logic:
 #### Dirk Gevers, Ph.D. Quote
 
 - 1-2 quotes total, each 1-3 sentences
-- Attribute as: says **Dirk Gevers, Ph.D.** or explains **Dirk Gevers, Ph.D.**
+- **Attribution MUST carry the full credential + title on first use** — `**Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health**` — e.g. "explains **Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health**" or "According to **Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health**, …". The bare "says Dirk Gevers, Ph.D." (no title) is the single most common E-E-A-T miss — a named expert without their title is a weaker trust signal. A second quote later in the piece may use the short form ("adds Gevers").
 - Must reinforce a genuine Seed differentiator (clinical validation, precision approach, microbiome science)
 - Not generic wellness advice
 - Do NOT focus quotes on individual strains
@@ -487,7 +492,7 @@ The complete draft file must contain, in order:
 ## [Body H2 Sections -- 3-5 sections with H3 subsections]
 
 ## The Key Insight
-[2-3 paragraphs, 150-200 words, ends with a warm grounding line]
+[2-3 paragraphs, 150-200 words. REQUIRED closer pattern: plain re-answer → reframe as a long-term practice → extended ecosystem metaphor carried across 2-3 sentences → warm "cultivation" grounding line (culture/seed/garden wordplay, no emoji). See Step 2.2 Section-level for the full pattern.]
 
 ## Frequently Asked Questions
 
@@ -545,6 +550,10 @@ Before saving, verify:
 - [ ] NO Claims Library citations (Allegretti, Del Piano, Iemoli, Chakkalakal, Strozzi, Xiao) used to support claims about the article topic — only for DS-01
 - [ ] At least one root-cause mechanism mentioned (transforms gut, gut barrier, beneficial bacteria increase)
 - [ ] Dirk Gevers quotes do NOT name any product directly
+- [ ] **Dirk Gevers quote attribution carries full credential + title on first use** ("Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health") — not the bare "says Dirk Gevers, Ph.D."
+- [ ] **The Key Insight closer carries an extended ecosystem metaphor (2-3 sentences) + a warm cultivation/"seeded in science" grounding line** — not a flat strategy summary
+- [ ] **Conversational density check**: a conversational device (aside, rhetorical Q, "here's the thing" turn, light beat) roughly every other paragraph; on embarrassing dimensions, a validation sentence precedes any humor; each mechanism introduced with a metaphor before the technical term
+- [ ] **Segmentation check**: each distinct mechanism/distinction has its own H2/H3 header, not buried inside an unrelated section
 - [ ] DS-01 pitch is relevant to the article topic (not generic product dump)
 - [ ] Strain-level temporal claims (e.g., "regularity in 2 weeks") include ingredient callout per Copy Compliance Guidance
 - [ ] **No implied superiority** — DS-01 is never framed as "better than" or "addresses what [topic ingredient] can't" (use "different mechanism" framing)

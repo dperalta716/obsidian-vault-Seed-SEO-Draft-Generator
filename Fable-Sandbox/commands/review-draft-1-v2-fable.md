@@ -326,6 +326,7 @@ Run all checks from existing review-draft-1 command:
 - Has ## The Key Insight section
 - Has ## Frequently Asked Questions (minimum 3 questions — do NOT remove a 4th FAQ if present)
 - Contains Dirk Gevers, Ph.D. quote
+- **E-E-A-T — named-expert attribution carries the full title.** The first attribution of the expert quote must read "Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health" (not the bare "says Dirk Gevers, Ph.D."). This is the most commonly missed trust signal and this stage is its checkpoint. **If the quote is present but the title is missing, ADD the title** ("Ph.D., Chief Scientific Officer at Seed Health") to the first attribution — do not merely flag it. The quote must still name no product.
 - Has ## Citations section
 - Proper H2/H3 hierarchy
 
@@ -480,6 +481,7 @@ When applying ANY fixes, you MUST follow these rules:
 - **NEVER reduce word count** as a goal — content was deliberately written and should be preserved
 - **Fixes should ADD or MODIFY, not DELETE** — the only exception is removing compliance violations (NO-NO words, forbidden claims)
 - **Citation reduction is allowed** — trimming citation count to 12-15 is fine, but do not remove the prose/claims those citations supported
+- **VOICE PRESERVATION** — when adding messaging (ViaCap®, Allegretti trial, gut-axis), add it in its own sentences/paragraphs; do NOT clinicalize the scene intro, the extended-metaphor Key Insight closer, the conversational headers, or the connective-tissue asides. Tone fixes should strengthen these toward the North Star bar, never flatten them.
 
 **For secondary category fixes:**
 

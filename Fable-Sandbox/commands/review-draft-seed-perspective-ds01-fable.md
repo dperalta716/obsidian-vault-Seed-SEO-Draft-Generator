@@ -290,6 +290,18 @@ Parse user's response and apply appropriate fixes:
 2. **Make ALL edits to the new file ONLY** using the Edit tool on the new file path
 3. **NEVER modify the original v1 file** - it must remain untouched
 
+**⚠️ VOICE-PRESERVATION GUARDRAIL — applies to EVERY fix this stage makes**
+
+This stage injects messaging and compliance. It must do so by ADDING and ADJUSTING around the existing voice, never by flattening it. This is the stage most likely to clinicalize a draft, so before and after each edit, verify these survive intact:
+
+- **The scene/scenario intro stays a scene.** Never replace the relatable opening hook with a clinical or definitional lead. If a compliance fix is needed in the intro, work it in *after* the hook and short answer.
+- **The Key Insight closer keeps its extended ecosystem metaphor and warm cultivation grounding line.** Do NOT make the closer more clinical or hedge it into a flat summary. If a disclaimer or qualifier must appear near the close, place it in body prose earlier, not by rewriting the metaphor away.
+- **Conversational headers stay conversational.** Do not swap a question-shaped or `Concept: payoff` header for a bare keyword label.
+- **Connective tissue and asides stay.** "Here's the thing," parenthetical asides, validation sentences, and the friend-to-friend register are not bloat — preserve them while you add Claims Library language in their own sentences/paragraphs.
+- **The named-expert quote keeps its full attribution** (name + "Ph.D., Chief Scientific Officer at Seed Health"). If the draft has the quote but is missing the title, ADD the title — never strip it.
+
+The rule mirrors the existing content-preservation principle: compliance fixes ADD or MODIFY-IN-PLACE; they never delete or clinicalize the voice. When a compliance need and a voice element seem to collide, separate them into adjacent sentences/paragraphs (general science in one, DS-01 claim in the next) rather than rewriting the voice out.
+
 **For 'all' or 'critical' or specific categories:**
 
 **Claims Library Compliance:**
