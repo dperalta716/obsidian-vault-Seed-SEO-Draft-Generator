@@ -10,122 +10,118 @@ tags: [seed, seo-draft, ds-01]
 
 - **Primary Keyword:** fermented foods for gut health
 - **SEO Title Options:**
-  1. "Fermented Foods for Gut Health: What the Science Actually Supports" (66 chars)
-  2. "Fermented Foods and Your Gut: A Practical, Evidence-Based Guide" (62 chars)
-  3. "Fermented Foods for Gut Health: Variety Over Volume" (51 chars)
+  1. "Fermented Foods for Gut Health: What the Science Says" (52 chars)
+  2. "Fermented Foods for Gut Health: A Practical Guide" (49 chars)
+  3. "Fermented Foods and Your Gut: Beyond the Probiotic Hype" (55 chars)
 - **Slug:** fermented-foods-for-gut-health-guide
-- **Meta Description:** Which fermented foods help your gut, how they work, and where they fall short. A clear, evidence-based guide to fermented foods for gut health.
-- **Article Description:** Yogurt, kimchi, kefir, and sauerkraut are everywhere on gut-health lists. Here's what fermented foods can actually do for your microbiome, what the research shows, and how to make them work for you.
-- **H1:** Fermented Foods for Gut Health: Variety Matters More Than You Think
-- **Written by:** [LEAVE BLANK]
-- **Reviewed By:** [LEAVE BLANK]
+- **Meta Description:** Fermented foods for gut health are powerful, but variable. Here's what actually reaches your gut, which foods help, and how much to eat.
+- **Article Description:** A science-backed guide to fermented foods for gut health: how they support your microbiome, which ones deliver live cultures, how much to eat, and where targeted probiotics fit in alongside them.
+- **H1:** Fermented Foods for Gut Health: What Actually Reaches Your Gut
+- **Written by:**
+- **Reviewed By:**
 
----
-
-# Fermented Foods for Gut Health: Variety Matters More Than You Think
+# Fermented Foods for Gut Health: What Actually Reaches Your Gut
 
 ### Overview
 
-- Fermented foods can support a more diverse gut microbiome, and in healthy adults that diversity is linked to lower markers of inflammation.
-- The benefit seems to come more from the variety of fermented foods you eat than from the sheer amount of any single one.
-- Most fermented foods are nutritious additions to your diet, but they aren't the same thing as a clinically studied probiotic.
+- Fermented foods can support your gut by adding microbial variety and beneficial compounds to your diet, and research suggests that eating a range of them may increase the diversity of your gut microbiome.
+- Variety matters more than chasing a single "best" food, and not every fermented item on the shelf still contains live cultures by the time it reaches your fork.
+- Fermented foods and clinically studied probiotics work through different mechanisms, so think of them as different tools rather than competitors.
 
-You've probably seen kimchi, kombucha, and kefir on every "best foods for your gut" list out there. So here's the honest answer to the question you came with: yes, fermented foods can be good for your gut, and the research backing that up is genuinely interesting.
+You've probably seen kimchi, kombucha, and kefir crowned on every "best foods for your gut" list out there. The promise is simple and appealing: eat these, and your gut gets happier.
 
-But the story is a little more nuanced than "eat more yogurt." What most articles skip is the part that actually changes how you'd shop and eat. Which fermented foods help, and why. How much of the benefit comes from live microbes versus the other compounds fermentation creates. And where the difference between a fermented food and a clinically studied probiotic really lies.
+The short answer? Yes, fermented foods can genuinely support gut health, and the research behind them is getting stronger. But the full story is more interesting than "eat more sauerkraut."
 
-Let's walk through what the science supports, in plain language, so you can make sense of the shelf at the grocery store.
+Here's what most articles skip. Fermentation is wildly variable, what survives the trip to your gut isn't guaranteed, and the single most useful takeaway from recent research has almost nothing to do with picking one perfect food. Let's get into what actually reaches your gut, and why that distinction changes how you eat.
 
-## What "Fermented" Actually Means (and Why It Matters)
+## What Fermented Foods Actually Do for Your Gut
 
-Fermentation is one of the oldest food traditions on Earth. At its simplest, it's the process where microbes break down components of a food, changing its flavor, texture, and nutritional makeup along the way.
+Think of fermentation as letting helpful microbes do some of the cooking for you. They break down sugars and starches in food, and in the process they create new compounds, tangy flavors, and sometimes a population of live bacteria along for the ride.
 
-Scientists have a precise definition for it. An international group of microbiome researchers defines fermented foods as "foods made through desired microbial growth and enzymatic conversions of food components" ([Marco 2021](https://doi.org/10.1038/s41575-020-00390-5)). That covers a wide range, from tangy sauerkraut to a loaf of sourdough.
+The formal definition is less glamorous but worth knowing. Fermented foods are "foods made through desired microbial growth and enzymatic conversions of food components," per a consensus statement from the International Scientific Association for Probiotics and Prebiotics ([Marco 2021](https://doi.org/10.1038/s41575-020-00390-5)). In plain terms: microbes transform the food, and you get the benefits.
 
-Here's the catch most lists gloss over. Not every fermented food still contains live microbes by the time it reaches your fork. Sourdough bread is baked, which means the heat takes care of the live cultures. Many store-bought pickles are made with vinegar rather than fermentation, so they never had the microbes to begin with.
+So how does that help your gut? It works through a couple of different doors. Some fermented foods deliver live microbes that interact with your existing gut community as they pass through. Others deliver the byproducts of fermentation—compounds like organic acids and certain peptides—that can benefit you even when few live bacteria remain ([Marco 2017](https://doi.org/10.1016/j.copbio.2016.11.010)).
 
-So when you're shopping, the useful question isn't just "is this fermented?" It's "does this still have live, active cultures?" Look for "naturally fermented" or "live and active cultures" on the label, and check the refrigerated section, where the products most likely to retain live microbes tend to live.
+That second point surprises people. You don't always need a thriving colony of live bacteria for a fermented food to do something useful. Sometimes the value is in what the microbes already made.
 
-## How Fermented Foods Support Your Gut
+## The Diversity Insight Most Articles Miss
 
-This is where it gets genuinely interesting, because the benefits work through a few different doors at once.
+Here's where it gets interesting. If you take one thing from this whole article, make it this: when it comes to fermented foods, variety appears to matter more than volume.
 
-The most talked-about door is the live microbes themselves. A landmark Stanford study had healthy adults eat a diet rich in fermented foods for 10 weeks. The result? Their gut microbiome diversity increased, and markers of inflammation in their blood went down ([Wastyk 2021](https://doi.org/10.1016/j.cell.2021.06.019)). A more diverse microbiome generally means a wider set of functions your gut can perform.
+A well-designed Stanford study put healthy adults on a diet rich in fermented foods for several weeks. The result? Eating a range of fermented foods increased the diversity of their gut microbiome and was linked to lower levels of several markers of inflammation ([Wastyk 2021](https://doi.org/10.1016/j.cell.2021.06.019)).
 
-But live bacteria aren't the whole picture. Fermentation also produces beneficial compounds in the food itself, even before anything reaches your gut. The process can break down lactose, make certain nutrients easier to absorb, and generate bioactive molecules with their own potential benefits ([Marco 2017](https://doi.org/10.1016/j.copbio.2016.11.010)). So a fermented food can do something good for you whether or not its microbes survive the trip.
+A more diverse microbiome is generally considered a good thing. Picture your gut as a garden. A garden with one type of plant is fragile, but a garden with dozens of species is resilient, adaptable, and better at handling whatever the weather throws at it. More microbial variety tends to mean more functional range.
 
-These fermentation byproducts are sometimes called postbiotics. Think of them as the useful leftovers of microbial work: small molecules, peptides, and acids that can interact with your gut even when no live culture makes it through. It's part of why a baked or cooked fermented food can still carry value.
+The practical move, then, isn't to hunt for the single "best" fermented food. It's to rotate a few you genuinely enjoy. A little yogurt here, some kimchi there, a glass of kefir now and then—the mix is the point.
 
-There's also a clue in the diversity itself. In that Stanford research, eating a *range* of fermented foods mattered more than eating a large amount of any one. Variety appears to be the active ingredient. It's a refreshingly low-pressure takeaway, because it means no single jar on the shelf is doing all the heavy lifting on its own.
+## Which Fermented Foods Are Worth Your Plate
 
-"What's striking about the fermented foods research is that diversity in the diet seems to translate to diversity in the gut," explains **Dirk Gevers, Ph.D.** "The breadth of what you eat may matter more than the volume of any single food."
+Most lists name the same dependable crew, and for good reason. These are the fermented foods that most reliably bring live cultures or beneficial compounds to the table:
 
-## Which Fermented Foods Are Worth Knowing
+- **Yogurt and kefir** — fermented dairy with live cultures, and kefir typically carries a wider range of microbes than yogurt.
+- **Kimchi and sauerkraut** — fermented vegetables, as long as they're the refrigerated, naturally fermented kind.
+- **Miso and tempeh** — fermented soy, rich in flavor and fermentation-derived compounds.
+- **Kombucha** — fermented tea, often containing live cultures and organic acids.
 
-There's no single "best" fermented food, and that's actually good news. The most useful approach is to rotate through several. Here are the ones worth getting familiar with.
+Yogurt has some of the clearest human research behind it. In one study, regular yogurt eaters had measurably more diverse gut microbiomes than non-eaters, and the effect tracked with how much they ate ([Le Roy 2022](https://doi.org/10.1186/s12866-021-02364-2)).
 
-**Yogurt and kefir.** These cultured dairy foods are the most studied. In a large human cohort, regular yogurt eaters had different, and somewhat more diverse, gut microbiome profiles than non-eaters ([Le Roy 2022](https://doi.org/10.1186/s12866-021-02364-2)). Kefir is the tangier, drinkable cousin, typically carrying a wider mix of microbes.
+One quiet note on dairy. If yogurt and kefir aren't your thing, you have plenty of company and plenty of options—kimchi, sauerkraut, tempeh, miso, and many kombuchas are entirely dairy-free. Variety is still well within reach.
 
-**Kimchi and sauerkraut.** These fermented vegetables bring live cultures plus fiber and plant compounds. Lacto-fermented vegetables are a well-studied source of both microbes and bioactive molecules ([Mukherjee 2024](https://doi.org/10.1038/s41575-023-00869-x)). Buy them refrigerated and unpasteurized to keep the cultures intact.
+## Do the Microbes in Fermented Foods Survive Digestion?
 
-**Miso and tempeh.** Both come from fermented soy. Tempeh is a firm, protein-rich option, while miso is a savory paste. One tip with miso: stir it in after cooking rather than boiling it, so you don't cook off the live cultures.
+Now for the question almost no one answers honestly. When you eat a forkful of live-culture kimchi, do those microbes actually make it to your gut intact?
 
-**Kombucha.** This fermented tea has a loyal following and contains live microbes, though the amounts vary widely between brands.
+It's a fair thing to wonder, and the answer is: it depends, and often not in the numbers you'd hope. Your stomach is a harsh place by design—acidic and built to break things down. Many of the microbes in fermented foods don't survive that passage in meaningful amounts, and because fermented foods aren't standardized, the live count varies from jar to jar and even batch to batch.
 
-Dairy-free? You're well covered. Kimchi, sauerkraut, tempeh, miso, kombucha, and water kefir are all plant-based ways to bring fermented foods into your routine.
+This is also where the difference between a fermented food and a probiotic comes into focus. The term "probiotic" has a specific scientific definition: live microorganisms that, when taken in adequate amounts, confer a health benefit ([Hill 2014](https://doi.org/10.1038/nrgastro.2014.66)). Many fermented foods contain live microbes, but most haven't been studied to confirm that a specific dose delivers a specific benefit ([Marco 2021](https://doi.org/10.1038/s41575-020-00390-5)).
 
-## Fermented Foods and Probiotics Aren't the Same Thing
+"Fermented foods and clinically studied probiotics aren't interchangeable—they're different tools that work in different ways," explains **Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health**. "The effects of probiotics are demonstrated at the strain level and a defined dose, which is a different kind of precision than a fermented food provides."
 
-This is the distinction that trips most people up, and it's worth slowing down for.
+None of this means you should skip fermented foods. They're nutritious, delicious additions to a daily diet. It simply means the expectation is different—a fermented food is food, not a measured dose.
 
-A probiotic has a specific scientific definition: live microorganisms that, when taken in adequate amounts, confer a health benefit ([Hill 2014](https://doi.org/10.1038/nrgastro.2014.66)). Each part matters. The microbes need to be alive, present in a defined dose, and shown to do something beneficial.
+## Where Targeted Probiotics Fit Alongside Fermented Foods
 
-Fermented foods, by contrast, contain a variable and often uncharacterized mix of microbes. Their live cultures aren't usually identified by strain or measured in a consistent dose. That doesn't make them less valuable, it just makes them different. They're a nutritious, microbe-rich part of a good diet, but most don't meet the formal bar for a probiotic ([Marco 2021](https://doi.org/10.1038/s41575-020-00390-5)).
+So if fermented foods and probiotics work differently, where does a product like [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) come in? Think of it as a different approach to gut health, not a replacement for the foods you enjoy.
 
-Probiotics work through a different mechanism. Rather than offering a broad, variable mix, a probiotic is built around specific strains studied for specific effects. The two approaches aren't in competition. A varied diet of fermented foods and a clinically studied probiotic are simply different tools.
+Probiotics as a category are studied at the strain level and a specific dose, which is why a clinically validated formulation can be evaluated for particular outcomes in a way a food generally can't. DS-01® is clinically validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ, a 6-week randomized, placebo-controlled study in 350 healthy adults ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
 
-If you're curious about that more precise route, [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is one example of a clinically studied probiotic. It's a 2-in-1 probiotic and prebiotic, clinically validated in the largest clinical trial for a probiotic on bloating + gas in healthy adults°µ ([Allegretti 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)). It's formulated with 24 strains not commonly found in foods, yogurts, and beverages, and it's designed to improve regularity, reduce bloating, and alleviate gas.°
+That survivability question we just raised applies here, too. DS-01® uses a capsule-in-capsule delivery system, ViaCap®, engineered to deliver probiotics through digestion to the colon\*°—directly addressing the gauntlet that trips up so many food-based microbes. Separately, DS-01® is formulated to increase beneficial bacteria in the gut microbiome° and to support gut barrier integrity°.
 
-There's also the question of survival. Many live microbes in food face a tough journey through stomach acid before reaching the lower gut. This is one place a probiotic can be engineered intentionally. DS-01®'s capsule-in-capsule delivery system, ViaCap®, is designed to safeguard its probiotics through digestion and deliver them to the colon.*° As with any change to your routine, it's always a good idea to check in with your healthcare provider.
+The framing that matters here: fermented foods build a broad, varied foundation, and a clinically studied formulation adds a measured, targeted layer of its own. As with any change to your routine, it's always a good idea to check in with your healthcare provider.
 
 ## The Key Insight
 
-Fermented foods earn their spot on the gut-health lists, but for a more interesting reason than most articles give. The research points to variety as the real lever: a range of fermented foods supports a more diverse microbiome, and in healthy adults that diversity tracks with lower inflammation.
+So, do fermented foods support gut health? Yes—they add microbial variety and beneficial compounds to your diet, and a range of them may help your gut microbiome grow more diverse over time. Just don't expect any single food to act like a measured dose.
 
-The other quiet lesson is precision. Fermented foods deliver a broad, variable mix of microbes and beneficial compounds, which is genuinely good for you. A clinically studied probiotic offers something different: specific strains, a defined dose, and evidence behind them. Neither replaces the other.
+The real shift is in how you think about it. Fermented foods aren't a hack you do once and check off a list. They're a practice—something you fold into how you eat, week after week, season after season.
 
-So the most grounded move isn't to chase a single superfood. It's to fold a few different fermented foods into meals you already enjoy, and let your gut do the rest. Your microbiome thrives on variety, and that's a remarkably easy thing to give it.
+Picture your microbiome as a garden you tend rather than a project you finish. You're not planting one prize-winning tomato and walking away. You're cultivating a whole living plot, adding a little here and a little there, letting variety and consistency do the slow, patient work that no single seed could manage alone. The healthiest gardens aren't the ones with the rarest plant—they're the ones cared for, day after day, with a little intention.
+
+That's the spirit of fermented foods for gut health. A strong gut isn't grown from one perfect food or one clever shortcut—it's cultured over time, seeded in variety, and grounded in the quiet science of what your microbes actually do with what you give them.
 
 ## Frequently Asked Questions
 
-### What is the best fermented food for the gut?
+### What Is the Best Fermented Food for the Gut?
 
-There isn't one single best fermented food, and chasing one misses the point. The research suggests that eating a *variety* of fermented foods does more for your gut than loading up on any single one ([Wastyk 2021](https://doi.org/10.1016/j.cell.2021.06.019)). A practical approach is to rotate through several across the week: yogurt or kefir for breakfast, sauerkraut or kimchi alongside lunch or dinner, maybe a little miso stirred into a soup. Each brings a different mix of microbes and beneficial compounds. The variety itself appears to be the active ingredient, so think of it as building a diverse rotation rather than crowning a winner.
+There isn't a single best one, and that's genuinely good news. Research suggests the diversity of fermented foods you eat matters more than fixating on any one champion ([Wastyk 2021](https://doi.org/10.1016/j.cell.2021.06.019)). Eating a range—yogurt, kefir, kimchi, sauerkraut, miso, kombucha—gives your gut a broader mix of microbes and beneficial compounds than relying on a single food ever could. The "best" choice is really the one you'll actually eat consistently. If you love tangy kimchi, that's your winner. If kefir is your morning ritual, lean into it. Consistency and variety beat chasing whatever food happens to be trending this month, and they're far easier to sustain.
 
-### Does Greek yogurt count as a fermented food?
+### Does Greek Yogurt Count as a Fermented Food?
 
-Yes, Greek yogurt is a fermented food, made by culturing milk with live bacteria. The extra step that makes it "Greek," straining out some of the liquid whey, gives it a thicker texture and more protein, but it doesn't remove the cultures. The detail worth checking is whether the specific product still contains live cultures, since some are heat-treated after fermentation, which takes care of the live microbes. Look for "live and active cultures" on the label. And keep in mind that yogurt contains a variable mix of microbes rather than the defined, strain-specific dose you'd get from a clinically studied probiotic.
+Yes, Greek yogurt is a fermented food—it's made by fermenting milk with live bacterial cultures, then straining it for that thick texture. The thing to check is whether your specific yogurt still has those cultures. Look for "live and active cultures" on the label, since some processing can reduce them. Yogurt has some of the clearest research among fermented foods, with regular eaters showing more diverse gut microbiomes than non-eaters ([Le Roy 2022](https://doi.org/10.1186/s12866-021-02364-2)). One distinction worth knowing: "contains live cultures" and "delivers a clinically meaningful dose" aren't the same claim. Yogurt is a nutritious food, not a measured probiotic, but it's a perfectly good addition to a gut-friendly diet.
 
-### Is apple cider vinegar a fermented food?
+### Is Apple Cider Vinegar a Fermented Food?
 
-Apple cider vinegar starts with fermentation, so in that sense it has fermented roots. Crushed apples are fermented into alcohol, then a second fermentation converts that into acetic acid, which gives vinegar its sharp taste. Here's the catch, though: most apple cider vinegar on shelves is filtered and pasteurized, which means it contains little to no live cultures by the time you buy it. Some unfiltered versions contain "the mother," a cloudy mix of microbes and proteins, but even then the live microbial content is variable and not measured in a meaningful dose. So while it has a fermentation story, it isn't a reliable source of live cultures for your gut.
+Sort of—and this is a common point of confusion. Apple cider vinegar starts as fermented apple juice, so fermentation is part of its origin story. But most apple cider vinegar on shelves is filtered and pasteurized, which means it generally doesn't contain meaningful live cultures by the time you buy it. Some unfiltered versions contain "the mother," a cloudy mix of bacteria and yeast left over from fermentation, though the live microbial content still isn't standardized or well studied for gut benefits. So while apple cider vinegar is technically a fermented product, it's not a reliable source of live cultures the way live-culture kimchi or kefir can be. Enjoy it for the flavor, just don't count on it as your gut-microbe strategy.
 
-### What are signs of an unhealthy gut?
+### What Are the 7 Signs of an Unhealthy Gut?
 
-People often point to symptoms like frequent bloating, gas, irregular bowel movements, or general digestive discomfort as signals that something's off. It's worth saying plainly that "unhealthy gut" isn't a formal medical diagnosis, and these experiences are common and can have many causes. If symptoms are persistent or disruptive, that's a conversation to have with a healthcare provider rather than something to self-diagnose. On the everyday-comfort side, supportive habits tend to overlap: a diet rich in fiber and a range of fermented foods, regular movement, decent sleep, and managing stress. Small, consistent changes usually do more than any single dramatic fix.
+People often point to signs like ongoing bloating, gas, irregularity, fatigue, unexplained changes in appetite, frequent stomach discomfort, and feeling generally off after eating. Here's the honest framing: these are common experiences, and having one or two now and then doesn't mean something is wrong with you. You're not alone, and you're not doing anything wrong (truly—most of us have been there mid-afternoon, quietly regretting lunch). That said, the gut is complex, and these signals can come from many sources. Adding fermented foods and supporting your microbiome through diet can be a reasonable step, but if symptoms are persistent or bothersome, it's worth checking in with a healthcare provider rather than guessing your way through it.
 
 ## Citations
 
-1. Allegretti, J. R., et al. (2026). A randomized, placebo-controlled trial of DS-01® Daily Synbiotic in healthy adults (n=350). https://pubmed.ncbi.nlm.nih.gov/41599868/
-2. Hill, C., Guarner, F., Reid, G., Gibson, G. R., Merenstein, D. J., Pot, B., et al. (2014). The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic. *Nature Reviews Gastroenterology & Hepatology*, 11(8), 506–514. https://doi.org/10.1038/nrgastro.2014.66
-3. Le Roy, C. I., Kurilshikov, A., Leeming, E. R., et al. (2022). Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome. *BMC Microbiology*, 22(1), 39. https://doi.org/10.1186/s12866-021-02364-2
-4. Marco, M. L., Heeney, D., Binda, S., et al. (2017). Health benefits of fermented foods: microbiota and beyond. *Current Opinion in Biotechnology*, 44, 94–102. https://doi.org/10.1016/j.copbio.2016.11.010
-5. Marco, M. L., Sanders, M. E., Gänzle, M., et al. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. *Nature Reviews Gastroenterology & Hepatology*, 18(3), 196–208. https://doi.org/10.1038/s41575-020-00390-5
-6. Mukherjee, A., Breselge, S., Dimidi, E., et al. (2024). Fermented foods and gastrointestinal health: underlying mechanisms. *Nature Reviews Gastroenterology & Hepatology*, 21(4), 248–266. https://doi.org/10.1038/s41575-023-00869-x
-7. Wastyk, H. C., Fragiadakis, G. K., Perelman, D., et al. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137–4153. https://doi.org/10.1016/j.cell.2021.06.019
-
----
-
-*°These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.*
-*µas of February 2026*
-*\*Based on a study conducted in SHIME®*
+1. Allegretti, J. R., et al. (2026). A randomized, placebo-controlled trial of DS-01® Daily Synbiotic in healthy adults. https://pubmed.ncbi.nlm.nih.gov/41599868/
+2. Hill, C., Guarner, F., Reid, G., Gibson, G. R., Merenstein, D. J., Pot, B., Morelli, L., Canani, R. B., Flint, H. J., Salminen, S., Calder, P. C., & Sanders, M. E. (2014). The International Scientific Association for Probiotics and Prebiotics consensus statement on the scope and appropriate use of the term probiotic. *Nature Reviews Gastroenterology & Hepatology*, 11(8), 506–514. https://doi.org/10.1038/nrgastro.2014.66
+3. Le Roy, C. I., Kurilshikov, A., Leeming, E. R., Visconti, A., Bowyer, R. C. E., Menni, C., Falchi, M., Koutnikova, H., Veiga, P., Zhernakova, A., Derrien, M., & Spector, T. D. (2022). Yoghurt consumption is associated with changes in the composition of the human gut microbiome and metabolome. *BMC Microbiology*, 22(1), 39. https://doi.org/10.1186/s12866-021-02364-2
+4. Marco, M. L., Heeney, D., Binda, S., Cifelli, C. J., Cotter, P. D., Foligné, B., Gänzle, M., Kort, R., Pasin, G., Pihlanto, A., Smid, E. J., & Hutkins, R. (2017). Health benefits of fermented foods: microbiota and beyond. *Current Opinion in Biotechnology*, 44, 94–102. https://doi.org/10.1016/j.copbio.2016.11.010
+5. Marco, M. L., Sanders, M. E., Gänzle, M., Arrieta, M. C., Cotter, P. D., De Vuyst, L., Hill, C., Holzapfel, W., Lebeer, S., Merenstein, D., Reid, G., Wolfe, B. E., & Hutkins, R. (2021). The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. *Nature Reviews Gastroenterology & Hepatology*, 18(3), 196–208. https://doi.org/10.1038/s41575-020-00390-5
+6. Wastyk, H. C., Fragiadakis, G. K., Perelman, D., Dahan, D., Merrill, B. D., Yu, F. B., Topf, M., Gonzalez, C. G., Van Treuren, W., Han, S., Robinson, J. L., Elias, J. E., Sonnenburg, E. D., Gardner, C. D., & Sonnenburg, J. L. (2021). Gut-microbiota-targeted diets modulate human immune status. *Cell*, 184(16), 4137–4153. https://doi.org/10.1016/j.cell.2021.06.019

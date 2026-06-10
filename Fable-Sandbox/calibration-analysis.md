@@ -91,8 +91,29 @@ All edits are confined to `Fable-Sandbox/`. No compliance rule was removed or so
 ### Flag-rule note (README §5b)
 None of these edits touch Phase 0 (brief lookup), the evidence hierarchy/tiers, or the POV Brief Guardrail. They are purely additive voice requirements and voice-preservation guardrails, so they are expected to coexist with the brief machinery — to be confirmed by the brief-pathway smoke test (§7).
 
+## 5b. Post-edit train validation (cheap pre-check before held-out spend)
+Regenerated train v1 (fermented foods) with the EDITED generator, blind. All four gaps closed at birth, confirmed with verbatim quotes:
+1. ✅ Expert title — "…explains **Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health**." (quote names no product)
+2. ✅ Metaphor closer — "Picture your microbiome as a garden you tend rather than a project you finish…" + grounding line "A strong gut isn't grown from one perfect food or one clever shortcut—it's cultured over time, seeded in variety…"
+3. ✅ Humor/validation beats — "(truly—most of us have been there mid-afternoon, quietly regretting lunch)" preceded by "you're not alone, and you're not doing anything wrong."
+4. ✅ Segmentation — distinct H2s for live-microbes-vs-byproducts, diversity-over-volume, survivability, and where targeted probiotics fit. 1,962 words, 6 sources, compliant.
+Since the chain is preservation-clean, this is strong evidence the edits will carry to v5. Proceeding to the held-out blind acceptance runs.
+
 ## 6. Held-Out Verdicts
-*(populated at acceptance)*
+
+Each held-out topic: blind fresh v1→v5 through the calibrated `-fable` chain (subagents never read Published Drafts), then 3 independent Opus graders classify every v5-vs-published-final difference into Tiers 0–4 with the README §6 carve-outs, majority vote.
+
+### 6.1 "Probiotic" drinks (067) — **PASS (3/3 unanimous)**
+Blind v5 body ~1,813 words. Three independent graders:
+| Grader | Tier 0 | Tier 1 | Tier 2 | Tier 3 within tol. | avg sentence | pass |
+|---|---|---|---|---|---|---|
+| 1 | 0 | 0 | 0 | yes | 17.0 | ✅ |
+| 2 | 0 | 0 | 0 | yes | 16.8 | ✅ |
+| 3 | 0 | 0 | 0 | yes | 18.5 | ✅ |
+
+**Majority verdict: zero Tier 0/1/2, Tier 3 within tolerance → PASS.** All three applied the direction-matters carve-out: the published final *dropped* the named Dirk Gevers attribution (the handoff's teaching case), while the blind v5 carries a properly titled "Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health" quote — the v5 is *better* on E-E-A-T, scoring zero Tier 1. Graders confirmed the scene intro (refrigerated-aisle hook → short answer → nuance), conversational headers, analogies (dog breeds, beer vintage), and the extended garden-metaphor closer. Remaining diffs were 7–9 Tier 4 word-level edits each.
+
+### 6.2 Best tea (068) — *blind run completing; graders pending*
 
 ## 7. Brief-Pathway Smoke Test (prebiotic foods 108)
 *(populated after both held-out topics pass)*
