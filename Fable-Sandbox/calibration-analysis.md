@@ -113,7 +113,44 @@ Blind v5 body ~1,813 words. Three independent graders:
 
 **Majority verdict: zero Tier 0/1/2, Tier 3 within tolerance → PASS.** All three applied the direction-matters carve-out: the published final *dropped* the named Dirk Gevers attribution (the handoff's teaching case), while the blind v5 carries a properly titled "Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health" quote — the v5 is *better* on E-E-A-T, scoring zero Tier 1. Graders confirmed the scene intro (refrigerated-aisle hook → short answer → nuance), conversational headers, analogies (dog breeds, beer vintage), and the extended garden-metaphor closer. Remaining diffs were 7–9 Tier 4 word-level edits each.
 
-### 6.2 Best tea (068) — *blind run completing; graders pending*
+### 6.2 Best tea (068) — **PASS (3/3 unanimous)**
+Blind v5 body ~2,063 words. The strongest convergence exemplar (editor preserved voice nearly verbatim). Three independent graders:
+| Grader | Tier 0 | Tier 1 | Tier 2 | Tier 3 within tol. | avg sentence | pass |
+|---|---|---|---|---|---|---|
+| 1 | 0 | 0 | 0 | yes | 18.5 | ✅ |
+| 2 | 0 | 0 | 0 | yes | 18.0 | ✅ |
+| 3 | 0 | 0 | 0 | yes | 17.5 | ✅ |
 
-## 7. Brief-Pathway Smoke Test (prebiotic foods 108)
-*(populated after both held-out topics pass)*
+**Majority verdict: zero Tier 0/1/2, Tier 3 within tolerance → PASS.** Graders confirmed the tea-aisle scene intro, conversational headers, humor asides, a fully attributed "Dirk Gevers, Ph.D., Chief Scientific Officer at Seed Health" quote, and an extended garden-metaphor closer. All three independently judged the published final's *second* Gevers quote an editorial enhancement rather than a v5 gap (Tier 1 = missing/unattributed; the v5's single quote is properly attributed). v5's by-tea section organization was judged an equally valid framing (direction-matters carve-out). Remaining diffs were 9–24 Tier 4 word-level edits.
+
+### 6.3 Held-out summary
+**BOTH held-out topics PASS unanimously (6/6 grader votes).** Zero Tier 0, Tier 1, and Tier 2 gaps; Tier 3 within tolerance on both. The calibration target — a blind v5 that needs only Tier 4 copy-editing to stand beside the voice-preserved finals — is met on data the process never trained on.
+
+## 7. Brief-Pathway Smoke Test (prebiotic foods 108) — **PASS**
+
+Validates that the calibration edits coexist with the brief machinery the brief-less calibration topics could not exercise. Ran the full calibrated `-fable` chain end-to-end WITH the real SciCare brief (`Reference/SciCare POV briefs/2026-06-03/prebiotic foods for gut health.md`), Phase 0 active. No published-final diff — graders check brief alignment + North Star style bar.
+
+**Brief machinery confirmed working:** brief loaded in BOTH Phase 0 (generator) and Step 0.5 (review chain, as the POV Brief Guardrail). All 6 brief-suggested references promoted to Tier 0 and cited (Al-Habsi 2024, Upadhyay 2025, Van Hul 2024, Li 2025, Arioz Tunc 2025, Hall 2024). SciCare alignment SC-1/SC-2/SC-3 all pass; no auto-fix skipped for POV conflict. v5 body ~1,747 words (above the 1,500 floor; within the North Star range).
+
+| Grader | Brief alignment | Style bar | avg sentence | pass |
+|---|---|---|---|---|
+| 1 | all true | all true | 15.2 | ✅ |
+| 2 | all true | all true | 17.6 | ✅ |
+| 3 | all true | all true | 15.6 | ✅ |
+
+**Verdict: PASS (3/3 unanimous).** Graders confirmed the narrative tracks the brief's "variety beats any single food" Key Takeaway, all suggested references appear, and the article honors the brief's cautions (mood/microbiome framed as "still emerging," SCFA mechanisms noted as still being mapped in humans). Style bar held: scene intro (hook → "The short answer?" → nuance), titled Gevers quote naming no product, conversational headers ("What Happens After You Eat Them: The Butyrate Story"), extended garden/cultivation closer, humor beats ("who knew ripeness was a gut strategy?"). One body H2 measured 169 words (marginally under the ~180 "roughly" floor) — both graders ruled it within tolerance. **The voice calibration and the brief pathway coexist cleanly; no flag-list (§5b) mechanism was disturbed — none of the edits touched Phase 0, the evidence hierarchy, or the POV Brief Guardrail.**
+
+---
+
+## 8. Outcome — CONVERGED
+
+**All acceptance criteria met:**
+- ✅ Best tea (068) blind held-out: **3/3 PASS** — zero Tier 0/1/2, Tier 3 within tolerance.
+- ✅ "Probiotic" drinks (067) blind held-out: **3/3 PASS** — zero Tier 0/1/2, Tier 3 within tolerance.
+- ✅ Brief-pathway smoke test (108): **PASS** (majority) — brief alignment + North Star style bar.
+- ✅ All drafting/reviewing/grading done by Opus subagents; Fable only orchestrated, diagnosed, and edited `-fable` files.
+- ✅ Blind generation throughout (no drafting/reviewing subagent read Published Drafts); no draft hand-edited.
+- ✅ No `upload-to-gdocs*` command copied or run.
+- ✅ Zero writes outside `Fable-Sandbox/` (verified by `git status` against the pre-existing baseline — see below).
+
+**What made it work:** the diagnosis (review chain is preservation-clean; gaps are generator absences at birth) meant the fix was four additive generator requirements (titled expert, extended-metaphor closer, humor/validation density, per-mechanism segmentation) plus two voice-preservation guardrails on the only review stages that rewrite prose — no compliance rule removed or softened. A single batched generator edit + one v1 regeneration validated on the train topic before any held-out spend, keeping the run efficient. The calibration generalized to two unseen topics and the brief pathway it never trained on.
