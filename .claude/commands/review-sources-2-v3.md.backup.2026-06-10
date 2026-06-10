@@ -153,33 +153,6 @@ If found, note the PDF URL in the report. If the page contains extractable metad
 | DOI works but wrong paper | ❌ WRONG PAPER | Search for correct DOI |
 | All methods fail | ⚠️ MANUAL REVIEW | Flag for human review |
 
-#### 3f. Source Fitness Check (record + flag, never auto-replace)
-
-For each citation that passed integrity (3e = ✅ VALID), record three attributes from the metadata/abstract already retrieved — study type, population/model, year — then flag (do NOT auto-fix) any that are:
-
-- ⚠️ **Population mismatch** — general-audience claim, but clinical/pediatric/animal/in-vitro source, AND a healthy-adult source plausibly exists.
-- ⚠️ **Scope drift** — source subject broader than or adjacent to the claim, not a direct match.
-- ⚠️ **Stale** — pre-2019 and not marked seminal.
-- ⚠️ **Reputability** — non-peer-reviewed page (excluding NIH/CDC/FDA).
-
-These are advisory quality flags, separate from integrity fixes. Citations that are real and correctly attributed but weak in fitness stay in the article — they surface for human/SciCare review, they are NOT auto-replaced (auto-swapping risks replacing a correct citation with a worse-matched one).
-
-**Append the flags to the END of the new version file** (so they travel with the draft into Google Docs, not just the terminal report):
-
-```markdown
----
-
-## Reviewer Notes — Source Fitness (advisory; not auto-fixed)
-
-A reviewer or SciCare team member should decide whether to upgrade these. They are real and correctly attributed, but may be weak fits:
-
-- **[Author Year]** — ⚠️ population mismatch: claim is general-audience, source is an IBS-patient study.
-- **[Author Year]** — ⚠️ scope drift: cited for the category, study is product/strain-specific.
-- **[Author Year]** — ⚠️ stale (2014); not marked seminal.
-```
-
-_If no flags, write instead: "Source fitness: all cited sources passed population, scope, recency, and reputability checks."_
-
 ### Step 4: Fix Invalid Citations
 
 For each invalid citation:
