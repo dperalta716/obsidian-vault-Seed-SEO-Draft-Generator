@@ -132,5 +132,3 @@ Results depend on your starting point, dose, and overall health. Consistency mat
 10. Zhou Q, Verne ML, Fields JZ, et al. Gut. 2019;68(6):996-1002.
 11. Rastgoo S, Ebrahimi-Daryani N, Agah S, et al. Front Nutr. 2021;8:746703.
 12. Zuhl M, Dokladny K, Mermier C, Schneider S, Salgado R, Mosher P. J Appl Physiol. 2014;116(2):183-191.
-
-* * *

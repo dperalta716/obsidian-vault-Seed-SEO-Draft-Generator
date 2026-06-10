@@ -127,5 +127,3 @@ But your gut also responds to what else you eat, how you sleep, how much you mov
 13. Miyauchi T, Haraguchi T, Emoto T, et al. Sci Rep. 2025;15:41233.
 14. Van Hul M, Cani PD, Petitfils C, et al. Gut. 2024;73(11):1893-1908.
 15. Nishitsuji K, Watanabe S, Xiao J, et al. Sci Rep. 2018;8:16173.
-
-* * *

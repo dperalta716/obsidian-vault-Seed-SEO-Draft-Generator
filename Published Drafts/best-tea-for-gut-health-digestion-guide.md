@@ -160,5 +160,3 @@ The best gut health routines aren’t built on a single habit. They’re layered
 09. Yilmaz Y, et al. Health-promoting effects of black tea: a narrative review of clinical trials. Int J Food Sci. 2025;2025:8560718. doi: [10.1155/ijfo/8560718](https://doi.org/10.1155/ijfo/8560718)
 10. Napier BA, Allegretti JR, Feuerstadt P, Kelly CR, Van Hise NW, Jäger R, et al. Multi-species synbiotic supplementation enhances gut microbial diversity, increases urolithin A and butyrate production, and reduces inflammation in healthy adults: a randomized, placebo-controlled trial. Nutrients. 2025;17(17):2734. doi: [10.3390/nu17172734](https://doi.org/10.3390/nu17172734)
 11. Saadatmand S, Zohroudi F, Tangestani H. The effect of oral chamomile on anxiety: a systematic review of clinical trials. Clin Nutr Res. 2024;13(2):139-47. Available from: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11109927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11109927/)
-
-* * *

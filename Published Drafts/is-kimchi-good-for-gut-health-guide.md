@@ -146,5 +146,3 @@ A diverse diet, consistent habits, and a willingness to pay attention to your ow
 11. Marco ML, Sanders ME, Gänzle M, Arrieta MC, Cotter PD, De Vuyst L, et al. The International Scientific Association for Probiotics and Prebiotics (ISAPP) consensus statement on fermented foods. Nat Rev Gastroenterol Hepatol. 2021;18(3):196-208. [https://doi.org/10.1038/s41575-020-00390-5](https://doi.org/10.1038/s41575-020-00390-5)
 12. Del Piano M, Carmagnola S, Andorno S, Betta M, Ballare M, Balzarini M, et al. Evaluation of the intestinal colonization by microencapsulated probiotic bacteria in comparison with the same uncoated strains. J Clin Gastroenterol. 2010;44:S42-S46. [https://doi.org/10.1097/mcg.0b013e3181ee31c3](https://doi.org/10.1097/mcg.0b013e3181ee31c3)
 13. Allegretti JR, Kassam Z, Kelly CR, Grinspan A, El-Nachef N, Van Den Elzen C, Jäger R, Feuerstadt P. A randomized, placebo-controlled trial evaluating multi-species synbiotic supplementation for bloating, gas, and abdominal discomfort. Nutrients. 2026;18(2):255. [https://doi.org/10.3390/nu18020255](https://doi.org/10.3390/nu18020255)
-
-* * *

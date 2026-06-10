@@ -163,5 +163,3 @@ The difference between the two isn’t really about beverages versus capsules. I
 13. Fredua-Agyeman M, Gaisford S. Benef Microbes. 2015;6(1):141-151.
 14. Yadav M, Sehrawat N, Sharma AK, et al. J Food Sci Technol. 2022;61(1):1-15.
 15. Suez J, Zmora N, Zilberman-Schapira G, et al. Cell. 2018;174(6):1406-1423.
-
-* * *
