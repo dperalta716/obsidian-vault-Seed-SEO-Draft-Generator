@@ -381,11 +381,8 @@ CRITICAL FORMATTING INSTRUCTIONS:
    - ONLY peer-reviewed academic sources are acceptable (published in journals indexed in PubMed, PMC, or equivalent)
    - **DO NOT USE** as direct citations: NIH fact sheets, WebMD articles, Healthline, health blogs, news articles, Mayo Clinic pages, Cleveland Clinic pages, or any non-peer-reviewed source — even if competitors cite them
    - Prioritize: meta-analyses, systematic reviews, randomized controlled trials, and cohort studies (in that order)
-   - **Population/model fit (MANDATORY):** for a general/healthy-audience article, prefer human studies in healthy adults. Use clinical-patient, pediatric, or animal/in-vitro studies ONLY to fill a gap where healthy-adult evidence is missing — never as the lead source for a general claim. Population fit overrides study-type ranking: a healthy-adult RCT is a better fit than an IBS-patient meta-analysis for a healthy-audience claim. (Exception: if the article topic is explicitly clinical or pediatric, match the source population to the topic.)
-   - **Scope match:** the source's actual subject (strain, compound, condition, scope) must directly match the specific claim. Do not cite a study on one compound/strain to support a claim about a different one, even within the same family. When two sources both fit, prefer the more scope-specific one.
    - Prefer recent studies (last 10 years) unless a foundational/landmark study is more appropriate
    - Every citation MUST include a working DOI link
-   - **Evidence-base transparency (write into the prose):** if the available peer-reviewed evidence for a topic claim is mostly animal or in-vitro, the new content MUST state plainly that human research is still limited. Vary the wording — do not reuse a stock sentence. Do not present preclinical findings as if established in humans.
 
    **Source Hierarchy:**
    - **First:** Check the existing article's citation list — reuse and build on sources already cited in the published article
