@@ -305,6 +305,20 @@ Run all checks from existing review-draft-1 command:
 - Citations only for: specific studies, quantitative data, mechanisms, health claims
 - **NEW:** Check that Claims docs are prioritized over competitive sources
 
+**🔎 Unsourced Claim Detection (NEW — intentionally runs here, in Quality, BEFORE Sources)**
+Scan the FULL article (body + FAQs) for sentences that invoke evidence but carry NO adjacent citation.
+- **Triggers:** "study/studies", "research", "trial(s)", "meta-analysis", "researchers", "shown to", "evidence (suggests/shows/indicates)", "found that/found no", "linked to", "associated with", a regulatory action ("the FDA…", "2002 ruling"), or any statistic/percentage.
+- **FLAG** = a sentence that invokes research but has no `([Author Year](URL))`.
+- **NOT a flag:** honest hedges that don't invoke research ("evidence here is limited", "promising but unproven"), general consumer statements, or sentences that already carry a citation.
+- **Why this lives in Quality (Step 2), not Claims (Step 4):** the Claims step only checks sentences that ALREADY have a citation — it is structurally blind to *missing* ones. Detecting here, before Sources (Step 3) and Claims (Step 4), means any citation we ADD gets verified by those later steps. Detecting at the end would skip that verification. Fix logic is in Step 7.
+
+**🎯 Competitive Coverage vs. Stage-1 Analysis (NEW — "did we actually meet the bar?")**
+Re-open the draft folder's `stage1_analysis-[slug].md` AND the scraped `competitors/*.md` (now that they persist on disk, the reviewer can check coverage directly).
+- **Inventory coverage:** read the Coverage Inventory (stage1 §2). For EACH item, confirm it appears in the draft per its disposition (Full section / Caveat-mention / Subsumed-mention / Catch-all). FLAG any item missing or under-covered (e.g., a "Full section" item reduced to a passing mention).
+- **Depth parity:** for the must-cover topics, skim the deepest competitor's actual treatment in `competitors/*.md`. FLAG topics where a competitor goes substantially deeper than our draft (we sit at overview altitude where they're detailed).
+- **Contradictions:** FLAG any place a competitor's position contradicts our SciCare POV that the draft fails to address (should read "you'll often see X claimed — here's what the evidence shows").
+- **Fallback:** if the stage1 file predates the Coverage-Inventory format (no §2 inventory), re-derive the must-cover list straight from `competitors/*.md` (every item ≥2 competitors cover) and check the draft against that. Fix logic is in Step 7.
+
 **🏷️ Product References (5 checks)**
 - ® symbol present on all product mentions (DS-01® or NPD products)
 - Correct format and URLs (DS-01: https://seed.com/daily-synbiotic; NPD: respective product URLs)
@@ -488,6 +502,18 @@ Apply fixes as defined in existing review-draft-1 command:
 - **Product reference fixes:** Add ® symbols, fix links, adjust focus to ingredients
 - **Structure fixes:** Add missing sections — never remove existing sections or content
 - **SEO fixes:** Adjust titles/descriptions, add keyword where missing
+
+**For Unsourced Claim Detection flags (NEW):**
+For each flagged research-claim that has no citation, do ONE:
+- **(a) Add a fitting source.** Run a quick search (PubMed → Semantic Scholar; FDA/CDC/NIH pages allowed for regulatory/agency facts like the 2002 OTC-laxative ruling), apply the generator's Source Fitness Gate (population / scope / recency / reputability), and insert `([Author Year](URL))`. Sources (Step 3) and Claims (Step 4) will then verify it — which is exactly why this runs before them.
+- **(b) Soften — DEFAULT when no fitting source exists.** Reword so the sentence no longer invokes a study/research/the FDA/a statistic; keep the honest, hedged meaning, drop the phantom authority. E.g. "a few small studies suggest kefir helps blood sugar" → "kefir is sometimes discussed for blood sugar, though strong human evidence is lacking." This is a MODIFY (allowed by the preservation guardrail), never a deletion of the whole point.
+- Never leave "studies suggest…", "research shows…", or "the FDA…" standing without a citation.
+
+**For Competitive Coverage flags (NEW):**
+- **Missing / under-covered inventory item** → ADD the coverage at its disposition's level (a full H3, a caveat-mention, or a catch-all line), grounded in the SciCare POV. Any new research statement must be cited or softened (it routes through the Unsourced Claim check above).
+- **Depth gap** → expand the thin section toward the deepest competitor's depth.
+- **Unaddressed contradiction** → add the "you'll often see X — here's what the evidence actually shows" framing.
+- All ADD-only, consistent with the content-preservation guardrail.
 
 ### STEP 8: Save Reviewed Version
 

@@ -285,6 +285,12 @@ For any topic-level claim (NON-DS-01) that has no Tier 0 or Tier 1 source and wo
 
 After assembling the final pool, check the composition of the *topic* (non-DS-01) evidence. If the majority is animal or in-vitro, the draft MUST be written with a plain-language caveat already in the relevant body section noting that human research is still limited. Vary the wording each time — never reuse a stock sentence. This is written into the prose at generation time, not left for the reviewer.
 
+**No uncited research claims (HARD RULE):** Any sentence that invokes research MUST carry a citation — triggers: "study/studies", "research", "trial(s)", "meta-analysis", "researchers found", "shown to", "evidence suggests", "linked to", "the FDA", or any statistic/percentage. If you do NOT have a Tier 0/1/3 source that fits the specific claim, do ONE of these instead — never write the research reference uncited:
+- State it as general, hedged consumer knowledge WITHOUT invoking studies ("kefir is often enjoyed for…" not "studies suggest kefir…"), or
+- Cut the point.
+
+This bites hardest in COVERAGE-EXPANSION sections — out-of-brief items, "benefits beyond the gut", catch-alls — where the vetted pool runs dry and the temptation to borrow authority with a vague "studies suggest" is highest. The honest caveat ("human evidence here is limited") is fine; a phantom "studies suggest" is not. (The Quality review independently scans for this and will soften or source any that slip through — but get it right at generation.)
+
 **CRITICAL — Citation Misattribution Guard:**
 - Studies from the Claims Library (Allegretti 2026, Del Piano 2010, Iemoli 2012, Chakkalakal 2022, Strozzi 2008, Xiao 2006) are DS-01 ingredient or product evidence ONLY
 - NEVER use these citations to support claims about the article's topic food/drink/ingredient
@@ -602,6 +608,7 @@ Before saving, verify:
 - [ ] Bacteria genus/species italicized where used (per COPYStyleGuide)
 - [ ] Word count appropriate to coverage (≈1800-2400; may exceed to match the deepest competitor — never drop items to hit a cap)
 - [ ] All citation DOI links present
+- [ ] No uncited research claims: every sentence invoking a study / research / a trial / the FDA / a statistic carries a citation, or the research reference was removed (no "studies suggest" left without a source) — check the coverage-expansion sections especially
 - [ ] µ disclaimer present wherever Allegretti 2026 trial is referenced or "largest clinical trial" claim appears
 - [ ] † disclaimer present for any percentage-based claims (22% gut barrier, 17x bacteria, 47% butyrate)
 - [ ] * disclaimer present if "reaches the colon" or ViaCap survivability is mentioned
