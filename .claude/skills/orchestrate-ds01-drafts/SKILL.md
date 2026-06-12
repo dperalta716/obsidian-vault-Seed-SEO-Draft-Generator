@@ -93,12 +93,13 @@ This step prevents the numbering collision that happens when parallel agents all
 
 ```bash
 # Example: if highest is 094 and there are 6 briefs
-mkdir -p "Generated-Drafts/095-how-to-test-gut-health"
-mkdir -p "Generated-Drafts/096-best-vegetables-for-gut-health"
-mkdir -p "Generated-Drafts/097-best-mushroom-for-gut-health"
-mkdir -p "Generated-Drafts/098-is-green-tea-good-for-gut-health"
-mkdir -p "Generated-Drafts/099-are-bananas-good-for-gut-health"
-mkdir -p "Generated-Drafts/100-best-bread-for-gut-health"
+# Include competitors/ subfolder — sub-agents save scraped competitor content here
+mkdir -p "Generated-Drafts/095-how-to-test-gut-health/competitors"
+mkdir -p "Generated-Drafts/096-best-vegetables-for-gut-health/competitors"
+mkdir -p "Generated-Drafts/097-best-mushroom-for-gut-health/competitors"
+mkdir -p "Generated-Drafts/098-is-green-tea-good-for-gut-health/competitors"
+mkdir -p "Generated-Drafts/099-are-bananas-good-for-gut-health/competitors"
+mkdir -p "Generated-Drafts/100-best-bread-for-gut-health/competitors"
 ```
 
 **Display the assignment table:**
