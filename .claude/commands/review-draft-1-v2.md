@@ -341,6 +341,13 @@ Re-open the draft folder's `stage1_analysis-[slug].md` AND the scraped `competit
 - Has ## Citations section
 - Proper H2/H3 hierarchy
 
+**🔤 H3 Heading Style — House Standard (NEW; mirrors generate-ds01-draft Step 2.2 + Seed's published articles)**
+Check every body H3 (FAQ question H3s are exempt — they stay questions):
+- **Listicle article** (best X / foods/drinks lists): each item H3 should be JUST the item name ("Kefir", "Ginger Tea", "Oat Milk"). FLAG any item H3 written as a sentence. Only a grouping/catch-all H3 may be descriptive ("Smoothies, Wellness Shots, and Other Gut Health Drinks You'll See").
+- **Single-subject article** (X for gut health / is X good…): each effect/benefit H3 should be a short TOPIC noun phrase ("The Gut Barrier and Inflammation", "Beneficial Bacteria and Bifidobacterium") or a "How/Why…"/question form — NOT a subject-verb-object claim. FLAG any H3 that asserts a claim, especially with a claim verb ("Increases", "Raises", "Reduces", "Boosts", "Calms", "Heals", "Fights", "Disrupts", "Supports … and …") or that reads as a full sentence.
+- FLAG vague headings with no search value ("A Two-Way Street", "When the Balance Tips").
+- Keep H3s short (≈2–6 words). Fix logic in Step 7.
+
 **💬 Tone & Voice (20 checks)**
 - Writing style (you/your, contractions, short paragraphs, varied sentences, active voice)
 - Conversational elements (rhetorical questions, relatable scenarios, shared experiences)
@@ -514,6 +521,13 @@ For each flagged research-claim that has no citation, do ONE:
 - **Depth gap** → expand the thin section toward the deepest competitor's depth.
 - **Unaddressed contradiction** → add the "you'll often see X — here's what the evidence actually shows" framing.
 - All ADD-only, consistent with the content-preservation guardrail.
+
+**For H3 Heading Style flags (NEW):**
+Rewrite the flagged heading to house style — body text untouched:
+- Listicle item → the bare item name ("Kefir Has the Strongest Evidence…" → "Kefir").
+- Single-subject claim heading → name the TOPIC instead of asserting the effect (conversion recipe in generate-ds01-draft Step 2.2): "Kefir Increases Beneficial Bifidobacterium" → "Beneficial Bacteria and Bifidobacterium"; "Aloin Is a Stimulant Laxative the FDA Pulled…" → "Aloin's Laxative Effect".
+- Vague heading → replace with the section's actual topic.
+This is a MODIFY of the heading only (allowed by the preservation guardrail); never delete the section.
 
 ### STEP 8: Save Reviewed Version
 
