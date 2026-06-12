@@ -312,7 +312,7 @@ After assembling the final pool, check the composition of the *topic* (non-DS-01
 - **Out-of-brief items still appear** (per Phase 0: POV brief = angle, not scope). Items covered by ≥2 competitors but absent from the POV brief are MANDATORY — include them with an honest caveat / contradiction call-out grounded in our POV ("you'll see X on every list; here's what the evidence actually shows"). Single-competitor fringe items collapse into one catch-all sentence.
 - **Structure by article type** (from stage1 §2):
   - **Enumerated listicle** → group items into H2s by a meaningful axis (usually evidence tier: "The Fermented Drinks With the Most Evidence" → "Where the Evidence Gets Thinner"), and give EACH item its own H3 whose heading is just the item name ("Kefir", "Kombucha", "Ginger Tea"). One drink = one H3. The catch-all is the only descriptive H3.
-  - **Single-subject explainer** → one H2 per theme, and one H3 per DISTINCT benefit/effect/mechanism. (E.g. "What Kefir Does to Your Gut Microbiome" splits into H3s: increases *Bifidobacterium*, crowds out pathogens, supports the gut barrier — not one dense block.)
+  - **Single-subject explainer** → one H2 per theme, and one H3 per DISTINCT benefit/effect/mechanism, each H3 a short TOPIC noun phrase (not a claim). E.g. "What Kefir Does to Your Gut Microbiome" splits into H3s named as topics — "Beneficial Bacteria and Bifidobacterium", "Crowding Out Harmful Bacteria", "The Gut Barrier and Inflammation" — not one dense block, and NOT as claim sentences. See the H3 heading-style rules in Step 2.2.
   - **Comparison** → one H3 per option + a head-to-head H2.
 - **H2/H3 count is NOT capped.** The old "3–5 H2 body sections" rule caused compression — ignore it. Use as many H2s and H3s as the Coverage Inventory requires. Coverage parity with the deepest competitor beats a tidy section count.
 - Layer Seed's unique angles on top of FULL coverage — angle never replaces breadth.
@@ -395,9 +395,16 @@ The voice balances three pillars (dial up or down based on the topic):
 
 **Section-level:**
 - **H3-per-topic rule (the single most important structural rule).** Any H2 that runs over ~200 words OR covers 2+ distinct items/benefits MUST be broken into H3 subsections — one H3 per item (listicle) or per benefit/effect (single-subject). No exceptions. A section that is one cohesive idea under ~200 words needs no H3.
-- **H3 heading style depends on article type — keep v1 headings concise (a later editing pass may enrich them):**
-  - **Listicle (one H3 per item):** the H3 is just the item's name — "Kefir", "Kombucha", "Green Tea", "Ginger Tea", "Probiotic Sodas". Do NOT write a verbose summary-sentence heading for a single item. The ONLY exception is a grouping/catch-all H3, which gets a real descriptive header: "Smoothies, Wellness Shots, and Other Gut Health Drinks You'll See."
-  - **Single-subject (one H3 per benefit/effect):** the H3 is a tight phrase naming the benefit — "Kefir Increases Beneficial Bifidobacterium", "Kefir Helps Crowd Out Harmful Bacteria" — not a full sentence. Avoid vague headings with no search value ("A Two-Way Street", "When the Balance Tips").
+- **H3 heading style — model these on Seed's PUBLISHED articles (the house standard; Sydni Rubio's edits are the reference). Keep H3s SHORT, ≈2–6 words:**
+  - **Listicle (one H3 per item):** the H3 is JUST the item's name — "Kefir", "Ginger Tea", "Greek Yogurt", "Probiotic Sodas". Never a sentence. (Published refs: best-tea → "Ginger Tea / Peppermint Tea / Green Tea"; probiotic-rich-foods → "Yogurt / Kefir / Kimchi / Sauerkraut".) The ONLY exception is a grouping/catch-all H3, which gets a descriptive header: "Smoothies, Wellness Shots, and Other Gut Health Drinks You'll See."
+  - **Single-subject (one H3 per effect/benefit) — name the TOPIC, don't assert the CLAIM. This is the #1 H3 mistake.** The H3 is a short topic noun phrase or a "How/Why…" explainer — NOT a subject-verb-object health claim.
+    - ✅ DO (house style, from Sydni's fermented-foods article): "Microbiome Diversity, Not Just 'Good Bacteria'" · "Fermented Foods and Inflammation" · "How Fermented Foods Support Short-Chain Fatty Acid Production" · "Do Fermented Food Bacteria Survive Digestion?" (from kimchi article: "Microbiome Diversity" · "Inflammation and Immune Function" · "Metabolic Health and Weight")
+    - ❌ DON'T (verbose, asserts a claim in the heading): "Kefir Increases Beneficial Bifidobacterium" · "Kefir Helps Crowd Out Harmful Bacteria" · "Aloin Is a Stimulant Laxative the FDA Pulled From OTC Use"
+    - **Conversion recipe:** name the subject area instead of the effect. "Kefir Increases Beneficial Bifidobacterium" → "Beneficial Bacteria and Bifidobacterium"; "Kefir Helps Crowd Out Harmful Bacteria" → "Crowding Out Harmful Bacteria"; "Kefir Supports the Gut Barrier and Calms Inflammation" → "The Gut Barrier and Inflammation".
+    - If a verb is used at all, only hedged ones ("support", "how X works") — never claim verbs ("increases", "reduces", "boosts", "calms", "heals", "fights"). Keeping claim verbs out of headings is also a compliance win.
+  - **How-to / practical sections:** short imperative phrases — "Start Slowly" · "Watch the Sodium" · "Variety Over Volume" · "Pair Fermented Foods With Fiber".
+  - **Survivability / myth sections:** a direct question — "Do the Microbes Survive Digestion?" · "Is Kimchi a Probiotic?".
+  - Avoid vague headings with no search value ("A Two-Way Street", "When the Balance Tips").
 - **Scan test:** read all H2s + H3s in sequence — do they read like a table of contents a reader could navigate from headings alone? If any heading is ambiguous without the body, revise it.
 - **Heading SEO (keyword placement):** the primary keyword should appear verbatim in at least one H2. For the H3 requirement, a LISTICLE satisfies it through the grouping/catch-all H3 or an FAQ question — do NOT force the category keyword into a single-item H3 (it makes item headings clumsy). A single-subject article can place the keyword in a benefit H3 or FAQ. Work secondary search terms into headings where natural; no decorative colon-subtitles with no search value.
 - Each H2's intro (text between the H2 and its first H3) stays short — 1–2 sentences leading into the H3s beneath it.
@@ -531,7 +538,7 @@ Length follows coverage, not the other way around. The article MUST cover every 
 ## The Key Insight
 [2-3 paragraphs, 150-200 words, ends with a warm grounding line]
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQs)
 
 ### [PAA Question 1 from stage1_analysis]
 [100-150 words]
