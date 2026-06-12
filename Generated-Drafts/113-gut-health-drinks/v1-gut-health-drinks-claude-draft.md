@@ -11,7 +11,7 @@ tags: [seed, seo-draft, ds-01]
 - **Primary Keyword:** gut health drinks
 - **SEO Title Options:**
   1. "Gut Health Drinks: Which Ones Actually Have the Evidence" (54 chars)
-  2. "The Best Gut Health Drinks, Ranked by Real Science" (50 chars)
+  2. "**The Best Gut Health Drinks, Ranked by Real Science**" (50 chars)
   3. "Gut Health Drinks: What the Research Really Shows" (49 chars)
 - **Slug:** gut-health-drinks-guide
 - **Meta Description:** From kefir to kombucha to green tea, here's what the science actually says about gut health drinks—and which ones have the strongest evidence. (140 chars)
