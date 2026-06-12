@@ -50,7 +50,7 @@ One honest caveat up front: live microbes in food and drink are mostly transient
 
 These three have the most research behind them — though, as you'll see, "most" still comes with footnotes.
 
-### Kefir Has the Strongest Human Evidence for Gut Health
+### Kefir
 
 If you want the gut health drink with the best human track record, it's dairy kefir. A systematic review of 16 randomized controlled trials found kefir safe and well-tolerated, with early signals for gut-related benefits ([Kairey 2023](https://doi.org/10.1093/nutrit/nuac054)).
 
@@ -62,7 +62,7 @@ A quick word on the cousins. Coconut and other plant-based kefirs are reasonable
 
 The honest catch? Even kefir's research base leans on small trials, and reviewers flag a high risk of bias ([Kairey 2023](https://doi.org/10.1093/nutrit/nuac054)). It's the best-supported drink here — which says as much about the field as it does about kefir.
 
-### Kombucha Shows Promise but Needs More Human Studies
+### Kombucha
 
 Kombucha is the other fermented favorite, and it's everywhere for good reason — it's tasty, fizzy, and rich in live cultures. It's brewed by fermenting sweetened tea with a colony of bacteria and yeast (the SCOBY), which eats most of the sugar along the way.
 
@@ -70,7 +70,7 @@ The science is genuinely interesting. Kombucha can help modulate the balance of 
 
 But here's the part the glossy labels skip: most of that supportive data comes from lab, animal, or observational work — not large controlled trials in people. So treat kombucha as promising rather than proven, and check the label, because some brands carry a surprising amount of added sugar.
 
-### Green Tea's Gut Benefits Depend on Your Microbiome
+### Green Tea
 
 Green tea earns its spot through polyphenols called catechins — and the story here is genuinely individual. Most catechins are poorly absorbed in the small intestine, so they travel onward to the large intestine, where your resident bacteria convert them into anti-inflammatory metabolites ([Liu 2024](https://doi.org/10.1080/10408398.2023.2180478)).
 
@@ -82,25 +82,25 @@ So green tea may support your gut — but it's less a guaranteed dose and more a
 
 The drinks below aren't useless. They're just not as well-supported as the marketing implies — and that's worth saying plainly.
 
-### Prebiotic Drinks Are Plausible but Under-Studied in Drink Form
+### Prebiotic Drinks
 
 Prebiotic drinks add fibers like inulin or FOS, which selectively feed beneficial bacteria such as *Bifidobacterium* and *Lactobacillus* and help produce short-chain fatty acids that support the gut barrier ([Al-Habsi 2024](https://doi.org/10.3390/nu16223955)).
 
 The mechanism is sound. The gap is the format. Most of that evidence comes from fiber supplements and whole foods — not from trials testing these compounds in a can of soda. A single serving may carry only a small amount of fiber, so it's not clear how much a drink alone delivers ([Al-Habsi 2024](https://doi.org/10.3390/nu16223955)).
 
-### Probiotic Sodas: Lower-Sugar, but Do the Microbes Survive?
+### Probiotic Sodas
 
 You've seen them — Poppi, Olipop, Culture Pop — sodas with probiotics added rather than fermented in. They can be a reasonable lower-sugar swap if you're cutting back on regular soda or alcohol.
 
 But here's the unresolved question almost every article raises and then drops: many of these added microbes face the harsh, acidic environment of the stomach, and it's unclear how many survive the trip ([Bodur 2025](https://doi.org/10.1016/j.jnutbio.2025.110195)). A microbe that doesn't survive can't do much once it's down there. Enjoy them as a better-than-soda treat — just don't count on them as your gut strategy.
 
-### Ginger Tea May Ease Digestion More Than It Feeds Your Gut
+### Ginger Tea
 
 Ginger tea shows up on nearly every gut health drinks list, so it's worth being straight about what it does. Most of the evidence points to digestion and comfort — easing nausea, supporting stomach motility — rather than changing the makeup of your microbiome itself ([Bodagh 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6341159/)).
 
 That's still useful if an upset stomach is your issue. But "soothes digestion" and "feeds your gut bacteria" aren't the same claim, and the gut-microbiome research on ginger is limited ([Bodagh 2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC6341159/)). The upside: ginger tea is cheap, widely available, and low-risk to try.
 
-### Apple Cider Vinegar: Long on Hype, Short on Gut Evidence
+### Apple Cider Vinegar
 
 Apple cider vinegar may be the most over-promised drink on this list. You'll see it framed as a fix-everything tonic — but the gut-specific human evidence is thin, and what exists is mixed.
 
