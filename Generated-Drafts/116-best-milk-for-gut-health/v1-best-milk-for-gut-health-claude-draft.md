@@ -106,7 +106,7 @@ On the microbiome side, the evidence is thin and indirect. In one animal study c
 
 ### Coconut Milk
 
-Coconut milk brings a creamy texture and works for most allergy and intolerance needs. If you have IBS, portion matters: studies suggest keeping it to about half a cup to stay low-FODMAP. The honest caveat is the same as the others, only more so: its specific effects on the human gut microbiome are essentially unstudied. Many cartons also add guar gum or other stabilizers, so the ingredient list is worth a glance.
+Coconut milk brings a creamy texture and works for most allergy and intolerance needs. If you have IBS, portion matters: to stay low-FODMAP, it's generally kept to about half a cup. The honest caveat is the same as the others, only more so: its specific effects on the human gut microbiome are essentially unstudied. Many cartons also add guar gum or other stabilizers, so the ingredient list is worth a glance.
 
 ### Hemp Milk
 

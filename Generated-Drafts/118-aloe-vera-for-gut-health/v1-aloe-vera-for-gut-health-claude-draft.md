@@ -72,7 +72,7 @@ It's worth repeating that these are preclinical findings. They explain a plausib
 
 If you live with irritable bowel syndrome (IBS), this is where the human evidence finally shows up. A meta-analysis pooling several randomized trials found that aloe vera improved IBS symptom scores compared with placebo, with benefits clearest in short-term use and no serious side effects reported ([Hong 2018](https://doi.org/10.5056/jnm18077)).
 
-That said, "hit or miss" is a fair summary. Some people with IBS find aloe soothing; others don't tolerate it well, and a few trials found no real difference from placebo. Starting small and paying attention to how your own gut responds matters more than any headline.
+That said, "hit or miss" is a fair summary. Some people with IBS find aloe soothing; others don't tolerate it well, and results have been mixed. Starting small and paying attention to how your own gut responds matters more than any headline.
 
 ### Reflux and Colitis
 
@@ -88,7 +88,7 @@ Now for the part the gentle-juice marketing tends to skip. The outer-leaf latex 
 
 Aloin — the main anthraquinone in aloe latex — works by stimulating the muscles of the bowel and pulling water into the intestine, which forces a bowel movement. It's potent, and that potency cuts both ways.
 
-For occasional, short-term constipation, that effect can be useful. But because stimulant laxatives can cause cramping and dependency with regular use, this isn't an everyday tool. In 2002, the FDA stopped allowing aloe to be sold in over-the-counter laxative products, citing a lack of data confirming it was safe and effective for that purpose.
+For occasional, short-term constipation, that effect can be useful. But because stimulant laxatives can cause cramping and dependency with regular use, this isn't an everyday tool. In 2002, the FDA stopped allowing aloe to be sold in over-the-counter laxative products, citing a lack of safety data — manufacturers never submitted the carcinogenicity studies the agency required ([FDA 2002](https://pubmed.ncbi.nlm.nih.gov/12001972/)).
 
 ### Aloin and Your Gut Bacteria
 
@@ -152,11 +152,12 @@ For most people, a purified, decolorized inner-gel juice is generally considered
 ## Citations
 
 1. Allegretti, J. R., et al. (2026). A randomized, placebo-controlled trial of a multi-strain synbiotic (DS-01®) on bloating, gas, and regularity in healthy adults. https://pubmed.ncbi.nlm.nih.gov/41599868/
-2. Gokulan, K., et al. (2019). Dose-dependent effects of aloin on the intestinal bacterial community structure, short chain fatty acids metabolism and intestinal epithelial cell permeability. *Frontiers in Microbiology*. https://doi.org/10.3389/fmicb.2019.00474
-3. Hong, S. W., et al. (2018). Aloe vera is effective and safe in short-term treatment of irritable bowel syndrome: A systematic review and meta-analysis. *Journal of Neurogastroenterology and Motility*. https://doi.org/10.5056/jnm18077
-4. Jangra, A., et al. (2022). The dark side of miracle plant — Aloe vera: A review. *Molecular Biology Reports*. https://doi.org/10.1007/s11033-022-07176-9
-5. Langmead, L., et al. (2004). Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis. *Alimentary Pharmacology & Therapeutics*. https://doi.org/10.1111/j.1365-2036.2004.01874.x
-6. Matei, C. E., et al. (2025). Aloe vera polysaccharides as therapeutic agents: Benefits versus side effects in biomedical applications. *Polysaccharides*. https://doi.org/10.3390/polysaccharides6020036
-7. Panahi, Y., et al. (2015). Efficacy and safety of aloe vera syrup for the treatment of gastroesophageal reflux disease: A pilot randomized positive-controlled trial. *Journal of Traditional Chinese Medicine*. https://doi.org/10.1016/S0254-6272(15)30151-5
-8. Phan, T. H. L., et al. (2021). The role of processed Aloe vera gel in intestinal tight junction: An in vivo and in vitro study. *International Journal of Molecular Sciences*. https://doi.org/10.3390/ijms22126515
-9. Zhang, D., et al. (2025). Polysaccharide from Aloe vera gel improves intestinal stem cells dysfunction to alleviate intestinal barrier damage via 5-HT. *Food Research International*. https://doi.org/10.1016/j.foodres.2025.116675
+2. Food and Drug Administration. (2002). Status of certain additional over-the-counter drug category II and III active ingredients. Final rule. *Federal Register*, 67(90), 31125–31127. https://pubmed.ncbi.nlm.nih.gov/12001972/
+3. Gokulan, K., et al. (2019). Dose-dependent effects of aloin on the intestinal bacterial community structure, short chain fatty acids metabolism and intestinal epithelial cell permeability. *Frontiers in Microbiology*. https://doi.org/10.3389/fmicb.2019.00474
+4. Hong, S. W., et al. (2018). Aloe vera is effective and safe in short-term treatment of irritable bowel syndrome: A systematic review and meta-analysis. *Journal of Neurogastroenterology and Motility*. https://doi.org/10.5056/jnm18077
+5. Jangra, A., et al. (2022). The dark side of miracle plant — Aloe vera: A review. *Molecular Biology Reports*. https://doi.org/10.1007/s11033-022-07176-9
+6. Langmead, L., et al. (2004). Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis. *Alimentary Pharmacology & Therapeutics*. https://doi.org/10.1111/j.1365-2036.2004.01874.x
+7. Matei, C. E., et al. (2025). Aloe vera polysaccharides as therapeutic agents: Benefits versus side effects in biomedical applications. *Polysaccharides*. https://doi.org/10.3390/polysaccharides6020036
+8. Panahi, Y., et al. (2015). Efficacy and safety of aloe vera syrup for the treatment of gastroesophageal reflux disease: A pilot randomized positive-controlled trial. *Journal of Traditional Chinese Medicine*. https://doi.org/10.1016/S0254-6272(15)30151-5
+9. Phan, T. H. L., et al. (2021). The role of processed Aloe vera gel in intestinal tight junction: An in vivo and in vitro study. *International Journal of Molecular Sciences*. https://doi.org/10.3390/ijms22126515
+10. Zhang, D., et al. (2025). Polysaccharide from Aloe vera gel improves intestinal stem cells dysfunction to alleviate intestinal barrier damage via 5-HT. *Food Research International*. https://doi.org/10.1016/j.foodres.2025.116675

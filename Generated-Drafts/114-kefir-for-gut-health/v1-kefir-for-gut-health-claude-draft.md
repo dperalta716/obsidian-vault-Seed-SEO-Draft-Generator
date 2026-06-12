@@ -107,11 +107,11 @@ A few practical notes are still worth keeping in mind:
 
 Search around and you'll see kefir credited with helping nearly everything: heart health, blood sugar, bones, weight, mood, immunity, even your skin. Some of this has real (if early) backing; a lot of it is running ahead of the evidence. Here's an honest tour.
 
-**Blood sugar and heart health** show some promise but mixed results. A few small human studies suggest kefir may help with blood sugar control, and probiotic foods in general have been linked to modest improvements in cholesterol — but kefir-specific human data is limited, and some trials found no advantage over regular milk. File these under "plausible, not proven."
+**Blood sugar and heart health** are where kefir comes up most outside digestion, but the picture is genuinely mixed. Kefir is sometimes discussed for blood sugar and cholesterol, yet kefir-specific human data is limited and inconsistent. File these under "plausible, not proven."
 
-**Weight, mood, and immune support** appear here and there, often in single studies or in marketing copy. The honest read is that the human evidence is thin. Kefir may play a supporting role through a healthier gut, but it isn't a weight-loss drink or a mood fix.
+**Weight, mood, and immune support** come up here and there, but usually in early or preliminary form — and often in marketing copy. The honest read is that the human evidence is thin. Kefir may play a supporting role through a healthier gut, but it isn't a weight-loss drink or a mood fix.
 
-**The rest of the list** — bone health, cancer, allergy and asthma, oral microbiome, skin — leans heavily on laboratory and animal research that hasn't yet been confirmed in people, so it's best treated as early-stage and not a reason on its own to drink kefir. And if you're curious about making kefir at home, you can — it's just milk, a jar, and grains — though store-bought works perfectly well too.
+**The rest of the list** — bone health, cancer, allergy and asthma, oral microbiome, skin — is early-stage at best and hasn't been borne out in people, so it's not a reason on its own to drink kefir. And if you're curious about making kefir at home, you can — it's just milk, a jar, and grains — though store-bought works perfectly well too.
 
 The throughline: kefir's gut benefits are its most credible benefits. The further you get from digestion, the thinner the evidence gets.
 
@@ -151,7 +151,7 @@ Milk kefir made from traditional kefir grains is generally the richest in microb
 
 ### Is kefir OK for type 2 diabetes?
 
-Kefir is generally considered a reasonable food for many people managing type 2 diabetes, and some small studies have explored whether it may help with blood sugar markers. That said, the evidence is still limited and mixed, and blood sugar management is highly individual. Plain, unsweetened kefir is the version to favor, since flavored options can contain significant added sugar. This is general information, not medical advice — if you have type 2 diabetes, talk with your healthcare provider or a registered dietitian about whether and how kefir fits into your overall plan.
+Kefir is generally considered a reasonable food for many people managing type 2 diabetes, and it sometimes comes up in conversations about blood sugar. That said, the evidence is still limited and mixed, and blood sugar management is highly individual. Plain, unsweetened kefir is the version to favor, since flavored options can contain significant added sugar. This is general information, not medical advice — if you have type 2 diabetes, talk with your healthcare provider or a registered dietitian about whether and how kefir fits into your overall plan.
 
 ## Disclaimers
 

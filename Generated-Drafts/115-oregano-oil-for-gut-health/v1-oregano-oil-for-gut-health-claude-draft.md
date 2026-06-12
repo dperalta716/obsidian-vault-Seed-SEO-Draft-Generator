@@ -58,7 +58,7 @@ The best-documented thing carvacrol does is fight microbes. It works by attackin
 
 In one study, mice carrying a human gut microbiota were given carvacrol after infection with *Campylobacter*, a common foodborne pathogen. Carvacrol lowered the pathogen load and eased the intestinal inflammation and bloody diarrhea that came with it ([Foote 2023](https://doi.org/10.3390/biom13020320)). That's a meaningful signal—but again, it's a mouse model.
 
-Carvacrol and thymol also show antifungal activity in the lab, including against *Candida*. This is why oregano oil gets recommended for suspected yeast overgrowth, and why some practitioners reach for it in cases of small intestinal bacterial overgrowth (SIBO). The catch is that most of this work is in vitro or in animals, and high-quality human trials are thin.
+Carvacrol and thymol are also associated with antifungal activity, including against *Candida*. This is why oregano oil gets recommended for suspected yeast overgrowth, and why some practitioners reach for it in cases of small intestinal bacterial overgrowth (SIBO). The catch is that this use rests on the same kind of in-vitro and animal work, with high-quality human trials still thin.
 
 ### Carvacrol and Inflammation
 
