@@ -150,6 +150,7 @@ After all 5 sub-agents complete, synthesize:
    **Disposition rules (decide every row — nothing is left implicit):**
    - **In the POV brief** → `Full section`, written through the SciCare POV angle.
    - **Not in brief, covered by ≥2 competitors** → `Include + honest caveat`. MANDATORY. Cover it, then ground it in our POV: "you'll see X recommended on nearly every list — here's what the evidence actually shows / what contradicts it." Never silently drop a ≥2-competitor item just because the brief omitted it.
+   - **Sub-variant of a full-section item (even if ≥2 competitors)** → `Subsumed-mention`. If the item is really a variant of an item that already has a full section (e.g., Yakult / coconut kefir / water kefir under "Kefir"; plant-based kefir under "Kefir"), mention it INSIDE the parent item's section — do NOT give it a standalone H3. This keeps the H3 list clean while still covering it.
    - **Not in brief, covered by only 1 competitor (fringe)** → `Fringe → catch-all line`. Fold into a single brief sentence (e.g., "Other drinks you'll spot — kvass, rejuvelac, jun tea — are fermented but barely studied").
    - **Depth bar:** record the deepest competitor's treatment per item (own heading? word count? sub-points?) so Phase 2 knows what "matching coverage" means and doesn't stay at overview altitude.
 
@@ -265,6 +266,8 @@ Tier 0 (SciCare brief) and Tier 1 (Claims Library) sources are pre-vetted — do
 3. **Recency** — prefer 2019+. Keep an older source only when it is the seminal/only study for that point; note why in one internal line.
 4. **Reputability** — peer-reviewed journals only. No blogs, brand/company pages, news, or social media. Sole exception: NIH/CDC/FDA. Drop any Tier 3 "secondary" URL the Phase 1 scrape flagged.
 
+**Exception for "honest caveat" items:** when the whole POINT about an item is that its evidence is thin (a ≥2-competitor caveat item like ACV or ginger tea), you MAY cite a deliberately weak, small, or older study — but ONLY to demonstrate that weakness, and the prose must explicitly frame it as limited/preliminary ("one small pilot…", "the evidence is mostly older and mixed"). This is the intended move for caveat items, not a gate violation. Still flag it for the source-review step.
+
 **Guided Discovery (find best-fit sources, don't just borrow competitors'):**
 
 For any topic-level claim (NON-DS-01) that has no Tier 0 or Tier 1 source and would otherwise rely on a competitor-borrowed Tier 3 citation, run a guided literature search to find a better-fit source before inheriting the competitor's:
@@ -308,7 +311,7 @@ After assembling the final pool, check the composition of the *topic* (non-DS-01
 - **Coverage is mandatory, not "addressed."** Build a Coverage Checklist from the stage1 Coverage Inventory: list EVERY item and its planned disposition (Full section / Caveat-mention / Catch-all line). Every item must have a home in the outline. You will reconcile against this checklist after writing (Step 2.4) — nothing may be silently dropped. ("Address the baseline" was the old wording and it kept letting items fall out.)
 - **Out-of-brief items still appear** (per Phase 0: POV brief = angle, not scope). Items covered by ≥2 competitors but absent from the POV brief are MANDATORY — include them with an honest caveat / contradiction call-out grounded in our POV ("you'll see X on every list; here's what the evidence actually shows"). Single-competitor fringe items collapse into one catch-all sentence.
 - **Structure by article type** (from stage1 §2):
-  - **Enumerated listicle** → group items into H2s by a meaningful axis (usually evidence tier: "The Fermented Drinks With the Most Evidence" → "Where the Evidence Gets Thinner"), and give EACH item its own H3. One drink = one H3.
+  - **Enumerated listicle** → group items into H2s by a meaningful axis (usually evidence tier: "The Fermented Drinks With the Most Evidence" → "Where the Evidence Gets Thinner"), and give EACH item its own H3 whose heading is just the item name ("Kefir", "Kombucha", "Ginger Tea"). One drink = one H3. The catch-all is the only descriptive H3.
   - **Single-subject explainer** → one H2 per theme, and one H3 per DISTINCT benefit/effect/mechanism. (E.g. "What Kefir Does to Your Gut Microbiome" splits into H3s: increases *Bifidobacterium*, crowds out pathogens, supports the gut barrier — not one dense block.)
   - **Comparison** → one H3 per option + a head-to-head H2.
 - **H2/H3 count is NOT capped.** The old "3–5 H2 body sections" rule caused compression — ignore it. Use as many H2s and H3s as the Coverage Inventory requires. Coverage parity with the deepest competitor beats a tidy section count.
@@ -392,9 +395,11 @@ The voice balances three pillars (dial up or down based on the topic):
 
 **Section-level:**
 - **H3-per-topic rule (the single most important structural rule).** Any H2 that runs over ~200 words OR covers 2+ distinct items/benefits MUST be broken into H3 subsections — one H3 per item (listicle) or per benefit/effect (single-subject). No exceptions. A section that is one cohesive idea under ~200 words needs no H3.
-- **Each H3 heading is a searchable, one-line summary of its paragraph.** A reader should know what's in the paragraph from the heading alone. Good: "Kefir Increases Beneficial Bifidobacterium." Bad (vague, no search value): "A Two-Way Street," "When the Balance Tips."
+- **H3 heading style depends on article type — keep v1 headings concise (a later editing pass may enrich them):**
+  - **Listicle (one H3 per item):** the H3 is just the item's name — "Kefir", "Kombucha", "Green Tea", "Ginger Tea", "Probiotic Sodas". Do NOT write a verbose summary-sentence heading for a single item. The ONLY exception is a grouping/catch-all H3, which gets a real descriptive header: "Smoothies, Wellness Shots, and Other Gut Health Drinks You'll See."
+  - **Single-subject (one H3 per benefit/effect):** the H3 is a tight phrase naming the benefit — "Kefir Increases Beneficial Bifidobacterium", "Kefir Helps Crowd Out Harmful Bacteria" — not a full sentence. Avoid vague headings with no search value ("A Two-Way Street", "When the Balance Tips").
 - **Scan test:** read all H2s + H3s in sequence — do they read like a table of contents a reader could navigate from headings alone? If any heading is ambiguous without the body, revise it.
-- **Heading SEO:** primary keyword verbatim in at least one H2 AND at least one H3 (FAQ questions count); work secondary search terms into remaining headings; keep headings ~5–10 words; no decorative colon-subtitles with no search value.
+- **Heading SEO (keyword placement):** the primary keyword should appear verbatim in at least one H2. For the H3 requirement, a LISTICLE satisfies it through the grouping/catch-all H3 or an FAQ question — do NOT force the category keyword into a single-item H3 (it makes item headings clumsy). A single-subject article can place the keyword in a benefit H3 or FAQ. Work secondary search terms into headings where natural; no decorative colon-subtitles with no search value.
 - Each H2's intro (text between the H2 and its first H3) stays short — 1–2 sentences leading into the H3s beneath it.
 - **Introduction structure (this order matters):**
   1. Open with 1-2 sentences of relatable hook — a scenario the reader identifies with, an observation about common experience, or a curiosity-sparking statement. Examples: "You've probably seen kimchi on every 'best foods for gut health' list out there." / "If you've ever wondered whether your coffee habit is secretly helping (or hurting) your gut, you're not alone."
@@ -511,7 +516,7 @@ The complete draft file must contain, in order:
 
 #### 2. The Article (length flexes to coverage — typically 1800-2400 words)
 
-Length follows coverage, not the other way around. The article MUST cover every Coverage Inventory item (full sections + caveat-mentions + the catch-all line), so word count flexes UPWARD toward the deepest competitor when coverage demands it — never drop an item to hit a cap. Don't pad either: caveat-mentions can be 2–3 sentences, the catch-all is one sentence.
+Length follows coverage, not the other way around. The article MUST cover every Coverage Inventory item (full sections + caveat-mentions + the catch-all line), so word count flexes UPWARD toward the deepest competitor when coverage demands it — never drop an item to hit a cap. Don't pad either: caveat-mentions can be 2–3 sentences, the catch-all is one sentence. **Soft ceiling:** if coverage pushes the draft past ~2,400 words, don't cut items — first tighten by folding more fringe/sub-variant items into the catch-all or subsumed-mentions, and trim prose. Only the full-section and ≥2-competitor-caveat items are non-negotiable.
 
 ```
 # [H1 -- same as metadata H1]
@@ -541,9 +546,17 @@ Length follows coverage, not the other way around. The article MUST cover every 
 [100-150 words]
 ```
 
-#### 3. Citations
+#### 3. Disclaimers, then Citations
+
+Place a `## Disclaimers` block immediately BEFORE `## Citations`, defining every disclaimer symbol actually used in the article (°, µ, *, †, ††, **, Δ — include only the ones used):
 
 ```markdown
+## Disclaimers
+
+*° These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.*
+*µ As of February 2026.*
+*\* Based on a study conducted in SHIME®.*
+
 ## Citations
 
 1. [APA format entry]. [DOI link]
