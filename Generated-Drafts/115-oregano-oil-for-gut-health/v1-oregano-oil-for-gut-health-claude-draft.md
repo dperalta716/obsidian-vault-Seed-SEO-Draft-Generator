@@ -52,7 +52,7 @@ And then there's oregano tea, which is gentler still. Some sources point to the 
 
 Here's the part to read carefully. The effects below are genuinely interesting, and a recent systematic review pulled them together ([Gopalsamy 2025](https://doi.org/10.1016/j.phymed.2025.156630)). But that review looked at preclinical research—animal and laboratory studies. Findings in a mouse, a rabbit, or a Petri dish don't automatically carry over to a person. Keep that frame in mind for every effect that follows.
 
-### Carvacrol Fights Microbes in the Gut
+### Carvacrol's Antimicrobial Effects
 
 The best-documented thing carvacrol does is fight microbes. It works by attacking the outer membrane of bacterial cells, which causes the cell to leak and collapse.
 
@@ -60,7 +60,7 @@ In one study, mice carrying a human gut microbiota were given carvacrol after in
 
 Carvacrol and thymol also show antifungal activity in the lab, including against *Candida*. This is why oregano oil gets recommended for suspected yeast overgrowth, and why some practitioners reach for it in cases of small intestinal bacterial overgrowth (SIBO). The catch is that most of this work is in vitro or in animals, and high-quality human trials are thin.
 
-### Carvacrol May Calm Gut Inflammation
+### Carvacrol and Inflammation
 
 Carvacrol appears to have anti-inflammatory effects in the gut, often alongside a reduction in oxidative stress ([Gopalsamy 2025](https://doi.org/10.1016/j.phymed.2025.156630)).
 
@@ -68,13 +68,13 @@ In a rabbit model, researchers triggered intestinal injury with a bacterial toxi
 
 It's a tidy result. It's also a rabbit. Whether the same anti-inflammatory effect happens at a safe, tolerable dose in humans hasn't been established.
 
-### Carvacrol May Support the Gut Barrier
+### Carvacrol and the Gut Barrier
 
 Your gut lining is held together by tight-junction proteins—think of them as the grout between tiles that keeps the wall watertight. When that barrier weakens, things that should stay in the gut can slip through.
 
 In mice with colitis, carvacrol helped restore those tight-junction proteins and strengthened the intestinal barrier. It also increased beneficial bacteria such as *Lactobacillus* ([Fan 2025](https://doi.org/10.1016/j.tranon.2025.102431)). So the early mechanism points in a supportive direction—with the same honest asterisk: this was a mouse model of disease, not healthy people.
 
-### Oregano Oil Can Shift the Gut Microbiota
+### Oregano Oil and the Gut Microbiota
 
 Beyond reducing pathogens, oregano oil seems to shift which microbes are present and what they're doing—though most of this comes from farm animals.
 

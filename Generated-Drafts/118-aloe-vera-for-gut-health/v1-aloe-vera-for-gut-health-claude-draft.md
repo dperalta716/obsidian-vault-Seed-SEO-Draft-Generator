@@ -52,7 +52,7 @@ This is the single most important thing to get right. When you read that aloe is
 
 Most of the gut benefit people are chasing comes from the inner gel — specifically its plant sugars. Before we get into it, one honest caveat: much of this research comes from animal and lab studies, with only limited human data so far. So read the following as promising early signals, not settled facts.
 
-### Aloe Gel Acts as a Prebiotic for Your Gut Bacteria
+### Prebiotic Effects on Gut Bacteria
 
 Your gut is home to trillions of bacteria, and the helpful ones need to be fed. That's what a prebiotic does — it's a type of plant fiber or sugar that beneficial bacteria use as fuel.
 
@@ -60,7 +60,7 @@ The polysaccharides in aloe gel, mainly acemannan and glucomannan, appear to beh
 
 There's a nice logic here too. A better-fed, better-balanced gut may handle and absorb nutrients from your food more comfortably — though that downstream effect is more inference than proven outcome at this stage.
 
-### Aloe Gel Helps Support the Gut Barrier
+### The Gut Barrier
 
 Picture your gut lining as a wall of cells held together by tight seals. Those seals — called tight junctions — decide what gets through and what stays out. When they loosen, the barrier gets leakier and more easily irritated.
 
@@ -68,13 +68,13 @@ Aloe gel may help here. In aging mice, processed aloe gel improved the integrity
 
 It's worth repeating that these are preclinical findings. They explain a plausible mechanism — they don't yet confirm the same effect in healthy people drinking aloe juice.
 
-### Aloe May Ease IBS Symptoms in the Short Term
+### IBS Symptoms
 
 If you live with irritable bowel syndrome (IBS), this is where the human evidence finally shows up. A meta-analysis pooling several randomized trials found that aloe vera improved IBS symptom scores compared with placebo, with benefits clearest in short-term use and no serious side effects reported ([Hong 2018](https://doi.org/10.5056/jnm18077)).
 
 That said, "hit or miss" is a fair summary. Some people with IBS find aloe soothing; others don't tolerate it well, and a few trials found no real difference from placebo. Starting small and paying attention to how your own gut responds matters more than any headline.
 
-### Reflux and Colitis: Where the Evidence Is Thinner
+### Reflux and Colitis
 
 A couple of other gut uses come up often enough that they're worth a straight answer — even though the research behind them is slim.
 
@@ -84,19 +84,19 @@ For reflux and heartburn, one small pilot trial found that an aloe vera syrup ea
 
 Now for the part the gentle-juice marketing tends to skip. The outer-leaf latex is a genuinely different ingredient, and using it without understanding it is where people get into trouble.
 
-### Aloin Is a Stimulant Laxative the FDA Pulled From OTC Use
+### Aloin's Laxative Effect
 
 Aloin — the main anthraquinone in aloe latex — works by stimulating the muscles of the bowel and pulling water into the intestine, which forces a bowel movement. It's potent, and that potency cuts both ways.
 
 For occasional, short-term constipation, that effect can be useful. But because stimulant laxatives can cause cramping and dependency with regular use, this isn't an everyday tool. In 2002, the FDA stopped allowing aloe to be sold in over-the-counter laxative products, citing a lack of data confirming it was safe and effective for that purpose.
 
-### At Higher Doses, Aloin Can Disrupt Your Gut Bacteria
+### Aloin and Your Gut Bacteria
 
 Here's the part that flips the script. The same compound marketed for "cleansing" may work against the gut bacteria you're trying to support.
 
 In lab research, aloin had dose-dependent effects on the gut bacterial community: at higher concentrations, it reduced butyrate-producing bacteria and threw off the balance of the microbiota, while also affecting how permeable the gut lining was ([Gokulan 2019](https://doi.org/10.3389/fmicb.2019.00474)). Butyrate is one of those short-chain fatty acids the inner gel seems to *help* you make — so the two parts of the leaf can pull in opposite directions. This was an in-vitro study, not a human trial, but it's a meaningful caution.
 
-### Whole-Leaf Aloe Carries Bigger Safety Concerns
+### Whole-Leaf Safety Concerns
 
 The safety questions get more serious with whole-leaf and non-decolorized products, which keep the latex fraction in.
 

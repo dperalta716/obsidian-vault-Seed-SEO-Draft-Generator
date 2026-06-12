@@ -41,13 +41,13 @@ Here's what most articles get wrong. They crown capers as "the richest natural s
 
 Capers are the unripened flower buds of *Capparis spinosa*, a hardy Mediterranean shrub. They're harvested young, then brined in vinegar or cured in salt. Nutritionally they're tiny players — a tablespoon has almost no calories and just a trace of fiber, vitamin K, and copper. Their real interest is in their plant chemistry.
 
-### Capers Are One of the Richest Food Sources of Rutin
+### Rutin, the Real Headline
 
 Rutin is a polyphenol — a plant compound with antioxidant properties — and capers are one of the most concentrated dietary sources of it ([Sun 2023](https://doi.org/10.1016/j.foodchem.2022.135258), [Annaz 2022](https://doi.org/10.3389/fphar.2022.878749)). Reviews of caper chemistry consistently find rutin as the dominant flavonoid across the buds, leaves, and fruit.
 
 You'll often read that capers are "the richest natural source of quercetin," another polyphenol in the same family. Quercetin is present in capers, but here's the twist: when researchers actually measure caper extracts, free quercetin is frequently almost absent, while rutin dominates ([Annaz 2022](https://doi.org/10.3389/fphar.2022.878749)). So if we're being precise about what's in your caper, rutin deserves top billing.
 
-### Capers' Polyphenols Have Anti-Inflammatory Properties
+### Antioxidant and Anti-Inflammatory Properties
 
 Polyphenols like rutin are studied for their ability to calm inflammation, and caper extracts show this antioxidant and anti-inflammatory activity in lab research ([Kdimy 2022](https://doi.org/10.1002/cbdv.202200300), [Alsharif 2025](https://doi.org/10.3390/molecules30183705)). For a food often dismissed as a "salt bomb," that's a genuinely interesting profile.
 
@@ -57,13 +57,13 @@ A quick reality check on the word "inflammation," though. These effects show up 
 
 This is where the curiosity lives, and where the hype tends to outrun the data. Two threads are worth pulling: the gut barrier and your gut bacteria. Both are promising. Neither is settled.
 
-### Caper Compounds May Support the Gut Barrier
+### Caper Compounds and the Gut Barrier
 
 Your gut lining is a single-cell-thick wall that decides what gets into your bloodstream and what stays out. The cells are stitched together by "tight junction" proteins — think of them as the grout between tiles. When that grout weakens, the barrier gets leakier.
 
 In a study of human intestinal cells under inflammatory stress, polyphenols including those found in capers were associated with better tight-junction protein expression and a more intact barrier ([Aleman 2023](https://doi.org/10.3390/ph16111511)). In mice with chemically induced gut inflammation, a caper water extract helped restore gut-barrier proteins and lowered inflammatory signals ([Zhu 2021](https://doi.org/10.1155/2021/1227876)). It's a plausible mechanism — and still a long way from a dinner plate.
 
-### Capers and Your Gut Bacteria: An Honest Look
+### Capers and Your Gut Bacteria
 
 Here's the part the cheerful listicles skip. The same mouse study found that the caper extract increased the diversity and abundance of beneficial bacteria ([Zhu 2021](https://doi.org/10.1155/2021/1227876)). Encouraging — but it's a mouse, an extract, and a disease model, not a person eating a tablespoon of capers.
 
@@ -75,13 +75,13 @@ There's also the matter of dose and delivery. Capers bring only a trace of fiber
 
 We can't talk capers without talking salt. They're brined or salt-cured, and that processing is the whole reason they keep their punchy flavor. It's also the reason they come with a caveat.
 
-### High Sodium Can Work Against Beneficial Bacteria
+### Sodium and Beneficial Bacteria
 
 A tablespoon of capers carries a meaningful slug of sodium — roughly 9% of a day's recommended intake, depending on the brand. On its own, that's not alarming. The gut-specific wrinkle is what a lot of salt may do to your microbes.
 
 In mice, a high-salt diet depleted beneficial bacteria — including *Lactobacillus* and *Bifidobacterium* — in a dose-dependent way ([Hamad 2022](https://doi.org/10.3390/nu14061171)). So there's a real irony here: the same little bud offering gut-friendly polyphenols also delivers a compound that, in excess, may push your microbiome the other way. It's not a reason to fear capers. It's a reason to be thoughtful about quantity.
 
-### Rinsing Capers Cuts the Salt
+### Rinsing to Cut the Salt
 
 The good news is that the salt is mostly on the surface, so you have easy levers. Rinse capers in a fine sieve under cold water for 30 to 60 seconds, or soak them for a few minutes and drain, and you remove a good chunk of the sodium. Using capers *instead* of adding table salt to a dish is another smart swap — you get the flavor and the polyphenols without doubling up on sodium. (As a bonus, capers' anti-inflammatory polyphenols are also why you'll see them linked to heart, blood-sugar, and other research — but those are separate stories from gut health.)
 
