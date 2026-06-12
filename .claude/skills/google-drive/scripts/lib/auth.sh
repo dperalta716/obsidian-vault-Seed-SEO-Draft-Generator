@@ -27,7 +27,7 @@ get_google_token() {
 
   if [[ -n "$EXPIRY" ]]; then
     # Convert expiry to epoch seconds (handle both ISO formats)
-    local EXPIRY_EPOCH=$(date -j -f "%Y-%m-%dT%H:%M:%S" "${EXPIRY%%.*}" "+%s" 2>/dev/null || echo "0")
+    local EXPIRY_EPOCH=$(date -j -u -f "%Y-%m-%dT%H:%M:%S" "${EXPIRY%%.*}" "+%s" 2>/dev/null || echo "0")
     local NOW_EPOCH=$(date "+%s")
     local BUFFER=300  # 5 minutes buffer
 
