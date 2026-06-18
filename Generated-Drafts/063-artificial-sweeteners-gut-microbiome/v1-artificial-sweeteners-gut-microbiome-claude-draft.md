@@ -50,7 +50,7 @@ Before we get into the science, it's worth drawing a clear line around what we'r
 
 ### Natural Non-Nutritive Sweeteners
 
-Stevia and monk fruit are often grouped with artificial sweeteners in everyday conversation — even in some scientific literature — but they're meaningfully different. Both are derived from plants and interact with the gut microbiome through their own distinct pathways. They're not the focus here, though the research on them is worth exploring separately.
+Stevia and monk fruit are often grouped with artificial sweeteners in everyday conversation — even in some scientific literature — but they're meaningfully different. Both are derived from plants and interact with the gut microbiome through their own distinct pathways. Reviews of the evidence consistently treat artificial sweeteners, natural non-nutritive sweeteners, and sugar alcohols as separate categories with different microbial effects ([Ruiz-Ojeda et al. 2019](https://doi.org/10.1093/advances/nmy037)). They're not the focus here, though the research on them is worth exploring separately.
 
 ### Sugar Alcohols
 
@@ -154,7 +154,7 @@ The mechanisms are real. The human evidence is still catching up to the animal l
 
 "What we've consistently seen is that the relationship between diet and the gut microbiome is far more intricate than a simple calorie equation," says **Dirk Gevers, Ph.D.** "A resilient, diverse microbiome requires consistent, targeted support — and the composition of what you eat and drink, including the compounds designed to replace sugar, is part of that picture."
 
-If artificial sweeteners have been a regular part of your routine, the most actionable thing you can do is support your gut microbiome proactively. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is formulated to target root causes of digestive distress° — increasing beneficial bacteria in the gut microbiome° and supporting gut barrier integrity°. Select strains in DS-01® are also formulated to support a healthy immune response°†† — a meaningful consideration given what we know about the gut-immune connection and the gut barrier disruptions that sweetener research has implicated ([Iemoli et al. 2012](https://journals.lww.com/jcge/abstract/2012/10001/probiotics_reduce_gut_microbial_translocation_and.9.aspx)). In the largest clinical trial for a probiotic on bloating and gas in healthy adults°µ, DS-01® demonstrated clinically meaningful improvements in regularity, bloating, and digestive quality of life ([Allegretti et al. 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
+If artificial sweeteners have been a regular part of your routine, the most actionable thing you can do is support your gut microbiome proactively. [DS-01® Daily Synbiotic](https://seed.com/daily-synbiotic) is formulated to target root causes of digestive distress° — increasing beneficial bacteria in the gut microbiome° and supporting gut barrier integrity°. Select strains in DS-01® are also formulated to support a healthy immune response°†† ([Iemoli et al. 2012](https://journals.lww.com/jcge/abstract/2012/10001/probiotics_reduce_gut_microbial_translocation_and.9.aspx)) — a consideration that's particularly relevant here, given the gut-barrier disruptions and microbial translocation pathways that sweetener research has put in focus. In the largest clinical trial for a probiotic on bloating and gas in healthy adults°µ, DS-01® demonstrated clinically meaningful improvements in regularity, bloating, and digestive quality of life ([Allegretti et al. 2026](https://pubmed.ncbi.nlm.nih.gov/41599868/)).
 
 DS-01® and artificial sweetener consumption work through different mechanisms — the former actively supports the microbiome; the latter may challenge it. They're not a combined protocol, but a probiotics practice is a reasonable complement to reducing your exposure to compounds with microbiome-disrupting potential. As always, if you're navigating specific health concerns or are making changes to what you take daily, checking in with your healthcare provider is a good idea.
 
@@ -204,8 +204,10 @@ Not exactly — and the distinction matters. Aspartame is broken down by enzymes
 
 5. Iemoli, E. et al. (2012). Probiotics reduce gut microbial translocation and improve adult atopic dermatitis. *Journal of Clinical Gastroenterology*, *46*(Suppl), S33–S40. [https://journals.lww.com/jcge/abstract/2012/10001/probiotics_reduce_gut_microbial_translocation_and.9.aspx](https://journals.lww.com/jcge/abstract/2012/10001/probiotics_reduce_gut_microbial_translocation_and.9.aspx)
 
-6. Mathur, R. et al. (2023). Intestinal microbiota and artificial sweeteners. *iScience*, *26*(12). [https://doi.org/10.1016/j.isci.2023.108590](https://doi.org/10.1016/j.isci.2023.108590)
+6. Mathur, R. et al. (2023). A study of the microbiome in subjects consuming non-sugar sweeteners or aspartame. *iScience*, *26*(12). [https://doi.org/10.1016/j.isci.2023.108590](https://doi.org/10.1016/j.isci.2023.108590)
 
-7. Suez, J. et al. (2014). Artificial sweeteners induce glucose intolerance by altering the gut microbiota. *Nature*, *514*, 181–186. [https://doi.org/10.1038/nature13793](https://doi.org/10.1038/nature13793)
+7. Ruiz-Ojeda, F. J., Plaza-Díaz, J., Sáez-Lara, M. J., & Gil, A. (2019). Effects of sweeteners on the gut microbiota: a review of experimental studies and clinical trials. *Advances in Nutrition*, *10*(suppl_1), S31–S48. [https://doi.org/10.1093/advances/nmy037](https://doi.org/10.1093/advances/nmy037)
 
-8. Suez, J. et al. (2022). Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. *Cell*, *185*(18), 3307–3328. [https://doi.org/10.1016/j.cell.2022.07.016](https://doi.org/10.1016/j.cell.2022.07.016)
+8. Suez, J. et al. (2014). Artificial sweeteners induce glucose intolerance by altering the gut microbiota. *Nature*, *514*, 181–186. [https://doi.org/10.1038/nature13793](https://doi.org/10.1038/nature13793)
+
+9. Suez, J. et al. (2022). Personalized microbiome-driven effects of non-nutritive sweeteners on human glucose tolerance. *Cell*, *185*(18), 3307–3328. [https://doi.org/10.1016/j.cell.2022.07.016](https://doi.org/10.1016/j.cell.2022.07.016)
