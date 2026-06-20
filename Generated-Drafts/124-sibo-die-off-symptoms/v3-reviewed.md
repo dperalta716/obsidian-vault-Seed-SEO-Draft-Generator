@@ -1,7 +1,7 @@
 ---
 date: 2026-06-19
 keyword: "SIBO die-off symptoms"
-version: v1
+version: v3-reviewed
 status: draft
 tags: [seed, seo-draft, ds-01]
 ---
