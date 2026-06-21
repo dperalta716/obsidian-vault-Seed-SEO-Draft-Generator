@@ -1,8 +1,8 @@
 ---
 date: 2026-06-19
 keyword: "ginger for gut health"
-version: v3-reviewed
-status: draft
+version: v5-claims-verified
+status: ready-for-review
 tags: [seed, seo-draft, ds-01]
 ---
 
@@ -96,7 +96,7 @@ Here's the part the listicles tend to gloss over. Ginger is genuinely useful for
 
 You'll often see ginger described as something that "feeds good bacteria" or "transforms your microbiome." The honest answer is that we don't really know that yet.
 
-One small, short-term human study found that ginger intake was associated with some shifts in gut microbiota over a handful of days ([Wang 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7940200/)). It's a single preliminary study with few participants over a short window, so it's a hint, not a headline. Ginger may interact with your microbes, but it hasn't been shown to meaningfully change your microbiome the way the marketing sometimes implies.
+One short-term human study found that drinking ginger juice for a week was associated with some shifts in gut microbiota ([Wang 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7940200/)). It's a single, preliminary study over a very short window, so it's a hint, not a headline. Ginger may interact with your microbes, but it hasn't been shown to meaningfully change your microbiome the way the marketing sometimes implies.
 
 ### Everyday Gut Health in Healthy People
 
