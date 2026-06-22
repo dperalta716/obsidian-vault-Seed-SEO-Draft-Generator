@@ -229,6 +229,9 @@ After delivering the final report, ask:
 
 <!-- Rules accumulate here as the skill is used. Keep each rule to 1-2 lines. -->
 
+- Parallel upload agents race on the Phase 3 Tracking sheet — they independently find/append a row and can collide (seen: two agents wrote the same row, one overwrote the other, leaving a blank row). After the upload batch, ALWAYS read back the tracking rows for every keyword and confirm each has its own distinct doc link; patch any blank/duplicated row. Better: have the orchestrator (not the sub-agents) write all tracking rows sequentially after uploads, or pre-assign each keyword its row number.
+- Recurring Google upload auth death (`invalid_grant`/`invalid_rapt`, ~weekly) is the OAuth consent screen being in "Testing" mode (7-day refresh-token expiry), NOT a script bug. Permanent fix: publish the consent screen to Production (Cloud Console → Google Auth Platform → Audience → Publish app). Re-auth via `~/.claude/skills/google-workspace-credentials/reauth.py <email>` and verify a Drive 200 before spawning upload agents.
+
 ---
 
 ## Self-Update
